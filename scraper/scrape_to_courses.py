@@ -6,7 +6,7 @@ import time
 from course import Course
 import os
 from class_obj import Class_holder
-
+import re
 start_time = time.time()
 
 
@@ -201,6 +201,20 @@ def construct_courses(groups):
     #return course object
     return courses
 
+def custom_alphanumeric_sort_key(course):
+    # Regular expression to match segments of letters and numbers
+    segment_regex = re.compile(r'([a-zA-Z]+)|(\d+)')
+
+    # Get a list of segments for the course name
+    segments = segment_regex.findall(course.name)
+
+    # Create a key tuple for sorting
+    key_tuple = tuple((int(num) if num else part.lower()) for part, num in segments)
+
+    return (len(key_tuple), key_tuple)
+
+
+
 if __name__ == "__main__":
     
     fall_courses = get_courses("fall")
@@ -213,7 +227,10 @@ if __name__ == "__main__":
     
     all_courses = construct_courses(all_classes)
     
-    for course in all_courses:
+    sorted_courses = sorted(all_courses, key=custom_alphanumeric_sort_key)
+    #todo implement sorting logic here
+    
+    for course in sorted_courses:
         course.toJson()
 
     end_time = time.time()
