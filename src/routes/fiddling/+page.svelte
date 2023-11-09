@@ -1,11 +1,11 @@
 <script lang='ts'>
-    import { all_courses_names } from "$lib/backend/sample/test";
+    import * as db from "$lib/backend/sample/test";
   
     let courses: any;
   
     // Define an async function and call it in onMount
     const fetchData = async () => {
-      courses = await all_courses_names();
+      courses = await db.all_courses();
       console.log('Component courses:', courses);
     };
   
@@ -17,8 +17,10 @@
   
   {#if courses}
     <ul>
-      {#each courses.courses as course (course.name)}
-        <li>{course.name}</li>
+      {#each courses.courses as course}
+        <li>{course.info.name}</li>
+        <li>{course.info.credits}</li>
+        <li>{course.info.class_notes}</li>
       {/each}
     </ul>
   {:else}
