@@ -14,7 +14,7 @@ import type { PageServerLoad } from './$types'
 export const load: PageServerLoad = ({ params }) => {
 	return {
 		post: {
-			title: `Title for ${params.slug} goes here`,
+			title: `Course: ${params.slug}`,
 			content: `<b>Content for ${params.slug} goes here</b>`,
 		},
 	}
