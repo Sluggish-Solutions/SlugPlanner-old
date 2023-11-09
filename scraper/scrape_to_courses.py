@@ -25,7 +25,7 @@ def get_courses(quarter):
     if quarter == "fall":
         term.select_by_visible_text("2023 Fall Quarter")
     elif quarter == "winter":
-        term.select_by_visible_text("2023 Winter Quarter")
+        term.select_by_visible_text("2024 Winter Quarter")
     elif quarter == "spring":
         term.select_by_visible_text("2023 Spring Quarter")
     else:

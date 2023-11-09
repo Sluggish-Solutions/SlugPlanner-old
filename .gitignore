@@ -11,3 +11,5 @@ vite.config.ts.timestamp-*
 
 scraper/courses
 */__pycache__
+
+scraper/db_update/keys.py
