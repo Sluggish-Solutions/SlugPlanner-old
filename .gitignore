@@ -13,3 +13,5 @@ scraper/courses
 */__pycache__
 
 scraper/db_update/keys.py
+
+src/lib/backend/keys.ts
