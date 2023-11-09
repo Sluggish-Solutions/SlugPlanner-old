@@ -8,6 +8,7 @@ key: str = keys.get_key()
 supabase: Client = create_client(url, key)
 
 import os
+import time
 
 src_dir = "scraper/courses"
 
@@ -37,17 +38,22 @@ files = os.listdir(src_dir)
 sorted_files = sorted(files, key=custom_alphanumeric_sort_key)
 
 for i in sorted_files:
-    print(i)
+    with open('scraper/db_update/file.txt', 'a') as f:
+        f.write(i)
+        f.write("\n")
 
 
 # Iterate over the files and read their contents
-for file in sorted_files:
+for i, file in enumerate(sorted_files):
     with open(f"{src_dir}/{file}", "r") as f:
         
         course_data = json.load(f)
         name = course_data["name"]
+        order = i
         print(name)
-        data, count = supabase.table('all_courses').upsert({'name': name, 'info' :  course_data}).execute()
+        print(order)
+        data, count = supabase.table('all_courses').upsert({'name': name,'order':order, 'info' :  course_data}).execute()
+
 
 
 
