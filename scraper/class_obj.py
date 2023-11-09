@@ -33,7 +33,10 @@ class Class_holder:
     def format_name_and_dept_num(self):
         # Extract the department number and class name from the 'name' attribute
         temp_dept_num = self.title[:self.title.index("-")].strip()
-        temp_title = self.title[self.title.index("\u00a0\u00a0")+2:].strip()
+        try:
+            temp_title = self.title[self.title.index("\u00a0\u00a0")+2:].strip()
+        except:
+            temp_title = "NULL"
         
         # Update the class attributes
         self.name = temp_dept_num
@@ -90,7 +93,9 @@ class Class_holder:
                 temp["lower_credits_limit"] = 180
                 
             if val == 0:
-                raise Exception("val is not configured / logic error lil bro")
+                temp["upper_credits_limit"] = 5
+                temp["lower_credits_limit"] = 200
+
 
             # Remove the restriction information from the prerequisites
             self.pre_reqs = re.sub(r".*?Enrollment is restricted to.*?\.","", self.pre_reqs)

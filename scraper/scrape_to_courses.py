@@ -40,12 +40,12 @@ def get_courses(quarter):
     sub_butt.click()
     
     shown_per_page = Select(driver.find_element(By.ID, "rec_dur"))
-    shown_per_page.select_by_visible_text("25")
+    shown_per_page.select_by_visible_text("100")
     
     class_id_links = []
     
-    # while True:
-    for i in range(3):
+    while True:
+    # for i in range(1):
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, 'html.parser')
 
@@ -212,8 +212,10 @@ if __name__ == "__main__":
     all_classes = combine_classes(fall_courses, winter_courses, spring_courses)
     
     all_courses = construct_courses(all_classes)
-
     
+    for course in all_courses:
+        course.toJson()
+
     end_time = time.time()
     print(f"Elapsed time: {end_time-start_time} seconds")
 

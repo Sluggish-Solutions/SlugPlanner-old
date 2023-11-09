@@ -6,101 +6,128 @@ class Course:
     #todo fix the perms / variables
     
     def __init__(self, classes:list()):
-        head = classes[0]
         
-        self.classes = classes
+        
+        head = classes[0]
         self.name = head.name
         self.title = head.title
-        self.class_details = head.class_details
         self.description = head.description
         self.pre_reqs = head.pre_reqs
         self.class_notes = head.class_notes
-        
-
-        #todo make class details get rid of ('Enrollment Capacity', 'Enrolled', 'Wait List Capacity', 'Wait List Total'])
-
-
-        self.total_seats = None
-        self.filled_seats = None 
-        
-        #todo figure out how to format these
-        self.priority = None #Should be on a scale of like 1-3
-        
-        #todo figure out how to format these
-        self.quarters_offered = set()
-        
-        
-        self.folder_path = "main/courses"
-        
-        
-    def organize_class_details(self):
-        ...
-
     
-    def calculate_priority(self):
         try:
-            percentage_filled = (self.filled_seats / float(self.total_seats))*100
-            
+            self.career = head.class_details["Career"]
         except:
-            self.priority = "unavailible"
-            return
+            self.career = "error"
         
-        if percentage_filled <=50:
-            self.priority="very low"
-        elif 50 < percentage_filled <= 75:
-            self.priority = "low"
-        elif 75 < percentage_filled <= 85:
-            self.priority = "moderate"
-        elif percentage_filled > 85:
-            self.priority = "high"
-
+        try:
+            if head.class_details["General Education"] == "\u00a0":
+                self.gen_ed_code = "NULL"
+            else:
+                self.gen_ed_code = head.class_details["General Education"]
+        except:
+            self.gen_ed_code = "error"
+            
+        try:
+            self.type = head.class_details["Type"]
+        except:
+            self.type = "error"
+            
+        try:
+            self.credits = head.class_details["Credits"]
+            self.credits = self.credits[:self.credits.index(" ")]
+        except:
+            self.credits = "error"
+        
+        self.classes = classes
+        
+        self.quarters_offered = self.get_quarters_offered()
+        self.quarterly_info = self.get_quarterly_info()
+        
+        self.folder_path = "scraper/courses"
+        
+    def get_quarters_offered(self):
+        quarters = set()
+        
+        for i in self.classes:
+            quarters.add(i.quarter)
+        
+        quarters = list(quarters)
+        return sorted(quarters)
         
 
-    def calculate_seat_data(self):
-        total = 0
-        filled = 0
-        for class_obj in self.classes:
+    def get_quarterly_info(self):
+        
+        all_info = {}
+        
+        for quarter in self.quarters_offered:
+            quarter_info = {}
+            quarters_classes = [i for i in self.classes if quarter == i.quarter]
 
+            #* Seat Data
+            total_seats = 0
+            filled_seats = 0
+            
+            for class_obj in quarters_classes:
+
+                try:
+                    total_seats+= int(class_obj.class_details['Enrollment Capacity'])
+                except:
+                    try:
+                        total_seats+= int(class_obj.class_details['Combined Section Capacity'])
+                    except:
+                        total_seats = -1
+                   
+                try:
+                    filled_seats += int(class_obj.class_details["Enrolled"])
+                except:
+                    filled_seats = 1
+
+            
+            quarter_info["total_seats"] = total_seats
+            quarter_info["filled seats"] = filled_seats        
+            
+            #* priority data
+            priority = "none"
             try:
-                total+= int(class_obj.class_details['Enrollment Capacity'])
-            except:
-                total+= int(class_obj.class_details['Combined Section Capacity'])
+                percentage_filled = (filled_seats / float(total_seats))*100
                 
-            filled += int(class_obj.class_details["Enrolled"])
+            except:
+                priority = "unavailible"
+                percentage_filled = -1
+            
+            if 0 <= percentage_filled <=50:
+                priority="very low"
+            elif 50 < percentage_filled <= 75:
+                priority = "low"
+            elif 75 < percentage_filled <= 85:
+                priority = "moderate"
+            elif percentage_filled > 85:
+                priority = "high"
+            
+            
+            quarter_info["priority"] = priority
+            
+            all_info[quarter] = quarter_info
         
-        
-        
-        self.total_seats = total
-        self.filled_seats = filled
-        
-    
-    #todo
-    def calculate_quarters_offered(self):
-        self.quarters_offered = "no wtf"
-        ...
-    
-    
+        return all_info
+
     def toJson(self):
         
-
-
-        #! must be in this order
-        self.calculate_seat_data()
-        self.calculate_priority()
-        self.calculate_quarters_offered()
-        
-        
+        #! must be in this order  
         data_dict = {
             "name": self.name,
             "title": self.title,
             "description": self.description,
-            "details": self.class_details,
-            "prerequisites": self.pre_reqs,
-            "classnotes": self.class_notes,
-            "total-seats": self.total_seats,
-            "filled_seats":self.filled_seats,
+            "pre_reqs": self.pre_reqs,
+            "class_notes": self.class_notes,
+            "career": self.career,
+            "gen_ed_code": self.gen_ed_code,
+            "type": self.type,
+            "credits": self.credits,
+            # "classes": self.classes,
             "quarters_offered": self.quarters_offered,
-            "priority":self.priority
+            "quarterly_info":self.quarterly_info,
         }
         
         json_object = json.dumps(data_dict, indent=4)
