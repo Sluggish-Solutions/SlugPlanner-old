@@ -22,7 +22,7 @@ for file in files:
         name = course_data["name"]
         
 
-        data, count = supabase.table('all_classes').upsert({'name': name, 'data' :  course_data}).execute()
+        data, count = supabase.table('all_courses').upsert({'name': name, 'data' :  course_data}).execute()
 
 
     # Do something with the contents of the file

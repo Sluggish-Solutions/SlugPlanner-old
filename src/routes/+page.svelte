@@ -1,9 +1,10 @@
-<script>
+<script lang='ts'>
     export let data;
+    // console.log(data.courses.length)
   </script>
 
   <ul>
-    {#each data.countries as country}
-      <li>{country.name}</li>
+    {#each data.courses as course}
+      <li>{course.name}</li>
     {/each}
   </ul>

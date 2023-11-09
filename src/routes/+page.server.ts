@@ -1,8 +1,14 @@
 import { supabase } from "$lib/backend/supabaseClient";
 
 export async function load() {
-  const { data } = await supabase.from("countries").select();
+
+    
+    let { data, error } = await supabase
+    .from('all_courses')
+    .select('*')
+
+  console.log(data?.length)
   return {
-    countries: data ?? [],
+    courses: data ?? []
   };
 }
