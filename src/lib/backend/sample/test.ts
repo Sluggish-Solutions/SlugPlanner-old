@@ -20,3 +20,4 @@ export async function all_courses() {
       courses: data ?? []
     }
 }
+
