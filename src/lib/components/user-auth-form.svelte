@@ -16,6 +16,10 @@
 			isLoading = false;
 		}, 3000);
 	}
+
+	const signUp
+
+
 </script>
 
 <div class={cn("grid gap-6", className)} {...$$restProps}>
