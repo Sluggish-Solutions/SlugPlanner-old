@@ -1,10 +1,27 @@
 <script lang='ts'>
-    export let data;
-    // console.log(data.courses.length)
+    import { all_courses_names } from "$lib/backend/sample/test";
+  
+    let courses: any;
+  
+    // Define an async function and call it in onMount
+    const fetchData = async () => {
+      courses = await all_courses_names();
+      console.log('Component courses:', courses);
+    };
+  
+    import { onMount } from 'svelte';
+    onMount(() => {
+      fetchData();
+    });
   </script>
-
-  <ul>
-    {#each data.courses as course}
-      <li>{course.name}</li>
-    {/each}
-  </ul>
+  
+  {#if courses}
+    <ul>
+      {#each courses.courses as course (course.name)}
+        <li>{course.name}</li>
+      {/each}
+    </ul>
+  {:else}
+    <p>Loading courses...</p>
+  {/if}
+  
