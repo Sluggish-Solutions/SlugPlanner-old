@@ -1,3 +1,4 @@
 import { createClient } from '@supabase/supabase-js'
-import * as keys from "$lib/backend/keys"
-export const supabase = createClient(keys.get_url(), keys.get_key())
+
+import { PUBLIC_SUPABASE_URL, PUBLIC_SUPABASE_ANON_KEY } from '$env/static/public'
+export const supabase = createClient(PUBLIC_SUPABASE_URL, PUBLIC_SUPABASE_ANON_KEY)
