@@ -23,40 +23,56 @@
     }, 3000);
   }
 
-  const signUp = async (event) => {
+  const signUp = async (event: Event) => {
     event.preventDefault();
     // Perform any necessary form validation or other actions before calling signUpUser
-
     try {
       isLoading = true;
       // Access the email value from the bound variable
       console.log("Email:", email);
       // Call your signUpUser function with the necessary parameters
-      await signUpUser(email, password);
+      console.log(await signUpUser(email, password));
     } catch (error) {
       console.error("Sign up failed:", error);
     } finally {
       isLoading = false;
     }
   };
+
+  // function signUp() {
+  //  // Prevent the default form submission behavior
+  //   // Your signUp logic here
+  //   console.log("hi wtf")
+  // }
 </script>
 
 <div class={cn("grid gap-6", className)} {...$$restProps}>
-  <form on:submit|preventDefault={signUp}>
+  <form on:submit={signUp}>
     <div class="grid gap-2">
       <div class="grid gap-1">
         <Label class="sr-only" for="email">Email</Label>
         <Input
+          bind:value={email}
           id="email"
           placeholder="name@example.com"
           type="email"
           autocapitalize="none"
           autocomplete="email"
           autocorrect="off"
-          disabled={isLoading}
         />
       </div>
-      <Button disabled={isLoading}>
+      <div class="grid gap-1">
+        <Label class="sr-only" for="password">Password</Label>
+        <Input
+          bind:value={password}
+          id="password"
+          placeholder="password"
+          type="password"
+          autocapitalize="none"
+          autocorrect="off"
+        />
+      </div>
+      <Button type="submit" disabled={isLoading}>
         {#if isLoading}
           <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
         {/if}
@@ -64,6 +80,7 @@
       </Button>
     </div>
   </form>
+
   <div class="relative">
     <div class="absolute inset-0 flex items-center">
       <span class="w-full border-t" />

@@ -3,7 +3,7 @@
     import UserAuthForm from "$lib/components/user-auth-form.svelte";
 </script>
 
-<div class="md:hidden">
+<!-- <div class="md:hidden">
 	<img
 		src="/examples/authentication-light.png"
 		width={1280}
@@ -18,7 +18,7 @@
 		alt="Authentication"
 		class="hidden dark:block"
 	/>
-</div>
+</div> -->
 <div
 	class="container relative hidden h-[800px] flex-col items-center justify-center md:grid lg:max-w-none lg:grid-cols-2 lg:px-0"
 >
