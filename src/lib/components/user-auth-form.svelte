@@ -3,9 +3,11 @@
   import { Button } from "$lib/components/ui/button";
   import { Input } from "$lib/components/ui/input";
   import { Label } from "$lib/components/ui/label";
-  import { signUpUser } from "$lib/backend/auth";
+  import { signUpUser} from "$lib/backend/auth";
+  import type {SignUpResult} from "$lib/backend/auth"
   import { cn } from "$lib/utils";
   import { stringify } from "postcss";
+  import * as Alert from "$lib/components/ui/alert";
 
   let className: string | undefined | null = undefined;
   export { className as class };
@@ -14,29 +16,37 @@
 
   let email: string;
   let password: string;
-
-  async function onSubmit() {
-    isLoading = true;
-
-    setTimeout(() => {
-      isLoading = false;
-    }, 3000);
-  }
-
+  let password2: string;
+  let show_password_alert: boolean = false
+	let show_error_alert: boolean = false
+	let error_alert_text: string
+	let error_alert_code: number
   const signUp = async (event: Event) => {
     event.preventDefault();
+
+    //check if passwords match
+	let password_check:boolean = password === password2
+
+	if (password_check){
+		show_password_alert = false
+		try {
+			let status: SignUpResult = await signUpUser(email, password);
+			
+			console.log(status)
+
+			if(status.error !== null){
+				show_error_alert = true
+				error_alert_text = status.error.message
+				error_alert_code = status.error.status
+			}
+		} catch (error) {
+			// prompt them to try again later? something went wrong?
+			console.error("Sign up failed:", error)
+		}
+	} else {
+		show_password_alert=true
+	}
     // Perform any necessary form validation or other actions before calling signUpUser
-    try {
-      isLoading = true;
-      // Access the email value from the bound variable
-      console.log("Email:", email);
-      // Call your signUpUser function with the necessary parameters
-      console.log(await signUpUser(email, password));
-    } catch (error) {
-      console.error("Sign up failed:", error);
-    } finally {
-      isLoading = false;
-    }
   };
 
   // function signUp() {
@@ -72,6 +82,17 @@
           autocorrect="off"
         />
       </div>
+	  <div class="grid gap-1">
+        <Label class="sr-only" for="password2">Password</Label>
+        <Input
+          bind:value={password2}
+          id="password2"
+          placeholder="retype password"
+          type="password"
+          autocapitalize="none"
+          autocorrect="off"
+        />
+      </div>
       <Button type="submit" disabled={isLoading}>
         {#if isLoading}
           <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
@@ -100,4 +121,21 @@
     {" "}
     Github
   </Button>
+
+  {#if show_password_alert}
+  <Alert.Root>
+	<Alert.Title>Wrong Password</Alert.Title>
+	<Alert.Description>
+	  Both passwords must match
+	</Alert.Description>
+  </Alert.Root>
+  {/if}
+  {#if show_error_alert}
+  <Alert.Root>
+	<Alert.Title>Wrong Password</Alert.Title>
+	<Alert.Description>
+	  error_alert_text
+	</Alert.Description>
+  </Alert.Root>
+  {/if}
 </div>
