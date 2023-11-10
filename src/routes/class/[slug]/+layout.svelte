@@ -38,16 +38,22 @@
 						builders={[builder]}
 						variant="ghost"
 						size="lg"
-						class="w-72"
+						class="w-60"
 					>
 						{classType}</Button
 					>
 				</Collapsible.Trigger>
-				<Collapsible.Content class="space-y-2">
+				<Collapsible.Content class="ml-9 space-y-2">
 					{#each groupedData[index] as course}
-						<div class="rounded-md border px-4 py-3 font-mono text-sm">
-							{course.name}
-						</div>
+						<a href="/class/{course.name}">
+							<div class="rounded-md border text-center px-4 py-3 w-60 ml-9 font-mono text-sm">
+								{course.name}
+							</div>
+<!-- 
+							<Button variant="ghost" size="lg" class="w-60">
+								{course.name}</Button
+							> -->
+						</a>
 					{/each}
 				</Collapsible.Content>
 			</Collapsible.Root>
@@ -61,12 +67,8 @@
 
 <style>
 	#sidebar {
-		width: 30%;
-		flex-grow: 1;
 	}
 
 	#main-section {
-		width: 70%;
-		flex-grow: 1;
 	}
 </style>
