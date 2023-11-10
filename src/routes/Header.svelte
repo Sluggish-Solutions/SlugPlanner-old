@@ -19,9 +19,7 @@
 			class="flex justify-evenly items-center font-medium space-x-7 py-10 min-w-[25rem] w-full"
 		>
 			<li><a href="/class">classes</a></li>
-			<li><a href="/login">login</a></li>
-			<li><a href="/signup">logout</a></li>
-			<li><a href="/about_us">About Us</a></li>
+			<li><a href="/logout">logout</a></li>
 			<!-- <li class='flex items-center'>
 				<a href="/contact">Contact</a>
 				<CaretRight class="h-[1.5rem] w-[1.5rem]"/>
