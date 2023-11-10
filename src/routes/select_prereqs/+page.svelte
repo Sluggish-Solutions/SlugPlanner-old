@@ -1,9 +1,79 @@
 <script lang="ts">
-  import type { PageData } from "./$types";
+	import type { PageData } from './$types'
 
-  export let user_info: PageData;
+	import * as Collapsible from '$lib/components/ui/collapsible'
+	import { ChevronsUpDown } from 'lucide-svelte'
+	import { Button } from '$lib/components/ui/button'
 
-  console.log(user_info);
+	export let data: PageData
+
+	let groupedData: any = []
+	let prefix = 'AM'
+	let classTypes: Array<String> = []
+
+	const group = () => {
+		let groupClasses: any = []
+		data.courses.courses.forEach((course) => {
+			if (prefix != course.name.split(' ')[0]) {
+				groupedData.push(groupClasses)
+				groupClasses = []
+				classTypes.push(prefix)
+				prefix = course.name.split(' ')[0]
+			}
+			groupClasses.push(course)
+		})
+	}
+	group()
+	console.log(data.courses)
+	// console.log(groupedData)
+	// console.log(classTypes)
 </script>
 
-<h1>welcome to pre-reqs</h1>
+<div class="flex gap-3">
+	<aside
+		id="sidebar"
+		class="p-3 min-w-min rounded-md bg-slate-100 m-9 h-[90vh] overflow-y-scroll"
+	>
+		{#each classTypes as classType, index}
+			<Collapsible.Root class="w-[200px] space-y-2">
+				<div class="flex">
+					<Collapsible.Trigger asChild let:builder>
+						<Button
+							builders={[builder]}
+							variant="ghost"
+							size="lg"
+							class="w-36 text-right bg-slate-50"
+						>
+							{classType}</Button
+						>
+					</Collapsible.Trigger>
+				</div>
+				<Collapsible.Content class="ml-5 space-y-2">
+					{#each groupedData[index] as course}
+						<div
+							class="rounded-md border px-4 py-3 text-center w-36 font-mono text-sm"
+						>
+							{course.name}
+						</div>
+						<!-- 
+							<Button variant="ghost" size="lg" class="w-60">
+								{course.name}</Button
+							> -->
+					{/each}
+				</Collapsible.Content>
+			</Collapsible.Root>
+		{/each}
+	</aside>
+
+	<main id="main-section" class="py-11 px-7 mr-14">
+		<slot />
+	</main>
+</div>
+
+<style>
+	#sidebar {
+	}
+
+	#main-section {
+	}
+</style>

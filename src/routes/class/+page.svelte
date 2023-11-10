@@ -1,0 +1,1 @@
+<h1 class="text-9xl font-extrabold bg-slate-100 p-20 text-center rounded-3xl">Why are you here?</h1>

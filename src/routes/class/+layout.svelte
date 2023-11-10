@@ -14,17 +14,17 @@
 	const group = () => {
 		let groupClasses: any = []
 		data.courses.forEach((course) => {
-			if (prefix == course.name.split(' ')[0]) {
-				groupClasses.push(course)
-			} else {
+			if (prefix != course.name.split(' ')[0]) {
 				groupedData.push(groupClasses)
 				groupClasses = []
 				classTypes.push(prefix)
 				prefix = course.name.split(' ')[0]
 			}
+			groupClasses.push(course)
 		})
 	}
 	group()
+	console.log(data.courses)
 	// console.log(groupedData)
 	// console.log(classTypes)
 </script>
