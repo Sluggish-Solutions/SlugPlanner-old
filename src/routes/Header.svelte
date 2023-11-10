@@ -20,6 +20,7 @@
 		>
 			<li><a href="/class">classes</a></li>
 			<li><a href="/logout">logout</a></li>
+			<li><a href="/fiddling_dingaling">fiddling_dingaling</a></li>
 			<!-- <li class='flex items-center'>
 				<a href="/contact">Contact</a>
 				<CaretRight class="h-[1.5rem] w-[1.5rem]"/>
