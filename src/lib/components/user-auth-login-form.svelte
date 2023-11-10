@@ -37,7 +37,7 @@
 				error_alert_code = status.error.status
 			}
 			
-		if (status?.data.user.aud === "authenticated"){
+		if (status.data.user.aud === "authenticated"){
 			goto("/")
 		}
 

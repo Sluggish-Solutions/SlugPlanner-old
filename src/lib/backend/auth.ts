@@ -27,6 +27,8 @@ export const logInUser = async (email: string, password: string): Promise<SignUp
             email: email,
             password: password
         })
+        
+        console.log(data)
 
         return {data, error}
     } catch (error) {

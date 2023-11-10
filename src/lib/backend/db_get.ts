@@ -26,11 +26,16 @@ export async function all_courses() {
   }
 
 
-  export const get_user_data = async(id:UUID) =>{
+  export const get_user_data = async() =>{
+
+    let user:any = await get_current_user()
+    
+    
+
     let {data, error} = await supabase
     .from("user_data")
     .select("*")
-    .eq("id", id)
+    .eq("id", user?.id)
 
     return{
         user_data: data ?? []
@@ -39,4 +44,8 @@ export async function all_courses() {
 
   export const get_current_user = async() =>{
     const { data: { user } } = await supabase.auth.getUser()
+
+    console.log(user)
+
+    return user
   }
