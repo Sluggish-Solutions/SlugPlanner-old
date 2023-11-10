@@ -144,9 +144,14 @@
   {#if show_error_alert}
   <Alert.Root>
 	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>
-	<Alert.Description>
-		{error_alert_text}
+	{#if error_alert_code === 400}
+    
+  <Alert.Description>
+    <a href="/login">
+      Sign in here
+    </a>
 	</Alert.Description>
-  </Alert.Root>
+  {/if}  
+</Alert.Root>
   {/if}
 </div>

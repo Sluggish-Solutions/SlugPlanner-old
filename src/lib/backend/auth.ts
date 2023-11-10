@@ -5,7 +5,10 @@ export interface SignUpResult {
   error?: any; // You might want to replace 'any' with the actual type of error returned by Supabase
 }
 
-export const signUpUser = async (email: string, password: string): Promise<SignUpResult> => {
+export const signUpUser = async (
+  email: string,
+  password: string
+): Promise<SignUpResult> => {
   try {
     const { data, error } = await supabase.auth.signUp({
       email: email,
@@ -20,16 +23,25 @@ export const signUpUser = async (email: string, password: string): Promise<SignU
   }
 };
 
+export const logInUser = async (
+  email: string,
+  password: string
+): Promise<SignUpResult> => {
+  try {
+    const { data, error } = await supabase.auth.signInWithPassword({
+      email: email,
+      password: password,
+    });
 
-export const login = async (email: string, password: string): Promise<SignUpResult> => {
-    try {
-        const {data, error} = await supabase.auth.signInWithPassword({
-            email: email,
-            password: password
-        })
+    console.log(data);
 
-        return {data, error}
-    } catch (error) {
-        return {error}
-    }
-}
+    return { data, error };
+  } catch (error) {
+    return { error };
+  }
+};
+
+export const signOutUser = async () => {
+  const { error } = await supabase.auth.signOut();
+  return error ?? "success";
+};

@@ -3,7 +3,7 @@
   import { Button } from "$lib/components/ui/button";
   import { Input } from "$lib/components/ui/input";
   import { Label } from "$lib/components/ui/label";
-  import { signUpUser} from "$lib/backend/auth";
+  import { signUpUser, logInUser} from "$lib/backend/auth";
   import type {SignUpResult} from "$lib/backend/auth"
   import { cn } from "$lib/utils";
   import { stringify } from "postcss";
@@ -19,16 +19,15 @@
   let email: string;
   let password: string;
 
-  let show_password_alert: boolean = false
 	let show_error_alert: boolean = false
 	let error_alert_text: string
 	let error_alert_code: number
-  const signUp = async (event: Event) => {
+  const LogIn = async (event: Event) => {
     event.preventDefault();
 
 
 		try {
-			let status:SignUpResult = await signUpUser(email, password);
+			let status:SignUpResult = await logInUser(email, password);
 			
 			console.log(status)
 
@@ -38,7 +37,7 @@
 				error_alert_code = status.error.status
 			}
 			
-		if (status?.data.user.aud === "authenticated"){
+		if (status.data.user.aud === "authenticated"){
 			goto("/")
 		}
 
@@ -61,7 +60,7 @@
 </script>
 
 <div class={cn("grid gap-6", className)} {...$$restProps}>
-  <form on:submit={signUp}>
+  <form on:submit={LogIn}>
     <div class="grid gap-2">
       <div class="grid gap-1">
         <Label class="sr-only" for="email">Email</Label>
@@ -95,25 +94,6 @@
     </div>
   </form>
 
-  <div class="relative">
-    <div class="absolute inset-0 flex items-center">
-      <span class="w-full border-t" />
-    </div>
-    <div class="relative flex justify-center text-xs uppercase">
-      <span class="bg-background px-2 text-muted-foreground">
-        Or continue with
-      </span>
-    </div>
-  </div>
-  <Button variant="outline" type="button" disabled={isLoading}>
-    {#if isLoading}
-      <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
-    {:else}
-      <!-- <Icons.git Hub class="mr-2 h-4 w-4" /> -->
-    {/if}
-    {" "}
-    Github
-  </Button>
   {#if show_error_alert}
   <Alert.Root>
 	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>
