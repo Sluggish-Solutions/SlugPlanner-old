@@ -5,9 +5,5 @@ import { all_courses } from '$lib/backend/db_get'
 export const load: LayoutServerLoad = async () => {
 	console.log('hello');
 	
-	return {
-		// posts: await db.getPostSummaries()
-		// posts: [{slug: 'nyt', title: 'New York Times'}, {slug: 'wsj', title: 'Wall Street Journal'}]
-		courses: await all_courses(),
-	}
+	return await all_courses()
 }
