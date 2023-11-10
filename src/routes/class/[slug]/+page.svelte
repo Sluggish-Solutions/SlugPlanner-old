@@ -8,7 +8,7 @@
 	export let data: PageData
 
 	// check if course exists
-	$: console.log(data)
+	// $: console.log(data)
 
 	$: course = {
 		name: data.course[0].name,
