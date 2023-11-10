@@ -2,17 +2,21 @@
 	import {Button} from "$lib/components/ui/button";
 </script>
 
-<header class="flex items-center justify-center p-6 h-[10vh]">
-	<nav class="flex justify-between items-center">
-		<!-- left section -->
+<header class="flex p-6 h-auto">
+	<nav class = " justify-start items-start">
 		<a href="/">
 			<!-- change logo dark/light mode -->
-			<h1>Home!</h1>
+			<h1 class = "font-bold text-5xl p-5 pl-9 underline decoration-yellow-300 decoration-4">SlugPlanner</h1>
 		</a>
+	</nav>
+	
+	<nav class=" flex w-full">
+		<!-- left section -->
+		
 
 		<!-- middle section -->
 		<ul
-			class="flex justify-evenly items-center font-medium space-x-7 min-w-[25rem]"
+			class="flex justify-evenly items-center font-medium space-x-7 py-10 min-w-[25rem] w-full"
 		>
 			<li><a href="/class">classes</a></li>
 			<li><a href="/login">login</a></li>
