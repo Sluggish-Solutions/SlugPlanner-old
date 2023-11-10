@@ -1,22 +1,8 @@
-import { error } from '@sveltejs/kit'
 import type { PageServerLoad } from './$types'
+import { get_course } from '$lib/backend/db_get'
 
-// example: pulls data from database
-// import * as db from '$lib/server/database';
-// export const load: PageServerLoad = ({ params }) => {
-// 	return {
-// 		post: await db.getPost(params.slug),
-// 	}
-// }
-
-// /** @type {import('./$types').PageServerLoad} */
-// export function load({ params }) {
-export const load: PageServerLoad = ({ params }) => {
+export const load: PageServerLoad = async ({ params }) => {
 	return {
-		post: {
-			title: `Course: ${params.slug}`,
-			content: `<b>Content for ${params.slug} goes here</b>`,
-		},
+		course: await get_course(params.slug)
 	}
-	// throw error(404, 'Not found here')
 }

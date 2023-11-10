@@ -1,54 +1,63 @@
 <script lang="ts">
 	import type { LayoutData } from './$types'
+
+	import * as Collapsible from '$lib/components/ui/collapsible'
+	import { ChevronsUpDown } from 'lucide-svelte'
+	import { Button } from '$lib/components/ui/button'
+
 	export let data: LayoutData
 
-	// interface Course {
-	// 	name: string
-	// 	title
-	// 	description
-	// 	prereq
-	// }
-
-	let groupedData: Array<Course> = []
-	let prefix = ''
+	let groupedData: any = []
+	let prefix = 'AM'
+	let classTypes: Array<String> = []
 
 	const group = () => {
+		let groupClasses: any = []
 		data.courses.courses.forEach((course) => {
 			if (prefix == course.name.split(' ')[0]) {
-				groupedData.push(course)
+				groupClasses.push(course)
 			} else {
+				groupedData.push(groupClasses)
+				groupClasses = []
+				classTypes.push(prefix)
 				prefix = course.name.split(' ')[0]
-				groupedData.push(prefix)
-				groupedData.push(course)
 			}
 		})
 	}
 	group()
-	console.log(groupedData[1])
+	console.log(groupedData)
+	console.log(classTypes)
 </script>
 
 <div class="flex">
-	<aside id="sidebar" class="flex justify-center">
-		<h2>More posts:</h2>
-		<ul>
-			{#each groupedData as course}
-				{#if typeof course == 'string'}
-					<h1 class="text-2xl">{course}</h1>
-				{:else}
-					<li><a href="/class/{course.name}">{course.name}</a></li>
-				{/if}
-			{/each}
-			<!-- {#each data.courses.courses as course}
-			{#if course.name.split(' ')[0] == classType}
-				<p>{course.name.split(' ')[0]}</p>
-				<p>Hi, {classType}</p>
-			{:else}
-				{classType = course.name.split(' ')[0]}
-				<h1>changed to {classType}, {course.name}</h1>
-				<p>HIERER</p>
-			{/if}
-		{/each} -->
-		</ul>
+	<aside id="sidebar" class="">
+		{#each classTypes as classType, index}
+			<Collapsible.Root class="w-[350px] space-y-2">
+				<Collapsible.Trigger asChild let:builder>
+					<Button
+						builders={[builder]}
+						variant="ghost"
+						size="lg"
+						class="w-60"
+					>
+						{classType}</Button
+					>
+				</Collapsible.Trigger>
+				<Collapsible.Content class="ml-9 space-y-2">
+					{#each groupedData[index] as course}
+						<a href="/class/{course.name}">
+							<div class="rounded-md border text-center px-4 py-3 w-60 ml-9 font-mono text-sm">
+								{course.name}
+							</div>
+<!-- 
+							<Button variant="ghost" size="lg" class="w-60">
+								{course.name}</Button
+							> -->
+						</a>
+					{/each}
+				</Collapsible.Content>
+			</Collapsible.Root>
+		{/each}
 	</aside>
 
 	<main id="main-section" class="flex justify-center">
@@ -58,12 +67,8 @@
 
 <style>
 	#sidebar {
-		width: 30%;
-		flex-grow: 1;
 	}
 
 	#main-section {
-		width: 70%;
-		flex-grow: 1;
 	}
 </style>

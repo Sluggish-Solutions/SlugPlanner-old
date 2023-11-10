@@ -13,3 +13,14 @@ export async function all_courses() {
       }
   }
 
+  export const get_course = async(name:string) =>{
+    let {data, error} = await supabase
+        .from("all_courses")
+        .select("*")
+        .eq("name", name)
+
+    return{
+        course: data ?? []
+    }
+  }
+
