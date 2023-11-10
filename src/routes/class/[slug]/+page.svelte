@@ -6,12 +6,7 @@
 	import { ChevronsUpDown } from 'lucide-svelte'
 	import { Button } from '$lib/components/ui/button'
 
-	import { page } from '$app/stores'
-	// we can access `data.posts` because it's returned from
-	// the parent layout `load` function
-	// $: index = data.courses.findIndex(post => post.slug === $page.params.slug);
-	// $: next = data.posts[index + 1] || data.posts[index - 1];
-	console.log(data.course[0])
+	// check if course exists
 
 	$: course = {
 		name: data.course[0].name,
@@ -22,12 +17,17 @@
 			.map((word: String) => word.charAt(0).toUpperCase() + word.slice(1))
 			.join(', '),
 		ge_code: data.course[0].info.gen_ed_code,
-		// pre_reqs: data.course[0].info.pre_reqs,
+		pre_reqs: data.course[0].info.pre_reqs,
 	}
 
-	// for (var i in course.pre_reqs) {
-	// 	console.log(course.pre_reqs[i])
-	// }
+	// gets number of pre_reqs
+	$: pre_req_len = Object.values(course.pre_reqs).filter((child) =>
+		Array.isArray(child)
+	).length
+
+	// $: console.log(
+	// 	Object.values(course.pre_reqs).filter((child) => Array.isArray(child))
+	// )
 </script>
 
 <div class="text-lg space-y-3">
@@ -52,15 +52,30 @@
 		</p>
 	{/if}
 	<!-- {#if course.pre_reqs != 'NULL'} -->
-		<p class="">
-			<mark class="p-1 px-2 underline decoration-2 rounded-md font-bold"
-				>Prereqs</mark
-			>
-			<!-- {#each course.pre_reqs as pre_reqs} -->
-				<!-- : {console.log(course.pre_reqs[1])} -->
-			<!-- {/each} -->
-		</p>
-	<!-- {/if} -->
+	<p class="">
+		<mark class="p-1 px-2 underline decoration-2 rounded-md font-bold"
+			>Prereqs</mark
+		>
+		:
+		{#if pre_req_len != 0}
+			{#each Array(pre_req_len) as _, i (i)}
+				{#each course.pre_reqs[i] as pre_req, k}
+					{#if isNaN(parseInt(pre_req[0]))}
+						<a href="/class/{pre_req}">
+							{pre_req}
+						</a>
+					{:else}
+						MP {pre_req}
+					{/if}
+					{#if k != course.pre_reqs[i].length - 1}
+						or
+					{/if}
+				{/each};&nbsp
+			{/each}
+		{:else}
+			None
+		{/if}
+	</p>
 	<p>
 		<mark class="p-1 px-2 underline decoration-2 rounded-md font-bold"
 			>Quarters</mark
