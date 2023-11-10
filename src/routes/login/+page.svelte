@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { Button } from "$lib/components/ui/button";
-    import UserAuthForm from "$lib/components/user-auth-signup-form.svelte";
+    import UserAuthLoginForm from "$lib/components/user-auth-login-form.svelte";
 </script>
 
 <!-- <div class="md:hidden">
@@ -23,11 +23,11 @@
 	class="container relative hidden h-[800px] flex-col items-center justify-center md:grid lg:max-w-none lg:grid-cols-2 lg:px-0"
 >
 	<Button
-		href="/login"
+		href="/signup"
 		variant="ghost"
 		class="absolute right-4 top-4 md:right-8 md:top-8"
 	>
-		Login
+		Signup
 	</Button>
 	<div
 		class="relative hidden h-full flex-col bg-muted p-10 text-white dark:border-r lg:flex"
@@ -59,13 +59,13 @@
 		>
 			<div class="flex flex-col space-y-2 text-center">
 				<h1 class="text-2xl font-semibold tracking-tight">
-					Create an account
+					Log In
 				</h1>
 				<p class="text-sm text-muted-foreground">
-					Enter your email below to create your account
+					Enter your email below to Login
 				</p>
 			</div>
-			<UserAuthForm />
+			<UserAuthLoginForm />
 			<p class="px-8 text-center text-sm text-muted-foreground">
 				By clicking continue, you agree to our{" "}
 				<a

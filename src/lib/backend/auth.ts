@@ -21,7 +21,7 @@ export const signUpUser = async (email: string, password: string): Promise<SignU
 };
 
 
-export const login = async (email: string, password: string): Promise<SignUpResult> => {
+export const logInUser = async (email: string, password: string): Promise<SignUpResult> => {
     try {
         const {data, error} = await supabase.auth.signInWithPassword({
             email: email,

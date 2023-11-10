@@ -1,6 +1,6 @@
 
 <script lang="ts">
-  import type{ PageData } from "../$types";
+  import type{ PageData } from "./$types";
 
     export let user_info: PageData
 
