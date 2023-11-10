@@ -18,5 +18,9 @@ export async function all_courses() {
         .from("all_courses")
         .select("*")
         .eq("name", name)
+
+    return{
+        course: data ?? []
+    }
   }
 
