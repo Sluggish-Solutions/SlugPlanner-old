@@ -4,6 +4,7 @@
 	import { ChevronsUpDown } from 'lucide-svelte'
 	import { Button } from '$lib/components/ui/button'
 
+
 	export let data: PageData
 
 	// check if course exists

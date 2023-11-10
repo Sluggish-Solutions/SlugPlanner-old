@@ -8,4 +8,6 @@ export const load: PageServerLoad = async ({ params }) => {
 	} catch  {
 		throw redirect(300, "/")
 	}
+
+
 }
