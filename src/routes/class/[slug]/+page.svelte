@@ -1,12 +1,13 @@
 <script lang="ts">
-	// /** @type {import('./$types').PageData} */
 	import type { PageData } from './$types'
-	export let data: PageData
 	import * as Collapsible from '$lib/components/ui/collapsible'
 	import { ChevronsUpDown } from 'lucide-svelte'
 	import { Button } from '$lib/components/ui/button'
 
+	export let data: PageData
+
 	// check if course exists
+	$: console.log(data)
 
 	$: course = {
 		name: data.course[0].name,
