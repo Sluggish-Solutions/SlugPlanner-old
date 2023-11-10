@@ -9,7 +9,7 @@
     onMount(() => {
         if(data.user === null){
         console.log("hi")
-        goto("/signup")
+        goto("/login")
     }
   });
 
