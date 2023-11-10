@@ -1,8 +1,7 @@
 import { supabase } from "$lib/backend/supabaseClient";
-import type { UUID } from "crypto";
 
 
-export async function all_courses() {
+export async function set_course_data() {
     
     let { data, error } = await supabase
       .from('all_courses')
@@ -25,18 +24,3 @@ export async function all_courses() {
     }
   }
 
-
-  export const get_user_data = async(id:UUID) =>{
-    let {data, error} = await supabase
-    .from("user_data")
-    .select("*")
-    .eq("id", id)
-
-    return{
-        user_data: data ?? []
-    }
-  }
-
-  export const get_current_user = async() =>{
-    const { data: { user } } = await supabase.auth.getUser()
-  }

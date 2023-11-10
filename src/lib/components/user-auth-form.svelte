@@ -8,6 +8,8 @@
   import { cn } from "$lib/utils";
   import { stringify } from "postcss";
   import * as Alert from "$lib/components/ui/alert";
+  import {redirect} from '@sveltejs/kit'
+  import { goto } from "$app/navigation";
 
   let className: string | undefined | null = undefined;
   export { className as class };
@@ -27,10 +29,11 @@
     //check if passwords match
 	let password_check:boolean = password === password2
 
+
 	if (password_check){
 		show_password_alert = false
 		try {
-			let status: SignUpResult = await signUpUser(email, password);
+			let status:SignUpResult = await signUpUser(email, password);
 			
 			console.log(status)
 
@@ -39,10 +42,18 @@
 				error_alert_text = status.error.message
 				error_alert_code = status.error.status
 			}
+			
+		if (status?.data.user.aud === "authenticated"){
+			goto("/select_prereqs")
+		}
+
+
 		} catch (error) {
 			// prompt them to try again later? something went wrong?
 			console.error("Sign up failed:", error)
 		}
+
+
 	} else {
 		show_password_alert=true
 	}
@@ -132,9 +143,9 @@
   {/if}
   {#if show_error_alert}
   <Alert.Root>
-	<Alert.Title>Wrong Password</Alert.Title>
+	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>
 	<Alert.Description>
-	  error_alert_text
+		{error_alert_text}
 	</Alert.Description>
   </Alert.Root>
   {/if}

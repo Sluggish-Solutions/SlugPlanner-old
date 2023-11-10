@@ -19,3 +19,17 @@ export const signUpUser = async (email: string, password: string): Promise<SignU
     return { error }; // Handle unexpected errors
   }
 };
+
+
+export const login = async (email: string, password: string): Promise<SignUpResult> => {
+    try {
+        const {data, error} = await supabase.auth.signInWithPassword({
+            email: email,
+            password: password
+        })
+
+        return {data, error}
+    } catch (error) {
+        return {error}
+    }
+}
