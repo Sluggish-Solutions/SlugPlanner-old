@@ -19,6 +19,7 @@
 			.join(', '),
 		ge_code: data.course[0].info.gen_ed_code,
 		pre_reqs: data.course[0].info.pre_reqs,
+		type: data.course[0].info.type,
 	}
 
 	// gets number of pre_reqs
