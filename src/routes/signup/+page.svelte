@@ -30,7 +30,7 @@
 		<li><h2 class="font-bold text-5xl p-6 mt-5 mb-[-3rem] pl-9">Welcome To</h2></li>
 		<li><h1 class="font-bold text-[4.7rem] p-3 pl-9  underline decoration-yellow-300 decoration-8">SlugPlanner</h1></li>
 		<li class="flex justify-end mt-[-1rem] px-[2rem]">
-		  <a href="/">
+		  <a href="https://github.com/orgs/Sluggish-Solutions/repositories">
 			<h1 class="font-medium" >By Sluggish Solutions</h1>
 		</a>
 		</li>
