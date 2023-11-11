@@ -35,7 +35,7 @@
 		class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[73vh] overflow-x-hidden overflow-y-scroll"
 	>
 		{#each classTypes as classType, index}
-			<Collapsible.Root class=" w-40 space-y-2 overflow-y-scroll">
+			<Collapsible.Root class=" w-40 space-y-2">
 				<Collapsible.Trigger asChild let:builder>
 					<Button
 						builders={[builder]}
