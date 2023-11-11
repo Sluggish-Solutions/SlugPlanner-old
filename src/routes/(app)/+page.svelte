@@ -11,47 +11,79 @@
       goto("/login");
     }
   });
+
+  let quarter_data = {
+    quarter1: {
+      quarter_year: "Fall 2023",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter2: {
+      quarter_year: "Winter 2024",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter3: {
+      quarter_year: "Spring 2024",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter4: {
+      quarter_year: "Fall 2024",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter5: {
+      quarter_year: "Winter 2025",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter6: {
+      quarter_year: "Spring 2025",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter7: {
+      quarter_year: "Fall 2025",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter8: {
+      quarter_year: "Winter 2026",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter9: {
+      quarter_year: "Spring 2026",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter10: {
+      quarter_year: "Fall 2026",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter11: {
+      quarter_year: "Winter 2027",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    quarter12: {
+      quarter_year: "Spring 2027",
+      data: ["CSE 30", "MATH 21", "CLNI 9"]
+    },
+    
+  }
 </script>
 
-<style>
-  /* Ensure the body and HTML have 100% height */
-  html, body {
-    height: 100%;
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-  }
 
-  /* Ensure the entire container has 100% height */
-  #app {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Ensure the content area fills the remaining height */
-  .content {
-    flex-grow: 1;
-  }
-
-  /* Ensure the wrapper has 100% height */
-  .wrapper {
-    height: 100%;
-  }
-</style>
 <div class= "px-[14rem]">
-<div class="p-12 border border-cyan-400">
+  <h1 class="text-center font-bold underline decoration-slate-600 text-xl mb-2">Sample Schedule</h1>
+  <div class=" p-9  border-2 rounded-2xl  border-gray">
+
   <div class="wrapper grid grid-cols-3 grid-rows-4 gap-2">
-    <Quarter quarter_year="lol" />
-    <Quarter class1="AM 10"/>
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
-    <Quarter />
+    <Quarter quarter_obj={quarter_data.quarter1} />
+    <Quarter quarter_obj={quarter_data.quarter2}/>
+    <Quarter quarter_obj={quarter_data.quarter3}/>
+    <Quarter quarter_obj={quarter_data.quarter4}/>
+    <Quarter quarter_obj={quarter_data.quarter5}/>
+    <Quarter quarter_obj={quarter_data.quarter6}/>
+    <Quarter quarter_obj={quarter_data.quarter7}/>
+    <Quarter quarter_obj={quarter_data.quarter8}/>
+    <Quarter quarter_obj={quarter_data.quarter9}/>
+    <Quarter quarter_obj={quarter_data.quarter10}/>
+    <Quarter quarter_obj={quarter_data.quarter11}/>
+    <Quarter quarter_obj={quarter_data.quarter12}/>
+
   </div>
 </div>
 </div>
