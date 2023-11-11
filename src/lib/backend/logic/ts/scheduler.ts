@@ -22,6 +22,8 @@ let data: any = await data_fetch()
  const major: string = 'CS';
  const user_prereq: string[] = ['AP C BC 3', 'CSE 20', 'WRIT 1', 'AM 10'];
 
+
+ // checks if desired class 
  const prereq_check = async( desired_class: string) => {
    let flag: boolean = true;
    let flag_internal: boolean = false;

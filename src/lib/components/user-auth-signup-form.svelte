@@ -10,6 +10,7 @@
   import * as Alert from "$lib/components/ui/alert";
   import {redirect} from '@sveltejs/kit'
   import { goto } from "$app/navigation";
+ 
 
   let className: string | undefined | null = undefined;
   export { className as class };
@@ -108,7 +109,7 @@
         {#if isLoading}
           <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
         {/if}
-        Sign In with Email
+        Sign Up 
       </Button>
     </div>
   </form>
@@ -119,22 +120,23 @@
     </div>
     <div class="relative flex justify-center text-xs uppercase">
       <span class="bg-background px-2 text-muted-foreground">
-        Or continue with
+        If you already have an account
       </span>
     </div>
   </div>
-  <Button variant="outline" type="button" disabled={isLoading}>
+  <a href="/login" class="grid gap-1 ">
+      <Button variant="outline"  type="button" disabled={isLoading}>
     {#if isLoading}
       <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
     {:else}
       <!-- <Icons.git Hub class="mr-2 h-4 w-4" /> -->
     {/if}
     {" "}
-    Github
+    Log in Here
   </Button>
-
+  </a>
   {#if show_password_alert}
-  <Alert.Root>
+  <Alert.Root variant="destructive">
 	<Alert.Title>Wrong Password</Alert.Title>
 	<Alert.Description>
 	  Both passwords must match
@@ -142,16 +144,17 @@
   </Alert.Root>
   {/if}
   {#if show_error_alert}
-  <Alert.Root>
-	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>
-	{#if error_alert_code === 400}
-    
-  <Alert.Description>
-    <a href="/login">
-      Sign in here
-    </a>
+  <Alert.Root variant="destructive">
+	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>  
+  <Alert.Description >
+    {error_alert_text}
 	</Alert.Description>
-  {/if}  
+
+  <script lang="ts">
+    import { ExclamationTriangle } from "radix-icons-svelte";
+    import * as Alert from "$lib/components/ui/alert";
+  </script>
+
 </Alert.Root>
   {/if}
 </div>
