@@ -58,18 +58,23 @@ mainArray.push(topSet);
 
 // if (major == 'CE')
 export const scheduler = async () => {
-  //   //   while (pre_req_exists) {
-  //   let current_set = mainArray[mainArray.length - 1];
-  //   for (let course in current_set) {
-  //     let course_data = await get_course(course);
-  //     // array of course_pre_reqs
-  //     let course_prereq = Object.values(
-  //       course_data.course[0].info.pre_reqs
-  //     ).filter((child) => Array.isArray(child));
-  //  return mainArray;
-  return { mainArray };
+  //   while (pre_req_exists) {
+
+  let course_data = await get_course("CSE 102");
+  let current_set = mainArray[mainArray.length - 1];
+
+  for (let course_name of current_set) {
+    let course_data = await get_course(course_name);
+    let course_prereq = Object.values(
+      course_data.course[0].info.pre_reqs
+    ).filter((child) => Array.isArray(child));
+    return { course_prereq };
+  }
+
+  //   pre_req_exists = false;
   //   }
-  //   }
+  return { current_set };
 };
+//   }
 
 // end of while loop: if new set of pre-req classes is null, or all satisfied, then pre_req_exists = false and while loop stops

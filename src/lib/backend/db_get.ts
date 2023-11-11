@@ -14,7 +14,7 @@ export async function all_courses() {
       }
   }
 
-  export const get_course = async(name:string) =>{
+  export const get_course = async(name:String) =>{
     let {data, error} = await supabase
         .from("all_courses")
         .select("*")
