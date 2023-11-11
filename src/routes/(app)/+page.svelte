@@ -15,11 +15,11 @@
   let quarter_data = {
     quarter1: {
       quarter_year: "Fall 2023",
-      data: ["CSE 30", "MATH 21", "CLNI 9"]
+      data: ["CSE 30", "MATH 21", "CLNI 1"]
     },
     quarter2: {
       quarter_year: "Winter 2024",
-      data: ["CSE 30", "MATH 21", "CLNI 9"]
+      data: ["CSE 12", "MATH 23A", "PHYS 5A", "PHYS 5L"]
     },
     quarter3: {
       quarter_year: "Spring 2024",
@@ -66,8 +66,8 @@
 </script>
 
 
-<div class= "px-[14rem]">
-  <h1 class="text-center font-bold underline decoration-slate-600 text-xl mb-2">Sample Schedule</h1>
+<div class= "px-[14rem] py-2">
+  <h1 class="text-center p-1 pt-6 font-bold underline decoration-slate-600 text-xl mb-2">Sample Schedule</h1>
   <div class=" p-9  border-2 rounded-2xl  border-gray">
 
   <div class="wrapper grid grid-cols-3 grid-rows-4 gap-2">

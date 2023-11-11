@@ -4,11 +4,11 @@
 </script>
 
 <div id="container">
-	<div id="header" class="h-[15vh]">
+	<div id="header" class="h-[15vh] border-2 border-gray-300">
 		<Header />
 	</div>
 
-	<div id="main-section" class="h-[85vh]">
+	<div id="main-section" class="h-[85vh] ">
 		<main>
 			<slot />
 			<!-- <Footer /> -->
