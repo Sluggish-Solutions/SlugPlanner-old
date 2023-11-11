@@ -35,12 +35,12 @@ $:  get_logged_in_status = async () => {
 
 </script>
 
-<header class="flex p-6 h-auto">
+<header class="flex p-3 h-auto  ">
   <nav class=" justify-start items-start">
     <a href="/">
       <!-- change logo dark/light mode -->
       <h1
-        class="font-bold text-5xl p-5 pl-9 underline decoration-yellow-300 decoration-8"
+        class="font-bold text-5xl pt-5 pl-9 underline decoration-yellow-300 decoration-8"
       >
         SlugPlanner
       </h1>

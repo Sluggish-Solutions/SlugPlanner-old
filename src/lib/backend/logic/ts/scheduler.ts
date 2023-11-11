@@ -10,6 +10,7 @@ const list_of_classes: Record<string, any> = {};
 const major: string = "CE";
 // const user_prereq: string[] = ["AP C BC 3", "CSE 20", "WRIT 1", "AM 10"];
 
+
 // export const prereq_check = async (desired_class: string) => {
 // 	let flag: boolean = true
 // 	let flag_internal: boolean = false
