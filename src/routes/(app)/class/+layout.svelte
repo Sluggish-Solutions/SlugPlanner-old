@@ -32,20 +32,23 @@
 <div class="flex">
 	<aside
 		id="sidebar"
-		class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[73vh] overflow-y-scroll"
+		class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[73vh] overflow-y-hidden"
 	>
 		{#each classTypes as classType, index}
-			<Collapsible.Root class=" w-40 space-y-2">
+			<Collapsible.Root class=" w-40 space-y-2 overflow-y-scroll">
 				<Collapsible.Trigger asChild let:builder>
 					<Button
 						builders={[builder]}
 						variant="ghost"
 						size="lg"
-						class="w-36 text-right bg-slate-50 hover:bg-blue-100 focus:bg-blue-300"
+						class="w-36 text-right bg-slate-50 hover:bg-blue-100 {builder[
+							'data-state'
+						] == 'open'
+							? `bg-blue-300`
+							: ''}"
 					>
-					<!-- remove color in closed state -->
+						<!-- remove color in closed state -->
 						<div class="flex w-full justify-between">
-
 							<!-- Class Types show here. -->
 							{classType}
 

@@ -2,7 +2,7 @@
 	import type { PageData } from './$types'
 
 	import * as Collapsible from '$lib/components/ui/collapsible'
-	import { ChevronsUpDown } from 'lucide-svelte'
+	import { ChevronDown, ChevronLeft } from 'lucide-svelte'
 	import { Button } from '$lib/components/ui/button'
 
 	export let data: PageData
@@ -10,6 +10,9 @@
 	let groupedData: any = []
 	let prefix = 'AM'
 	let classTypes: Array<String> = []
+	let updateList = () => {
+		console.log('clicked')
+	}
 
 	const group = () => {
 		let groupClasses: any = []
@@ -29,51 +32,50 @@
 	// console.log(classTypes)
 </script>
 
-<div class="flex gap-3">
-	<aside
-		id="sidebar"
-		class="p-3 min-w-min rounded-md bg-slate-100 m-9 h-[90vh] overflow-y-scroll"
-	>
-		{#each classTypes as classType, index}
-			<Collapsible.Root class="w-[200px] space-y-2">
-				<div class="flex">
-					<Collapsible.Trigger asChild let:builder>
-						<Button
-							builders={[builder]}
-							variant="ghost"
-							size="lg"
-							class="w-36 text-right bg-slate-50"
-						>
-							{classType}</Button
-						>
-					</Collapsible.Trigger>
-				</div>
-				<Collapsible.Content class="ml-5 space-y-2">
-					{#each groupedData[index] as course}
-						<div
-							class="rounded-md border px-4 py-3 text-center w-36 font-mono text-sm"
+<aside
+	id="sidebar"
+	class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[70vh] overflow-x-scroll flex"
+>
+	{#each classTypes as classType, index}
+		<Collapsible.Root class=" w-40 space-y-2 overflow-x-scroll">
+			<Collapsible.Trigger asChild let:builder>
+				<Button
+					builders={[builder]}
+					variant="ghost"
+					size="lg"
+					class="w-36 text-right bg-slate-50 hover:bg-blue-100 {builder[
+						'data-state'
+					] == 'open'
+						? `bg-blue-300`
+						: ''}"
+				>
+					<!-- remove color in closed state -->
+					<div class="flex w-full justify-between">
+						<!-- Class Types show here. -->
+						{classType}
+
+						{#if builder['data-state'] == 'open'}
+							<span class="flex">
+								<ChevronDown class="h-4 w-8" />
+							</span>
+						{:else}
+							<span class="flex">
+								<ChevronLeft class="h-4 w-8" />
+							</span>
+						{/if}
+					</div>
+				</Button>
+			</Collapsible.Trigger>
+
+			<Collapsible.Content class="space-y-1">
+				{#each groupedData[index] as course}
+						<button
+							class="rounded-md border px-1 py-2 font-mono text-center text-sm w-full bg-slate-50 active:bg-slate-100" on:click={updateList}
 						>
 							{course.name}
-						</div>
-						<!-- 
-							<Button variant="ghost" size="lg" class="w-60">
-								{course.name}</Button
-							> -->
-					{/each}
-				</Collapsible.Content>
-			</Collapsible.Root>
-		{/each}
-	</aside>
-
-	<main id="main-section" class="py-11 px-7 mr-14">
-		<slot />
-	</main>
-</div>
-
-<style>
-	#sidebar {
-	}
-
-	#main-section {
-	}
-</style>
+						</button>
+				{/each}
+			</Collapsible.Content>
+		</Collapsible.Root>
+	{/each}
+</aside>

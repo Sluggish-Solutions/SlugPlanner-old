@@ -7,7 +7,7 @@ import {
 
 export const load: PageServerLoad = async ({ params }) => {
 	return {
-	  courses: await all_courses(),
+		courses: await all_courses(),
 		user: await get_current_user(),
 		user_data: await get_user_data(),
 	}

@@ -8,7 +8,7 @@
 		<Header />
 	</div>
 
-	<div id="main-section" class="h-[85vh] ">
+	<div id="main-section" class="h-[85vh] overflow-x-scroll">
 		<main>
 			<slot />
 			<!-- <Footer /> -->
