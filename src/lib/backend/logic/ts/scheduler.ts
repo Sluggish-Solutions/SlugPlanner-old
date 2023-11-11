@@ -106,7 +106,6 @@ function arraysAreEqual(arr1: any[], arr2: any[]): boolean {
 export const scheduler = async () => {
   return await get_pre_reqs();
 };
-
 const get_pre_reqs = async () => {
   let looping: boolean = true;
   let mainArray: Array<Array<string>> = [
@@ -197,5 +196,3 @@ const get_pre_reqs = async () => {
   // layered_set.add(course_prereqs[k][0]);
   // layered_set.add(pre_req_arr[0]);
 };
-
-// end of while loop: if new set of pre-req classes is null, or all satisfied, then pre_req_exists = false and while loop stops
