@@ -35,7 +35,7 @@ $:  get_logged_in_status = async () => {
 
 </script>
 
-<header class="flex p-6 h-auto">
+<header class="flex p-6 h-auto border-b border-gray-300 ">
   <nav class=" justify-start items-start">
     <a href="/">
       <!-- change logo dark/light mode -->
