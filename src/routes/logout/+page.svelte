@@ -3,7 +3,7 @@
     
     export let data: PageData;
 
-
+    console.log("logging out")
 </script>
 
 {#if data.status}
