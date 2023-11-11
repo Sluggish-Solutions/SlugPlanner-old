@@ -27,27 +27,23 @@
 	// console.log(data.courses)
 	// console.log(groupedData)
 	// console.log(classTypes)
-
-	$: focused = false
-	const elementFocus = () => {
-		focused = !focused
-	}
 </script>
 
 <div class="flex">
 	<aside
 		id="sidebar"
-		class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[90vh] overflow-y-scroll"
+		class="p-5 min-w-min rounded-md bg-slate-100 m-9 h-[73vh] overflow-y-scroll"
 	>
 		{#each classTypes as classType, index}
 			<Collapsible.Root class=" w-40 space-y-2">
-				<Collapsible.Trigger asChild let:builder on:click={elementFocus}>
+				<Collapsible.Trigger asChild let:builder>
 					<Button
 						builders={[builder]}
 						variant="ghost"
 						size="lg"
 						class="w-36 text-right bg-slate-50 hover:bg-blue-100 focus:bg-blue-300"
 					>
+					<!-- remove color in closed state -->
 						<div class="flex w-full justify-between">
 
 							<!-- Class Types show here. -->

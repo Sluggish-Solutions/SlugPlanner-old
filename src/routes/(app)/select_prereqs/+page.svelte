@@ -24,7 +24,7 @@
 		})
 	}
 	group()
-	console.log(data.courses)
+	// console.log(data.courses)
 	// console.log(groupedData)
 	// console.log(classTypes)
 </script>
