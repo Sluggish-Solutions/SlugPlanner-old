@@ -85,7 +85,23 @@ const major: string = "CE";
 //   return { mainArray };
 // };
 
-let pre_;
+function arraysAreEqual(arr1: any[], arr2: any[]): boolean {
+  // Check if arrays have the same length
+  if (arr1.length !== arr2.length) {
+      return false;
+  }
+
+  // Check each element for equality
+  for (let i = 0; i < arr1.length; i++) {
+      if (arr1[i] !== arr2[i]) {
+          return false;
+      }
+  }
+
+  // Arrays are equal
+  return true;
+}
+
 export const scheduler = async () => {
   return await get_pre_reqs();
 };
@@ -106,6 +122,8 @@ const get_pre_reqs = async () => {
 
   let count: number = 0;
   while (looping) {
+    
+
     let new_arr: Array<string> = [];
     let layered_set = new Set(); // Create a new Set for each iteration
     // mainArray.length = 1
@@ -144,11 +162,26 @@ const get_pre_reqs = async () => {
 
     let arr_set = Array.from(new Set(new_arr));
 
-    if (arr_set.length == 0 || count > 7) {
+    if (arr_set.length == 0 || count > 12) {
       looping = false;
     } else {
-      mainArray.push(arr_set);
+
+      let last_arr = mainArray[mainArray.length -1]
+
+      if (arraysAreEqual(last_arr, arr_set.sort())){
+        looping = false
+      }else{
+
+      mainArray.push(arr_set.sort());
     }
+  }
+
+
+
+
+
+
+
 
     count += 1;
   }
