@@ -85,14 +85,14 @@ const major: string = "CE";
 //   return { mainArray };
 // };
 
-
 let pre_;
 export const scheduler = async () => {
   return await get_pre_reqs();
 };
 
 const get_pre_reqs = async () => {
-  let mainArray= [
+  let looping: boolean = true;
+  let mainArray: Array<Array<string>> = [
     [
       "CSE 102",
       "CSE 150",
@@ -104,18 +104,33 @@ const get_pre_reqs = async () => {
     ],
   ];
 
-  let new_arr: Array<String> = [];
-  let layered_set = new Set(); // Create a new Set for each iteration
-  for (let i: number = 0; i < mainArray.length; i++) {
-    let course_set = mainArray[i];
- 
-      
+  let count: number = 0;
+  while (looping) {
+    let new_arr: Array<string> = [];
+    let layered_set = new Set(); // Create a new Set for each iteration
+    // mainArray.length = 1
+    let course_set = mainArray[mainArray.length - 1]; // course_set = ["CSE 102", "CSE 150", "CSE 113", "CSE 185E", "CSE 121", "CSE 115C", "CSE 107"]
+
+    // return { course_set }
     for (let j: number = 0; j < course_set.length; j++) {
-      let course_name = Array.from(course_set)[j];
-      let course_data = await get_course(course_name);
-      let course_prereqs = Object.values(
-        course_data.course[0].info.pre_reqs
-      ).filter((child) => Array.isArray(child));
+      // course_set.length = 7
+      let course_name = Array.from(course_set)[j]; // course_name = "CSE 102"
+      let course_data = await get_course(course_name); // course_data = { course: [ { info: { pre_reqs: { '0': [Array], '1': [Array], '2': [Array], '3': [Array], '4': [Array], '5': [Array], '6': [Array] } } } ] }
+
+      if (course_data.length == 0) {
+        // if course_data is empty, skip
+        continue;
+      }
+
+      let course_prereqs: any;
+      try {
+        course_prereqs = Object.values(
+          course_data.course[0].info.pre_reqs
+        ).filter((child) => Array.isArray(child));
+      } catch {
+        // return {"hello": "wtf"}
+        continue;
+      }
       layered_set.add(course_prereqs);
     }
 
@@ -126,10 +141,19 @@ const get_pre_reqs = async () => {
         new_arr.push(some_arr[l][0]);
       }
     }
+
+    let arr_set = Array.from(new Set(new_arr));
+
+    if (arr_set.length == 0 || count > 7) {
+      looping = false;
+    } else {
+      mainArray.push(arr_set);
+    }
+
+    count += 1;
   }
-  let arr_set = Array.from(new Set(new_arr));
-  
-  return { arr_set };
+
+  return { mainArray };
   // if (arr_set.length == 0) {
   //   return { mainArray };
   // }
