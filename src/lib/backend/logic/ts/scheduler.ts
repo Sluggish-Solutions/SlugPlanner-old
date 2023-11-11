@@ -3,7 +3,13 @@ import { all_courses } from "$lib/backend/db_get";
 // Assuming response is a list of dictionaries
 
 export const data_fetch = async() =>{
+    
+    
+    
     return await all_courses()
+
+
+
 }
 
 let data: any = data_fetch()

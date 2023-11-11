@@ -8,7 +8,6 @@
     console.log(data)
     onMount(() => {
         if(data.user === null){
-        console.log("hi")
         goto("/login")
     }
   });
