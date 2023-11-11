@@ -4,7 +4,7 @@
 </script>
 
 <div id="container">
-	<div id="header" class="h-[15vh] border-2 border-gray-300">
+	<div id="header" class="h-[15vh] border-2 border-gray-300 ">
 		<Header />
 	</div>
 

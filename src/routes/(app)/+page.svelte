@@ -16,6 +16,7 @@
 
   let quarter_data = {
     quarter1: {
+      underline_col : "green",
       quarter_year: "Fall 2023",
       data: ["MATH 19A", "CSE 30", "CLNI 1"]
     },
@@ -70,7 +71,7 @@
 
 <div class= "px-[14rem] py-2">
   <h1 class="text-center p-1 pt-6 font-bold underline decoration-slate-600 text-xl mb-2">Sample Schedule</h1>
-  <div class=" p-9  border-2 rounded-2xl  border-gray">
+  <div class=" p-9  border-2 rounded-2xl  border-grey">
 
   <div class="wrapper grid grid-cols-3 grid-rows-4 gap-2">
     <Quarter quarter_obj={quarter_data.quarter1} />

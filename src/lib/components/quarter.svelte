@@ -1,7 +1,7 @@
 <script lang="ts">
     export let quarter_obj:any;
     let quarter_year = quarter_obj.quarter_year
-
+    let underline_col = quarter_obj.underline_col
     let class1= quarter_obj.data[0]
     let class2= quarter_obj.data[1]
     let class3= quarter_obj.data[2]
@@ -18,9 +18,9 @@
 
 </script>
 
-<div class="rounded-xl flex-grow w-auto px-1 flex flex-col items-center border bg-card text-card-foreground shadow">
+<div class="rounded-xl flex-grow w-auto px-1 flex flex-col items-center border-yellow-300 border-2 bg-card text-card-foreground shadow">
     <!-- quarter_year appears on top -->
-    <h1 class="text-xl font-semibold mt-2 text-center">{quarter_year}</h1>
+    <h1 class="text-xl font-semibold mt-2 text-center underline decoration-{underline_col}-200 underline-offset-4">{quarter_year}</h1>
     <!-- Rest of the content -->
     <div class=" text-center my-auto p-1">
         <a href="class/{class1}"><h1 class="p-1">{class1}</h1></a>
