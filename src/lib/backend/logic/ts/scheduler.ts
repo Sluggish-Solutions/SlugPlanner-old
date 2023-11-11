@@ -6,6 +6,9 @@ export const data_fetch = async() =>{
 
 
     return await all_courses()
+
+
+
 }
 export const course_fetch = async(params:string) =>{
 

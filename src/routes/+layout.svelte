@@ -6,11 +6,7 @@
 
 <div id="container">
   
-  <div id="header">
-    <Header />
-  </div>
-
-  <div id="main-section">
+  <div id="root">
 		<main>
 			<slot />
 			<!-- <Footer /> -->
