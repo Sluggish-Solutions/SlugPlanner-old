@@ -10,6 +10,7 @@
   import * as Alert from "$lib/components/ui/alert";
   import {redirect} from '@sveltejs/kit'
   import { goto } from "$app/navigation";
+  import Header from "../../routes/Header.svelte";
 
   let className: string | undefined | null = undefined;
   export { className as class };
