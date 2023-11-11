@@ -8,7 +8,7 @@ const list_of_classes: Record<string, any> = {};
 
 // START OF LOGIC
 const major: string = "CE";
-const user_prereq: string[] = ["AP C BC 3", "CSE 20", "WRIT 1", "AM 10"];
+// const user_prereq: string[] = ["AP C BC 3", "CSE 20", "WRIT 1", "AM 10"];
 
 // export const prereq_check = async (desired_class: string) => {
 // 	let flag: boolean = true
@@ -42,39 +42,102 @@ const user_prereq: string[] = ["AP C BC 3", "CSE 20", "WRIT 1", "AM 10"];
 
 // //Add any additional TypeScript-specific logic as needed
 
-let pre_req_exists = true;
+// let mainArray: Set<String>[] = [
+//   new Set<String>([
+//     "CSE 102",
+//     "CSE 150",
+//     "CSE 113",
+//     "CSE 185E",
+//     "CSE 121",
+//     "CSE 115C",
+//     "CSE 107",
+//   ]),
+// ];
 
-let mainArray: Set<String>[] = [];
-const topSet = new Set<String>([
-  "CSE 102",
-  "CSE 150",
-  "CSE 113",
-  "CSE 185E",
-  "CSE 121",
-  "CSE 115C",
-  "CSE 107",
-]);
-mainArray.push(topSet);
+// mainArray.push(topSet);
 
 // if (major == 'CE')
-export const scheduler = async () => {
-  //   while (pre_req_exists) {
+// export const scheduler = async () => {
+//   //   while (pre_req_exists) {
 
-  let course_data = await get_course("CSE 102");
-  let current_set = mainArray[mainArray.length - 1];
+//   let current_classes = [];
+//   let layered_set = new Set<String>();
+//   //   let current_set = mainArray[mainArray.length - 1];
 
-  for (let course_name of current_set) {
-    let course_data = await get_course(course_name);
-    let course_prereq = Object.values(
-      course_data.course[0].info.pre_reqs
-    ).filter((child) => Array.isArray(child));
-    return { course_prereq };
-  }
-
-  //   pre_req_exists = false;
-  //   }
-  return { current_set };
-};
+//   for (let cur_set_index = 0; cur_set_index < 8; cur_set_index++) {
+//     for (let course_name of mainArray[cur_set_index]) {
+//       let course_data = await get_course(course_name);
+//       let course_prereqs = Object.values(
+//         course_data.course[0].info.pre_reqs
+//       ).filter((child) => Array.isArray(child));
+//       //parse throuh pre-req and add if we want to
+//       // for (let pre_req_arr of course_prereqs) {
+//       //   layered_set.add(pre_req_arr[0]);
+//       // }
+//       // if (cur_set_index == 1) {
+//       //   return { layered_set };
+//       // }
+//     }
+//     mainArray.push(new Set(layered_set));
+//     layered_set.clear();
 //   }
+
+//   return { mainArray };
+// };
+
+
+let pre_;
+export const scheduler = async () => {
+  return await get_pre_reqs();
+};
+
+const get_pre_reqs = async () => {
+  let mainArray= [
+    [
+      "CSE 102",
+      "CSE 150",
+      "CSE 113",
+      "CSE 185E",
+      "CSE 121",
+      "CSE 115C",
+      "CSE 107",
+    ],
+  ];
+
+  let new_arr: Array<String> = [];
+  let layered_set = new Set(); // Create a new Set for each iteration
+  for (let i: number = 0; i < mainArray.length; i++) {
+    let course_set = mainArray[i];
+ 
+      
+    for (let j: number = 0; j < course_set.length; j++) {
+      let course_name = Array.from(course_set)[j];
+      let course_data = await get_course(course_name);
+      let course_prereqs = Object.values(
+        course_data.course[0].info.pre_reqs
+      ).filter((child) => Array.isArray(child));
+      layered_set.add(course_prereqs);
+    }
+
+    for (let k: number = 0; k < layered_set.size; k++) {
+      let some_arr: any = Array.from(layered_set)[k];
+      // return { some_arr }
+      for (let l = 0; l < some_arr.length; l++) {
+        new_arr.push(some_arr[l][0]);
+      }
+    }
+  }
+  let arr_set = Array.from(new Set(new_arr));
+  
+  return { arr_set };
+  // if (arr_set.length == 0) {
+  //   return { mainArray };
+  // }
+  // return get_pre_reqs(mainArray.push(arr_set));
+  // for (let k = 0; i < course_prereqs.size; k++) {
+  //   return { course_prereqs };
+  // layered_set.add(course_prereqs[k][0]);
+  // layered_set.add(pre_req_arr[0]);
+};
 
 // end of while loop: if new set of pre-req classes is null, or all satisfied, then pre_req_exists = false and while loop stops
