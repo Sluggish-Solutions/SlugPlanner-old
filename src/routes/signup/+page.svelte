@@ -22,10 +22,10 @@
 <div
   class="container relative hidden h-[100vh] flex-col items-center justify-center md:grid lg:max-w-none lg:grid-cols-2 lg:px-0"
 >
-<div class="relative hidden h-full flex flex-col bg-muted p-10 text-black dark:border-r lg:flex">
+<div class="relative hidden h-full flex  flex-col bg-muted p-10 text-black dark:border-r lg:flex">
 	<div class="absolute inset-0 bg-cover" style="background-image: url(&quot;https://upload.wikimedia.org/wikipedia/commons/b/be/UCSC_East_Field.jpg&quot;);"></div>
 	
-	<div class="relative z-20 flex-grow w-full flex flex-col items-center font-medium mx-auto my-auto">
+	<div class="relative  mt-16 z-20 flex-grow w-full flex flex-col items-center font-medium mx-auto my-auto">
 	  <ul class="text-center">
 		<li><h2 class="font-bold text-5xl p-6 mt-5 mb-[-3rem] pl-9">Welcome To</h2></li>
 		<li><h1 class="font-bold text-[4.7rem] p-3 pl-9  underline decoration-yellow-300 decoration-8">SlugPlanner</h1></li>

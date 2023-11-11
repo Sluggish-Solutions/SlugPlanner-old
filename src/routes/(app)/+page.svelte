@@ -1,7 +1,7 @@
 <!-- YourParentComponent.svelte -->
 <script lang="ts">
   import { goto } from '$app/navigation';
-  import Quarter from '$lib/components/Quarter.svelte';
+  import Quarter from '$lib/components/quarter.svelte';
   import { onMount } from 'svelte';
 
   export let data;

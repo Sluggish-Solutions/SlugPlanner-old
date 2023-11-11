@@ -86,7 +86,7 @@
           autocorrect="off"
         />
       </div>
-      <Button type="submit" disabled={isLoading}>
+      <Button type="submit" class=" bg-yellow-300 hover:bg-yellow-400 text-black" disabled={isLoading}>
         {#if isLoading}
           <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
         {/if}
@@ -95,12 +95,39 @@
     </div>
   </form>
 
+  <div class="relative">
+    <div class="absolute inset-0 flex items-center">
+      <span class="w-full border-t" />
+    </div>
+    <div class="relative flex justify-center text-xs uppercase">
+      <span class="bg-background px-2 text-muted-foreground">
+        If you don't have an account
+      </span>
+    </div>
+  </div>
+  <a href="/signup" class="grid gap-1 ">
+      <Button variant="outline"  type="button" disabled={isLoading}>
+    {#if isLoading}
+      <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
+    {:else}
+      <!-- <Icons.git Hub class="mr-2 h-4 w-4" /> -->
+    {/if}
+    {" "}
+    Sign Up Here
+  </Button>
+  </a>
   {#if show_error_alert}
-  <Alert.Root>
-	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>
-	<Alert.Description>
-		{error_alert_text}
+  <Alert.Root variant="destructive">
+	<Alert.Title>Error Code: {error_alert_code}</Alert.Title>  
+  <Alert.Description >
+    {error_alert_text}
 	</Alert.Description>
-  </Alert.Root>
+
+  <script lang="ts">
+    import { ExclamationTriangle } from "radix-icons-svelte";
+    import * as Alert from "$lib/components/ui/alert";
+  </script>
+
+</Alert.Root>
   {/if}
 </div>
