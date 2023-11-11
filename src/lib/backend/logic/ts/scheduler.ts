@@ -19,7 +19,7 @@ let data: any = await data_fetch()
  const list_of_classes: Record<string, any> = {};
 
  // START OF LOGIC
- const major: string = 'CS';
+ const major: string = 'CE';
  const user_prereq: string[] = ['AP C BC 3', 'CSE 20', 'WRIT 1', 'AM 10'];
 
  const prereq_check = async( desired_class: string) => {
@@ -57,3 +57,9 @@ let data: any = await data_fetch()
  await prereq_check('AM 30')
 
   //Add any additional TypeScript-specific logic as needed
+  const mainArray: Set<String>[] = []
+  const topSet = new Set<String>(['CSE 102', 'CSE 150', 'CSE 113', 'CSE 185E', ])
+
+if(major == 'CE'){
+    
+}
