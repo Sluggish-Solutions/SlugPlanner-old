@@ -1,48 +1,59 @@
 import { supabase } from "$lib/backend/supabaseClient";
-import { all_courses } from "$lib/backend/db_get";
+import { all_courses, get_course} from "$lib/backend/db_get";
 // Assuming response is a list of dictionaries
 
 export const data_fetch = async() =>{
-    
-    
-    
+
+
     return await all_courses()
+}
+export const course_fetch = async(params:string) =>{
 
 
-
+    return await get_course(params)
 }
 
-let data: any = data_fetch()
-
-console.log(data)
-console.log("hhi")
+let data: any = await data_fetch()
 
 
-// const weird_shit: any = response.data;
+ const list_of_classes: Record<string, any> = {};
 
-// const ordered_classes: any[] = JSON.parse(JSON.stringify(weird_shit));
+ // START OF LOGIC
+ const major: string = 'CS';
+ const user_prereq: string[] = ['AP C BC 3', 'CSE 20', 'WRIT 1', 'AM 10'];
 
-// console.log(typeof ordered_classes);
+ const prereq_check = async( desired_class: string) => {
+   let flag: boolean = true;
+   let flag_internal: boolean = false;
+   let course_data = await course_fetch(desired_class)
+   let course_prereq = Object.values(course_data.course[0].info.pre_reqs).filter((child) => Array.isArray(child))
+   console.log(course_prereq)
+   for (const i of course_prereq) {
+   //   Your logic here
+        for(const j of i){
+            for(const q of user_prereq){
+                if (q == j){
+                    flag_internal = true
+                }
+            }
+        }
+        console.log(flag_internal)
+        if(!flag_internal){
+            flag = false
+            console.log(flag)
 
-// const list_of_classes: Record<string, any> = {};
-// for (const i of ordered_classes) {
-//   const name: string = i.name;
-//   list_of_classes[name] = i;
-// }
+        }
+        flag_internal = false
 
-// // START OF LOGIC
-// const major: string = 'CS';
-// const prereq: string[] = ['AP C BC 3', 'CSE 20', 'WRIT 1'];
+   }
+   console.log(flag)
+   return flag
 
-// function prereq_check(prereq: string[], desired_class: string): boolean {
-//   let flag: boolean = true;
-//   for (const i of list_of_classes[desired_class]) {
-//     // Your logic here
-//   }
-//   if (major === 'CS') {
-//     // Your additional logic here
-//   }
-//   return flag;
-// }
+//    if (major === 'CS') {
+//      // Your additional logic here
+//    }
+//    return flag;
+ }
+ await prereq_check('AM 30')
 
-// // Add any additional TypeScript-specific logic as needed
+  //Add any additional TypeScript-specific logic as needed
