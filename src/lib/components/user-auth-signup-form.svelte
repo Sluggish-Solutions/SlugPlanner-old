@@ -105,7 +105,7 @@
           autocorrect="off"
         />
       </div>
-      <Button type="submit" disabled={isLoading}>
+      <Button type="submit" class=" bg-yellow-300 hover:bg-yellow-400 text-black" disabled={isLoading}>
         {#if isLoading}
           <!-- <Icons.spinner class="mr-2 h-4 w-4 animate-spin" /> -->
         {/if}

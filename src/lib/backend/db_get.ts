@@ -38,7 +38,7 @@ export async function all_courses() {
     .eq("id", user?.id)
 
     return{
-        user_data: data ?? []
+        user_data: data ?? {}
     }
   }
 
@@ -48,4 +48,14 @@ export async function all_courses() {
     console.log(user)
 
     return user
+  }
+
+  export const get_user_schedule = async() =>{
+    let user:any = await get_current_user()
+
+    let {data, error} = await supabase.from("user_data").select("saved_schedules").eq("id", user?.id)
+
+    return
+      {saved_schedule: data ?? {}}
+    
   }
