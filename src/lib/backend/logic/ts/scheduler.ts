@@ -48,33 +48,34 @@ export const prereq_check = async (desired_class: string) => {
 }
 await prereq_check('AM 30')
 
-//Add any additional TypeScript-specific logic as needed
-const mainArray: Set<String>[] = []
-const topSet = new Set<String>([
-	'CSE 102',
-	'CSE 150',
-	'CSE 113',
-	'CSE 185E',
-	'CSE 121',
-	'CSE 115C',
-	'CSE 107',
-])
+// //Add any additional TypeScript-specific logic as needed
+// const mainArray: Set<String>[] = []
+// const topSet = new Set<String>([
+// 	'CSE 102',
+// 	'CSE 150',
+// 	'CSE 113',
+// 	'CSE 185E',
+// 	'CSE 121',
+// 	'CSE 115C',
+// 	'CSE 107',
+// ])
 
-let pre_req_exists = true
+// let pre_req_exists = true
 
-if (major == 'CE') {
-    while (pre_req_exists) {
-        for (let set in mainArray){
-            for (let course in set){
-            	let course_data = await course_fetch(course)
-            	let course_prereq = Object.values(
-            		course_data.course[0].info.pre_reqs
-            	).filter((child) => Array.isArray(child))
-                // console.log(course_prereq)
-            }
-        }
+// if (major == 'CE')
+// export const scheduler = async () => {
+//     while (pre_req_exists) {
+//         for (let set in mainArray){
+//             for (let course in set){
+//             	let course_data = await course_fetch(course)
+//             	let course_prereq = Object.values(
+//             		course_data.course[0].info.pre_reqs
+//             	).filter((child) => Array.isArray(child))
+//                 // console.log(course_prereq)
+//             }
+//         }
         
-    }
-}
+//     }
+// }
 
 // end of while loop: if new set of pre-req classes is null, or all satisfied, then pre_req_exists = false and while loop stops
