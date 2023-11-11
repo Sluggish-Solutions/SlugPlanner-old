@@ -22,7 +22,7 @@
     <!-- quarter_year appears on top -->
     <h1 class="text-xl font-semibold mt-2 text-center">{quarter_year}</h1>
     <!-- Rest of the content -->
-    <div class=" text-center p-1">
+    <div class=" text-center my-auto p-1">
         <a href="class/{class1}"><h1 class="p-1">{class1}</h1></a>
         <a href="class/{class2}"><h1 class="p-1">{class2}</h1></a>
         <a href="class/{class3}"><h1 class="p-1">{class3}</h1></a>

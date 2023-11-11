@@ -39,10 +39,10 @@ $:  get_logged_in_status = async () => {
   <nav class=" justify-start items-start">
     <a href="/">
       <!-- change logo dark/light mode -->
-      <h1
-        class="font-bold text-5xl pt-5 pl-9 underline decoration-yellow-300 decoration-8"
-      >
-        SlugPlanner
+      <h1 class="font-bold text-5xl pt-5 pl-9 group">
+        <span class="underline decoration-yellow-300 decoration-8 hover:decoration-yellow-500">
+          SlugPlanner
+        </span>
       </h1>
     </a>
   </nav>
@@ -56,22 +56,28 @@ $:  get_logged_in_status = async () => {
     >
       <li>
         <a
-          class=" font-bold text-2xl underline decoration-blue-300 decoration-4"
-          href="/class">classes</a
+          class=" font-bold text-2xl underline decoration-blue-300 decoration-4 hover:decoration-blue-500"
+          href="/class">All Classes</a
         >
       </li>
 
-      <li>
+      <!-- <li>
         <a
           class=" font-bold text-2xl underline decoration-green-300 decoration-4"
           href="/fiddling_dingaling">fiddling_dingaling</a
+        >
+      </li> -->
+      <li>
+        <a
+          class=" font-bold text-2xl underline decoration-green-300 decoration-4 hover:decoration-green-500"
+          href="/select_prereqs">Change Prerequisites</a
         >
       </li>
       {#if show_logout}
         <li>
           <a
-            class=" font-bold text-2xl underline decoration-red-500 decoration-4"
-            href="/logout">logout</a
+            class=" font-bold text-2xl underline decoration-red-300 decoration-4 hover:decoration-red-500"
+            href="/logout">Logout</a
           >
         </li>
       {/if}
