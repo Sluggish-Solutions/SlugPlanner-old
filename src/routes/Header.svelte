@@ -2,28 +2,23 @@
   import { get_current_user } from "$lib/backend/db_get";
   import { supabase } from "$lib/backend/supabaseClient";
   import { Button } from "$lib/components/ui/button";
-  import { onMount, onDestroy } from "svelte";
+  import { onMount, } from "svelte";
 
   let show_logout: boolean = true;
 
-	let data:any;
-
 $:  get_logged_in_status = async () => {
-	data = await get_current_user();
-	
-	// data = await get_current_user()
+// data = await get_current_user()
 
-    // if (data === null) {
-    //   console.log("user null");
-    //   show_logout = false;
-    // } else{
-	// 	show_logout = true;
+  // if (data === null) {
+  //   console.log("user null");
+  //   show_logout = false;
+  // } else{
+// 	show_logout = true;
 	// }
   };
 
   onMount(async () => {
     // Start the continuous update when the component is mounted
-    get_logged_in_status()
 	
 	// const intervalId = setInterval(get_logged_in_status, 1000); // Run every second
 

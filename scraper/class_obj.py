@@ -12,6 +12,7 @@ class Class_holder:
         self.pre_reqs = pre_reqs  # Class prerequisites
         self.class_notes = class_notes
         self.quarter = quarter
+        self.pre_reqs_text = pre_reqs
         # Path for the JSON output file (unused in the provided code)
         #
         # *default path 
@@ -47,6 +48,7 @@ class Class_holder:
         # Convert the list of class details into a dictionary
         self.class_details = {param: value for param, value in self.class_details}
     
+    #TODO Really need to fix all of these, with specific examples.
     # Format the class prerequisites
     def format_pre_reqs(self):
         
@@ -174,6 +176,7 @@ class Class_holder:
             "title": self.title,
             "description": self.description,
             "class-details": self.class_details,
+            "prerequisties_text" : self.pre_reqs_text,
             "prerequisites": self.pre_reqs,
             "classnotes": self.class_notes,
             "quarter":self.quarter

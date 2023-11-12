@@ -13,10 +13,9 @@
     }
   });
 
-
   let quarter_data = {
     quarter1: {
-      underline_col : "green",
+      underline_col :"green",
       quarter_year: "Fall 2023",
       data: ["MATH 19A", "CSE 30", "CLNI 1"]
     },

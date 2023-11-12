@@ -10,8 +10,11 @@
 	let groupedData: any = []
 	let prefix = 'AM'
 	let classTypes: Array<String> = []
-	let updateList = () => {
-		console.log('clicked')
+	let selected: any = []
+	let updateList = (course: any) => {
+		selected.push(course.name)
+		console.log('clicked', course);
+		console.log(selected)
 	}
 
 	const group = () => {
@@ -27,9 +30,6 @@
 		})
 	}
 	group()
-	// console.log(data.courses)
-	// console.log(groupedData)
-	// console.log(classTypes)
 </script>
 
 <aside
@@ -46,7 +46,7 @@
 					class="w-36 text-right bg-slate-50 hover:bg-blue-100 {builder[
 						'data-state'
 					] == 'open'
-						? `bg-blue-300`
+						? 'bg-blue-300'
 						: ''}"
 				>
 					<!-- remove color in closed state -->
@@ -69,11 +69,14 @@
 
 			<Collapsible.Content class="space-y-1">
 				{#each groupedData[index] as course}
-						<button
-							class="rounded-md border px-1 py-2 font-mono text-center text-sm w-full bg-slate-50 active:bg-slate-100" on:click={updateList}
-						>
-							{course.name}
-						</button>
+				<button
+				class="rounded-md border px-1 py-2 font-mono text-center text-sm w-full"
+				class:bg-slate-50={!selected.includes(course.name)}
+				class:bg-blue-300={selected.includes(course.name)}
+				on:click={() => updateList(course)}
+			>
+				{course.name}
+			</button>
 				{/each}
 			</Collapsible.Content>
 		</Collapsible.Root>
