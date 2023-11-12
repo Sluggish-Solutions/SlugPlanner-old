@@ -6,8 +6,6 @@ class Course:
     #todo fix the perms / variables
     
     def __init__(self, classes:list()):
-        
-        
         head = classes[0]
         self.name = head.name
         self.title = head.title
@@ -19,7 +17,7 @@ class Course:
             self.career = head.class_details["Career"]
         except:
             self.career = "error"
-        
+
         try:
             if head.class_details["General Education"] == "\u00a0":
                 self.gen_ed_code = "NULL"
