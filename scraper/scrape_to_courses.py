@@ -106,15 +106,18 @@ def get_courses(quarter, result_dict):
         description = descrip_text.get_text(strip=True) if descrip_text else ""
 
         # Pre-requisites
+        pre_req_head = None
+        pre_req_text = None
+        enrollment_text = ""
         try:
             pre_req_head = soup.find("div", string="Enrollment Requirements")
-            pre_req_text = pre_req_head.find_next_sibling("div")
-            pre_reqs = pre_req_text.get_text(strip=True) if pre_req_text else ""
-            pre_reqs = pre_reqs[pre_reqs.index(":") + 1 :].strip()
-        except:
-            pre_reqs = "NULL"
+        except: 
+            ...
+            #there are no pre-reqs    
+        pre_req_text = pre_req_head.find_next_sibling("div") if pre_req_head else ''
+        
+        pre_reqs = pre_req_text.get_text(strip=True) if pre_req_text else ""
 
-        # TODO add class notes scraper
 
         try:
             class_notes_head = soup.find("div", string="Class Notes")
@@ -138,7 +141,8 @@ def get_courses(quarter, result_dict):
         )
 
     driver.close()
-    result_dict[quarter] =  classes
+    result_dict[quarter] = classes
+
 
 def combine_classes(fall, winter, spring):
     all_classes = fall + winter + spring
@@ -203,7 +207,6 @@ def combine_classes(fall, winter, spring):
 
 def construct_courses(groups):
     courses = []
-
     for group in groups:
         courses.append(Course(group))
 
@@ -230,15 +233,21 @@ if __name__ == "__main__":
     spring = "spring"
 
     result_dict = {}
-    all_threads = [threading.Thread(target=get_courses, args=(fall, result_dict)), threading.Thread(target=get_courses, args=(winter, result_dict)), threading.Thread(target=get_courses, args=(spring, result_dict)),
+    all_threads = [
+        threading.Thread(target=get_courses, args=(fall, result_dict)),
+        threading.Thread(target=get_courses, args=(winter, result_dict)),
+        threading.Thread(target=get_courses, args=(spring, result_dict)),
     ]
-    
+
     for thread in all_threads:
         thread.start()
 
-    for thread in all_threads: thread.join()
-    
-    all_classes = combine_classes(result_dict[fall], result_dict[winter], result_dict[spring])
+    for thread in all_threads:
+        thread.join()
+
+    all_classes = combine_classes(
+        result_dict[fall], result_dict[winter], result_dict[spring]
+    )
 
     all_courses = construct_courses(all_classes)
 
