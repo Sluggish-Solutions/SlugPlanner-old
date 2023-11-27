@@ -6,10 +6,10 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 0,
+            "lower_credits_limit": 80,
             "upper_credits_limit": 500,
             "College 1": "",
-            "Concurrent": ""
+            "Concurrent": "ECE 204"
         },
         "text": "Enrollment is restricted to juniors, seniors, and graduate students.",
         "courses": []

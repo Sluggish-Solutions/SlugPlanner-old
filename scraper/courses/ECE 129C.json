@@ -13,7 +13,8 @@
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129B. Enrollment is restricted to seniors.",
         "courses": [
-            []
+            ["ELWC"],
+            ["ECE 129B"]
         ]
     },
     "class_notes": "NULL",

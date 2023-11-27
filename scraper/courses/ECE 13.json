@@ -14,8 +14,8 @@
         "text": "Prerequisite(s): CSE 12. CSE 20 or CSE 30 (Python programming background) is recommended but not required. Programming experience in any other language is also acceptable.",
         "courses": [
             [
-                "CSE 12 CSE 20",
-                "CSE 30 P        P"
+                "CSE 12"
+                
             ]
         ]
     },

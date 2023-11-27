@@ -9,19 +9,12 @@
             "lower_credits_limit": 0,
             "upper_credits_limit": 500,
             "College 1": "",
-            "Concurrent": ""
+            "Concurrent": "ECE 102"
         },
         "text": "Prerequisite(s): PHYS 5A and PHYS 5L, PHYS 5B and PHYS 5M, and PHYS 5C and 5N; or PHYS 6A and PHYS 6L, PHYS 6B and PHYS 6M, and PHYS 6C and PHYS 6N. Concurrent enrollment in ECE 102 is required.",
         "courses": [
             [
-                [
-                    "PHYS 5A",
-                    "PHYS 5L PHYS 5B"
-                ],
-                [
-                    "PHYS 6A",
-                    "PHYS 6L PHYS 6B"
-                ]
+                
             ]
         ]
     },

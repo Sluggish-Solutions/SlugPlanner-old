@@ -9,7 +9,7 @@
             "lower_credits_limit": 0,
             "upper_credits_limit": 500,
             "College 1": "",
-            "Concurrent": ""
+            "Concurrent": "ECE 103"
         },
         "text": "Prerequisite(s): ECE 101 and ECE 101L and AM 20 or MATH 24. Concurrent enrollment in ECE 103 is required.",
         "courses": [
@@ -21,7 +21,7 @@
             ],
             [
                 "AM 20",
-                "MATH 24 C   ECE 103"
+                "MATH 24"
             ]
         ]
     },

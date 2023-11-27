@@ -6,14 +6,15 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 135,
-            "upper_credits_limit": 500,
+            "lower_credits_limit": 120,
+            "upper_credits_limit": 160,
             "College 1": "",
             "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A. Enrollment is restricted to seniors.",
         "courses": [
-            []
+            ["ECE 129A"]
+            ,["ELWC"]
         ]
     },
     "class_notes": "NULL",

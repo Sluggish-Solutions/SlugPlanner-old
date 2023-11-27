@@ -13,7 +13,7 @@
         },
         "text": "Prerequisite(s): MATH 19B. Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
         "courses": [
-            []
+            ["MATH 19B"]
         ]
     },
     "class_notes": "NULL",
