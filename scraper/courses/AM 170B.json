@@ -14,8 +14,12 @@
         "text": "Prerequisites: AM 129 or AM 209, AM 112, and AM 147, and AM 170A. AM 170A may be taken concurrently with 170B on an exceptional basis by permission of the instructor. Enrollment is restricted to seniors. Graduate students may apply with permission of the instructor.",
         "courses": [
             [
-                "G"
-            ]
+                "AM 129",
+                "AM 209"
+            ],
+            ["AM 112"],
+            ["AM 147"],
+            ["AM 170A"]
         ]
     },
     "class_notes": "NULL",

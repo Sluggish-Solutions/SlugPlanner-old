@@ -1,40 +1,30 @@
 {
-    "name": "AM 115",
-    "title": "Stochastic Modeling in Biology",
-    "description": "Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and course 215.",
-    "pre_req_data": {
-        "conditions": {
-            "restricted_to_majors": "",
-            "erlw": false,
-            "lower_credits_limit": 0,
-            "upper_credits_limit": 500,
-            "College 1": "",
-            "Concurrent": ""
-        },
-        "text": "Prerequisite(s): STAT 131 and AM 20; a university-level course in biology, and operational knowledge of a programming language; or consent of instructor.",
-        "courses": [
-            [
-                [
-                    "STAT 131",
-                    "AM 20"
-                ],
-                ""
-            ]
-        ]
+  "name": "AM 115",
+  "title": "Stochastic Modeling in Biology",
+  "description": "Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and course 215.",
+  "pre_req_data": {
+    "conditions": {
+      "restricted_to_majors": "",
+      "erlw": false,
+      "lower_credits_limit": 0,
+      "upper_credits_limit": 500,
+      "College 1": "",
+      "Concurrent": ""
     },
-    "class_notes": "NULL",
-    "career": "Undergraduate",
-    "gen_ed_code": "NULL",
-    "type": "Lecture",
-    "credits": "5",
-    "quarters_offered": [
-        "spring"
-    ],
-    "quarterly_info": {
-        "spring": {
-            "total_seats": 25,
-            "filled seats": 27,
-            "priority": "high"
-        }
+    "text": "Prerequisite(s): STAT 131 and AM 20; a university-level course in biology, and operational knowledge of a programming language; or consent of instructor.",
+    "courses": [["STAT 131"], ["AM 20"]]
+  },
+  "class_notes": "NULL",
+  "career": "Undergraduate",
+  "gen_ed_code": "NULL",
+  "type": "Lecture",
+  "credits": "5",
+  "quarters_offered": ["spring"],
+  "quarterly_info": {
+    "spring": {
+      "total_seats": 25,
+      "filled seats": 27,
+      "priority": "high"
     }
+  }
 }

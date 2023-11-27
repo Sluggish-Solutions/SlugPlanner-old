@@ -1,36 +1,33 @@
 {
-    "name": "AM 160",
-    "title": "Introduction to Scientific Machine Learning",
-    "description": "Introduction to scientific machine learning covering dimension reduction techniques for scientific data, modern methods in sparse regression and compressed sensing, deep neural networks for modeling real-life systems, and neural ordinary differential equations.",
-    "pre_req_data": {
-        "conditions": {
-            "restricted_to_majors": "",
-            "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500,
-            "College 1": "",
-            "Concurrent": ""
-        },
-        "text": "Prerequisite(s): AM 20 and AM 30, or MATH 24, or PHYS 116A, and AM 129 or CSE 30. Enrollment is restricted to junior and senior students, and graduate students in applied mathematics. Prerequisite courses waived for graduate students.",
-        "courses": [
-            [
-                "P"
-            ]
-        ]
+  "name": "AM 160",
+  "title": "Introduction to Scientific Machine Learning",
+  "description": "Introduction to scientific machine learning covering dimension reduction techniques for scientific data, modern methods in sparse regression and compressed sensing, deep neural networks for modeling real-life systems, and neural ordinary differential equations.",
+  "pre_req_data": {
+    "conditions": {
+      "restricted_to_majors": "",
+      "erlw": false,
+      "lower_credits_limit": 180,
+      "upper_credits_limit": 500,
+      "College 1": "",
+      "Concurrent": ""
     },
-    "class_notes": "NULL",
-    "career": "Undergraduate",
-    "gen_ed_code": "NULL",
-    "type": "Lecture",
-    "credits": "5",
-    "quarters_offered": [
-        "winter"
-    ],
-    "quarterly_info": {
-        "winter": {
-            "total_seats": 40,
-            "filled seats": 14,
-            "priority": "very low"
-        }
+    "text": "Prerequisite(s): AM 20 and AM 30, or MATH 24, or PHYS 116A, and AM 129 or CSE 30. Enrollment is restricted to junior and senior students, and graduate students in applied mathematics. Prerequisite courses waived for graduate students.",
+    "courses": [
+      [["AM 20", "AM 30"], "MATH 24", "PHYS 116A"],
+      ["AM 129", "CSE 30"]
+    ]
+  },
+  "class_notes": "NULL",
+  "career": "Undergraduate",
+  "gen_ed_code": "NULL",
+  "type": "Lecture",
+  "credits": "5",
+  "quarters_offered": ["winter"],
+  "quarterly_info": {
+    "winter": {
+      "total_seats": 40,
+      "filled seats": 14,
+      "priority": "very low"
     }
+  }
 }
