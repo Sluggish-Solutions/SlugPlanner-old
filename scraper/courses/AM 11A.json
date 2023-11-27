@@ -14,7 +14,7 @@
         "text": "Students who have already taken MATH 11A or MATH 19A should not take this course. Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6, or MATH 3.",
         "courses": [
             [
-                "300",
+                "MPE 300",
                 "AM 3",
                 "AM 6",
                 "MATH 3"
