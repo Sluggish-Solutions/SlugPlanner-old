@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 200A",
+    "title": "Advanced Biochemistry: Biophysical Methods",
+    "description": "An introduction to the theory, principles, and practical application of biophysical methods to the study of biomolecules, especially proteins and nucleic acids. Emphasis on spectroscopic techniques. Topics include magnetic resonance, optical spectroscopy, fast reaction techniques, crystallography, and mass spectrometry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

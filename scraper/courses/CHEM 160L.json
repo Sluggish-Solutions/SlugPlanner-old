@@ -1,0 +1,37 @@
+{
+    "name": "CHEM 160L",
+    "title": "Biochemistry Research Laboratory",
+    "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 160K, satisfaction the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P CHEM 160K   E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 15,
+            "priority": "high"
+        }
+    }
+}

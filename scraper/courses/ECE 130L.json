@@ -1,0 +1,44 @@
+{
+    "name": "ECE 130L",
+    "title": "Introduction to Optoelectronics Laboratory",
+    "description": "Includes a series of projects to provide hands-on experience needed for basic concepts and laboratory techniques of optical fiber technology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5L, PHYS 5M, and PHYS 5N, or PHYS 6L, PHYS 6M, and PHYS 6N; concurrent enrollment in ECE 130.",
+        "courses": [
+            [
+                "P PHYS 5L PHYS 5M"
+            ],
+            [
+                "PHYS 5N",
+                "PHYS 6L PHYS 6M"
+            ],
+            [
+                "PHYS 6N"
+            ],
+            [
+                "ECE 130"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 130 is required. Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "ECE 221",
+    "title": "Advanced Analog Integrated Circuits",
+    "description": "Analog integrated circuit design with emphasis on fundamentals of designing linear circuits using CMOS. Covers MOS devices and device modeling, current mirrors, op-amp design, op-amp compensation, comparators, multipliers, voltage references, sample-and-holds, noise, and an introduction to more complicated systems using these building blocks, such as phase locked loops and analog-to-digital converters. If time permits, integrated circuit layout issues and device/circuit fabrication. Students cannot receive credit for this course and ECE 172.  (Formerly EE 221.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): course ECE 171 or equivalent; ECE 178 or equivalent recommended.",
+        "courses": [
+            [
+                "P  ECE 171"
+            ],
+            [
+                "ECE 178"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 172.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 11,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

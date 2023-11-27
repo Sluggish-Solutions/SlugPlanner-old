@@ -1,0 +1,32 @@
+{
+    "name": "ECON 241C",
+    "title": "Advanced International Finance III",
+    "description": "Covers contemporary research topics in international macroeconomics and finance, including advances in both theoretical analysis and empirical methods. Specific topics on international macroeconomics, finance, and policy vary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, ECON 205C, and ECON 211C. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 5,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

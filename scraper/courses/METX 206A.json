@@ -1,0 +1,34 @@
+{
+    "name": "METX 206A",
+    "title": "Advanced Microbiology",
+    "description": "Focuses on aspects of bacterial molecular biology. Covers four main areas: (1) metabolism-catabolism, anabolism, building-block precursors; (2) transcription/signal transduction; (3) replication/plasmid biology/division; (4) translation/protein processing/secretion/cell structure. Strong focus on experimental techniques and approaches used in molecular biology, and on model bacteria, such asEscherichia coliandBacillus subtilis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Advanced undergraduates may enroll with permission of instructor.",
+        "courses": [
+            [
+                "A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

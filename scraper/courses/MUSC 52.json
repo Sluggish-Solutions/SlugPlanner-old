@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 52",
+    "title": "Guitar Repertoire and Performance",
+    "description": "Designed to give guitar students who are pursuing the music major and minor, a weekly performance opportunity. Student performers receive feedback and constructive criticism from the instructors and from their peers. The instructors also offer insight and tips on choosing repertoire, performance anxiety and solutions, and historical and cultural context of the composers and music performed in the class. Enrollment by permission of instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

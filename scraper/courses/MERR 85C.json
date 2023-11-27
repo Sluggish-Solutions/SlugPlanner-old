@@ -1,0 +1,40 @@
+{
+    "name": "MERR 85C",
+    "title": "Merrill Classroom Connection Field Study",
+    "description": "Supervised hands-on experience assisting in local K-12 school classrooms. Students also attend UCSC course meetings, complete relevant readings in educational theory, and present a final assignment. Please see \nhttp://merrill.ucsc.edu/academics/programs-and-courses/classroom-connection/index.html for conditions that must be met prior to placement at local schools. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Priority enrollment is restricted to Merrill College members.",
+        "courses": [
+            [
+                "P     M C"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with MERR 85B please see the Merrill website for class details . Non- Affiliated students emailclassroomconnection@ucsc.eduand attend first class meeting.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

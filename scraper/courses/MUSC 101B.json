@@ -1,0 +1,40 @@
+{
+    "name": "MUSC 101B",
+    "title": "History of Western Art Music",
+    "description": "Second quarter of a three-quarter chronological study of Western art music. Coordinated lectures, readings, listening, and analysis of representative works: Baroque, Classical, Romantic.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30B and satisfaction of the Entry Level Writing and Composition requirements, or by instructor permission.",
+        "courses": [
+            [
+                "P MUSC 30B"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

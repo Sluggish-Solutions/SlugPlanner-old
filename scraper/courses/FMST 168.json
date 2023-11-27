@@ -1,0 +1,36 @@
+{
+    "name": "FMST 168",
+    "title": "Topics in Feminist Philosophy",
+    "description": "Topics in feminist philosophy, which may include: the nature of feminist philosophy, feminist approaches to philosophical issues, social and political philosophy, theories of knowledge, ethics, aesthetics, and science, technology, and medicine studies. Presupposes some familiarity with philosophy or feminist scholarship.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHIL 100A or PHIL 100B or PHIL 100C.",
+        "courses": [
+            [
+                "P PHIL 100A",
+                "PHIL 100B",
+                "PHIL 100C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

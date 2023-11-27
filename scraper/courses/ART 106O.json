@@ -1,0 +1,38 @@
+{
+    "name": "ART 106O",
+    "title": "2D Animation",
+    "description": "This project-centered studio course introduces 2D animation concepts, history, techniques and contemporary practices, production strategies, processes, and tools from a practical approach rooted in a historical/theoretical context. During each project's development, students research artists working within relevant categories and/or topics of animation, presenting findings to assist in their creative process. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in studio and associated secondary studio",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 146,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 230,
+            "filled seats": 245,
+            "priority": "high"
+        }
+    }
+}

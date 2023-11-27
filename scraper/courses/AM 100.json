@@ -1,0 +1,39 @@
+{
+    "name": "AM 100",
+    "title": "Mathematical Methods for Engineers",
+    "description": "Covers important concepts in applied mathematics, including complex analysis, vector calculus, Fourier Series, and integral transforms. Applications of the methods to various problems in science and engineering are discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 20 or MATH 24, and AM 30 or MATH 23B, or by permission of instructor.",
+        "courses": [
+            [
+                "P AM 20",
+                "MATH 24"
+            ],
+            [
+                "AM 30",
+                "MATH 23B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 36,
+            "priority": "high"
+        }
+    }
+}

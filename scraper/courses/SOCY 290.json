@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 290",
+    "title": "Advanced Topics in Sociological Analysis",
+    "description": "The topics to be analyzed each year vary with the instructor but focus upon a specific research area. Enrollment restricted to graduate students by consent of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Autoethnography. This experiential course focuses on the history and practice of autoethnography. As a methodology, autoethnography situates the personal experiences of a researcher in structural and collective terms. We devote particular attention to legacies of autoethnography in critical sociology, critical geography, and interdisciplinary Black feminist thought, among other traditions. With a focus on reading and crafting autoethnography, this seminar considers its possibilities and critiques. By engaging with emerging forms of autoethnography - including arts-based and somatic approaches - we will address still broader questions about ways of knowing or epistemologies, the philosophy of (Western) science, and the politics of research.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

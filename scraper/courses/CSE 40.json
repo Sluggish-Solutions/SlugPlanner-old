@@ -1,0 +1,50 @@
+{
+    "name": "CSE 40",
+    "title": "Machine Learning Basics: Data Analysis and Empirical Methods",
+    "description": "Introduction to the basic mathematical concepts and programming abstractions required for modern machine learning, data science, and empirical science. The mathematical foundations include basic probability, linear algebra, and optimization. The programming abstractions include data manipulation and visualization. The principles of empirical analysis, evaluation, critique and reproducibility are emphasized. Mathematical and programming abstractions are grounded in empirical studies including data-driven evidential reasoning, predictive modeling, and causal analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B or MATH 20B, and CSE 30.",
+        "courses": [
+            [
+                "P MATH 19B",
+                "MATH 20B"
+            ],
+            [
+                "CSE 30"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 195,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 125,
+            "filled seats": 129,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "SOCY 178T",
+    "title": "Special Topics in Sociology",
+    "description": "Taught on a rolling basis by faculty members with each offering varying by instructor. Topics are announced by the department. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Media Activism. Delves into the dynamic interplay between media and activism, underscoring the ways in which grassroots communities use diverse media forms for mutual aid and social change",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 45,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

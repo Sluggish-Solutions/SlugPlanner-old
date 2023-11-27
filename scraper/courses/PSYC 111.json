@@ -1,0 +1,37 @@
+{
+    "name": "PSYC 111",
+    "title": "The origins of social biases",
+    "description": "Engages students with fundamental theories and research in developmental psychology to better understand the social nature of human beings and how social biases emerge. Discussions include research and questions central to how social biases form with a focus on research from infancy and early childhood. Asks questions such as: What sets us up to be social? How do we learn about power and status? When and how do kids start to learn about race? Educates students to have foundational knowledge in developmental psychology and critically assess research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 1, PSYC 10, and PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 1 PSYC 10"
+            ],
+            [
+                "PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 163,
+            "priority": "unavailible"
+        }
+    }
+}

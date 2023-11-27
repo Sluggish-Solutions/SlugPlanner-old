@@ -1,0 +1,32 @@
+{
+    "name": "EART 189A",
+    "title": "Geographic Information Systems with Applications in Earth Sciences",
+    "description": "Introduces Geographic Information Systems (GIS) for geologic mapping and interpretation. Students gain experience with satellite, air photo, and digital elevation model (DEM) interpretation, and research the geology, tectonics, paleontology, and stratigraphy for field sites in eastern California. Prerequisite(s): EART 109, EART 109L, EART 110A, and EART 110. Enrollment is restricted to Earth sciences majors, and combined Earth sciences/environmental studies majors. Enrollment via an application.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 20,
+            "priority": "moderate"
+        }
+    }
+}

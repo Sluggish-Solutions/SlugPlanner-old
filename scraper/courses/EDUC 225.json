@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 225",
+    "title": "Reading Across the Curriculum in Middle School and Secondary",
+    "description": "Provides a theoretical and practical foundation for teaching reading within content area instruction in middle school and secondary classrooms. Field experiences and interactive instruction will facilitate learning about strategies, curricula, methods, materials, and observation. Intended for students pursuing a single subject credential.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 66,
+            "filled seats": 25,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "POLI 120C",
+    "title": "State and Capitalism in American Political Development",
+    "description": "Examines the relationship between state and economy in the U.S. from the 1880s to the present, and provides a theoretical and historical introduction to the study of politics and markets. Focus is on moments of crisis and choice in U.S. political economy, with an emphasis on the rise of regulation, the development of the welfare state, and changes in employment policies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

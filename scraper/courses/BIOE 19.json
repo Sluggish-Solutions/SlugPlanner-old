@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 19",
+    "title": "Biodiversity in the Age of Humans",
+    "description": "How can we better understand how humans have affected Earth and its inhabitants? Explores how DNA shed by organisms into the environment can be collected and used to study Earth's biodiversity, with applications in medicine, anthropology, agriculture, and conservation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year students, sophomores, and juniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 53,
+            "priority": "high"
+        }
+    }
+}

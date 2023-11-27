@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 80I",
+    "title": "Introduction to Human Computer Interaction",
+    "description": "Introduces students to Human Computer Interaction (HCI) as a field, using their everyday experience with technology as a starting point. Students learn key HCI concepts and concerns in lectures, and try out HCI design techniques in sections.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 96,
+            "priority": "high"
+        }
+    }
+}

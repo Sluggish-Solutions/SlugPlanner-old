@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80P",
+    "title": "Popular Music in the United States",
+    "description": "Introduces music and cultural studies, surveys popular music in the United States from 18th-century minstrelsy to 21st-century social media \"consumer-producers.\" Emphasizes narratives of race, complicated by ethnicity, gender, and class, informing ways of valuing music, and its capacity for social representation. (Formerly Music 11C, Introduction to American Popular Music.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 400,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

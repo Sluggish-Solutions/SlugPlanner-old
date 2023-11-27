@@ -1,0 +1,32 @@
+{
+    "name": "NLP 271A",
+    "title": "Capstone I: Recent Research in NLP",
+    "description": "The first in a sequence of two capstone courses providing hands-on practice of key NLP concepts and skills and experience working in a team project setting. Provides students with tools for project management and working in a team. Explores the research literature and investigates what makes a good project proposal. Allows students to prepare a Capstone project proposal and gather feedback for improvement. Class must be taken for letter grade.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): NLP 201 and NLP 220. Enrollment is restricted to natural language processing graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ECE 224",
+    "title": "Device Electronics",
+    "description": "Reviews the fundamentals of semiconductors and then explores the structure, design, and operation of the most important and widely used semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, field-effect transistor, the light-emitting diode, and the photodiode.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 178.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

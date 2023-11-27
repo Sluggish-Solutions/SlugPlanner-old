@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 10",
+    "title": "Aesthetic Designs",
+    "description": "Explores the ways in which aesthetic designs in art and media influence, make, and convey meaning, and presents methods for designing, authoring and implementing aesthetic components into games and interactive artworks. Students investigate these topics from a conceptual starting point that branches into cultural, technological and/or interventionist inquiries, culminating in a series of creative design projects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 148,
+            "priority": "unavailible"
+        }
+    }
+}

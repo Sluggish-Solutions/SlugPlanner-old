@@ -1,0 +1,32 @@
+{
+    "name": "NLP 271B",
+    "title": "Capstone II: Natural Language Processing",
+    "description": "The second capstone course providing hands-on practice of key NLP concepts and skills and experience working in a team project setting. Provides students with tools for project management and working in a team. Allows students to refine and define several possible projects, present them for feedback, produce initial implementations of key modules and assess them, and complete the capstone project, which includes testing and assessing the quality of the final implementation, writing the final project report, poster creation, video and oral presentation of the project as a team. Course must be taken for letter grade.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): NLP 202 and NLP 271A. Enrollment is restricted to natural language processing graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "10",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 25,
+            "priority": "low"
+        }
+    }
+}

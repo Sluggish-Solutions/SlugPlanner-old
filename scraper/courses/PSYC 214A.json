@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 214A",
+    "title": "Multivariate Techniques for Psychology",
+    "description": "Introduces multiple regression, analysis of covariance, and random coefficient models. Both methodological and statistical aspects of data analysis are discussed. Practical problems of estimating and testing in general linear models are addressed. Students gain experience in carrying out and interpreting analysis using SPSS and R.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 204. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

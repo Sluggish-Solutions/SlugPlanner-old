@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 151",
+    "title": "Algorithmic Music for Games",
+    "description": "Introduces compositional techniques and procedural audio as exhibited in the sound and music of video games. Surveys different styles of music implemented in video games and associated compositional approaches. Students develop skill in procedural audio via a series of workshops and assignments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 14 and CSE 14L, or CSE 11.",
+        "courses": [
+            [
+                "P CSE 14"
+            ],
+            [
+                "CSE 14L",
+                "CSE 11"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 83,
+            "priority": "high"
+        }
+    }
+}

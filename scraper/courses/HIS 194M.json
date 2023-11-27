@@ -1,0 +1,32 @@
+{
+    "name": "HIS 194M",
+    "title": "Literati, Samurai, and Yangban: Comparative History of State and Elite in East Asia, 1600-1900",
+    "description": "Critically examines the formation of political elites in East Asia. Compares literati in Ming and Qing, China; samurai in Tokugawa, Japan; and yangban in Joeson, Korea. Each group occupied specific roles and functions in their state and society but differed in scale and character. Students cannot receive credit for this course and HIS 294M.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors and East Asian studies minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements,  HIS 100 (for history majors), two additional upper-division history courses, or permission of the instructor. Enrollment is restricted to junior and senior history majors and East Asian studies minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "BIOL 130",
+    "title": "Human Physiology",
+    "description": "Function, organization, and regulation of the major organ systems of humans, with emphasis on integration among systems. Students cannot receive credit for this course and BIOE 131.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "global and community health B.S. majors (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments. Enrollment is restricted to global and community health B.S. majors (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 110. Enrollment is restricted to global and community health B.S. majors (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments. Enrollment is restricted to global and community health B.S. majors (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments.",
+        "courses": [
+            [
+                "S"
+            ],
+            [
+                "F P  M    F P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Enrollment is restricted to global and community health B.S. (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 49,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

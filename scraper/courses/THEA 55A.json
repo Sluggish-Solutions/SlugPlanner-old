@@ -1,0 +1,38 @@
+{
+    "name": "THEA 55A",
+    "title": "Workshop in Performance: Barnstorm",
+    "description": "Process-oriented investigation of practical theater production by working in and on productions in the Barnstorm season. Requires a total of 150 hours working backstage or onstage. Admission by audition at first class meeting; see department office for more information. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

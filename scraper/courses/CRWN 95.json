@@ -1,0 +1,44 @@
+{
+    "name": "CRWN 95",
+    "title": "GetVirtual Business Assistance",
+    "description": "Community service-oriented class provides a supervised learning experience for students who deliver real solutions to local businesses while gaining valuable practical skills and an opportunity to integrate their academic coursework with community involvement. Teams are formed and businesses assigned while students are trained to do interviews, write proposals, project-manage, design websites, and marketing campaigns. No prerequisites are required and familiarity in the following areas is preferred: the lean startup method, the business model canvas, and customer discovery. May be repeated for credit.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 24,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 28,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

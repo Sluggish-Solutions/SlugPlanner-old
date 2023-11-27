@@ -1,0 +1,43 @@
+{
+    "name": "PHYS 5N",
+    "title": "Introduction to Physics Laboratory III",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 5C. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and PHYS 5L. Concurrent enrollment in PHYS 5C is required.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "PHYS 5L C   PHYS 5C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 132,
+            "filled seats": 129,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CSE 240",
+    "title": "Artificial Intelligence",
+    "description": "Prepares students for doing research in artificial intelligence. Major topics covered are search and heuristics, knowledge representation, planning, deduction and inference, reinforcement learning, associative pattern retrieval, and adaptive search. Discussion includes current research issues in AI problem-solving methods. Individualized projects. (Formerly Computer Science 240.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

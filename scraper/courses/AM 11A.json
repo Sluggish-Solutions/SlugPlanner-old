@@ -1,0 +1,50 @@
+{
+    "name": "AM 11A",
+    "title": "Mathematical Methods for Economists I",
+    "description": "Introduction to mathematical tools and reasoning, with applications to economics. Topics are drawn from differential calculus in one variable and include limits, continuity, differentiation, elasticity, Taylor polynomials, and optimization. Students cannot receive credit for both this course and MATH 11A or MATH 19A or AM 15A. (AM 11A formerly AMS 11A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Students who have already taken MATH 11A or MATH 19A should not take this course. Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6, or MATH 3.",
+        "courses": [
+            [
+                "S     MATH 11A",
+                "MATH 19A      P   300",
+                "AM 3",
+                "AM 6",
+                "MATH 3"
+            ]
+        ]
+    },
+    "class_notes": "Offered as AM 11A *AND* ECON 11A. Enroll in AM 11A if Econ 11A is full. It is the exact same course. Do NOT wait list for Econ 11A.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 110,
+            "filled seats": 90,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 50,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

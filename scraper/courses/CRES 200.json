@@ -1,0 +1,32 @@
+{
+    "name": "CRES 200",
+    "title": "Black Studies Methods",
+    "description": "Exploration of interdisciplinary research methodology?a broader set of scientific beliefs, approaches, inquiries, theories, and analytics?relevant to the study of Black communities. Students read, explore, and engage in particular methods?approaches to data collection and analyses?emphasizing various forms of ethnographic research. Course also examines other approaches to the study of Blackness, such as historical/archival, cultural studies and discursive analyses, and mixed methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

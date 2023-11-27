@@ -1,0 +1,35 @@
+{
+    "name": "CHEM 4BL",
+    "title": "Advanced General Chemistry Lab",
+    "description": "Focuses on science skills building with an emphasis on the general chemistry lab setting,. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person lab experiments/work as well as asynchronous work completed in Canvas and Webassign. This course taken with CHEM 4AL provides an advanced alternative to the CHEM 3BL/CHEM 3CL series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Prior or concurrent enrollment in CHEM 4B.",
+        "courses": [
+            [
+                "P P",
+                "CHEM 4B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in the main lab lecture course in order to enroll in one of the secondary three-hour weekly lab sections. There is no lab lecture for the course. Attendance is taken at the start of the lab section. Late or absent students will be dropped. Secondary lab sections will meet starting the week of January 15 (the week of MLK Jr Day).",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 54,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

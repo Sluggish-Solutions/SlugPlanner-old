@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 17",
+    "title": "Feminist Philosophy",
+    "description": "Introduction to feminist philosophy. The topics may include (but are not limited to) oppression, normalization, discrimination, objectification, misogyny, androcentrism, patriarchy, the sex-gender distinction, sexed embodiment, gendered labor, and the relationships between sexism, racism, homophobia, and transphobia.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 76,
+            "filled seats": 44,
+            "priority": "low"
+        }
+    }
+}

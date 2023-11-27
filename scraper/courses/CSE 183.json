@@ -1,0 +1,39 @@
+{
+    "name": "CSE 183",
+    "title": "Web Applications",
+    "description": "The World-Wde Web is one of the main mechanisms by which computer applications are delivered to users. This course introduces the design of Web applications.  Students learn the main technologies involved, and build web applications as part of homework assignments and group class projects.(Formerly CMPS 183.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 15 and CSE 15L, or CMPM 35, or CSE 101.",
+        "courses": [
+            [
+                "P CSE 15"
+            ],
+            [
+                "CSE 15L",
+                "CMPM 35",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 157,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "MATH 148",
+    "title": "Numerical Analysis",
+    "description": "A survey of the basic numerical methods which are used to solve scientific problems and their mathematical analysis (derivation, convergence analysis, error bounds). The course includes both mathematical (analysis of algorithms) and computing assignments (implementation of algorithms). Some prior experience with Matlab (or similar) is helpful but not required. Some typical topics are: computer arithmetic; Newton's method for non-linear equations; linear algebra; interpolation and approximation; numerical differentiation and integration; numerical solutions of systems of ordinary differential equations and some partial differential equations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A; and MATH 21 or AM 10; and MATH 24 or AM 20; and MATH 103A or  MATH 105A or MATH 152 or AM 147 or CSE 101. Concurrent enrollment in MATH 148L is required.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "MATH 21",
+                "AM 10"
+            ],
+            [
+                "MATH 24",
+                "AM 20"
+            ],
+            [
+                "MATH 103A",
+                "MATH 105A",
+                "MATH 152",
+                "AM 147",
+                "CSE 101 C   MATH 148L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

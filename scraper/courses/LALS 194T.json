@@ -1,0 +1,32 @@
+{
+    "name": "LALS 194T",
+    "title": "Youth and Citizenship",
+    "description": "Explores multiple and contested meanings of youth and citizenship; how youth, civic, and political identities are imagined, produced and negotiated in social and cultural locations; and how different versions of Latina/o youth citizenship are promoted and articulated by social and political institutions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior Latin American and Latino studies majors, minors, and combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior Latin American and Latino studies majors, minors, and combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

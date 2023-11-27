@@ -1,0 +1,32 @@
+{
+    "name": "THEA 31B",
+    "title": "Dance Studio I: Ballet",
+    "description": "Introduces classical ballet as a form of ethnic dance. Focus on combining basic training in ballet technique with academic studies to achieve a synthesis in the understanding of dance as a performing arts practice in diverse socio-cultural and historical contexts. Emphasis on simple phrasing and articulation into more complex material requiring richer dynamic range. Attention to the anatomical principles that governs ballet mechanics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 1C",
+    "title": "General Chemistry",
+    "description": "An integrated study of general chemistry. Coverage includes thermodynamics; oxidation-reduction and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1A. Concurrent enrollment in course 1N is recommended. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 185,
+            "filled seats": 182,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 472,
+            "filled seats": 405,
+            "priority": "high"
+        }
+    }
+}

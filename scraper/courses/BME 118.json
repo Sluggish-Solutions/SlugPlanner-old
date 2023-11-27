@@ -1,0 +1,43 @@
+{
+    "name": "BME 118",
+    "title": "Mathematics of the Mind",
+    "description": "Investigates the mind as an adaptive system, the evolutionary history of the brain, and mathematical theories of knowledge representation and learning in humans and machines. Students build Jupyter notebooks that interact with human cerebral cortex organoids to explore adaptive processes in neural circuits. Taught in conjunction with BME 218. Students cannot receive credit for this course and BME 218.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: either MATH 19A and MATH 19B, or MATH 20A and MATH 20B; and MATH 21; and CSE 20; or by permission of the instructor.",
+        "courses": [
+            [
+                "P",
+                [
+                    "MATH 19A",
+                    "MATH 19B"
+                ],
+                [
+                    "MATH 20A",
+                    "MATH 20B"
+                ],
+                ""
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with BME 218.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 28,
+            "priority": "very low"
+        }
+    }
+}

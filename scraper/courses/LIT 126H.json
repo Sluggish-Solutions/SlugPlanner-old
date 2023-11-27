@@ -1,0 +1,32 @@
+{
+    "name": "LIT 126H",
+    "title": "Artificial Intelligence and Human Imagination",
+    "description": "Uses a humanistic framework to study the promises and perils of artificial intelligence technosystems (AI). Studies cultural depictions of AI, co-creates cultural artifacts using AI, and analyzes the ''anatomy'' of specific AIs. (UCSC General Education Code: CC)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 96,
+            "filled seats": 92,
+            "priority": "high"
+        }
+    }
+}

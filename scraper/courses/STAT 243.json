@@ -1,0 +1,35 @@
+{
+    "name": "STAT 243",
+    "title": "Stochastic Processes",
+    "description": "Includes probabilistic and statistical analysis of random processes, continuous-time Markov chains, hidden Markov models, point processes, Markov random fields, spatial and spatio-temporal processes, and statistical modeling and inference in stochastic processes. Applications to a variety of fields. (Formerly AMS 263.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 205B or STAT 246, or by permission of instructor.",
+        "courses": [
+            [
+                "P STAT 205B",
+                "STAT 246"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FILM 226",
+    "title": "Queer Theory and Global Film and Media",
+    "description": "Examines queer subjectivities, practices, and theories in relation to globalization, transnationalism, and postcoloniality, focusing on film/media produced outside the United States. The course addresses representation and also uses queer theoretical work to engage wider contexts of film/media production, distribution, and exhibition.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

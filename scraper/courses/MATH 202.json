@@ -1,0 +1,32 @@
+{
+    "name": "MATH 202",
+    "title": "Algebra III",
+    "description": "Module theory: Submodules, quotient modules, module homomorphisms, generators of modules, direct sums, free modules, torsion modules, modules over PIDs, and applications to rational and Jordan canonical forms. Field theory: field extensions, algebraic and transcendental extensions, splitting fields, algebraic closures, separable and normal extensions, the Galois theory, finite fields, Galois theory of polynomials.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 201 is recommended as preparation. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

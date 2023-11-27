@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 221",
+    "title": "Science Learning and Teaching in Elementary Classrooms",
+    "description": "Examines constructivist and sociocultural approaches to the learning and teaching of science in elementary classrooms, including beliefs about the nature of science and theories of how children learn science. Provides a critical overview of curricula, instructional theories, and multiple approaches to teaching the \"big ideas\" in elementary science.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class meets at DeLavaga. Times may vary each week. See Instructor for class calendar and room location.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

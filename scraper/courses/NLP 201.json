@@ -1,0 +1,32 @@
+{
+    "name": "NLP 201",
+    "title": "Natural Language Processing I",
+    "description": "The first course in a series covering the core concepts and algorithms for the theory and practice of natural language processing (NLP), the creation of computer programs that can understand, generate, and learn natural language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Enrollment is restricted to natural language processing graduate students, and computer science and engineering doctoral students by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 21,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FILM 132A",
+    "title": "International Cinema to 1960",
+    "description": "A survey of significant developments in narrative film outside Hollywood from the advent of sound technology to the late '50s. Differing inter/national contexts, theoretical movements, technological innovations, and major directors are studied.  Usually offered alternate academic years.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A, satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P FILM 20A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

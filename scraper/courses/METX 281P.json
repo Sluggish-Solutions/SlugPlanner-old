@@ -1,0 +1,46 @@
+{
+    "name": "METX 281P",
+    "title": "Origins and Applications of Human Gut Microbial Symbiosis",
+    "description": "Research seminar focusing on how beneficial and harmful bacterial species living in the human intestine compete with one another for nutrients in food, and how our immune systems influence the outcomes of these competitions. Emphasis is placed on the evolution of relationships between organisms. Discussion will include genetic, biochemical, bioinformatic, and immunological methods for advancing knowledge about the impacts of microbes on host health. Participants are required to present results from their own research, analyze current literature, and develop future aims for their studies. All lab members of the Patnode Lab are required to take this course.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor?s permission.",
+        "courses": [
+            [
+                "Q"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

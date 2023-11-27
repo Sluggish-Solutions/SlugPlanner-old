@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 280S",
+    "title": "Seminar Topics",
+    "description": "Weekly seminar series of current research on a special topic in information systems and technology management. The theme of research presented throughout the course selected by the instructor. Topics may include, but are not limited to, knowledge planning, new product development and management of technology. Enrollment with permission of instructor. (Formerly Technology and Information Management 280S.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 24,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

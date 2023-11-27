@@ -1,0 +1,32 @@
+{
+    "name": "LALS 126",
+    "title": "Digit@l Americ@s/Digit@l Latin@s",
+    "description": "Examines how social media reconfigures daily lives, cultures, and economies and explores how recent leaps in communication technologies breed digital divides and new forms of activism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

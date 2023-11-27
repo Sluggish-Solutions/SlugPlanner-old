@@ -1,0 +1,34 @@
+{
+    "name": "BIOL 200E",
+    "title": "Experimental Design",
+    "description": "A multidisciplinary course that focuses on topics to consider when tackling biomedical research questions experimentally. Lectures highlight important issues to take into account, are coupled with group discussions and intensive analysis of primary literature, and involve case studies to practically demonstrate how how these considerations might be implemented.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in BIOL 200A is required.",
+        "courses": [
+            [
+                "C   BIOL 200A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

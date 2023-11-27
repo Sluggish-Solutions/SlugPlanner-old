@@ -1,0 +1,59 @@
+{
+    "name": "PHYS 6B",
+    "title": "Introductory Physics II",
+    "description": "A continuation of PHYS 6A. Geometric optics; statics and dynamics of fluids; introduction to thermodynamics, including temperature, heat, thermal conductivity, and molecular motion; wave motion in matter, including sound waves.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and MATH 11B or MATH 19B or MATH 20B or AM 15B.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "PHYS 5L",
+                "PHYS 6A"
+            ],
+            [
+                "PHYS 6L"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B",
+                "MATH 20B",
+                "AM 15B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 250,
+            "filled seats": 127,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 161,
+            "filled seats": 163,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 268,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

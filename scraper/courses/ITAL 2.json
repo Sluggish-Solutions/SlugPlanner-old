@@ -1,0 +1,34 @@
+{
+    "name": "ITAL 2",
+    "title": "First-Year Italian",
+    "description": "During the second quarter of this first-year sequence, students learn to tell a story in the past, to make plans about their future, and to express commands and requests. The sequence starts once a year in the fall quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 1 or placement by examination.",
+        "courses": [
+            [
+                "P ITAL 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

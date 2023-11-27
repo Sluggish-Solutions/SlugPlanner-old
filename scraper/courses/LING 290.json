@@ -1,0 +1,32 @@
+{
+    "name": "LING 290",
+    "title": "Research Seminar",
+    "description": "A research seminar for undergraduate and graduate students to develop the skills of the profession. Critical reading, reviewing, teaching, presentation, and writing. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students or by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by permission of instructor",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

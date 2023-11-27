@@ -1,0 +1,39 @@
+{
+    "name": "SPAN 150",
+    "title": "Topics in Hispanic Linguistics: Introduction to Hispanic Linguistics",
+    "description": "Taught in Spanish. Students learn the major properties of the Spanish language from a linguistics perspective. Topics covered include: phonetics/phonology, morphology, and syntax.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 50; and SPAN 6 or SPHS 6 or equivalent Spanish proficiency.",
+        "courses": [
+            [
+                "P LING 50"
+            ],
+            [
+                "SPAN 6",
+                "SPHS 6",
+                "S"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

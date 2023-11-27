@@ -1,0 +1,38 @@
+{
+    "name": "ECON 294B",
+    "title": "Applied Economics and Finance Seminar",
+    "description": "Bi-weekly seminars designed to present students with current working applications in various fields of applied economics and finance. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 19,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

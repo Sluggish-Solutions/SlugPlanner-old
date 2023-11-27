@@ -1,0 +1,44 @@
+{
+    "name": "COWL 111",
+    "title": "Mock Trial Workshop",
+    "description": "Offers opportunities to improve students? public speaking and communication skills through weekly exercises which challenge a student?s ability to think quickly, organize information effectively and speak persuasively. Students also learn and practice courtroom procedures and legal argument styles. Each week students learn about a facet of mock trial. Students focus on different speaking skills weekly. Speakers of all skill levels are welcome and receive constructive criticism both from peers and the teachers and participate in debates within a small team.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 58,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

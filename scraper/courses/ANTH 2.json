@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 2",
+    "title": "Introduction to Cultural Anthropology",
+    "description": "A number of different peoples are studied and a variety of approaches to the nature of the culture and to the study of specific cultures presented. Required for all anthropology majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 252,
+            "filled seats": 252,
+            "priority": "high"
+        }
+    }
+}

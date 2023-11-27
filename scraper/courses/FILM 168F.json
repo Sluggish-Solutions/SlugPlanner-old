@@ -1,0 +1,35 @@
+{
+    "name": "FILM 168F",
+    "title": "Francophone African Cinema",
+    "description": "Introduces students to the diverse cinema of French-speaking African nations and interrogates the role of empire and language in relation to cinema and decolonial politics. The course presents a wide array of films by Francophone (French-speaking) filmmakers from Africa, including some made by diasporic or itinerant filmmakers based in France. Film viewings and discussions of work from Morocco, Senegal, Cameroon, Mali, Burkina Faso, and other countries. Critically engages with debates around the meaning of francophonie in a contemporary context.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 132A or FILM 132B or permission of the instructor.",
+        "courses": [
+            [
+                "P FILM 132A",
+                "FILM 132B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 31,
+            "priority": "low"
+        }
+    }
+}

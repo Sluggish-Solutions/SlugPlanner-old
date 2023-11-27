@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 28",
+    "title": "Ghosts, Haunting, Memory, and Erasure in the Films of Asia",
+    "description": "Explores the theme of memory, haunting, ghosts and the politics of erasure and remembrance in films made by Asian filmmakers and contemporary artists in Asia. Examines the intersecting themes of haunting, memory, and ghosts and how selected filmmakers and visual artists in Asia go about framing and unframing this topic in their work. The goal of the course is to see, through a comparative lens, how these selected filmmakers and artists treat the topic of specter and the politics of memory and erasure in their respective films from a national and transnational perspective.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 139,
+            "priority": "unavailible"
+        }
+    }
+}

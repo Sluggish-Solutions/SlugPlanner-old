@@ -1,0 +1,51 @@
+{
+    "name": "CSE 16",
+    "title": "Applied Discrete Mathematics",
+    "description": "Introduction to applications of discrete mathematical systems. Topics include sets, functions, relations, graphs, predicate calculus, mathematical proof methods (induction, contraposition, contradiction), counting methods (permutations, combinations), and recurrences. Examples are drawn from computer science and computer engineering. Knowledge of computer programming is useful before taking this course. Students who do not have prior programming experience are strongly recommended to take CSE 20 or CSE 30 before taking this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19A or MATH 19B or MATH 11B or AM 11B or AM 15B or ECON 11B.",
+        "courses": [
+            [
+                "P MATH 19A",
+                "MATH 19B",
+                "MATH 11B",
+                "AM 11B",
+                "AM 15B",
+                "ECON 11B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 349,
+            "filled seats": 348,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 175,
+            "filled seats": 394,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 395,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

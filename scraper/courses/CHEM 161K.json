@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 161K",
+    "title": "Chemical Biology Research Laboratory",
+    "description": "The second of a three-course research-based series for students in chemistry or biochemistry and molecular biology degree programs. Introduces undergraduates to the emerging field of chemical biology. There is no laboratory guide with pre-designed experiments and results; instead, students develop a hypothesis and work toward understanding a novel system at the interface of multiple biological and chemical subdisciplines. Students gain technical skills related to these areas by designing experiments, researching primary literature, using public databases, and applying various software programs to aid in data analysis and interpretation. Prerequisite(s): CHEM 161J. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

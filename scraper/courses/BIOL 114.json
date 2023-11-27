@@ -1,0 +1,35 @@
+{
+    "name": "BIOL 114",
+    "title": "Cancer Cell Biology",
+    "description": "Focuses on the molecular and cellular mechanisms behind cancer. Topics covered include oncogenes, tumor suppressor genes, cell growth genes, checkpoint genes, telomeres, and apoptosis. Students will gain experience in reading the primary scientific literature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 110 or BIOL 115.",
+        "courses": [
+            [
+                "P BIOL 110",
+                "BIOL 115"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 70,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "FILM 189",
+    "title": "Advanced Topics in Digital and Electronic Media Studies",
+    "description": "Study of a selected aspect of digital and/or electronic media history and criticism. Topics can include virtual environments, electronic networks, video installations, computer games, and hyper-media. Usually offered in alternate academic years. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior film and digital media majors and minors during priority enrollment; may be opened if space allows.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20C. Enrollment is restricted to junior and senior film and digital media majors and minors during priority enrollment; may be opened if space allows.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Course Topic: \"Artificial Intelligence and Visual Culture\"",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 13,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

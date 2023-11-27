@@ -1,0 +1,32 @@
+{
+    "name": "ECE 218",
+    "title": "Mechatronics",
+    "description": "Examines technologies involved in mechatronics (intelligent electro-mechanical systems)and techniques necessary to integrate these technologies. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Students learn how to solve engineering problems using C Programming Language. Combines lab component of structured assignments with a large and open-ended team project. Students cannot receive credit for this course and ECE 118.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 118. Enroll in lecture and associated secondary lab.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "10",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 76,
+            "filled seats": 73,
+            "priority": "high"
+        }
+    }
+}

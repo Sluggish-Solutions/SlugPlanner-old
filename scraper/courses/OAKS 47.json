@@ -1,0 +1,34 @@
+{
+    "name": "OAKS 47",
+    "title": "Building an Inner Sanctuary",
+    "description": "Through experiential methodologies of self-leadership and mind-body practices, this course encourages students to discover and flex those internal resources which enhance resilience, foster psycho-emotional and community-building skills, and affirm their cultural dignity. Enrollment is by application and permission of the instructor. First-pass enrollment is restricted to Oakes students. Second-pass enrollment open to all students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "First-pass enrollment is restricted to Oakes students. Second-pass enrollment is open to all students.",
+        "courses": [
+            [
+                "F     O  S"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 20,
+            "priority": "unavailible"
+        }
+    }
+}

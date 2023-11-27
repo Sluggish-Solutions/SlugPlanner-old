@@ -1,0 +1,32 @@
+{
+    "name": "LGST 166",
+    "title": "Global Organization",
+    "description": "Addresses whether and how global organizations are changing the international system. Examines multilateral institutions, regional organizations, and nonstate actors. Overriding aim is to discern whether these global organizations are affecting the purported primacy of the state.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

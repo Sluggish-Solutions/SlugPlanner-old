@@ -1,0 +1,44 @@
+{
+    "name": "PHIL 22",
+    "title": "Introduction to Ethical Theory",
+    "description": "A consideration of ethical issues and theories focusing on the foundation of moral value and the principles governing character and behavior. Designed to extend and develop the student's abilities in philosophical reasoning about ethics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 172,
+            "filled seats": 174,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 177,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 360,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

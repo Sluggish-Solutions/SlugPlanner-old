@@ -1,0 +1,32 @@
+{
+    "name": "CRSN 20G",
+    "title": "Peregrine Falcons Return",
+    "description": "A case study of the 1970s-1990s UC Santa Cruz effort to restore a nearly extinct peregrine falcon population including reviews of the Endangered Species Act, falcon physiology, and the innovative conservation biology techniques that led to success.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

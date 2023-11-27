@@ -1,0 +1,32 @@
+{
+    "name": "THEA 23",
+    "title": "Voice for the Actor",
+    "description": "Introduces using the spoken voice effectively and powerfully on stage and off. Physical release, alignment, breath, resonance, and articulation are explored. Students gain an understanding of how the voice relates to the self, the body, and breath and become more aware of tensions and habits that may impede vocal and speech use.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

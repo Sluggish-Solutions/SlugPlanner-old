@@ -1,0 +1,32 @@
+{
+    "name": "CSE 186",
+    "title": "Full Stack Web Development I",
+    "description": "Examines current uses of the World Wide Web for delivery of the sophisticated interactive applications used daily. Web applications offer several advantages over traditional, locally installable binaries including heterogeneous deployment, instantaneous access, continuous updates, and the possibility of collaboration at scale. These full stack web applications are typically more complex than their traditional counterparts, requiring the seamless integrating of numerous related technologies if end users are to have a productive experience and the system is to remain robust, performant, and secure. Students cannot receive credit for this course and CSE 183.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "juniors and seniors majoring in computer engineering, computer science, and computer game design.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 15 and CSE 15L, or CSE 30, or CSE 101. Enrollment is restricted to juniors and seniors majoring in computer engineering, computer science, and computer game design.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 76,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "CHIN 104",
+    "title": "Advanced Chinese: Readings in Literature",
+    "description": "Close readings in Chinese vernacular literature of recognized merit from contemporary and modern writers as wells as from models from the traditional period. Student are introduced to the basic critical issues, in Chinese, relating to narrative and drama, revealed by the works under discussion.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHIN 103 or CHIN 105 or CHIN 107 or CHIN 108; or by consent of instructor.",
+        "courses": [
+            [
+                "P",
+                "CHIN 103",
+                "CHIN 105",
+                "CHIN 107",
+                "CHIN 108",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

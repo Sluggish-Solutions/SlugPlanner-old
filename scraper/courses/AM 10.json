@@ -1,0 +1,47 @@
+{
+    "name": "AM 10",
+    "title": "Mathematical Methods for Engineers I",
+    "description": "Applications-oriented course on complex numbers and linear algebra integrating Matlab as a computational support tool. Introduction to complex algebra. Vectors, bases and transformations, matrix algebra, solutions of linear systems, inverses and determinants, eigenvalues and eigenvectors, and geometric transformations. Students cannot receive credit for this course and MATH 21.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): score of 400 or higher on the  mathematics placement examination (MPE)  or MATH 3.",
+        "courses": [
+            [
+                "P   400",
+                "MATH 3"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 250,
+            "filled seats": 246,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 295,
+            "filled seats": 290,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

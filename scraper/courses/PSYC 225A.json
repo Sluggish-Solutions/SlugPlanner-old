@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 225A",
+    "title": "Introduction to Developmental Research I",
+    "description": "Examines the rationale and techniques of research in developmental psychology. Topics include theories and paradigms in developmental psychology; translating theoretical ideas into researchable hypotheses; diversity issues in sampling; and conducting ethical research. Multiple-term course; students receive 6 credits in the second quarter of attendance; the grade and evaluation submitted for the final quarter applies to both quarters.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to psychology graduate students or with instructor's permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 5,
+            "filled seats": 5,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 9B",
+    "title": "Introduction to Research in Physics and Astrophysics",
+    "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

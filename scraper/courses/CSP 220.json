@@ -1,0 +1,32 @@
+{
+    "name": "CSP 220",
+    "title": "Economics for Coastal Sustainability",
+    "description": "Builds a foundation of economic concepts pertaining to the environment and explores tools for environmental valuation. Investigates the role for government action related to the environment, including estimation of costs and benefits for regulations and related policies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in CSP 200 and CSP 210. Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 13,
+            "priority": "high"
+        }
+    }
+}

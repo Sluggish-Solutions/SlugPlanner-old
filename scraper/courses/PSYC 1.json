@@ -1,0 +1,44 @@
+{
+    "name": "PSYC 1",
+    "title": "Introduction to Psychology",
+    "description": "Introduces prospective majors to the scientific study of behavior and mental processes and also provides an overview for non-majors. Emphasizes social, cognitive, developmental, and personality psychology and their interrelations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 293,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 245,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

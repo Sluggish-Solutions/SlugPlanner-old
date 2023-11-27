@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 108",
+    "title": "General Entomology",
+    "description": "Introduction to entomology including anatomy, physiology, systematics, evolution, behavior, and reproduction of the world's most diverse group of organisms. These topics are illustrated in several contexts, from the importance of insects as disease vectors to the historical and contemporary uses of insects by humans.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and  ENVS 100L required, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "SOCD 201A",
+    "title": "Introduction to Documentary Field Production and Editing",
+    "description": "Designed to provide supplemental instruction on specific topical and/or technical matters related to social documentation. Topics include technical standards and innovations within the field of social documentation, documentary subjects, location production, and/or  the work of individual professional documentarians. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to social documentation graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

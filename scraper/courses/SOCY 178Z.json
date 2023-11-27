@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 178Z",
+    "title": "Disability and Society",
+    "description": "An in-depth exploration of Disability Studies, an interdisciplinary field of research that seeks to question and critique dominant Western understandings of \"disability\" and to advance discussions around issues of intersectionality, equality, inclusionary politics of access, and social justice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This class is offered online synchronously. For info on crashing a sociology course, see: https://tinyurl.com/y9leu2um",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 46,
+            "priority": "unavailible"
+        }
+    }
+}

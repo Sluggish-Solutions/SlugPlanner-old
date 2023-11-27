@@ -1,0 +1,37 @@
+{
+    "name": "NLP 203",
+    "title": "Natural Language Processing III",
+    "description": "Third and final course in a series covering the core concepts and algorithms for the theory and practice of natural language processing (NLP)?the creation of computer programs that can understand, generate, and learn natural language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): NLP 201 and NLP 202.",
+        "courses": [
+            [
+                "P NLP 201"
+            ],
+            [
+                "NLP 202"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 27,
+            "priority": "low"
+        }
+    }
+}

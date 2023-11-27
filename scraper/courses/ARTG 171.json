@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 171",
+    "title": "Game Design Studio II",
+    "description": "Students craft the core loop of their yearlong game project. Students build the game, examine player feedback, and repeat the process to make the game better. This course places particular emphasis on advanced production techniques for working in teams, as well as software engineering practices for software design, software testing, and build management. This course is part two of the art and design, games and playable media capstone requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior art and design: games and playable media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 170. Enrollment is restricted to senior art and design: games and playable media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "7",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 119,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

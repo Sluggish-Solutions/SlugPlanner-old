@@ -1,0 +1,34 @@
+{
+    "name": "CHEM 109",
+    "title": "Intermediate Organic Chemistry and Applications to Biology",
+    "description": "Integrated study of fundamental organic chemistry, with emphasis on materials especially relevant to biological sciences.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8B or equivalent.",
+        "courses": [
+            [
+                "P CHEM 8B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 35,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 121",
+    "title": "The Struggle for K-12 Ethnic Studies",
+    "description": "Critical analysis of the movement for K-12 ethnic studies in historical and contemporary time periods with a particular focus on the Liberated Ethnic Studies Model Curriculum. Students read, discuss, and analyze past and present K-12 ethnic studies research, policy, and practice to deepen their knowledge and strengthen their ability to critique issues in K-12 ethnic studies education while reflecting on how the concepts and questions that arise relate to their own educational experiences and lives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Also offered as CRES 121",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 99,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

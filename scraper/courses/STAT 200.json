@@ -1,0 +1,32 @@
+{
+    "name": "STAT 200",
+    "title": "Research and Teaching in Statistics",
+    "description": "Focuses on basic teaching techniques for teaching assistants, including responsibilities and rights, leading discussion or lab sessions, presentation techniques, maintaining class records, and grading. Examines research and professional training, including use of library, technical writing, giving seminar and conference talks, and ethical issues in science and engineering.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

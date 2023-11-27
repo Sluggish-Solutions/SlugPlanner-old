@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 9H",
+    "title": "Boating: Basic Rowing",
+    "description": "Coeducational. Course designed to cover types of rowing boats, nomenclature, fundamental skills, and specific safety and rescue aspects related to the activity. Students will row singly as well as in groups using 15-foot to 22-foot rowing dories. Prerequisite(s): swimming ability.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 14,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 15,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

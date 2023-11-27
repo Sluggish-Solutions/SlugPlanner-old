@@ -1,0 +1,38 @@
+{
+    "name": "BIOE 281Y",
+    "title": "Topics in Climate Change Biology",
+    "description": "This weekly seminar course centers on reading and discussing of selected publications along with peer review of research plans, grant proposals, manuscripts, lectures, and conference presentations. Students support the development and progress of graduate students in the Ecology and Evolutionary Biology department whose thesis work and interests align with the course topics including: Reviewing impacts of extreme climate events, Inferring microevolutionary processes from genomic time series, Understanding community composition change in marine ecosystems. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

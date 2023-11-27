@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 1C",
+    "title": "University Concert Choir",
+    "description": "A study of selected works for mixed chorus, with emphasis on masterworks for chorus and orchestra, culminating in one or more public concerts. Familiarity with basic music notation recommended. Admission by audition with conductor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with MUSC 103.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 43,
+            "filled seats": 23,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 27,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

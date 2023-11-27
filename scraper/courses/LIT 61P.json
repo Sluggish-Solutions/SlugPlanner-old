@@ -1,0 +1,32 @@
+{
+    "name": "LIT 61P",
+    "title": "Introduction to Reading Poetry",
+    "description": "An introduction to selected modes and forms of poetry with an emphasis on close textual analysis. Examples will be taken from different historical periods and poetic traditions. Course topic changes; please see the Class Search for the current topic.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Creative Critical Acts - Writing Across Together offers an introduction to contemporary poetry that speaks to questions of form, composition, and community. Together, we shall look to a number of poets, writers and artists that provide works, reflections, and conversations to help us encounter poetry as a medium that moves through various time periods, formal and informal modes, as well as local and diasporic communities. We'll focus on work, primarily, that wrestles with questions of identity, often via race, gender, sexuality, class, and language. To this end we will explore poems ranging from the confessional, and formal lyric, to the experimental; from the digital and concrete to hybrid forms of poetry i.e. freestyle rap, songs, visual art, and performance. Students will both study poetry across forms, composing critical prose arguments about what they encounter, while also offering their own original creative writing via poetry and other related forms. *** Enroll in Lecture and Associated Discussion Section ***",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 145,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 191E",
+    "title": "Feminist Theory and Art Production",
+    "description": "A close reading of works of art and theoretical texts by feminists working from 1970 to the present. The course encourages debate around the past, present, and future relevance of feminist theories to visual cultural studies, paying particular attention to issues of cultural and ethnic difference.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 18,
+            "priority": "unavailible"
+        }
+    }
+}

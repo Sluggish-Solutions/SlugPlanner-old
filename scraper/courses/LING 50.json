@@ -1,0 +1,44 @@
+{
+    "name": "LING 50",
+    "title": "Introduction to Linguistics",
+    "description": "An introduction to the major areas, problems, and techniques of modern linguistics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. This course will be offered with in-person instruction for the lecture, and a choice of in-person or remote, synchronous discussion sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 145,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 118,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 269,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

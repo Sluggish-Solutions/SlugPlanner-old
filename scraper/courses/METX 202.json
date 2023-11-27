@@ -1,0 +1,32 @@
+{
+    "name": "METX 202",
+    "title": "Cell and Molecular Toxicology",
+    "description": "Emphasizes biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Students cannot receive credit for this course and METX 102 or BIOL 122..",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

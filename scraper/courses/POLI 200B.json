@@ -1,0 +1,32 @@
+{
+    "name": "POLI 200B",
+    "title": "Social Forces and Political Change Core Seminar",
+    "description": "Concerns transformation of social forces into political ones. Focuses on formation, articulation, mobilization, and organization of political interests and identities, their mutual interaction, and their effects on state structures and practices and vice versa. Major themes are 1) social bases of political action: class, gender, race, and other determinants of social division and political identity and 2) relevant forms of political agency and action, including development of political consciousness and representation of interests and identities in the public sphere.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

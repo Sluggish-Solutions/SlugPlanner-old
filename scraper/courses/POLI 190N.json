@@ -1,0 +1,32 @@
+{
+    "name": "POLI 190N",
+    "title": "Problems and Solutions in U.S. Politics",
+    "description": "Examines problems and potential solutions to issues in U.S. politics, such as presidential power, partisan polarization, money in elections, foreign and security policy, civil rights and liberties, and taxation and spending.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior politics and Latin American and Latino studies/politics combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

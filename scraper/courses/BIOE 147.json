@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 147",
+    "title": "Community Ecology",
+    "description": "Develops the major themes of community biology: structure, trophic dynamics, succession, complex interactions among species, herbivory, evolution and coevolution. Uses case histories of well-studied marine and terrestrial systems. Students cannot receive credit for this course and BIOE 247.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOE 107, BIOE 108, BIOE 145, BIOE 155 or 159A; or ENVS 24 by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                "BIOE 107 BIOE 108 BIOE 145 BIOE 155",
+                "159A",
+                "ENVS 24"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 55,
+            "filled seats": 40,
+            "priority": "low"
+        }
+    }
+}

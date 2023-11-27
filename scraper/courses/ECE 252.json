@@ -1,0 +1,34 @@
+{
+    "name": "ECE 252",
+    "title": "Wireless Communications",
+    "description": "In-depth study of the physical layer of wireless communications. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 152. (Formerly EE 252.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 251.",
+        "courses": [
+            [
+                "P ECE 251"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 152.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

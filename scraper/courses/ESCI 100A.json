@@ -1,0 +1,32 @@
+{
+    "name": "ESCI 100A",
+    "title": "Fundamentals of Environmental Sciences",
+    "description": "Introduces fundamental concepts for quantitative analysis of environmental problems and their application to complex systems focusing on algebraic tools. Key concepts include box models, mass and energy balances (including chemical processes), turning word problems into mathematical statements, and estimation. (Formerly offered as Introduction to Environmental Sciences.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "environmental sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A or MATH 19A, CHEM 3B or CHEM 4B or CHEM 1A, and PHYS 6A or PHYS 5A.  Enrollment is restricted to environmental sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 144,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

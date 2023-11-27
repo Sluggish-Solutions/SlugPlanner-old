@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 194A",
+    "title": "Anthropology of Dead Persons",
+    "description": "Explores the cultural meanings of dead bodies and dead persons, including memorialization; the body in the United States legal system; cadavers in education and research; dead persons in mass disasters and human-rights cases; and repatriation of the dead. Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1, ANTH 2, and ANTH 3. Enrollment restricted to senior anthropology and  Earth sciences/anthropology combined majors. Enrollment by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

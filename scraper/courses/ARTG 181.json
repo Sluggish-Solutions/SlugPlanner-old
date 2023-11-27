@@ -1,0 +1,43 @@
+{
+    "name": "ARTG 181",
+    "title": "Portfolio",
+    "description": "Explores and presents multiple approaches and methods for documenting, describing and demonstrating a creative practice and a collection of creative work. Students will develop artist-centered narratives, curate and design portfolio materials, and investigate tools, media formats, and platforms useful for communicating an individual creative perspective and body of work. Portfolios and other descriptive materials will also be discussed from an interactive and playable framework, with an emphasis on both individual expression as well as viewer/audience experience.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of Entry Level Writing and Composition requirements, and completion of ARTG 10, ARTG 20, and one upper-division ARTG course. Seniors majoring in Art & Design: Games + Playable Media may enroll without course prerequisites.",
+        "courses": [
+            [
+                "P S  E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "ARTG 10 ARTG 20"
+            ],
+            [
+                "ARTG  S   A  D G  P M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

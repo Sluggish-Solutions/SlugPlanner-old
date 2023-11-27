@@ -1,0 +1,44 @@
+{
+    "name": "BME 281Z",
+    "title": "Seminar in Population and Evolutionary Genomics",
+    "description": "Covers major recent topics in evolutionary and population genomics. Consists primarily of discussions of recent literature and updates on group members' research. Enrollment is available only to members of the Corbett-Detig laboratory. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 6,
+            "filled seats": 7,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 6,
+            "filled seats": 9,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 5,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

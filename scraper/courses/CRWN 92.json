@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 92",
+    "title": "Social and Creative Entrepreneurship",
+    "description": "Helps students discover and develop their own business idea that does the world good. Examines leadership and provides tools to research community issues and to develop sustainable business models. Guest lecturers and project mentors introduce students to business and civil leaders.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

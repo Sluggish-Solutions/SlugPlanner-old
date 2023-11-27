@@ -1,0 +1,40 @@
+{
+    "name": "CRES 160",
+    "title": "Latina/o/x Geographies",
+    "description": "Explores questions like: Who is Latinx? What communities does this include/exclude? How extensive of a geography does Latinidad cover? What is the political usefulness of Latinidad in the face of overwhelming heterogeneity? How does Latinx Geographies reckon with or overcome the anti-Black and de-Indigenizing nationalist projects of Latinidad in Latin America and in the U.S.? Students learn how to define Latinx geographies and evaluate its disciplinary boundaries and assess the work of Latinx geographers and their ability to negotiate historic tensions within academia and Latinx studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10.",
+        "courses": [
+            [
+                "P CRES 10"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 13,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

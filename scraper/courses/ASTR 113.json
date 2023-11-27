@@ -1,0 +1,39 @@
+{
+    "name": "ASTR 113",
+    "title": "Introduction to Cosmology",
+    "description": "Physical examination of our evolving universe: the Big Bang model; simple aspects of general relativity; particle physics in the early universe; production of various background radiations; production of elements; tests of geometry of the universe; dark energy and dark matter; and formation and evolution of galaxies and large-scale structure.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 102"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 16,
+            "priority": "very low"
+        }
+    }
+}

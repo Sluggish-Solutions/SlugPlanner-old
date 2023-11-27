@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 201B",
+    "title": "Environmental Studies In Practice",
+    "description": "The second course in a two-quarter sequence that is designed for beginning graduate students in environmental studies and in any other related field. Introduces interdisciplinary approaches of environmental studies and is an experiential, hands-on class focused on a specific environmental problem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

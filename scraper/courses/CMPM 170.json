@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 170",
+    "title": "Game Design Studio I",
+    "description": "First of a three-course capstone sequence for the computer game design program. Students work in teams to develop a comprehensive game design for a substantial computer game, including detailed storyline, level design, artistic approach, implementation technologies, and art-asset pipeline. Emphasis placed on creating novel, artistic game design concepts. Includes design reviews and formal presentations. Companion lectures cover advanced topics in game design, game programming, and software project management.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Computer science: computer game design majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; CMPM 120, ARTG 120 and CSE 111. Enrollment is restricted to Computer science: computer game design majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 130,
+            "filled seats": 158,
+            "priority": "high"
+        }
+    }
+}

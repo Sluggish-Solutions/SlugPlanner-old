@@ -1,0 +1,41 @@
+{
+    "name": "ECON 135",
+    "title": "Corporate Finance",
+    "description": "An analysis of financial policies of business enterprises. Topics include cash flow analysis, stock and bond valuation, asset pricing models, capital budgeting, financial market institutions, and financial planning.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 10A; and ECON 100A or ECON 100M; and ECON 113.",
+        "courses": [
+            [
+                "P ECON 10A"
+            ],
+            [
+                "ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 58,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

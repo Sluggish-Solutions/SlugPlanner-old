@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 124A",
+    "title": "Arts of Ancient Southeast Asia",
+    "description": "Focuses on Hindu and Buddhist arts of ancient Southeast Asia (Indonesia, Cambodia, Vietnam, and Thailand). Materials covered include indigenous megalithic arts, stone sculptures, and monumental temple architecture such as Angkor Wat, Borobudur, Prambanan, and the Bayon.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 64,
+            "priority": "unavailible"
+        }
+    }
+}

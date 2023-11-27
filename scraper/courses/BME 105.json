@@ -1,0 +1,32 @@
+{
+    "name": "BME 105",
+    "title": "Genetics in the Genomics Era",
+    "description": "Principles of genetics and genomics focusing on how sequencing technologies enable us to understand gene function, genotype to phenotype relationships, and genetic inheritance.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A. Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 76,
+            "priority": "high"
+        }
+    }
+}

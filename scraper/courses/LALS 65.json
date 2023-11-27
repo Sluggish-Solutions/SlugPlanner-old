@@ -1,0 +1,32 @@
+{
+    "name": "LALS 65",
+    "title": "Religion and Revolution in Latin America",
+    "description": "Examines the religious beliefs and practices surrounding the revolutionary movements for social change in Latin America with a particular focus on liberation theology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Contactlalsadvising@ucsc.eduwith enrollment questions.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 199,
+            "filled seats": 202,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "LIT 179A",
+    "title": "Advanced Writing: Fiction",
+    "description": "Intensive work in writing fiction. Critical approach designation: Genres. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "creative writing literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to creative writing literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 22,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

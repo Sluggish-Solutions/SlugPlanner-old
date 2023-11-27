@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 226",
+    "title": "General Relativity",
+    "description": "Develops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

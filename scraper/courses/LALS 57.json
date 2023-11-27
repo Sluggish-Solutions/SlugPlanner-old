@@ -1,0 +1,32 @@
+{
+    "name": "LALS 57",
+    "title": "Drugs, Addiction, and Recovery in the Americas",
+    "description": "Course moved beyond behaviorist and neurobiological examinations of drug use, addiction, and recovery to explore the social, cultural, political, and embodied contours and contexts of these phenomena among Latinx and Latin American communities. The history and consequences of punitive approaches to drug use, drug markets, addiction, and recovery in both the U.S. and Latin America and their impacts on Latinx communities are explored. Alternative approaches to punitive drug policies such as harm reduction also discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 137,
+            "filled seats": 132,
+            "priority": "high"
+        }
+    }
+}

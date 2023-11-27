@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 215L",
+    "title": "Exercises in Geographic Information Systems",
+    "description": "Exercises in Geographic Information Systems and Remote Sensing that demonstrate the development of digital geographic data. Students gain hands-on experience with developing datasets, using imagery to create GIS layers, performing spatial analysis, and utilizing GPS technology. Emphasis placed on environmental applications. Students cannot receive credit for this course and ENVS 115L.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 215A is required. Enrollment is restricted to environmental studies graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 103,
+            "priority": "high"
+        }
+    }
+}

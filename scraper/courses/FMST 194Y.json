@@ -1,0 +1,32 @@
+{
+    "name": "FMST 194Y",
+    "title": "Sonic Worlds: Voice, Sound, Music",
+    "description": "What would we learn about the pressing questions of our time if we centered sound, noise, voice, and music? To think with sound or to think sonically ''is to think conjuncturally about sound and culture.'' Such a ''sonic imagination,'' not only enables us to immerse ourselves in the questions and problems of our time but has the potential to ''redescribe them from unexpected standpoints.'' Thinking with a feminist and sonic imagination, this course is interested in exploring conjunctures and culture by using sound as its point of departure. It serves as an immersive introduction to sound studies and as a senior seminar encourages students to center soundscapes in their own research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior feminist studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 5,
+            "priority": "unavailible"
+        }
+    }
+}

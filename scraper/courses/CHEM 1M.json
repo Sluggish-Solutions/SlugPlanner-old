@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 1M",
+    "title": "General Chemistry Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C and important experimental techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in CHEM 1B or CHEM 4A is required. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in the main lab lecture course in order to enroll in one of the secondary three-hour weekly lab sections. There is no lab lecture for the course. Attendance is taken at the start of the lab section. Late or absent students will be dropped. Secondary lab sections will meet starting the first full week of classes (Oct 3-5). Enrollment will close Monday, October 9.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 108,
+            "filled seats": 106,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 240,
+            "filled seats": 227,
+            "priority": "high"
+        }
+    }
+}

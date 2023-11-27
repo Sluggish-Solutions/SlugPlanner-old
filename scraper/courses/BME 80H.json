@@ -1,0 +1,32 @@
+{
+    "name": "BME 80H",
+    "title": "The Human Genome",
+    "description": "Course will focus on understanding human genes. Accessible to non-science majors. Will cover principles of human inheritance and techniques used in gene analysis. The evolutionary, social, ethical, and legal issues associated with knowledge of the human genome will be discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 47,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 1B",
+    "title": "General Chemistry",
+    "description": "An integrated study of general chemistry. Coverage includes quantum mechanics; the hydrogen atom; many-electron atoms and chemical periodicity; elementary covalent bonding; transition metals; and chemical kinetics. Prerequisite(s): Strong high-school level chemistry is strongly recommended; taking the online chemistry self-assessment examination is strongly recommended. Concurrent enrollment in CHEM 1M is recommended. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 191,
+            "filled seats": 191,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 382,
+            "filled seats": 351,
+            "priority": "high"
+        }
+    }
+}

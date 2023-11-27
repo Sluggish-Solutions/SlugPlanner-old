@@ -1,0 +1,34 @@
+{
+    "name": "MATH 125",
+    "title": "Applied Topology",
+    "description": "Introduction to the theoretical foundations of topological data analysis (TDA), which is the study of datasets using tools from topology. Includes\nsome classical material from topology, elements of homological algebra and an introduction to the notion of persistence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Math 117.",
+        "courses": [
+            [
+                "P M 117"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

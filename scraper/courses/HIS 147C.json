@@ -1,0 +1,32 @@
+{
+    "name": "HIS 147C",
+    "title": "South Asia in the 20th Century",
+    "description": "Introduces historical change in 20th-century South Asia. Topics include: modernity, gender, state formation, nationalism, democracy, and development. Course material includes interdisciplinary secondary works, primary reading by important political actors, and films. Prior knowledge of South Asia is useful, but not necessary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

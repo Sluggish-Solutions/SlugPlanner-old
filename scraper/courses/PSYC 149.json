@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 149",
+    "title": "Community Psychology: Transforming Communities",
+    "description": "Introduces community psychology, a discipline that blends social psychology, sociology, and anthropology. Topics include levels of analysis, ecologies, prevention, intervention, feminisms, empowerment, sense of community, coalition building, and social justice and action.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 115,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "NLP 243",
+    "title": "Deep Learning for Natural Language Processing",
+    "description": "Introduction to machine learning models and algorithms for natural language processing (NLP) including deep learning approaches. Targeted at professional master's degree students, course focuses on applications and current use of these methods in industry. Topics include: an introduction to standard neural network learning methods such as feed-forward neural networks; recurrent neural networks; convolutional neural networks; and encoder-decoder models with applications to natural language processing problems such as utterance classification and sequence tagging. (Formerly Machine Learning for Natural Language Processing.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to natural language processing graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

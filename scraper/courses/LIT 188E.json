@@ -1,0 +1,32 @@
+{
+    "name": "LIT 188E",
+    "title": "Teatro del Siglo de Oro espa?ol",
+    "description": "Speaking, reading, and writing proficiency in Spanish required. Studies in Spanish Golden Age theater. Critical approach designations: Histories, Media. Distribution requirement: Pre-1750.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 21,
+            "priority": "low"
+        }
+    }
+}

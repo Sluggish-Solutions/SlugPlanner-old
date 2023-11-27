@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 196U",
+    "title": "Historical Anthropology",
+    "description": "Provides seniors in anthropology a capstone experience. Involves critical engagement with archaeological, ethnohistorical, ethnographic, and oral line of evidence to evaluate the outcomes of indigenous people's interactions with different forms of missionary, settler, and mercantile colonialism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology and  Earth sciences/Anthropology combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and  Earth sciences/Anthropology combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

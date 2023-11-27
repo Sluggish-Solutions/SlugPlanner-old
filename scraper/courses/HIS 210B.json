@@ -1,0 +1,32 @@
+{
+    "name": "HIS 210B",
+    "title": "Readings in U.S. History",
+    "description": "Introduction to major themes and controversies in the interpretation of U.S. history. Readings cover both chronological eras and topical subjects, often in a comparative context: 19th century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

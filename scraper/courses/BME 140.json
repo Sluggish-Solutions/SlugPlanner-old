@@ -1,0 +1,45 @@
+{
+    "name": "BME 140",
+    "title": "Bioinstrumentation",
+    "description": "Introduces the fundamental aspects of bioinstrumentation that are essential for beginning-level employment in clinical, pharmaceutical , and biotechnology laboratories. The advantages and disadvantages of several instruments are discussed and demonstrated, such as thermocycler, polymerase chain reaction (PCR), next-generation DNA sequencing platforms, pyrosequencing, fabless nanofabrication, ion-sensitive measurements, microarray fabrication, and fluorescent-activated cell sorter (FACS).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 5; or BME 51A and BME 51B; or EE 101 and EE 101L; or BIOL 100; or BIOC 100A.",
+        "courses": [
+            [
+                "P",
+                "BME 5",
+                [
+                    "BME 51A",
+                    "BME 51B"
+                ],
+                [
+                    "EE 101",
+                    "EE 101L"
+                ],
+                "BIOL 100",
+                "BIOC 100A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 18,
+            "filled seats": 18,
+            "priority": "high"
+        }
+    }
+}

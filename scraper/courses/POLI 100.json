@@ -1,0 +1,44 @@
+{
+    "name": "POLI 100",
+    "title": "Politics Writing-Intensive Seminar",
+    "description": "Focuses on methods and approaches to writing effective and persuasive argumentative essays as a core component of the study of politics. Topics vary by instructor, and consider central concepts and issues in political life. The course material is explored as a means through which to develop basic and advanced skills in writing, as well as in argumentation, analysis, and critical engagement with readings through seminar-style discussions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 21,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 46,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

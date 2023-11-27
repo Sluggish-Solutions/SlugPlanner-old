@@ -1,0 +1,32 @@
+{
+    "name": "LALS 135",
+    "title": "El Salvador: Expresiones Culturales",
+    "description": "Course taught in Spanish. Focuses on El Salvador, with attention to cultural expressions and representations, literature, historical perspectives, and contemporary societies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

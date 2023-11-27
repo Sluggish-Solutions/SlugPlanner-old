@@ -1,0 +1,32 @@
+{
+    "name": "PRTR 151",
+    "title": "The Deep Read: Special Topics",
+    "description": "Small, discussion-based seminar held in conjunction with The Humanities Institute's community reading initiative, The Deep Read. The Deep Read aims to bring together UCSC undergraduates, faculty, and alumni to discuss and think deeply about a text and its key themes and issues. Course is a comprehensive study of The Deep Read book, the author's work, and its relevant contexts. While the textual analysis framework remains consistent every year, the topic, author, and key text changes each year. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholars Program (CSP) students during first pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This year?s course will feature climate journalist Elizabeth Kolbert?s nonfiction, specifically The Sixth Extinction and Under a White Sky, in conversation with other climate narrative genres, from film and comics to realist and dystopian fiction, to consider the limits and possibilities of various narrative forms and to understand the role they play in raising awareness about climate change and promoting climate justice.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        }
+    }
+}

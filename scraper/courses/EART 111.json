@@ -1,0 +1,41 @@
+{
+    "name": "EART 111",
+    "title": "Mathematics in the Earth Sciences",
+    "description": "Series and sequences, vectors, 3D analytic geometry, partial differentiation, matrix algebra, and differential equations with applications in the Earth sciences. Topics include matrix manipulation, systems of linear equations, least-squares, Taylor series, gradients, optimization, analytic and numerical solutions to differential equations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and MATH 11B or MATH 19B or AM 15B.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B",
+                "AM 15B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

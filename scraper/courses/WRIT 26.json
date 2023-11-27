@@ -1,0 +1,42 @@
+{
+    "name": "WRIT 26",
+    "title": "Writing About Language",
+    "description": "Students explore language acquisition and how to best optimize their own language learning by engaging in a primary research project. Through the research project, students learn to use academic discourse conventions in their own writing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): WRIT 25, AWPE-MLS score of 4 or 5, or course selection via Directed Self-Placement.",
+        "courses": [
+            [
+                "P WRIT 25 AWPEMLS   4",
+                "5",
+                "D SP"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

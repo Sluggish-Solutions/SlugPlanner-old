@@ -1,0 +1,51 @@
+{
+    "name": "EART 131",
+    "title": "Sea Level Change",
+    "description": "From the origin of the oceans to the modern climate crisis, this course aims to explore sea-level change over a wide range of timescales. The course links a series of solid Earth processes, such as mantle convection, viscoelastic deformation, and plate tectonics, to the past climate record. Students investigate how these processes contribute to our understanding of past, present, and future changes in sea level and climate.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and MATH 11A or MATH 19A or MATH 20A, and PHYS 5A or PHYS 6A.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "MATH 11A",
+                "MATH 19A",
+                "MATH 20A"
+            ],
+            [
+                "PHYS 5A",
+                "PHYS 6A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "DANM 250E",
+    "title": "Collaborative Research Project Group: Experimental Play",
+    "description": "Three-quarter, collaborative-research, project group encompasses a range of faculty-initiated projects that investigate computer games and related forms to engage audiences, make arguments, tell stories, and shape social space through creation of new games and through reading and playing related works. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 5,
+            "filled seats": 3,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "CSE 280N",
+    "title": "Seminar on Networks",
+    "description": "Weekly seminar series covering topics of current research in networks and networked systems. Current research work and literature in these areas are discussed. Prerequisite(s): permission of instructor. Enrollment is restricted to graduate students. (Formerly Computer Engineering 280N.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

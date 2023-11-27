@@ -1,0 +1,32 @@
+{
+    "name": "HIS 167B",
+    "title": "The Second World War in Europe",
+    "description": "Making use of multiple perspectives, this course explores the origins of the Second World War, its course and outcome, and its transformative effects on European society, culture, polities, and demographics. Closely examines the war's impact on diverse civilian populations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 57,
+            "priority": "high"
+        }
+    }
+}

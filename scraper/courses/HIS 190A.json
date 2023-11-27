@@ -1,0 +1,32 @@
+{
+    "name": "HIS 190A",
+    "title": "Slavery and Race in Latin America",
+    "description": "Covers comparative history of slavery in Latin America with questions of race in the colonial and national periods and key moments and debates in the historiography of slavery and its relation to ideologies of the past and the nations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and HIS 100, and two upper-division history courses; or permission of instructor. Enrollment is restricted to junior and senior history majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 291",
+    "title": "Molecular, Cellular, and Developmental Biology Seminar",
+    "description": "Topics of current interest in molecular, cellular, and developmental biology are presented weekly by graduate students, faculty, and guest speakers. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 84,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 75,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

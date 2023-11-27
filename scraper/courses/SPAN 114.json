@@ -1,0 +1,53 @@
+{
+    "name": "SPAN 114",
+    "title": "Advanced Conversation and Composition",
+    "description": "Advanced conversation and composition based on extensive readings in the humanities and social sciences. Students interested in this course who have not taken the prerequisite should meet with the instructor prior to the first class meeting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements; SPAN 6, or SPHS 6, or by instructor consent.",
+        "courses": [
+            [
+                "P   E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "SPAN 6",
+                "SPHS 6"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 26,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

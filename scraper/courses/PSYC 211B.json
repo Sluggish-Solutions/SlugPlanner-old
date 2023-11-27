@@ -1,0 +1,34 @@
+{
+    "name": "PSYC 211B",
+    "title": "Social Justice, Society, and Policy",
+    "description": "Provides an introduction to social psychology, focusing on empirical and theoretical developments related to social justice and group and intergroup dynamics. Topics include: prejudice and discrimination, power, collective action, and psychology's relationship to social policy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to psychology graduate students. Undergraduates planning graduate work in social psychology may enroll with permission of instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

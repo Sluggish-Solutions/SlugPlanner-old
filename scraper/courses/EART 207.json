@@ -1,0 +1,34 @@
+{
+    "name": "EART 207",
+    "title": "Tectonics",
+    "description": "An overview of tectonic theory and processes for application to the Earth sciences. The course explores the primary tools of tectonic interpretation including plate kinematics, rheology, plate boundary dynamics, and the behavior of active fault systems. Taught in conjunction with EART 152. Students cannot receive credit for this course and EART 152.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): graduate standing or permission of instructor.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

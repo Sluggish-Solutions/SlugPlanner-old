@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 117",
+    "title": "Contemporary Art of Africa",
+    "description": "Examines contemporary arts in post-colonial Africa, 1960-present, including new popular cultural forms; arts resulting from new class and national structures; commodification of culture; Pan-Africanism; exhibitionism; and questions of destiny.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

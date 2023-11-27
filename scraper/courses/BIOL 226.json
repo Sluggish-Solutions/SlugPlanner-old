@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 226",
+    "title": "Advanced Molecular Neuroscience",
+    "description": "Basis of neural behavior at the cellular, molecular and system levels. First half of course focuses on cellular, molecular, and developmental aspects of the nervous system and covers two sensory systems: olfaction and auditory. Last half of course concerns higher-level functions of the nervous system, such as processing and integrating information. Discusses human diseases and disorders. Students cannot receive credit for this course and BIOL 126.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with BIOL 126",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "BME 281F",
+    "title": "Blood Cell Development",
+    "description": "Weekly seminar covering topics in current research on blood cell development and stem cell biology. Current research and literature in these areas discussed. Students lead some discussions and participate in all meetings. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 3,
+            "filled seats": 2,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 5,
+            "filled seats": 4,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 2,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

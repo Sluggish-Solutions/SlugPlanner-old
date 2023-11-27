@@ -1,0 +1,34 @@
+{
+    "name": "ECON 205A",
+    "title": "Advanced Macroeconomic Theory I",
+    "description": "Modern macroeconomic theory: theories of growth and business cycle fluctuations; theories of household and firm behavior; models of financial markets and labor markets; recent developments in the analysis of macroeconomic policy. Courses 205A, 205B, and 205C must be taken in sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to Ph.D. students in economics or by permission of instructor.",
+        "courses": [
+            [
+                "D"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

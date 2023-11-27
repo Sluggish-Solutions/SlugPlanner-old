@@ -1,0 +1,35 @@
+{
+    "name": "ECON 139A",
+    "title": "The Economics of Electronic Commerce",
+    "description": "An analysis of the broad spectrum of issues affecting commercial uses of the Internet and the next-generation information infrastructure. Uses economics to examine market structure, pricing quality, intellectual property rights, security, electronic payments and currencies, and public policy implications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M, or permission of instructor.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 125,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

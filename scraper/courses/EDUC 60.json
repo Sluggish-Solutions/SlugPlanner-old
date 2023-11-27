@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 60",
+    "title": "Schooling, Democracy, and Justice",
+    "description": "Survey course exploring the foundations of public education in the United States, including: the social and political forces within schools and school systems in the U.S. the history and formation of the system and the educational policies and practices in our culturally and linguistically diverse nation. (Formerly Introduction to Education: Learning, Schooling, and Society.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 180,
+            "filled seats": 177,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 184,
+            "priority": "high"
+        }
+    }
+}

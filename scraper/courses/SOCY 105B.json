@@ -1,0 +1,38 @@
+{
+    "name": "SOCY 105B",
+    "title": "Contemporary Social Theory",
+    "description": "Surveys major theoretical perspectives currently available in the discipline including functionalism, symbolic interactionism, ethnomethodology, conflict theory, critical theory, neo-Marxism, and feminist theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 105A and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. In-person and remote sections options are available",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 104,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 110,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

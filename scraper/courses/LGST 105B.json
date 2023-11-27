@@ -1,0 +1,34 @@
+{
+    "name": "LGST 105B",
+    "title": "Early Modern Political Thought",
+    "description": "Studies republican and liberal traditions of political thought and politics. Authors studied include Hobbes, Locke, and Rousseau. Examination of issues such as authorship, individuality, gender, state, and cultural difference.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as POLI 105B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 97,
+            "priority": "high"
+        }
+    }
+}

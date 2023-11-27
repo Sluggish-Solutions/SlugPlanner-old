@@ -1,0 +1,32 @@
+{
+    "name": "CRES 190A",
+    "title": "Critical Race Feminisms",
+    "description": "Focuses on key learning outcomes of humanistic research and writing: developing a method for critical race feminist analysis, identifying objects and fields of study, formulating an appropriately narrow topic and thesis, identifying and critiquing sources, and completing well-structured written argumentation. Readings offer key theoretical models in critical race and ethnic studies, feminist studies, and queer theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "critical race and ethnic studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and CRES 100; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to critical race and ethnic studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 18,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

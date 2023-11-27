@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 15",
+    "title": "World Society",
+    "description": "Introduction to comparative and historical sociology. Focuses on the global integration of human society. Examines social changes such as industrialization, globalization, colonial rule, and the rise of Islamic fundamentalism. Uses social theory (including ideas from Marx, Weber, and Adam Smith) to explore the making of institutions like the nation-state, the World Trade Organization, the World Bank, and the International Monetary Fund. Fulfills lower-division major requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 224,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 121",
+    "title": "Orchestration",
+    "description": "A study of the nature of each instrument of the orchestra. Scoring for various small instrumental combinations, culminating in a transcription for full orchestra.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30C.",
+        "courses": [
+            [
+                "P MUSC 30C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ECE 80B",
+    "title": "Engineering Innovations for Medicine and Natural Sciences",
+    "description": "Introduces to a lay audience engineering innovations that have had an impact in medicine and biology. Course is designed for non-engineering majors, or pre-med students, as well as pre-engineering to provide a broad understanding of how technology has improved and keeps on improving healthcare.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 31,
+            "priority": "low"
+        }
+    }
+}

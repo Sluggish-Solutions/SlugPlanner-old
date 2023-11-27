@@ -1,0 +1,39 @@
+{
+    "name": "ASTR 118",
+    "title": "Physics of Planetary Systems",
+    "description": "Determination of the physical properties of the solar system, its individual planets, and extrasolar planetary systems through ground-based and space-based observations, laboratory measurements, and theory. Theories of the origin and evolution of planets and planetary systems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A; and PHYS 5B or PHYS 6B.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "PHYS 5B",
+                "PHYS 6B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in the lecture and secondary discussion section. The secondary discussion section is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "METX 245B",
+    "title": "Scientific Communication in Microbiology and Environmental Toxicology B",
+    "description": "Continuation of METX 245A. Students develop and refine a capstone in-depth report in a written form and as an oral presentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): METX 245A. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 5,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

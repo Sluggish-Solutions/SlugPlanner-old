@@ -1,0 +1,35 @@
+{
+    "name": "MATH 160",
+    "title": "Mathematical Logic I",
+    "description": "Propositional and predicate calculus. Resolution, completeness, compactness, and Lowenheim-Skolem theorem. Recursive functions, Godel incompleteness theorem. Undecidable theories. Hilbert's 10th problem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 25,
+            "priority": "very low"
+        }
+    }
+}

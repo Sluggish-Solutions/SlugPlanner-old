@@ -1,0 +1,50 @@
+{
+    "name": "ECON 101",
+    "title": "Managerial Economics",
+    "description": "Analysis of the theory and practice of decision making in business firms, applying the concepts and techniques of microeconomics. Topics may include pricing schemes, non-price competition, internal organization of firms, incentive contracts, asymmetric information, and game theory. Case studies are used to illustrate some topics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M; and ECON 113.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 64,
+            "filled seats": 63,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 64,
+            "filled seats": 68,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 58,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

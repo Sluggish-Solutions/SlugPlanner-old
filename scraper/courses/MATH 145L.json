@@ -1,0 +1,34 @@
+{
+    "name": "MATH 145L",
+    "title": "Introductory Chaos Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in MATH 145. One three-hour session per week in microcomputer laboratory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in MATH 145 is required.",
+        "courses": [
+            [
+                "C   MATH 145"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

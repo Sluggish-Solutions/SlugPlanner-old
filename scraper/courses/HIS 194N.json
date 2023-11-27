@@ -1,0 +1,32 @@
+{
+    "name": "HIS 194N",
+    "title": "Urbanites in the Global South, 18th Century to the Present",
+    "description": "Urbanization is an important aspect of the making of the Global South. This course introduces the histories of urbanization from the 18th Century to the present. Students read the works of historians, anthropologists, geographers, and sociologists.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100, and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

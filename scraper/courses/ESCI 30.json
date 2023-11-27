@@ -1,0 +1,32 @@
+{
+    "name": "ESCI 30",
+    "title": "Biological Principles of Environmental Sciences",
+    "description": "Introduction to biology and ecology for environmental sciences, focusing on the role of biological organisms within the Earth system. Topics span molecular/organismal interactions, such as photosynthesis and respiration, to global biogeochemical cycles including the role of microbes, net community production, and contaminant distributions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 92,
+            "filled seats": 93,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "GAME 232",
+    "title": "Advanced Game Technologies",
+    "description": "Exposes students to cutting-edge research technologies enabling the creation of games not possible with off-the-shelf techniques. Students learn how understand research to incorporate such technologies into a game. Students create rapid prototypes using several different technologies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted graduate students.",
+        "courses": [
+            [
+                "P",
+                "GAME 230",
+                [
+                    "GAME 235",
+                    "GAME 236 E"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

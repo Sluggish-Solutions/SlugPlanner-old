@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 9",
+    "title": "Wind Ensemble",
+    "description": "A study of selected advanced-level works for wind ensemble, culminating in one or more public concerts. Admission by audition with conductor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 29,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 36,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

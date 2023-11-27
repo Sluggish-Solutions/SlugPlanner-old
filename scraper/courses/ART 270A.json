@@ -1,0 +1,37 @@
+{
+    "name": "ART 270A",
+    "title": "Project Development and Critique I",
+    "description": "First in a sequence of two second-year courses, continuing the focus on students' production and critique. Through peer discussions students continue to deepen their ability to engage in conceptual, scholarly, and interdisciplinary dialogue about their projects and the work of fellow students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 210A, ART 210B, ART 210C, and ART 220.",
+        "courses": [
+            [
+                "P ART 210A ART 210B ART 210C"
+            ],
+            [
+                "ART 220"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

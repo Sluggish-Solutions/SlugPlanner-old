@@ -1,0 +1,46 @@
+{
+    "name": "MUSC 8B",
+    "title": "Advanced Balinese Gamelan",
+    "description": "Instruction in Balinese gamelan. Utilizes pitched percussion instruments to learn highly ornate and complex pieces through rote learning; students are not required to read music. Focuses on advanced traditional and contemporary repertoire for public performance. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 8A.",
+        "courses": [
+            [
+                "P MUSC 8A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

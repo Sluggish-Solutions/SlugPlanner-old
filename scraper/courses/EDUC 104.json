@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 104",
+    "title": "Ethical Issues and Teaching",
+    "description": "Emphasizes a philosophical exploration of the moral complexities of teaching. Students read theoretical investigations of these complexities, and examine case studies that pose difficult moral questions and illuminate the dilemmas of everyday life in classrooms. Course is grounded in a dialogical approach to learning.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

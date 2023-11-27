@@ -1,0 +1,39 @@
+{
+    "name": "METX 135",
+    "title": "Functional Anatomy",
+    "description": "A rigorous systems-based course in anatomy. Lectures provide an overview of functional anatomy at all levels from the systems to the tissues. Provides a mechanistic understanding of the structures of the body as a foundation for human-health oriented studies",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B. Concurrent enrollment in METX 135L is required. Enrollment restricted to biological sciences majors and affiliated majors and biology minors.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B C   METX 135L   E"
+            ],
+            [],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 100,
+            "priority": "high"
+        }
+    }
+}

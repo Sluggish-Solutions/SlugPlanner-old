@@ -1,0 +1,59 @@
+{
+    "name": "MATH 100",
+    "title": "Introduction to Proof and Problem Solving",
+    "description": "Students learn the basic concepts and ideas necessary for upper-division mathematics and techniques of mathematical proof. Introduction to sets, relations, elementary mathematical logic, proof by contradiction, mathematical induction, and counting arguments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; MATH 11A or MATH 19A or MATH 20A; and MATH 21 or AM 10 or AMS 10A.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "MATH 11A",
+                "MATH 19A",
+                "MATH 20A"
+            ],
+            [
+                "MATH 21",
+                "AM 10",
+                "AMS 10A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 40,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 37,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

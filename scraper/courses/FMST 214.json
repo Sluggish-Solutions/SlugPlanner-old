@@ -1,0 +1,32 @@
+{
+    "name": "FMST 214",
+    "title": "Topics in Feminist Science Studies",
+    "description": "Graduate seminar on feminist science studies. Topics will vary and may include: the joint consideration of science studies and poststructuralist theory; the relationship between discursive practices and material phenomena; and the relationship between ontology, epistemology, and ethics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        }
+    }
+}

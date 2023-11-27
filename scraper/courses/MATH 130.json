@@ -1,0 +1,48 @@
+{
+    "name": "MATH 130",
+    "title": "Celestial Mechanics",
+    "description": "Solves the two-body (or Kepler) problem, then moves onto the N-body problem where there are many open problems. Includes central force laws; orbital elements; conservation of linear momentum, energy, and angular momentum; the Lagrange-Jacobi formula; Sundman's theorem for total collision; virial theorem; the three-body problem; Jacobi coordinates; solutions of Euler and of Lagrange; and restricted three-body problem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19A and 19B; and MATH 23A or PHYS 5A or PHYS 6A; MATH 21 and MATH 24 strongly recommended.",
+        "courses": [
+            [
+                "P MATH 19A"
+            ],
+            [
+                "19B"
+            ],
+            [
+                "MATH 23A",
+                "PHYS 5A",
+                "PHYS 6A"
+            ],
+            [
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

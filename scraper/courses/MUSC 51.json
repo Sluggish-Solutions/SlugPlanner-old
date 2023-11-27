@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 51",
+    "title": "Vocal Repertoire Class",
+    "description": "The study and performance of vocal repertoire from 1400 to the present, including solo song, oratorio, opera, ensemble music. Emphasis is given to the development of effective performance skills, culminating in public performance. Attend first class meeting; concurrent enrollment in individual voice lessons with instructor of this course is required. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 26,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 22,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "BIOL 88",
+    "title": "Studies in Medicine: Its Art, History, Science, and Philosophy",
+    "description": "An interdisciplinary, multicultural, and historical perspective of medicine focused primarily upon therapy and practice to achieve better understanding of the scope, practice, and limits or medicine.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 117,
+            "priority": "high"
+        }
+    }
+}

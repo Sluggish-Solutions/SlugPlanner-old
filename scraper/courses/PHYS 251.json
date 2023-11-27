@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 251",
+    "title": "Group Theory and Modern Physics",
+    "description": "Finite and continuous groups, group representation theory, the symmetric group and Young tableaux, Lie groups and Lie algebras, irreducible representations of Lie algebras by tensor methods, unitary groups in particle physics, Dynkin diagrams, Lorentz and Poincar\u00e9 groups.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

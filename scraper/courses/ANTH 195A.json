@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 195A",
+    "title": "Senior Thesis Seminar",
+    "description": "Covers the basics like the planning and organization of research; writing research proposals; the publication and presentation of scientific research results; the recapitulation of laboratory methods; and intensification of specific recent research discussions in anthropology. Prerequisite(s): ANTH 1 and ANTH 107, and either ANTH 101, or ANTH 104, or ANTH 105. Enrollment is restricted to senior anthropology majors and by permission of the instructor. Students cannot receive credit for this course and ANTH 295A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ANTH 295A.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ART 119",
+    "title": "Special Topics in Drawing",
+    "description": "Special topics in drawing as announced. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course from ART 15, ART 20G, ART 20J, ART 20L, ART 110, ART 111, ART 112; and two from  ART 20H, ART 20I, ART 20K, ART 26; or by permission of instructor. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Special Topics in Drawing: Landscape Drawing. Explore the complexities of contemporary drawing, using UC Santa Cruz's diverse landscapes as a point of departure. Beginning with an observational drawing approach, students will gain confidence in perceptual drawing practices that lead to more personal, thematic, and conceptual directions. Topics such as linear perspective, notan, and decolonization will be scrutinized while exploring a range of drawing materials from charcoal to ink wash. A lightweight field easel will be required to facilitate working at full scale.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

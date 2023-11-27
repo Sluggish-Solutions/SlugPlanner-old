@@ -1,0 +1,32 @@
+{
+    "name": "HIS 159A",
+    "title": "Cleopatra to Constantine: Greek and Roman Egypt",
+    "description": "Examines the political, social, religious, and material culture of ancient Egypt during these periods of intense interaction with the ancient Near East and Mediterranean, from the period of Alexander (332 BCE) through the beginning of Coptic Christianity (3rd century CE).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 58,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

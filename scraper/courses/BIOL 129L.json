@@ -1,0 +1,50 @@
+{
+    "name": "BIOL 129L",
+    "title": "Neurobiology Lab",
+    "description": "Laboratory course giving students experience with electrophysiological, molecular, microscopic, and behavioral techniques used to analyze the function of nervous systems. Students gain experience with collecting and analyzing neurobiological data and presenting their results in written, oral, and visual presentation formats. Students also learn to critically read and analyze primary literature in neurobiology and to use the knowledge they gain to develop their own research proposal.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "declared Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 129L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 122K, BIOL 186L and METX 119L.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): either BIOL 100 and BIOL 101, or BIOC 100A and BIOC 100B; and BIOL 101L and BIOL 125; and STAT 5, or STAT 7 and STAT 7L. Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to declared Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 129L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 122K, BIOL 186L and METX 119L.",
+        "courses": [
+            [
+                "S   O         S    BIOL 129L      C",
+                "BIOL 100L BIOL 103L BIOL 105L BIOL 106L BIOL 108L BIOL 109L BIOL 115L BIOL 120L BIOL 121L BIOL 122K BIOL 186L"
+            ],
+            [
+                "METX 119L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 16,
+            "filled seats": 9,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 16,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

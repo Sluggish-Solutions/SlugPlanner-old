@@ -1,0 +1,44 @@
+{
+    "name": "TIM 50",
+    "title": "Business Information Systems",
+    "description": "Addresses the use of information systems (IS) within a business enterprise. Subjects include computer hardware and software concepts, system design and implementation, telecommunications, data management, transaction-based systems, management information systems, and the use of IS to compete. Intended for technology and information management and business management economics majors. (Formerly CSE 50.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 149,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 108,
+            "filled seats": 105,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 130,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

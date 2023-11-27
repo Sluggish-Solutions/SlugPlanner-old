@@ -1,0 +1,46 @@
+{
+    "name": "BIOE 20B",
+    "title": "Development and Physiology",
+    "description": "Topics in morphology, physiology, development, genetics, and endocrinology selected to exemplify current issues and perspectives in organismic biology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 250,
+            "filled seats": 249,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 250,
+            "filled seats": 177,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 275,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

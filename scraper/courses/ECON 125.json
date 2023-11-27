@@ -1,0 +1,44 @@
+{
+    "name": "ECON 125",
+    "title": "Economic History of the U.S",
+    "description": "The development of the American economy from colonial times to the present, with emphasis on the interaction between institutional structure and economic development. Topics include the economics of slavery, the rise of big business, and the causes of the Great Depression.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 1 and ECON 2. Related coursework in history also helpful. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in primary lecture and associated discussion section. Seats in this class prioritized for incoming transfer students.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 130,
+            "filled seats": 129,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

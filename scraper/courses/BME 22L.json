@@ -1,0 +1,38 @@
+{
+    "name": "BME 22L",
+    "title": "Foundations of Design and Experimentation in Molecular Biology, Part I",
+    "description": "Project-based laboratory course providing hands-on training in fundamental molecular biology and biomolecular engineering techniques used to manipulate expression of DNA and proteins in prokaryotic cells. Students are introduced to essential processes in experimental design.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 21L. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 21,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 44,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

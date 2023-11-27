@@ -1,0 +1,40 @@
+{
+    "name": "BIOE 165",
+    "title": "Marine Conservation Biology",
+    "description": "Initially undertakes an in-depth comparison of the biology and conservation of marine versus terrestrial ecosystems. With this foundation, course examines marine biodiversity loss resulting from overexploitation, habitat loss, species introduction, and pollution, with particular emphasis on the resulting trophic cascades, biodiversity losses, and climate change. Students cannot receive credit for this course and ENVS 120.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C; OCEA 101 recommended.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            [
+                "OCEA 101"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 65,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 206",
+    "title": "Computational Media Research Preparation",
+    "description": "Covers skills for finding relevant literature for a novel research topic, integrating that literature, and communicating the results. Also covers how to select work for a research portfolio, present that work, and describe contributions. Enrollment is by permission of the instructor. Prerequisite(s): CMPM 201, CMPM 202, and CMPM 203 for an understanding of media creation and computer programming; good standing in the Ph.D. program. Enrollment is restricted to graduate students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 8,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

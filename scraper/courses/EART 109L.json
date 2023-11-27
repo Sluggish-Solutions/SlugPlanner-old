@@ -1,0 +1,38 @@
+{
+    "name": "EART 109L",
+    "title": "Field Geology Laboratory",
+    "description": "Laboratory exercises essential to the successful completion of fieldwork required in course 109. Topics include topographic maps, Brunton compass, rock identification and description, geologic map analysis, structure section \"construction,\" and landslide recognition.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Earth sciences majors and minors and the combined majors with anthropology and environmental studies or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in EART 109 is required.  Enrollment is restricted to Earth sciences majors and minors and the combined majors with anthropology and environmental studies or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART 109 is required",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 26,
+            "filled seats": 18,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

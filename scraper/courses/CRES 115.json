@@ -1,0 +1,32 @@
+{
+    "name": "CRES 115",
+    "title": "Frantz Fanon: Resistance, Revolution, and Decolonization",
+    "description": "Students immerse themselves in the intellectual, political, and critical thought of 20th-century Martiniquan psychoanalyst, writer, and revolutionary Frantz Fanon. Students closely read several of Fanon?s most noted works, including Black Skin, White Masks, A Dying Colonialism, and The Wretched of the Earth, as well as thinkers Fanon studied and engaged in these works. Class also engages contemporary interpretations of Fanon?s transnational, emancipatory thought and practice from scholarly, aesthetic, and political organizing perspectives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course satisfies both the Transnational and Social Movement requirement. This course will also count for a Black Studies Minor elective",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

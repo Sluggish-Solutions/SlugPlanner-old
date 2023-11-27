@@ -1,0 +1,38 @@
+{
+    "name": "MUSC 14",
+    "title": "Beginning Theory & Musicianship II",
+    "description": "Students learn basic elements of musical language: rhythms, meters, scales, intervals, and chords. All of these elements are studied both singly and in their interrelationships within musical compositions. The study of structural elements of music incorporates both theoretical and practical aspects of learning, including written, keyboard, singing, and aural exercises. Prerequisite(s): MUSC 13, or placement via the Theory Placement Exam. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 8,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

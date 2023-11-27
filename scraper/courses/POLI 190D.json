@@ -1,0 +1,32 @@
+{
+    "name": "POLI 190D",
+    "title": "Early Anarchist and Socialist Thought",
+    "description": "Studies in 19th- and early 20th-century anarchist and socialist thought. Themes covered include property, labor, marriage, and the state. Readings drawn from Bakunin, Goldman, Fourier, Kropotkin, Perkins-Gilman, Proudhon, and Stirner.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior politics majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two of the following: POLI 103, POLI 105A, POLI 105B, POLI 105C, POLI 105D, POLI 109, or POLI 115; or by permission of instructor. Enrollment is restricted to senior politics majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

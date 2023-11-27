@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 226",
+    "title": "English Teaching: Theory and Curriculum",
+    "description": "Required for the single subject English credential student. Examines sociocultural approaches to the learning and teaching of English in secondary classrooms, including theories of how children learn English language, literature, and composition.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

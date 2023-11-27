@@ -1,0 +1,35 @@
+{
+    "name": "EART 163",
+    "title": "Planetary Surfaces",
+    "description": "Comparative study of surfaces and atmospheres of planetary bodies in solar system, focusing on comparative planetology and geophysical processes at work, including differentiation, impact cratering, tectonics, volcanism, and geomorphic evolution. Explores terrestrial planets, giant planets and their moons. Students cannot receive credit for this course and EART 263.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 160 or PHYS 116A.",
+        "courses": [
+            [
+                "P EART 160",
+                "PHYS 116A"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with EART 263",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

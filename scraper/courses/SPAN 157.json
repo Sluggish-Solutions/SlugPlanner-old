@@ -1,0 +1,34 @@
+{
+    "name": "SPAN 157",
+    "title": "Spanish Sociolinguistics",
+    "description": "Explores how Spanish structural patterns can vary depending on social group, social situation, and place. Applies linguistic terminology and uses research tools to describe variability of structure (phonology, grammar, and pragmatics) among Spanish dialects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 150. Enrollment restricted to Spanish studies majors.",
+        "courses": [
+            [
+                "P SPAN 150 E   S"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 28,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

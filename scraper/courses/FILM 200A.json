@@ -1,0 +1,34 @@
+{
+    "name": "FILM 200A",
+    "title": "Introduction to Graduate Study",
+    "description": "Introduces graduate study in the critical practice of film and digital media. Conducted as a pro-seminar, with faculty presentations and discussion.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

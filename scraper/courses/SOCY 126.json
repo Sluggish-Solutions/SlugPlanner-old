@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 126",
+    "title": "Sex and Sexuality as Social Practice and Representation",
+    "description": "Explores social and cultural aspects of human sexuality and reproduction, including how and why meanings and behaviors are contested. Analyzes sexuality and reproduction as forms of social and political control as well as cultural expression and self-determination.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior sociology, critical race and ethnic studies, feminist studies, Latin American/sociology combined, and global information and social enterprise majors, proposed majors, and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior sociology, critical race and ethnic studies, feminist studies, Latin American/sociology combined, and global information and social enterprise majors, proposed majors, and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 47,
+            "priority": "unavailible"
+        }
+    }
+}

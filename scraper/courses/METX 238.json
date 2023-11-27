@@ -1,0 +1,32 @@
+{
+    "name": "METX 238",
+    "title": "Pathogenesis: Molecular Mechanisms of Disease",
+    "description": "Provides an overview of the mammalian innate immune response and the role of inflammation in disease. Also, presents how both environmental stressors and microbial pathogens impact inflammation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

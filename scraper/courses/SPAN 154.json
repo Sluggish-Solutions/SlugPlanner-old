@@ -1,0 +1,32 @@
+{
+    "name": "SPAN 154",
+    "title": "Topics in Hispanic Linguistics: Spanish Pragmatics",
+    "description": "Explores how Spanish is used in context by speakers to achieve particular meanings and to realize various speech acts (e.g., requests, apologies, etc.) in socially appropriate ways. Pragmatic variation across the Spanish-speaking world is examined in depth.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "juniors and seniors majoring in Spanish studies, language studies or linguistics.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 6 or SPHS 6; and SPAN 150.  Enrollment is restricted to juniors and seniors majoring in Spanish studies, language studies or linguistics.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

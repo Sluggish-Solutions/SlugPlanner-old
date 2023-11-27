@@ -1,0 +1,32 @@
+{
+    "name": "FMST 200",
+    "title": "Feminist Theories",
+    "description": "Introductory required course for feminist studies graduate students. Covers major theorists, debates, and current questions as well as foundational texts through which feminist critiques have been grounded. Content changes with instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

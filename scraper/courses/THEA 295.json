@@ -1,0 +1,32 @@
+{
+    "name": "THEA 295",
+    "title": "Group Critique",
+    "description": "Peer review and constructive assessment of works in progress. Students are required to give individual presentations to the group at least once a quarter. Educational objectives are to develop the ability to articulate themes and ideas in student's body of work; to strengthen critical skills in making, evaluating, and discussing theater art; to explore the role of the audience in context and criticism; and to investigate the ways artists construct, use, and maintain support communities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

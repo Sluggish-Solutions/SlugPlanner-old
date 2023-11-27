@@ -1,0 +1,32 @@
+{
+    "name": "ART 162A",
+    "title": "Intaglio I",
+    "description": "Introduces students to various methods used in making intaglio prints. Encourages individual artistic growth of imagery and technique through assignments designed to explore the medium. Includes discussion and critique of work with equal emphasis on technique and concept.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

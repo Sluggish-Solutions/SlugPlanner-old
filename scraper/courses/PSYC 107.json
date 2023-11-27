@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 107",
+    "title": "Gender and Development",
+    "description": "Examines the developmental psychology of gender in childhood and adolescence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100. Enrollment is restricted to psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 60,
+            "priority": "unavailible"
+        }
+    }
+}

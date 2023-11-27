@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 124",
+    "title": "Optical Imaging for Biological Research",
+    "description": "Covers the theory and application of light microscopy in a non-mathematical way. Course starts with basic optics, introduces the working principles of various microscopes, and discusses recent innovations in imaging techniques with an emphasis on neuroscience applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5B or PHYS 6B; and BIOL 110.",
+        "courses": [
+            [
+                "P PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "BIOL 110"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

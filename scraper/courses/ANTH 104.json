@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 104",
+    "title": "Human Variation and Adaptation",
+    "description": "Explores the major environmental factors (temperature, altitude, diet, and disease); how they are perceived by the human body; the physiological, micro- and macroanatomical responses; and how behavior and culture can modify the impact of these stresses. ANTH 1 is highly recommended as preparation. (Formerly Human Adaptability.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 43,
+            "priority": "unavailible"
+        }
+    }
+}

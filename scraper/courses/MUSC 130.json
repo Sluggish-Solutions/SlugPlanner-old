@@ -1,0 +1,43 @@
+{
+    "name": "MUSC 130",
+    "title": "Harmony and Form in 19th-Century and Early 20th-Century Music",
+    "description": "Analysis, theory, musicianship, and aural skills associated with advanced tonal music. Study of chromaticism, larger forms, and other features of 19th-Century and early 20th-Century music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30C and Piano Proficiency Exam.",
+        "courses": [
+            [
+                "P MUSC 30C"
+            ],
+            [
+                "P P E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

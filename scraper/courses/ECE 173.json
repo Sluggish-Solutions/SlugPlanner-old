@@ -1,0 +1,44 @@
+{
+    "name": "ECE 173",
+    "title": "High-Speed Digital Design",
+    "description": "Studies of analog circuit principles relevant to high-speed digital design: signal propagation, crosstalk, and electromagnetic interference. Topics include electrical characteristics of digital circuits, interfacing different logic families, measurement techniques, distributed circuits and transmission lines, ground planes and grounding, terminations, power systems, electromagnetic compatibility and noise suppression. Laboratory sequence illustrates fundamental lecture topics and includes completion of a final design project.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L and ECE 174, or by permission of the instructor. ECE 171 and ECE 121 are recommended.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ],
+            [
+                "ECE 174",
+                "ECE 171"
+            ],
+            [
+                "ECE 121"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 29,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ART 190B",
+    "title": "Senior Project",
+    "description": "Advanced senior art majors create and complete a senior project to fulfill their comprehensive graduation requirement. Focuses on a weekly lecture, studio work, peer critique, and professional practices such as the documentation and exhibition of work.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to senior art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 23,
+            "priority": "unavailible"
+        }
+    }
+}

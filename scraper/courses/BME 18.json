@@ -1,0 +1,32 @@
+{
+    "name": "BME 18",
+    "title": "Scientific Principles of Life",
+    "description": "The principles of life as it exists on this planet and how they generalize. Darwinian evolution, genomes, scientific theories of life (mechanistic, thermodynamic, information theoretic). Future of life: Internet, machine learning and adaptation, artificial intelligence, genome editing, fully artificial life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 95,
+            "filled seats": 71,
+            "priority": "low"
+        }
+    }
+}

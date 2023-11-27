@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 233",
+    "title": "Visuality, Blackness, and the Human",
+    "description": "Focuses on recent scholarly approaches engaged with the representation of African-American culture and identity, with a specific emphasis in the visualization of blackness. Utilizing a cross-disciplinary approach, students explore the evolving critical discourses concerned with blackness and the human. (Formerly Topics in Contemporary Art and Visual Culture.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

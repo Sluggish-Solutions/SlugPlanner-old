@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 212A",
+    "title": "Bilingualism and Biliteracy: History, Politics, Theory, and Practice",
+    "description": "Taught in Spanish. Prepares future bilingual teachers to be knowledgeable about history, politics, theory, and practices related to bilingual instructional programs. Topics: second-language acquisition, bilingual-program models, equity pedagogy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

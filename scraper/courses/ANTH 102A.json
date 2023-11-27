@@ -1,0 +1,34 @@
+{
+    "name": "ANTH 102A",
+    "title": "Human Skeletal Biology",
+    "description": "Presents basic human osteology allowing students to identify skeletal material by element. Emphasizes the dynamic nature of bone by integrating anatomy with a discussion of bone physiology within the context of the human life cycle.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1.",
+        "courses": [
+            [
+                "P ANTH 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

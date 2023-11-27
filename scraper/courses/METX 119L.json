@@ -1,0 +1,80 @@
+{
+    "name": "METX 119L",
+    "title": "Microbiology Laboratory",
+    "description": "An introduction to the principles and practices of laboratory microbiology, with a substantial presentation of optical microscopy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L, or BIOL 101L, or BIOL 102L; and previous or concurrent enrollment in METX 100 or METX 119. First pass enrollment is restricted to declared Microbiology majors. Second pass enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors; Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, and BIOL 186L.",
+        "courses": [
+            [
+                "P S  E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOL 20L",
+                "BIOL 101L",
+                "BIOL 102L"
+            ],
+            [
+                "METX 100",
+                "METX 119 F       M  S       B"
+            ],
+            [
+                "M B"
+            ],
+            [
+                "B BS"
+            ],
+            [
+                "M C"
+            ],
+            [
+                "D B"
+            ],
+            [
+                "N"
+            ],
+            [
+                "O         S    METX 119L      C",
+                "BIOL 100L BIOL 103L BIOL 105L BIOL 106L BIOL 108L BIOL 109L BIOL 115L BIOL 120L BIOL 121L BIOL 129L"
+            ],
+            [
+                "BIOL 186L"
+            ]
+        ]
+    },
+    "class_notes": "Secondary labs will be scheduled by department in teaching labs. Enrollment by permission only - please fill out the following form to request a permission number: https://docs.google.com/forms/d/e/1FAIpQLSc5Atw0OUsP-TglU1zy9VCcMjBqYzg-0SK0zd7YajqqKoKlHg/viewform?usp=sf_link",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 36,
+            "filled seats": 36,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 40,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "GCH 190",
+    "title": "Global and Community Health Task Force",
+    "description": "Students conduct rigorous research on real world health challenges with a view to describing the associated problems accurately and recommending responses. All the work of research and writing is highly collaborative and interdisciplinary. Task Force members are comprised of seniors from both the B.A. and B.S. degrees in GCH. They work closely together under the guidance of the instructor who prepares them to collaborate effectively. The final report always includes writing from all the students in the team. Students are responsible for all of the associated editing, as well as a final presentation of the report to an external evaluator.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "seniors majoring in global and community health.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GCH 1, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors majoring in global and community health.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 43,
+            "filled seats": 60,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HIS 128",
+    "title": "Chicana/Chicano History",
+    "description": "A survey course on the social history of the Mexican (Chicana/o) community and people in the U.S. through the 20th century. Themes include resistance, migration, labor, urbanization, culture and politics.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

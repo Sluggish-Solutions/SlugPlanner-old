@@ -1,0 +1,40 @@
+{
+    "name": "MUSC 220",
+    "title": "Graduate Seminar in Music Composition",
+    "description": "Instruction in individual composition offered in the context of a group; composition in large forms of the 20th century with emphasis on techniques since 1950. May be taken by upper-division undergraduates for credit. Interview with instructor at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 219.",
+        "courses": [
+            [
+                "P MUSC 219"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 6,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

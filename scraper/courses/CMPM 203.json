@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 203",
+    "title": "Computational Media Methods",
+    "description": "Overview of major methods in computational media research. Includes non-numerical methods such as playtesting, arts critique, ethnographic observation, and humanistic interpretation. Also includes numerically oriented methods such as survey instruments, data mining, user experiments, and characterizing expressive/generative spaces.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to Computational Media graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

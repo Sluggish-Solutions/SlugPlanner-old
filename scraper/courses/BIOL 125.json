@@ -1,0 +1,50 @@
+{
+    "name": "BIOL 125",
+    "title": "Introduction to Neuroscience",
+    "description": "The structure and function of the nervous system. Topics include elementary electrical principles, biophysics and physiology of single nerve and muscle cells, signal transduction at synapses, development of the nervous system, and neural basis of behavior. Requires a good understanding of basic biochemistry, cell biology, and molecular biology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, and BIOE 20B; and BIOL 100, or BIOC 100A and BIOC 100B.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOL 100",
+                "BIOC 100A"
+            ],
+            [
+                "BIOC 100B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 102,
+            "filled seats": 87,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 103,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

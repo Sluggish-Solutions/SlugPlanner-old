@@ -1,0 +1,32 @@
+{
+    "name": "LIT 190L",
+    "title": "Topics in World Literature and Cultural Studies",
+    "description": "Course topic changes; see the Class Search for current topic. Critical approach designations: Histories, Power and Subjectivities. Distribution requirements: Global, Senior Seminar. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Literature Media and Postcolonial Critique",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

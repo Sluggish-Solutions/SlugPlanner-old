@@ -1,0 +1,37 @@
+{
+    "name": "ART 163C",
+    "title": "Magnified Imagination: A Printmaking Approach",
+    "description": "Examines the wonders of visual magnification of the natural world by using enlargement lenses, scanner, and microscopes to create photo-based and autographic prints that enhance strange and unperceived realities. Visits to the UCSC Norris Center for Natural History, Thimann's Roof Garden and Greenhouse will provide opportunities to explore natural world specimens for projects. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 20G and two courses from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment restricted to art majors.",
+        "courses": [
+            [
+                "P ART 20G"
+            ],
+            [
+                "ART 15 ART 20H ART 20I ART 20J ART 20K ART 20L ART 26 E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

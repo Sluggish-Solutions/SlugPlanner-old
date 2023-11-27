@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 2",
+    "title": "The Physicist's Toolbox",
+    "description": "Prepares students for success in subsequent classes in physics and astrophysics. Course is designed for students majoring or considering majoring in physics, applied physics, or astrophysics. Includes overview of physics and astrophysics, and their major tools: experiment, theory, observation, and computation. Provides conceptual overview of the top-level theoretical approaches including classical mechanics, quantum mechanics, and statistical mechanics. Also reviews problem-solving skills for work in subsequent classes, including the physicist's approach to calculus, working intuitively with graphs, solving simultaneous equations, and understanding equations conceptually. Examines the educational path to different physics careers, physics as a collaborative discipline, and effective methods for group work as well as individual study.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year and second-year students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 42,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

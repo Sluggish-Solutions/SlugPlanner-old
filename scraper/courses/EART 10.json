@@ -1,0 +1,38 @@
+{
+    "name": "EART 10",
+    "title": "Geologic Principles",
+    "description": "Introduction to the scientific study of Earth, the materials composing it, and the processes shaping it.  Topics include minerals and rocks, Earth's internal structure, plate tectonics, earthquakes and volcanoes, oceans and the atmosphere, the formation of landscapes and global change.  A one-day, optional field trip is included. Concurrent enrollment in EART 10L is required for majors and minors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 103,
+            "filled seats": 102,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 84,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

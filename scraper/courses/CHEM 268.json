@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 268",
+    "title": "Solid State and Materials Chemistry",
+    "description": "Topics include synthesis of solid-state materials and their characterization using experimental techniques: XRD, TEM spectroscopy, NMR, and their applications in technologies. Emphasis on new materials, e.g., polymer, biopolymers, nanomaterials, organic/inorganic composites, ceramics, superconductors, electronic, magnetic, and opto-electronic materials.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to chemistry graduate students or students previously enrolled in CHEM 163A and CHEM 163B.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "STAT 131",
+    "title": "Introduction to Probability Theory",
+    "description": "Introduction to probability theory and its applications. Combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains. Students cannot receive credit for this course and STAT 203 and CMPE 107. (Formerly AMS 131.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 11B or ECON 11B or MATH 11B or MATH 19B or MATH 20B.",
+        "courses": [
+            [
+                "P AM 11B",
+                "ECON 11B",
+                "MATH 11B",
+                "MATH 19B",
+                "MATH 20B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 336,
+            "filled seats": 252,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 170,
+            "filled seats": 86,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 230,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

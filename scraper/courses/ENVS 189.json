@@ -1,0 +1,44 @@
+{
+    "name": "ENVS 189",
+    "title": "Environmental Studies Research Seminar",
+    "description": "Research seminars presented weekly throughout the year by environmental studies faculty, visiting scholars, and graduate students. Students discuss content and methodology of research presented following each seminar. Students write critiques of some seminars.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ENVS 290",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HIS 196G",
+    "title": "Topics in Modern Germany and Europe",
+    "description": "A senior reading and research seminar that explores the selected historiographic debates in German history during the 19th and 20th centuries. (Formerly Modern Germany and Europe.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history and Jewish studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100 (for history majors), and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history and Jewish studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Cold War Germany",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        }
+    }
+}

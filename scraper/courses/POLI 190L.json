@@ -1,0 +1,32 @@
+{
+    "name": "POLI 190L",
+    "title": "Poverty Politics",
+    "description": "Examines theoretical, historical, and contemporary sources of poverty policies in the United States. Explores competing theories of the causes of poverty and the consequences of social provision. Focuses on successive historical reform efforts and contemporary dilemmas of race and urban poverty, gender and family poverty, work, and the politics of welfare reform.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior politics and Latin American and Latino studies/politics combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

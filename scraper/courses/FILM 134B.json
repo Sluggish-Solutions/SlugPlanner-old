@@ -1,0 +1,36 @@
+{
+    "name": "FILM 134B",
+    "title": "American Film, 1960-Present",
+    "description": "A survey of American narrative cinema from 1960 to the present. Examines developments in film style, film technology, and the film industry in relation to American cultural history.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A or FILM 20B; and satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P FILM 20A",
+                "FILM 20B"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

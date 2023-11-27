@@ -1,0 +1,35 @@
+{
+    "name": "CSP 290A",
+    "title": "Coastal Science and Policy Capstone Project",
+    "description": "First of three independent research courses during which students work closely with partner institutions and faculty co-mentors to generate alternative, interdisciplinary-based solutions to coastal sustainability problems. Provides experience in a real-world, collaborative, problem-solving environment. This class is offered for Satisfactory/Unsatisfactory grading only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in CSP 291. Enrollment restricted to coastal science and policy graduate students.",
+        "courses": [
+            [
+                "P C   CSP 291 E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "10",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

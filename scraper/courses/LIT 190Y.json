@@ -1,0 +1,32 @@
+{
+    "name": "LIT 190Y",
+    "title": "Topics in Jewish Literature and Culture",
+    "description": "Study of selected authors or issues related to modern Jewish literature and culture. Topic changes; please see the Class Search for current topic. Critical approach designations: Histories, Power and Subjectivities. Distribution requirement: Senior Seminar. Jewish Studies majors may use this course to satisfy the Jewish Studies senior exit requirement. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior literature and Jewish studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and LIT 101 (for literature majors). Enrollment is restricted to senior literature and Jewish studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

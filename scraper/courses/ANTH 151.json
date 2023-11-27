@@ -1,0 +1,34 @@
+{
+    "name": "ANTH 151",
+    "title": "Workshop in Ethnography",
+    "description": "Through demonstration, practice, and participation, acquire skills in collecting and analyzing cultural data. Work with members of other cultures and with each other to learn to identify significant cultural patterns. Lectures and readings provide added perspective and a theoretical base.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 2.",
+        "courses": [
+            [
+                "P ANTH 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

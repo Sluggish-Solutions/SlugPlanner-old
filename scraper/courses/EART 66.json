@@ -1,0 +1,32 @@
+{
+    "name": "EART 66",
+    "title": "Natural History of Dinosaurs",
+    "description": "Explores the origin, evolution, and extinction of dinosaurs with emphasis on paleobiology and paleoecology. Covers fundamental paleontological and evolutionary principles, dinosaur anatomy and behavior, the hot-blooded/cold-blooded debate, dinosaur-bird relationships, diversity, and exploits of the great dinosaur hunters. One and a half hour of discussion each week. (Formerly EART 65.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 268,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

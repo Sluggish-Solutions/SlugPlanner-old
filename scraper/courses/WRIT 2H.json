@@ -1,0 +1,38 @@
+{
+    "name": "WRIT 2H",
+    "title": "Rhetoric and Inquiry, Honors",
+    "description": "Provides declarative knowledge and procedural knowledge about writing, with a special focus on writing from research, composing in multiple genres, and transferring knowledge about writing to new contexts. Designed for advanced students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): College 1 and satisfaction of the Entry Level Writing Requirement. Enrollment is restricted to College Scholars or by instructor permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 19,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

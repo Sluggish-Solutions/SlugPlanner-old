@@ -1,0 +1,43 @@
+{
+    "name": "PHYS 135",
+    "title": "Astrophysics Advanced Laboratory",
+    "description": "Introduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
+        "courses": [
+            [
+                "I"
+            ],
+            [
+                ""
+            ]
+        ]
+    },
+    "class_notes": "Also offered as ASTR 135",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 18,
+            "filled seats": 11,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

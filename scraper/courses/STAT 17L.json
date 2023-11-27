@@ -1,0 +1,55 @@
+{
+    "name": "STAT 17L",
+    "title": "Statistical Methods for Business and Economics Laboratory",
+    "description": "Overview and basic training in statistical programs used in the economics major.  Introduces students to basic data analysis workflow. A workflow of data analysis is a process for managing all aspects of data analysis. Planning, documenting, and organizing work; cleaning the data; creating, renaming, and verifying variables; creating summary statistics; and archiving what has been done are all integral parts of students' data analysis. This is an online asynchronous lab, with synchronous office hours/question and answer sessions. Prerequisites: concurrent enrollment in STAT 17; and score of 300 or higher on (MPE), or AM 3 or AM 11A. MATH 3 or MATH 11A strongly recommended. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17, should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: A score of 300 or higher on (MPE), or completion of AM 3 or AM 11A or ECON 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17 is required. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17, should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.",
+        "courses": [
+            [
+                "P A   300",
+                "AM 3",
+                "AM 11A",
+                "ECON 11A",
+                "MATH 3",
+                "MATH 11A",
+                "MATH 19A C   STAT 17   D"
+            ],
+            [
+                "STAT 17    E D"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in STAT 17 required. Enroll in lecture and associated lab section. Students must enroll into STAT 17L before they can enroll into STAT 17. If you are unable to get a seat in STAT 17L, you are ineligible to enroll or request enrollment into STAT 17 lecture. Permission codes will not be granted to override this concurrent enrollment or to increase the capacity of STAT 17L.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 165,
+            "filled seats": 162,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 126,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 226,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

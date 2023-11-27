@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 130L",
+    "title": "Human Physiology Laboratory",
+    "description": "Examines fundamental principles of systemic physiology focusing on the human. Students cannot receive credit for this course and BIOE 131L.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "biological sciences; global and community health B.S.; human biology; and affiliated majors; biology minors; other majors by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 110; BIOL 20L or 102J; and previous or concurrent enrollment in BIOL130 is required. Satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to biological sciences; global and community health B.S.; human biology; and affiliated majors; biology minors; other majors by permission.",
+        "courses": [
+            [
+                "S"
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab. Labs begin after first lab lecture. Enrollment is restricted to global and community health B.S. (biomedical concentration) and human biology majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment appointments.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 40,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

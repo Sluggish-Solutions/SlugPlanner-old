@@ -1,0 +1,43 @@
+{
+    "name": "PSYC 103",
+    "title": "Adult Development and Aging",
+    "description": "Overview of the cultural, societal, biological, interpersonal, and cognitive processes of adult development and aging. Class discusses how each of these contexts and processes promotes stability and change as adults experience adulthood, reflect on their lives, and prepare for death.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 10"
+            ],
+            [
+                "PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 86,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

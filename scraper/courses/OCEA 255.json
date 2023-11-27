@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 255",
+    "title": "Visualizing Ocean Data",
+    "description": "Ocean data collection has increased dramatically with much of this information available publicly for consumption and analysis by the scientific and broader community. Yet the format of available information differs often by platform, and useful visualization techniques depend on the type of data being considered. Class introduces different types of publicly available data, develops tools needed to access this information locally, and discusses broad methods for visualization appropriate for time-series, maps, sections, vector fields, and animations. Students develop their own capabilities through assignments using a scientific programming language of their choice (e.g., julia, python, matlab, or R), and lectures introduce necessary programming ideas and examples to support student-based tool development.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

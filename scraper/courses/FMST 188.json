@@ -1,0 +1,44 @@
+{
+    "name": "FMST 188",
+    "title": "Topics in Feminist Studies",
+    "description": "Focuses on a particular topic in feminist theory. Topics vary each offering but might include theorizing the gendered subject, racializing gender, politics and feminism, the relationship between queer theory and feminism, transgender studies, women of color feminisms, postcolonial and decolonial feminisms, feminist science studies. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "TOPIC: Feminism, Human rights, and the Carceral State. This course applies an intersectional feminist approach to analyzing human rights abuses in relation to the carceral state. Students will examine how systematic racism, white privilege, and colorism subject people of color, especially people who are Black, to heightened incarceration rates in the United States.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 34,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

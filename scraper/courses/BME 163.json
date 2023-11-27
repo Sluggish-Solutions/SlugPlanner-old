@@ -1,0 +1,32 @@
+{
+    "name": "BME 163",
+    "title": "Applied Visualization and Analysis of Scientific Data",
+    "description": "Python and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used on scientific data to generate publication-quality figures. Students cannot receive credit for this course and course 263.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 160 or BME 205. Prerequisites can be waived in cases where students have the required programming skills. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with BME 263",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 114,
+            "filled seats": 114,
+            "priority": "high"
+        }
+    }
+}

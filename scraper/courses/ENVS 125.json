@@ -1,0 +1,49 @@
+{
+    "name": "ENVS 125",
+    "title": "Ecosystems of California",
+    "description": "A survey of the diversity, structure, and functioning of California's ecosystems through time and the ways they have influenced and responded to human activities and stewardship. Topics include: ecosystem drivers such as climate, soils, and land-use history; human and ecological prehistory; comparative marine, freshwater, and terrestrial ecosystem dynamics; and managed ecosystems such as range, fisheries, and agriculture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and previous or concurrent enrollment in ENVS 100 and ENVS 100L.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 96,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 56,
+            "priority": "high"
+        }
+    }
+}

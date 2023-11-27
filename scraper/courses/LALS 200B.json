@@ -1,0 +1,32 @@
+{
+    "name": "LALS 200B",
+    "title": "Cultures and Subjectivities in the Americas",
+    "description": "Introduces theoretical frameworks that explore the relationships between culture, power, and subjectivities. Emphasizes developing interdisciplinary, interpretive, and analytic skills and engages foundational critical approaches including queer theory, border theory, subaltern studies, intersectionality, feminisms, and critical race theory. (Formerly Theories of Culture in the Americas.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

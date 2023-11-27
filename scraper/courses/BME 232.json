@@ -1,0 +1,35 @@
+{
+    "name": "BME 232",
+    "title": "Evolutionary Genomics",
+    "description": "Covers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students cannot receive credit for this course and BME 132.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. BME 105 or BIOL 105 or equivalent courses in higher-level genetic processes are highly recommended.",
+        "courses": [
+            [
+                "BME 105",
+                "BIOL 105"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjuction with BME 132.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 39,
+            "filled seats": 23,
+            "priority": "low"
+        }
+    }
+}

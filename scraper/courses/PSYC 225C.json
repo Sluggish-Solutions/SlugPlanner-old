@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 225C",
+    "title": "Introduction to Developmental Research III",
+    "description": "Focuses on drawing reasonable conclusions from research findings by working on students' first-year research projects and critiques of existing research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 225A and PSYC 225B. Enrollment is restricted to developmental psychology graduate students or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 5,
+            "filled seats": 3,
+            "priority": "low"
+        }
+    }
+}

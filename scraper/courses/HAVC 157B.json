@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 157B",
+    "title": "Italian Renaissance: Art and Architecture",
+    "description": "Lives of Italian Renaissance people from birth to death, examining the nature and roles of the institutions which defined human existence in this period. Uses visual arts both illustratively and to study how institutions fashioned their images through art and architecture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

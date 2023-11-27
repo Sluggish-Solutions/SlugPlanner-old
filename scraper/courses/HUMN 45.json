@@ -1,0 +1,38 @@
+{
+    "name": "HUMN 45",
+    "title": "Race and Technology",
+    "description": "Considers how racial and gendered systems interact with technological innovations (such as facial recognition, codes and algorithms, data networks, surveillance technologies, and drones) and how inequalities find their way into the code driving techno-intelligence. Foregrounds the question of who benefits and who loses through these ''innovations.'' Assesses the holistic picture of technological development: the historical context of several technologies, how they affect the environment, who works to build the components, and who becomes the experts of how we address social problems. Students debate these issues and consider how we might propose alternative solutions or interact differently with technologies and the worlds they offer.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course fulfills a course requirement towards the Humanizing Technology Certificate.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 36,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

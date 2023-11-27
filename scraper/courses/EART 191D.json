@@ -1,0 +1,32 @@
+{
+    "name": "EART 191D",
+    "title": "Practical Geochemistry",
+    "description": "Provides hands-on experience to geochemical instrumentation with a focus on data collection. Practical labs apply sample imaging, isotopic major- and trace-element measurements to natural samples. Laboratory sessions are supported by instruction, geochemistry, and Earth science. Students will investigate a new Earth science problem using new samples ?unknowns?. Students and faculty instructor will explore scientific literature relevant to this new topic. (Formerly EART 135L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "majors and minors in Earth sciences and the combined majors with anthropology and environmental studies.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5, or EART 10, or EART 20; and satisfaction of the Entry Level Writing and Composition requirements. EART 110B is recommended. Enrollment is restricted to majors and minors in Earth sciences and the combined majors with anthropology and environmental studies.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 11,
+            "priority": "unavailible"
+        }
+    }
+}

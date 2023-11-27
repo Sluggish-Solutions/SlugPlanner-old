@@ -1,0 +1,34 @@
+{
+    "name": "ANTH 290T",
+    "title": "Pedagogy of Anthropology",
+    "description": "Provides training in scientifically backed educational practices for new Anthropology TAs. Through reading, class discussion and activities, we explore different methods of teaching and ways to conceptualize pedagogy. Includes teaching theories; survey of educational tools and techniques; and lesson planning.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to anthropology graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

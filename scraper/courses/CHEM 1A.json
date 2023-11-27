@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 1A",
+    "title": "General Chemistry",
+    "description": "An integrated study of general chemistry. Covers a range of topics including the atomic structure of matter; molecules; chemical reactions; acids and bases; gases; and equilibria in the gas and liquid phase. Students are  expected to use algebra to solve problems. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in MATH 3, AM 3, or equivalent, or a mathematics placement score of 300 or higher. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 62,
+            "filled seats": 44,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 382,
+            "filled seats": 227,
+            "priority": "low"
+        }
+    }
+}

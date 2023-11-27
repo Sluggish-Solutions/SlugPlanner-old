@@ -1,0 +1,38 @@
+{
+    "name": "ASTR 19",
+    "title": "Practical Programming for the Sciences",
+    "description": "Introduces how we use computer programming to solve scientific problems. Covers basic Python programming, code repositories, and scientific plotting and graphing. Introduces more advanced techniques through small projects featuring real data from throughout the sciences, with a focus on using programming to evaluate the statistical significance of scientific claims.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 125,
+            "filled seats": 84,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

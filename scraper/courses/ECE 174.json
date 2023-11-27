@@ -1,0 +1,37 @@
+{
+    "name": "ECE 174",
+    "title": "Introduction to EDA Tools for PCB Design",
+    "description": "Focus on EDA tools for design of printed-circuit boards. Elements of design flow covered: schematic capture and simulation to final PCB layout. Final project is required. Students are billed a materials fee.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L or consent of instructor.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 25,
+            "priority": "very low"
+        }
+    }
+}

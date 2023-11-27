@@ -1,0 +1,32 @@
+{
+    "name": "CSE 290S",
+    "title": "Advanced Topics in Computer Systems",
+    "description": "Focuses on current research topics in computer systems. Topics vary from year to year depending on the current research of the instructor(s) and the interests of the students. Students read technical papers from current journals and conference proceedings, and present class lectures. A research project is required. (Formerly Computer Science 290S.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 231 recommended. Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's consent.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

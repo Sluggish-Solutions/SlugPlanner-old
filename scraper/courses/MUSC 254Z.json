@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 254Z",
+    "title": "Issues in Contemporary and Experimental Music",
+    "description": "Through a close study of both primary sources and secondary literature, this graduate seminar examines a variety of topics and issues characteristic of global contemporary and experimental music across a broad range of historical contexts, geographical settings, and stylistic performance practices, as well as in related arts (visual art/sculpture; theater design and production; poetry and literature; dance, etc.). Students engage in original research, resulting in scholarly presentations and written papers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

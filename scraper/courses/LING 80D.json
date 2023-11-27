@@ -1,0 +1,32 @@
+{
+    "name": "LING 80D",
+    "title": "Language and Mind",
+    "description": "Examines how the properties of human languages can be used to understand how the mind works and to what extent language use and experience can affect how we think. Topics covered include: human language vs. other forms of animal communication, language deficits and impairments, how language experience shapes perception, the nature of language acquisition, and the extent to which cross-linguistic variation affects other kinds of cognition. The course also provides historical context of the development of modern language science, with a critical overview of Noam Chomsky's linguistics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 250,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

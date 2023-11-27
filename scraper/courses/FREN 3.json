@@ -1,0 +1,40 @@
+{
+    "name": "FREN 3",
+    "title": "First-Year French",
+    "description": "Final quarter of first-year sequence. Students complete study of French language basics, including the future tense and the conditional and the subjunctive moods, while continuing to learn about French and Francophone cultures.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FREN 2 or placement by interview.",
+        "courses": [
+            [
+                "P FREN 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        }
+    }
+}

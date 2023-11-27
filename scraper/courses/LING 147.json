@@ -1,0 +1,41 @@
+{
+    "name": "LING 147",
+    "title": "Quantitative Methods in Linguistics",
+    "description": "Introduces quantitative methods for linguistics. Focuses on categorical data and continuous data, and using R. Students learn the basics of probability, statistics, and experimental design, and use R to apply them to linguistic data sets.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 53 and LING 101, and either LING 111 or LING 112.",
+        "courses": [
+            [
+                "P LING 53"
+            ],
+            [
+                "LING 101"
+            ],
+            [
+                "LING 111",
+                "LING 112"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 18,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 147",
+    "title": "Global Environmental Justice",
+    "description": "Surveys topics in environmental justice and human rights around the world. Provides a comprehensive foundation for students interested in the global environmental justice concentration. The readings comprise survey articles on environmental justice and related fields, such as political ecology, gender studies, labor studies, science and technology studies, risk and disaster studies, and human rights, and span a number of disciplines, including history, geography, sociology, anthropology, politics, and law. Formerly offered as Environmental Inequality/Environmental Justice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "Tuesday class is hybrid. You can attend Tuesday lecture in-person or join virtually from home. Thursday class is in person only.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

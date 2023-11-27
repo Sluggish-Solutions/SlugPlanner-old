@@ -1,0 +1,32 @@
+{
+    "name": "LALS 235",
+    "title": "Sexuality and Migration",
+    "description": "Approaches the nexus of sexuality and migration to examine contemporary theories of citizenship, security, violence, and power. Drawing on case studies that center experiences at, around, and across diverse borders throughout the Americas, the course takes an intersectional approach to understand: how migration is embedded in sexual identities and practices; and how sexuality, alongside race, class, and gender, influence who migrates and under what circumstances. Examining how researchers have approached sensitive questions of sexuality, students emerge better prepared to develop future research in the broader thematic fields of transnationalism, migration, and displacement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

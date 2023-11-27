@@ -1,0 +1,40 @@
+{
+    "name": "ECE 172",
+    "title": "Advanced Analog Circuits",
+    "description": "Analog circuit design covering the basic amplifier configurations, current mirrors, differential amplifiers, frequency response, feedback amplifiers, noise, bandgap references, one- and two-stage operational amplifier design, feedback amplifier stability, switched capacitor circuits and optionally the fundamentals of digital-to-analog and analog-to-digital converters. Emphasis throughout will be on the development of approximate and intuitive methods for understanding and designing circuits. Cannot receive credit for this course and course 221. (Formerly EE 172.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 171.",
+        "courses": [
+            [
+                "P ECE 171"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 221.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 11,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

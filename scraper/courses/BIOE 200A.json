@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 200A",
+    "title": "Scientific Skills",
+    "description": "Exposes graduate students to teaching skills, understanding the scientific method, searching and organizing literature, grant proposal and scientific writing, data management and presentation, and scientific speaking. Students are evaluated on their participation and the quality of a written research proposal.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to graduate students.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

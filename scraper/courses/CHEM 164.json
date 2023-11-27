@@ -1,0 +1,55 @@
+{
+    "name": "CHEM 164",
+    "title": "Physical Chemistry Laboratory",
+    "description": "Provides laboratory experience and data analysis in the areas of thermodynamics, kinetics, and spectroscopy. Lecture: 1.75 hours; experimental laboratory: 4 hours; computer laboratory: 2 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1C, CHEM 3C, or CHEM 4B; and PHYS 5A and PHYS 5B and PHYS 5C, or PHYS 6A and PHYS 6B and PHYS 6C; and MATH 22 or MATH 23B. CHEM 163A is recommended.",
+        "courses": [
+            [
+                "P CHEM 1C CHEM 3C",
+                "CHEM 4B"
+            ],
+            [
+                "PHYS 5A"
+            ],
+            [
+                "PHYS 5B"
+            ],
+            [
+                "PHYS 5C",
+                "PHYS 6A"
+            ],
+            [
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 6C"
+            ],
+            [
+                "MATH 22",
+                "MATH 23B CHEM 163A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

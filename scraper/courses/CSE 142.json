@@ -1,0 +1,53 @@
+{
+    "name": "CSE 142",
+    "title": "Machine Learning",
+    "description": "Introduction to machine learning algorithms and their applications. Topics include classification learning, density estimation and Bayesian learning regression, and online learning. Provides introduction to standard learning methods such as neural networks, decision trees, boosting, and nearest neighbor techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 40 or STAT 132; and CSE 101; and AM 30, or MATH 22, or MATH 23A; and STAT 131 or CSE 107.",
+        "courses": [
+            [
+                "P CSE 40",
+                "STAT 132"
+            ],
+            [
+                "CSE 101"
+            ],
+            [
+                "AM 30",
+                "MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "STAT 131",
+                "CSE 107"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science and biomolecular engineering and bioinformatics majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 34,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

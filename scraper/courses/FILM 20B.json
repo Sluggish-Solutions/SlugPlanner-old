@@ -1,0 +1,40 @@
+{
+    "name": "FILM 20B",
+    "title": "Introduction to Television Studies",
+    "description": "Introduction to the basic forms of televisual presentation, including differing narrative structure from movies and situation comedies to soap opera, plus modes of direct discourse in news, advertising, sports, music, television, and other genres. Alternative forms and modes in electronic media, such as independent video art and documentary, public television, cable, and electronic networks are explored, with their potential for expressing cultural diversity set in relation to social, cultural, and political conditions. If space allows, restrictions may be lifted after priority enrollment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+        "courses": [
+            [
+                "S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 160,
+            "filled seats": 73,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 225,
+            "filled seats": 160,
+            "priority": "low"
+        }
+    }
+}

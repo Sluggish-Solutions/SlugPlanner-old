@@ -1,0 +1,56 @@
+{
+    "name": "EDUC 185B",
+    "title": "Introduction to Mathematics Education",
+    "description": "Provides an introduction to principles and practices for mathematics education; examines how research on learning and teaching mathematics informs approaches to teaching mathematics; provides an introduction to national and state standards, mathematics curricula, and other current issues in mathematics education.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A and MATH 11B, or MATH 19A and MATH 19B; or MATH 20A and MATH 20B; or AM 11A and AM 11B; or ECON 11A and ECON 11B; or equivalent courses (by instructor approval); or by permission of the instructor.",
+        "courses": [
+            [
+                "P",
+                [
+                    "MATH 11A",
+                    "MATH 11B"
+                ],
+                [
+                    "MATH 19A",
+                    "MATH 19B"
+                ],
+                [
+                    "MATH 20A",
+                    "MATH 20B"
+                ],
+                [
+                    "AM 11A",
+                    "AM 11B"
+                ],
+                [
+                    "ECON 11A",
+                    "ECON 11B"
+                ],
+                "",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 248",
+    "title": "Shadowy Dealings: Anthropology of Finance, Money, and Law",
+    "description": "Moves from a brief introduction to classic economic anthropology to recent work on histories of money and capitalism and cultures of financial markets, of accounting, and of legal and illegal trading practices",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

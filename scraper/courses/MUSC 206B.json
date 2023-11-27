@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 206B",
+    "title": "Computer-Assisted Composition",
+    "description": "Study of techniques of algorithmic and computer-assisted composition in a variety of contemporary idioms. Topics may include stochastic methods, generative grammars, search strategies, and the construction of abstract compositional designs and spaces. Final project for course involves students formulating and algorithmically implementing their own theoretical assumptions and compositional strategies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 7,
+            "priority": "high"
+        }
+    }
+}

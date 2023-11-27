@@ -1,0 +1,32 @@
+{
+    "name": "FILM 20P",
+    "title": "Introduction to Production Technique",
+    "description": "Introduction to the production processes of visual/aural, time-based, creative work. Students work on a range of creative projects: performed, written, photographed, and created digitally. Assignments emphasize imaginative problem-solving, collaboration, visualization, and critical media literacy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed and declared film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 94,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "LING 101",
+    "title": "Phonology I",
+    "description": "Introduction to how sounds pattern in grammars-why they vary, how they combine, etc. Emphasis is on developing theories to explain the patterns. Topics include distinctive feature theory, phonemic analysis, autosegmental phonology, and principles of syllabification and stress.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and GE Composition requirements and LING 100.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "GE C"
+            ],
+            [
+                "LING 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 37,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 29,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

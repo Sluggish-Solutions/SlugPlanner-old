@@ -1,0 +1,32 @@
+{
+    "name": "ECE 178",
+    "title": "Device Electronics",
+    "description": "This course reviews the fundamental principles, device's materials, and design and introduces the operation of several semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, the field-effect transistor, the light-emitting diode, and the photodiode. (Formerly EE 178.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 224.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

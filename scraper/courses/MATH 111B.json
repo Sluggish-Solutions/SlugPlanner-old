@@ -1,0 +1,34 @@
+{
+    "name": "MATH 111B",
+    "title": "Algebra",
+    "description": "Introduction to rings and fields including polynomial rings, factorization, the classical geometric constructions, and Galois theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 111A.",
+        "courses": [
+            [
+                "P MATH 111A"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ARTG 20",
+    "title": "Games as Art",
+    "description": "Games are an ancient art form that many people experience everyday. They can be used to bring audiences into imaginary worlds of play, and invite them to engage with the most critical problems facing the world. This course is a core course in the art and design: games and playable media major, and teaches students about the way we conceive of games, as more than products, as a genre of art, and a form of social engagement. Students are introduced to game studies scholars and game design texts, which allow them to start making analog games and interactive artworks.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 64,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

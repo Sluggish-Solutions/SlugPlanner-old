@@ -1,0 +1,32 @@
+{
+    "name": "SCIC 210",
+    "title": "Data-Driven Animation for Science Communication",
+    "description": "Effective data visualizations have grown into global movements, such as the ''warming stripes,'' climate change visualization by Ed Hawkins, and have been used to guide policy, for instance, in the COVID-19 pandemic response. This course trains students in data-based storytelling that promotes research and science communication for the benefit of communities and policymakers on local and global scales. Students draft a science writing script, create custom raster and vector graphics, program data visualizations, learn to model and animate 3D models, and create animated compositions. For their final project, students assemble these data-driven assets into an animated video abstract for their own research or that of a collaborating researcher. Taught in conjunction with SCIC 110.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Please note that this class has some required synchronous online meeting components.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

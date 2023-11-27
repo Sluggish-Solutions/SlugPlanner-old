@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 200",
+    "title": "Introduction to Research Methods",
+    "description": "Practical introduction to graduate study in music focusing on research methods, music sources and bibliography, techniques of scholarly writing, and critical readings in the discipline. Culminates in a public oral presentation on the model of a professional conference paper.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 8,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

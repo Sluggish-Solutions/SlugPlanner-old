@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 60",
+    "title": "Fundamental Keyboard Skills",
+    "description": "Elementary instruction in piano technique, including group and individual performance experience. A minimum of six hours per week of individual practice is required. Curriculum is coordinated with keyboard requirements of MUSC 30A. Concurrent enrollment in MUSC 30A is required. Students are billed a course fee of $150. Prerequisite(s): Instructor determination at first class meeting. (Formerly Group Instruction in Piano.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 26,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 21,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

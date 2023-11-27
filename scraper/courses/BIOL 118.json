@@ -1,0 +1,40 @@
+{
+    "name": "BIOL 118",
+    "title": "Principles of Human Genetics",
+    "description": "Overview of human and medical genetics covering the molecular basis of genetic disease, quantitative methodologies utilized in calculation of genetic risk, and genetic testing and counseling. Includes discussion of ethical issues in genetics and genomic medicine.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "biology B.S.; human biology; neuroscience; and molecular, cell, and developmental biology majors. Other students may enroll with instructor permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 5, or STAT 7 and STAT 7L; BIOL 105 or BME 105; and BIOL 101 or BIOL 115. Enrollment is restricted to biology B.S.; human biology; neuroscience; and molecular, cell, and developmental biology majors. Other students may enroll with instructor permission.",
+        "courses": [
+            [
+                "S"
+            ],
+            [],
+            [],
+            [],
+            [
+                "O"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 76,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "ENVS 19",
+    "title": "Topics in Natural History",
+    "description": "Students learn the fundamentals of organismal biology and ecology through observations in the field, museum specimens, and field journaling. Class focuses on a particular taxonomic group or natural community, such as reptiles, fungi, insects, coastal prairie, or chaparral. Enrollment by application. Please email envsadvi@ucsc.edu for applications. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Students may enroll. No applications and permission numbers are required. This quarter, the course will focus on herpetology.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 21,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 15,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

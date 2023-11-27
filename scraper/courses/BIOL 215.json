@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 215",
+    "title": "Applied Statistics for Molecular, Cell, and Developmental Biology",
+    "description": "For experimental biologists: focuses on resolving practical statistical issues typically encountered in molecular, cellular, and developmental biology lab research. No prior experience in statistics or programming is necessary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in molecular, cellular, and developmental biology.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

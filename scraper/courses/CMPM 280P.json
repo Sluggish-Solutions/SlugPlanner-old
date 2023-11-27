@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 280P",
+    "title": "Seminar in Player Experience and Modeling",
+    "description": "Covers advanced topics and current research in player experience and modeling. Delves into topics related to: artificial intelligence, psychology, data science, as well as computer human interaction as they intersect with games and player experience. Course is conducted as a studio/seminar, where students read and analyze previous research within this area. Students are asked to present and discuss current state of the art of research in the area of player experience and modeling and then develop their own research within this area. Through interaction with the instructor and other colleagues within the class, students work toward refining their research. This course can be taken for Satisfactory/Unsatisfactory credit only. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 7,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

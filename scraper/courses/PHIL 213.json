@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 213",
+    "title": "Origins of Analytic Philosophy",
+    "description": "Analytic philosophy remains the dominant philosophical style worldwide. As a style of philosophy, analytic philosophy places emphasis on logical form and on the use of logical structure as the key element for evaluating the normative status (the logical merits) of a specific position. The history of analytic philosophy remains key since core debates turn on the status of logic as a supposedly value-neutral tool. This impacts philosophical understanding regarding logic, mathematics, and the relation of these areas to the natural and social sciences.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 24,
+            "priority": "low"
+        }
+    }
+}

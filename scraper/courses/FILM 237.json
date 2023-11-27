@@ -1,0 +1,40 @@
+{
+    "name": "FILM 237",
+    "title": "Graduate Critique",
+    "description": "Develops fluency in the languages of critical practice as expressed across media. Integrates critical and analytical writing about objects and experiences created by and through electronic and digital media with ongoing, student-driven critiques of audiovisual scholarship.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to film and digital media graduate students. Graduate students from other programs may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "G"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

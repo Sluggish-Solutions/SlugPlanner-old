@@ -1,0 +1,37 @@
+{
+    "name": "ECON 120",
+    "title": "Development Economics",
+    "description": "Studies the microeconomics of development. Topics may include health and nutrition, education, intra-household economics, formal and informal risk-coping mechanisms, savings, credit, agriculture, institutions, and service delivery and corruption. Focuses on empirical methods. Problem sets require statistical software such as Stata. (Formerly Economic Development.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 1, ECON 2, and ECON 113.",
+        "courses": [
+            [
+                "P ECON 1 ECON 2"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 47,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

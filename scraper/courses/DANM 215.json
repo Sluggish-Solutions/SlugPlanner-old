@@ -1,0 +1,32 @@
+{
+    "name": "DANM 215",
+    "title": "MFA Exhibition Production",
+    "description": "Second-year digital arts and new media graduate students work with faculty curator/coordinator to develop thesis projects specifically for the group exhibition context. Students contribute to exhibition design and collateral materials while studying the unique presentation and curatorial challenges of new media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 5,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "CSE 122",
+    "title": "Introduction to VLSI Digital System Design",
+    "description": "Introduces very large scale integrated (VLSI) custom integrated circuits. Topics include: semiconductor manufacturing, logic families, field-effect transistors (FETs), interconnect models, simulation, and circuits. Introduces the design flow from logic design to layout with a focus on high performance and low power. Students cannot receive credit for this course and CSE 222A. (Formerly Computer Engineering 122.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 100, CSE 100L, ECE 101, and ECE 101L.",
+        "courses": [
+            [
+                "P CSE 100 CSE 100L ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 27,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

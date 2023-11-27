@@ -1,0 +1,32 @@
+{
+    "name": "HIS 81",
+    "title": "Science in the Colonial World",
+    "description": "Introduces students to the history of science in colonized lands. Covers topics such as natural history collecting, medicine, bodily experimentation, botanical gardens, healing plants, and agriculture. Students learn about local colonial scientific production and anti-colonial resistance by focusing on case studies from Southeast Asia, with supplemental readings on colonial Caribbean, Latin American, and North African sites, as well as present-day North American indigenous territories. Students also investigate the possibilities for decolonizing science itself.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 58,
+            "priority": "high"
+        }
+    }
+}

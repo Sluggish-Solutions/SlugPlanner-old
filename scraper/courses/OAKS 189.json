@@ -1,0 +1,38 @@
+{
+    "name": "OAKS 189",
+    "title": "Building Websites for Social Change",
+    "description": "In this fast-paced course, students learn to build an interactive, user-centered websites that serve the needs of a social justice organization. First half of the course involves learning the basics of Wordpress design, meeting with stakeholders, and helping them articulate their objectives and target audiences. Second half focuses on teamwork as students work with content to develop a Wordpress site and a short user guide for our partners. Lab-based, hands-on course with minimal homework requirements.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Entry Level Writing and Composition requirements. Oakes College affiliates have preference; other students email instructor for permission.",
+        "courses": [
+            [
+                "P E L W"
+            ],
+            [
+                "C  O C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

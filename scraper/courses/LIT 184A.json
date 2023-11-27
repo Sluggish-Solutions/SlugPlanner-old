@@ -1,0 +1,32 @@
+{
+    "name": "LIT 184A",
+    "title": "Introduction to Greek Literature",
+    "description": "Reading proficiency in Ancient Greek required.  Critical approach designations: Canons, Histories. Distribution requirement: Pre-1750. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "We will read Plato?s Apology of Socrates in the original ancient Greek with attention to grammar, syntax, and rhetorical figures. The historical context (the Peloponnesian War, the Sophists and the ?New Learning?), the Athenian court system, and the afterlife of the Apology (e.g., in Martin Luther King Jr.?s ?Letter from Birmingham Jail?) will be explored. This course is the third in a three-course sequence and is intended for students who have taken both Greek 1 and Greek 2 or the equivalent with the instructor?s approval",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

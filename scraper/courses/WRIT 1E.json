@@ -1,0 +1,59 @@
+{
+    "name": "WRIT 1E",
+    "title": "Introduction to Composition",
+    "description": "Provides declarative knowledge and procedural knowledge about writing, with a special focus on genre, rhetorical situation, revision, editing, and making connections between texts and one's own perspective. Designed to support multilingual learners.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): College 1 and WRIT 26; or College 1 and AWPE score of 2-6 or AWPE for Multilingual Students (AWPE-MLS) score of 6; or College 1 and course selection via Directed Self-Placement.",
+        "courses": [
+            [
+                "P",
+                [
+                    "C 1",
+                    "WRIT 26"
+                ],
+                [
+                    "C 1",
+                    "AWPE   26"
+                ],
+                "AWPE  M S AWPEMLS   6",
+                [
+                    "C 1",
+                    "D SP"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 41,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

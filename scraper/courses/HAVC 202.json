@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 202",
+    "title": "Introduction to Visual Studies Methods",
+    "description": "Examines research methods and approaches in a variety of materials, cultures, periods, and subjects that are relevant in the discipline of visual studies. Discussions focus on research and readings by history of art and visual culture faculty who share practices, experiences, and advice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

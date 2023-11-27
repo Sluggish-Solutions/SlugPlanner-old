@@ -1,0 +1,39 @@
+{
+    "name": "ECON 150",
+    "title": "Public Finance",
+    "description": "Economics of taxation, including incidence, equity issues, efficiency, and supply side effects. Close attention to taxes in the U.S. system and tax-reform issues. Students cannot receive credit for this course and course 250.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M; and ECON 100B or ECON 100N.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 100B",
+                "ECON 100N"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CHEM 8B",
+    "title": "Organic Chemistry",
+    "description": "Introduction to organic chemistry, with an emphasis on reactivity and synthesis of organic compounds.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8A.",
+        "courses": [
+            [
+                "P CHEM 8A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 382,
+            "filled seats": 227,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 382,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

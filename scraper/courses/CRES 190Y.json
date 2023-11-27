@@ -1,0 +1,32 @@
+{
+    "name": "CRES 190Y",
+    "title": "Solidarity",
+    "description": "Considers different moments in movement work?for example, solidarity with Palestine, #NODAPL, Mauna Kea, Black freedom struggles, ACT UP, trans liberation, and beyond?and explores the failures and liberatory potential of solidarity. Students read theoretical meditations on solidarity, thinking through what it means to study solidarity, and also consider how solidarity can require risk, danger, and loss. Most importantly, course studies what it means to craft horizontal networks of care in the face of the ceaseless demands to (re)produce hierarchical ones.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior CRES majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course will satisfy the CRES Transnational and Social Movement requirement if passed with a C/P or better.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 18,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

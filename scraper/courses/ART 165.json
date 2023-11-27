@@ -1,0 +1,32 @@
+{
+    "name": "ART 165",
+    "title": "Print Media in Visual Communication",
+    "description": "Explores a unique approach reviewing the printed images in visual communications. A wide blend of traditional and cutting-edge print media processes with an interdisciplinary focus will be taught for conceptualizing, producing, and presenting the printed image. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): one course from ART 160B, ART 161B, ART 161C, ART 162A, ART 162B, ART 163A,  ART 163B, ART 163C, ART 164A, ART 164S, ART 168, ART 169. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 19,
+            "priority": "moderate"
+        }
+    }
+}

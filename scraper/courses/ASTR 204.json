@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 204",
+    "title": "Astrophysics II",
+    "description": "Explores how physical conditions in astrophysical objects can be diagnosed from their spectra. Discussion topics include how energy flows determine the thermal state of radiating objects and how the physics of radiative transfer can explain the emergent spectral characteristics of stars, accretion disks, Lyman-alpha clouds, and microwave background. (Formerly Astrophysical Flows.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to graduate students.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

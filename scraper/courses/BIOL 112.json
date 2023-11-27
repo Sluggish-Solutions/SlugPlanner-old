@@ -1,0 +1,34 @@
+{
+    "name": "BIOL 112",
+    "title": "Principles of Virology",
+    "description": "Introduces students to basic principles of virology, including viral replication, transmission, and pathogenesis. Students apply knowledge of these basic principles to the development of interventions to prevent viral outbreaks and reduce the burden of viral disease. Formerly offered as Virology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 110.",
+        "courses": [
+            [
+                "P BIOL 110"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 52,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

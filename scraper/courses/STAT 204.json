@@ -1,0 +1,34 @@
+{
+    "name": "STAT 204",
+    "title": "Introduction to Statistical Data Analysis",
+    "description": "Presents tools for exploratory data analysis (EDA) and statistical modeling in R. Topics include numerical and graphical tools for EDA, linear and logistic regression, ANOVA, PCA, and tools for acquiring and storing large data. No R knowledge is required. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 204.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

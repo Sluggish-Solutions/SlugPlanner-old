@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 30C",
+    "title": "Theory, Literature, and Musicianship",
+    "description": "Integrated musicianship, theory, and analysis. Chromatic harmony and large forms, with emphasis on late 18th- and early 19th-century styles. Ear-training, taught in smaller sections, emphasizes melodic and multi-voice dictation, as well as aural analysis of chord progressions, with materials including digressions, modulations, and advanced chromatic idioms. Most of the ear-training materials consist of homophonic and polyphonic examples from music literature performed live in class. Prerequisite(s): MUSC  30B; instructor determination at first class meeting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

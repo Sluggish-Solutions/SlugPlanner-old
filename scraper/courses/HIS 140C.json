@@ -1,0 +1,32 @@
+{
+    "name": "HIS 140C",
+    "title": "Revolutionary China 1895-1960",
+    "description": "Explores history of China from the late 19th century to the early years of the People's Republic, focusing on the end of imperial rule, the sources and development of revolution, and early attempts at at socialist transformation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 32,
+            "priority": "unavailible"
+        }
+    }
+}

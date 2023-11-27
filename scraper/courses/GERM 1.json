@@ -1,0 +1,32 @@
+{
+    "name": "GERM 1",
+    "title": "First-Year German",
+    "description": "GERM 1, a beginning-level course, introduces the German language and culture for students with no previous knowledge of German. The course focuses on speaking, reading, writing, and listening.  The first-year sequence (GERM 1-GERM 2-GERM 3) starts in fall quarter only. (An accelerated sequence, courses GERM 1A-GERM 1B, begins in winter quarter.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 45,
+            "priority": "high"
+        }
+    }
+}

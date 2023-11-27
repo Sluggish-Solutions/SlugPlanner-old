@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 130H",
+    "title": "Ethnography of Russia and Eastern Europe",
+    "description": "Introduces students to the ethnography of Eurasia, with special attention to the lived experience and legacy of state socialism in this region. Topics include new ideas of personhood, changing economic practices, public health, and international development.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 72,
+            "filled seats": 67,
+            "priority": "high"
+        }
+    }
+}

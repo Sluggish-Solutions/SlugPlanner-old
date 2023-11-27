@@ -1,0 +1,32 @@
+{
+    "name": "SCIC 110",
+    "title": "NULL",
+    "description": "",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Please note that this class has some required synchronous online meeting components.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

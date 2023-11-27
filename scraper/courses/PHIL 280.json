@@ -1,0 +1,44 @@
+{
+    "name": "PHIL 280",
+    "title": "Graduate Colloquia Course",
+    "description": "This colloquia series sponsors speakers each quarter. Students must attend all colloquia and are encouraged to form discussion groups after each lecture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to philosophy graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 8,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

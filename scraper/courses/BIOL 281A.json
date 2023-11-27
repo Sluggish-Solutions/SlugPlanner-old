@@ -1,0 +1,47 @@
+{
+    "name": "BIOL 281A",
+    "title": "Host Responses to Respiratory Viral Infections",
+    "description": "Weekly seminar and discussion of current research and literature concerning mechanisms by which the host immune response determines the severity of disease following a respiratory viral infection. Enrollment is limited to 10.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            [
+                "E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

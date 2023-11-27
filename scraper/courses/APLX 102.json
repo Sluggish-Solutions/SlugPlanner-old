@@ -1,0 +1,35 @@
+{
+    "name": "APLX 102",
+    "title": "Bilingualism",
+    "description": "An overview of bilingualism. Focuses on bilingualism as an individual phenomenon (i.e., how two languages develop and are represented in the minds of individual speakers), and as a social one (i.e., how do bilinguals interact in a community and how does this context of language contact shape their linguistic identity).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): APLX 80 or LING 50.",
+        "courses": [
+            [
+                "P APLX 80",
+                "LING 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

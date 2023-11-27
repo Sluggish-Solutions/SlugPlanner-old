@@ -1,0 +1,35 @@
+{
+    "name": "CSP 244",
+    "title": "Adaptation and Planning",
+    "description": "Introduces students to conceptual frameworks for developing solutions to coastal sustainability problems, and drawing on knowledge and skills gained in previous coastal science and policy courses to perform an integrated assessment of a coastal sustainability problem. This class is offered for Satisfactory/Unsatisfactory grading only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to coastal science and policy graduate students.",
+        "courses": [
+            [
+                "E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 14,
+            "priority": "high"
+        }
+    }
+}

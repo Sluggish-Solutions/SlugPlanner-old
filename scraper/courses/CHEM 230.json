@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 230",
+    "title": "Grant Writing in Biomedical Research",
+    "description": "Introduces the fundamentals of grant writing in biomedical research, including best practices for presentation of data and communication of research findings. Students write and peer-edit most components of the NIH Ruth L. Kirschstein F31 predoctoral fellowship. Course is designed for students in their second year or later of graduate study.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "LALS 292",
+    "title": "LALS Graduate Colloquim",
+    "description": "Required for all LALS graduate students in residence, colloquium includes a mix of activities aimed at supporting the development of graduate students as teachers, researchers, and active participants in academic communities. Includes lectures by distinguished speakers, work-in-progress sessions for both faculty and graduate student research, pedagogical theory and practice seminars, and professional development workshops. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enollment is restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 13,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

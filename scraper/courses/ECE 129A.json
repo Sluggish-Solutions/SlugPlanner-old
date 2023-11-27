@@ -1,0 +1,55 @@
+{
+    "name": "ECE 129A",
+    "title": "Capstone Project I",
+    "description": "First of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this first course, students complete the specification and planning for a substantial project. Topics covered: engineering design cycle, engineering teams, and professional practices. (Formerly EE 129A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 100; enrollment restricted to senior Electrical Engineering and Robotics Engineering majors. Electrical Engineering majors must complete ECE 171; and ECE 157 or ECE 173 or ECE 118 or ECE 121. Robotics Engineering majors must complete ECE 118 and ECE 121.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "CSE 100"
+            ],
+            [
+                "E E"
+            ],
+            [
+                "R E  E E    ECE 171"
+            ],
+            [
+                "ECE 157",
+                "ECE 173",
+                "ECE 118",
+                "ECE 121 R E    ECE 118"
+            ],
+            [
+                "ECE 121"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 90,
+            "priority": "high"
+        }
+    }
+}

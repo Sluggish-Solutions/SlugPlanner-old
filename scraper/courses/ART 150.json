@@ -1,0 +1,38 @@
+{
+    "name": "ART 150",
+    "title": "Darkroom Practices",
+    "description": "Students concentrate on darkroom practices and explore visual ideas, directing their work toward individualized goals. Required work includes making photographic prints, reading historical and theoretical works, and examination of photographs. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 20I and two non-photography lower-division art studios from ART 15, ART 20G, ART 20H, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 22,
+            "priority": "high"
+        }
+    }
+}

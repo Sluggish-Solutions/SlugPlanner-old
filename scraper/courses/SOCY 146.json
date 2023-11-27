@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 146",
+    "title": "Introduction to Population Health",
+    "description": "Why do people live longer today than they did 50 years ago? What drives differences in health between neighborhoods or nations? This course introduces students to questions and concepts central to the study of population health?an interdisciplinary field based in demography, sociology, and epidemiology. It examines the policy implications and limitations of research on population health. Students practice evaluating evidence, translating big-picture concepts into measurable variables, and working with data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 41,
+            "priority": "unavailible"
+        }
+    }
+}

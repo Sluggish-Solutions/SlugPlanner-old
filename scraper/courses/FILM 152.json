@@ -1,0 +1,32 @@
+{
+    "name": "FILM 152",
+    "title": "Script Analysis",
+    "description": "Students analyze diverse narrative techniques, dramatic structures, and genre forms to understand the craft of screenwriting and prepare for their own creative writing and filmmaking. Students read finished scripts and view films.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 120. Enrollment is restricted to proposed and declared film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

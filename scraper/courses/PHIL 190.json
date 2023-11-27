@@ -1,0 +1,44 @@
+{
+    "name": "PHIL 190",
+    "title": "Senior Seminar",
+    "description": "Special topics. Format varies each quarter. Prerequisite(s): PHIL 9; and two from PHIL 100A, PHIL 100B, and PHIL 100C. Enrollment restricted to senior philosophy majors and by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 23,
+            "filled seats": 21,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 28,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 36,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

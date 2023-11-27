@@ -1,0 +1,37 @@
+{
+    "name": "STAT 205B",
+    "title": "Intermediate Classical Inference",
+    "description": "Statistical inference from a frequentist point of view. Properties of random samples; convergence concepts applied to point estimators; principles of statistical inference; obtaining and evaluating point estimators with particular attention to maximum likelihood estimates and their properties; obtaining and evaluating interval estimators; and hypothesis testing methods and their properties. (Formerly AMS 205B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 203. Enrollment is restricted to graduate students. Undergraduates may enroll by permission (STAT 131 and 132 have to be verified by the instructor directly with the student).",
+        "courses": [
+            [
+                "U     STAT 131"
+            ],
+            [
+                "132"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

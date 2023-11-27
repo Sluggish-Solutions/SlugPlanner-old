@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 101A",
+    "title": "History of Western Music (c. 1150 - 1750)",
+    "description": "First quarter of a three-quarter chronological study of Western music. Coordinated lectures, readings, listening, and analysis of representative works. Prerequisite(s): Basic ability to read music; enrollment by permission of the instructor. (Formerly History of Western Art Music: Medieval, Renaissance, and Baroque).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "EART 191C",
+    "title": "Practical Geophysics",
+    "description": "Hands-on practice analyzing real-life observational data including earthquake catalogs, seismograms, gravity, and GPS data. Emphasis on data collection, and access and manipulation skills. Introduction to MATLAB programming included. Students cannot receive credit for this course and EART 266.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 112 or EART 119; and EART 110C, and satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P EART 112",
+                "EART 119"
+            ],
+            [
+                "EART 110C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

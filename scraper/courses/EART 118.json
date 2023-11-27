@@ -1,0 +1,44 @@
+{
+    "name": "EART 118",
+    "title": "Seismotectonics",
+    "description": "Earthquakes and their relationship to plate tectonics. Topics include seismological analysis of earthquake faulting, types of seismic waves, seismicity distributions, thermal and rheological structure of plates, and seismic investigation of plate dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20; and MATH 11B or MATH 19B; and PHYS 5A or PHYS 6A.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B"
+            ],
+            [
+                "PHYS 5A",
+                "PHYS 6A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

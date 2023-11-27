@@ -1,0 +1,32 @@
+{
+    "name": "THEA 290B",
+    "title": "Practice of Theory",
+    "description": "Contextualizes major movement in performance. Students are exposed to a wide range of historical and visual material pertinent to the creation of theater and dance. A final paper is required. (Formerly offered as Performance Histories.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in theater arts.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

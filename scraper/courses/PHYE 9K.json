@@ -1,0 +1,38 @@
+{
+    "name": "PHYE 9K",
+    "title": "Boating: Ocean Kayaking",
+    "description": "Co-educational course that teaches novice kayakers the skills to safely use UCSC kayaks in Monterey Bay. Topics include: basic paddling strokes and maneuvers; self and assisted deep-water rescues; beach launching; landing through surf; and marine hazards and navigation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if class is full.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 17,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 19,
+            "priority": "moderate"
+        }
+    }
+}

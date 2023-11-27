@@ -1,0 +1,38 @@
+{
+    "name": "ART 139",
+    "title": "Special Topics in Painting",
+    "description": "Special studies in painting as announced. A foundation in drawing is recommended. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One from ART 20J, ART 130, ART 133, ART 137, ART 138; and two non-painting lower-division studios from ART 15, ART 20G, ART 20H, ART 20I, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Special Topics in Painting: The Figure and its Meaning: students will engage with the human figure as a non-neutral historical and contemporary subject in visual art. Having a human figure or something that suggests the human form gives automatic content to an artwork. Who is the figure? Where are they? How do materials and mark making affect the reading of the figure, the content of the painting, and the image they are in? This class will include a series of thematically guided projects and live model sessions that will require development of observational skills alongside stylistic explorations. Students will develop their technical, material, and conceptual abilities, their visual vocabulary, and the capacity to discuss form and content in their own artwork and that of their peers in relation to the human form through painting.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

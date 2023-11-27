@@ -1,0 +1,38 @@
+{
+    "name": "FILM 194C",
+    "title": "New Media Theory Seminar",
+    "description": "Study of theories of emerging genres of electronic culture, with emphasis on the discourse about computer-assisted and computer-generated forms of art and mass culture such as digital imagery, virtual environments, telematics, hyper- and multimedia, and electronic networks.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 120. Enrollment is restricted to senior film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

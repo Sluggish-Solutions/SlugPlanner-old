@@ -1,0 +1,38 @@
+{
+    "name": "KRSG 65W",
+    "title": "Kresge Lab: Creative Writing",
+    "description": "A course of guidance and exercises to assist in developing independent writing projects, and a group setting for critique and feedback. Students do in-class and out-of-class writing assignments; read and discuss texts; and work to develop a final project. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 16,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

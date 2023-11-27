@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 189W",
+    "title": "Disciplinary Communication: Human Biology",
+    "description": "Writing-intensive course offered in conjunction with the health sciences internship. Weekly class meetings include academic guidance and mentoring as well as discussion of the mechanisms and conventions of academic writing about heath and health care. Students complete multiple writing assignments, culminating in a term paper in the format of a scholarly article. Enrollment is by application. Students interview with the health sciences internship coordinator; applications are due one quarter in advance to the Health Care Sciences Internship Office. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Previous or concurrent enrollment in BIOL 189 is required. Enrollment is restricted to human biology majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment with BIOL 189",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 40,
+            "priority": "moderate"
+        }
+    }
+}

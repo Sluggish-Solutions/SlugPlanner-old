@@ -1,0 +1,44 @@
+{
+    "name": "ECE 290",
+    "title": "ECE Graduate Seminar",
+    "description": "Leading speakers from academia and industry present their latest research. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to computer engineering, electrical engineering, and electrical and computer engineering graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 21,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 13,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CSE 233",
+    "title": "Advanced Computer Security",
+    "description": "Overview of research topics in computer and network security. Topics may include cryptographic operations, security properties and policies, authentication and access control, attacks on computer systems and defenses against them, security in programming languages, and network protocols for security. (Formerly CMPS 223.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students or consent of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

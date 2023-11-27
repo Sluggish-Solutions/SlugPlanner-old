@@ -1,0 +1,32 @@
+{
+    "name": "HISC 149",
+    "title": "The Good Life",
+    "description": "The social, affective, and psychic structures of our neoliberal era make it difficult to live a good life. Drawing on the broad tradition of critical theory and utopian imaginings, the course aims to give practical and theoretical guidance toward achieving a good life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as LIT 149J.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 160,
+            "filled seats": 135,
+            "priority": "moderate"
+        }
+    }
+}

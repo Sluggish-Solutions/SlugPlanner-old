@@ -1,0 +1,35 @@
+{
+    "name": "CHEM 169",
+    "title": "Chemistry and Biology of Drug Design and Discovery",
+    "description": "An overview of the central elements of drug discovery, including target selection and validation; computational or virtual screening; high-throughput screening; fragment-based methods; and pharmacokinetics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 103 or BIOC 100A.",
+        "courses": [
+            [
+                "P CHEM 103",
+                "BIOC 100A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 31,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 139",
+    "title": "Random: With a Purpose",
+    "description": "Participation in a student-choreographed and directed dance concert under faculty supervision. Rehearsals culminate in public performances. Auditions to be held on the first day of class. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Admission by audition during FALL QUARTER (separate from General Auditions). Contacttheater-ugradadv@ucsc.edufor info.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

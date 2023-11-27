@@ -1,0 +1,38 @@
+{
+    "name": "THEA 151",
+    "title": "Studies in Performance (Drama)",
+    "description": "Studies in theater, taken in connection with participation in a Theater Arts Department sponsored production. Enrollment is limited to those persons chosen to take part in a particular production. Admission by audition; audition schedule to be announced at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 33,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 31,
+            "priority": "low"
+        }
+    }
+}

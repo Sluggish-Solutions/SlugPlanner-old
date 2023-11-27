@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 141O",
+    "title": "Sex, Lies, and Surveillance: Contemporary Documentary Arts",
+    "description": "Focuses on contemporary experiments in artistic documentary practice, including photography and digital imagery, moving-image media, and artistic installations. Considers artistic case studies and leading theoretical and critical elaboration in relation to international cultures of documentary practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

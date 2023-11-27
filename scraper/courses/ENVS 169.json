@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 169",
+    "title": "Climate Change Ecology",
+    "description": "Advanced topics in atmospheric science and ecological theory. Topics include impacts on biodiversity, carbon sequestration, sustainable agriculture, and innovative solutions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  Previous or concurrent enrollment in ENVS 100 and ENVS 100L required, or by permission of instructor.",
+        "courses": [
+            [
+                "P  P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

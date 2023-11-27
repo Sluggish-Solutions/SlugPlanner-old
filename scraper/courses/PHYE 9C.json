@@ -1,0 +1,46 @@
+{
+    "name": "PHYE 9C",
+    "title": "Boating: Intermediate Dinghy Sailing",
+    "description": "Coeducational. Course includes a review of basic sailing with an emphasis on the further development and refinement of small-boat sailing techniques. Fifteen-foot sailboats are used with two students per boat.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9B or equivalent skills.",
+        "courses": [
+            [
+                "P PHYE 9B"
+            ]
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full. Prerequisite 9B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 29,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

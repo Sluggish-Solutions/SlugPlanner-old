@@ -1,0 +1,37 @@
+{
+    "name": "WRIT 25",
+    "title": "Writing About Place",
+    "description": "Students explore the UCSC discourse community including classroom culture, then widen their lens to include the larger Santa Cruz community. Writing moves beyond the paragraph level to include oral communication and presentation skills.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AWPE-MLS score of 2 or 3; or course selection via Directed Self-Placement.",
+        "courses": [
+            [
+                "P",
+                "AWPEMLS   2",
+                "3",
+                "D SP"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 7,
+            "priority": "unavailible"
+        }
+    }
+}

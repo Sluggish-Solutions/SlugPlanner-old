@@ -1,0 +1,32 @@
+{
+    "name": "HIS 131",
+    "title": "Women in Colonial Latin America",
+    "description": "Introduction to the social history of Latin America through a focus on the inflections of class and ethnicity on gender in this region. First six weeks focuses on the colonial period. The last three weeks covers the 19th and 20th centuries.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 31,
+            "priority": "unavailible"
+        }
+    }
+}

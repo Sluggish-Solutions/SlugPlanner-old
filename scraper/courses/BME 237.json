@@ -1,0 +1,32 @@
+{
+    "name": "BME 237",
+    "title": "Applied RNA Bioinformatics",
+    "description": "Teaches methods for RNA gene discovery; gene expression quantification; probabalistic modeling, secondary structure/trans-interaction prediction; mRNA splicing; and functional analysis. Emphasis on leveraging comparative genomics and employing high-throughput RNA sequencing data. Includes lectures, scientific literature discussion, problem sets, and final gene-discovery project.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to seniors and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PHYS 182",
+    "title": "Scientific Communication for Physicists",
+    "description": "Develops the writing skills necessary to prepare professional publications: how to structure a physics article; write for a specific audience with clarity, precision, and concision; and deliver a short informal presentation. Additionally, students become familiar with the peer review process and the ethics of the publication process.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior majors in physics, astrophysics, applied physics, or physics education.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 133 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors in physics, astrophysics, applied physics, or physics education.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 21,
+            "filled seats": 10,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 27,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 27,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

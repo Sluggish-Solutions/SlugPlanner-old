@@ -1,0 +1,35 @@
+{
+    "name": "ITAL 4",
+    "title": "Second-Year Italian",
+    "description": "Short stories, articles, films, and newsclips are used as the basis for studying intermediate-level conversation and composition. Laboratory assignments involve use of the World Wide Web, conversations with native speakers, films and video clips. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting, and take the placement examination.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 1B or ITAL 3 or placement by examination.",
+        "courses": [
+            [
+                "P ITAL 1B",
+                "ITAL 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 23,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "BIOE 109",
+    "title": "Evolution",
+    "description": "An examination of the history and mechanisms of evolutionary change. Topics include molecular evolution, natural and sexual selection, adaptation, speciation, biogeography, and macroevolution.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A, BIOE 20B, BIOE 20C, and BIOL 105.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOL 20A BIOE 20B BIOE 20C"
+            ],
+            [
+                "BIOL 105"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 90,
+            "filled seats": 93,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 150,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HIS 60",
+    "title": "Medical and Scientific Terminology",
+    "description": "Trains students in the principals that will help them make sense of Greco-Latin scientific and technical vocabulary. Introduces Greco-Roman natural philosophy and its general cultural context, and explains the historical relationship of that tradition to the emergence of modern European experimental science and technology. (Formerly Scientific Vocabulary and the Roots of the European Scientific Tradition.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is an online course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 101,
+            "priority": "unavailible"
+        }
+    }
+}

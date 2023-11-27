@@ -1,0 +1,47 @@
+{
+    "name": "SPAN 5",
+    "title": "Second-Year Spanish",
+    "description": "Includes comprehensive grammar review, composition, readings, and discussion. Reading and audiovisual material deal with various socio-political and cultural issues in the Spanish-speaking world. Classes are conducted in Spanish.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 4 or placement into SPAN 5 via the online Spanish Placement Examination.",
+        "courses": [
+            [
+                "P SPAN 4",
+                "SPAN 5    S P E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 29,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

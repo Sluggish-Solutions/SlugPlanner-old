@@ -1,0 +1,38 @@
+{
+    "name": "LALS 178",
+    "title": "Gender, Transnationalism, and Globalization",
+    "description": "Focuses on the impact of globalization and transnationalism on gender relations in the Americas. Examines gender and power in the context of neoliberalism, modernity, the nation, social movements, and activism. Explores local and transnational constructions of gender, and the intersection of gender with race, ethnicity, class, and sexuality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

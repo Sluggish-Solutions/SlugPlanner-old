@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 80J",
+    "title": "Biology of Emerging and Pandemic Diseases",
+    "description": "Designed to introduce non-biology majors to the biology of viruses, the human immune system, HIV/AIDS, and emerging viral pandemics. Also explores vaccine technology and viral mediated therapies. Social, political, and economic influences of HIV and other viral pandemics discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 58,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "AM 230",
+    "title": "Numerical Optimization",
+    "description": "Introduces numerical optimization tools widely used in engineering, science, and economics. Topics include: line-search and trust-region methods for unconstrained optimization, fundamental theory of constrained optimization, simplex and interior-point methods for linear programming, and computational algorithms for nonlinear programming. (Formerly AMS 230.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Basic knowledge of linear algebra is assumed. Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "MATH 117",
+    "title": "Advanced Linear Algebra",
+    "description": "Review of abstract vector spaces. Dual spaces, bilinear forms, and the associated geometry. Normal forms of linear mappings. Introduction to tensor products and exterior algebras.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 or AM 10 and either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 21",
+                "AM 10"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 18,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

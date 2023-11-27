@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 48",
+    "title": "Climate Justice Now! Art, Activism, Environment Today",
+    "description": "As climate change grows more severe, artists and activists are creating strategies of consciousness-raising, mass mobilization, and sustainable living. This course investigates the convergence of climate justice and cultural politics, exploring imperatives for a just transition to a post-carbon future.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 140,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

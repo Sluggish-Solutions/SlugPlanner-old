@@ -1,0 +1,37 @@
+{
+    "name": "TIM 172Q",
+    "title": "Management of Technology Project II",
+    "description": "Second of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172B to complete the second part of a major comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172B, the team project focus is on the supply chain management for the new product developed in TIM 172P. TIM 172B and TIM 172Q together form the second part of the required management of technology comprehensive requirement for the TIM B.S. major.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): TIM 172A and TIM 172P. Concurrent enrollment in TIM 172B is required.",
+        "courses": [
+            [
+                "P TIM 172A"
+            ],
+            [
+                "TIM 172P C   TIM 172B"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in 172B is required. This lab meets on T/TH at the same time as TIM 172B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

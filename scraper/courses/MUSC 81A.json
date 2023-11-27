@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 81A",
+    "title": "Survey of Rap and Hip Hop Music",
+    "description": "Involves examination, evaluation, performance, and discussion of rap music and its relationship to hop hop culture. Looks at three primary areas: historical periods of rap, aspects of performance practice, and lyrical content related to issues in contemporary society.  Students engage in listening exercises, performances and presentations, and discuss the placement of rap in an academic setting. No prior musical knowledge is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 350,
+            "filled seats": 302,
+            "priority": "high"
+        }
+    }
+}

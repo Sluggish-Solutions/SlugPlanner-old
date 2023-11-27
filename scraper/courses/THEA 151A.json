@@ -1,0 +1,32 @@
+{
+    "name": "THEA 151A",
+    "title": "Studies in Performance: African American Theater Arts Troupe",
+    "description": "Studies in drama; emphasis on African American theater taken in connection with participation in a theater arts sponsored production. Enrollment by audition only, and limited to those persons chosen to take part in a particular production. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "See audition and enrollment info. on the Theater Arts Auditions page:http://theater.ucsc.edu/programs/auditions-theater-arts",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

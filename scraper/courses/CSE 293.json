@@ -1,0 +1,38 @@
+{
+    "name": "CSE 293",
+    "title": "Advanced Topics in Computer Science & Engineering",
+    "description": "A graduate seminar on a research topic in computer engineering which varies according to instructor. Possible topics include, but are not limited to, communication networks, data compression, special-purpose architectures, computer arithmetic, software reliability and reusability, systolic arrays. (Formerly Computer Engineering 293.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CHEM 151B",
+    "title": "Chemistry of the Main Group Elements",
+    "description": "Fundamental aspects of inorganic chemistry of main group elements are discussed. The emphasis is placed on the chemistry of nontransition elements including noble gases and halogens. In addition, students are exposed to the concepts of extended structures, new materials, and solid-state chemistry. Lecture: 3-3/4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A. Recommended for chemistry majors.",
+        "courses": [
+            [
+                "P CHEM 8B"
+            ],
+            [
+                "CHEM 8M"
+            ],
+            [
+                "CHEM 163A R"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        }
+    }
+}

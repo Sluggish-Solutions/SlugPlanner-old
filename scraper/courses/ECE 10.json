@@ -1,0 +1,38 @@
+{
+    "name": "ECE 10",
+    "title": "Fundamentals of Robot Kinematics and Dynamics",
+    "description": "Covers the theory and application of mathematical models to analyze the kinematics and dynamics of robot mechanisms or their components using vector algebra, differential equations, and computer simulations; also covers robot vehicle kinematics, robot arm kinematics, and robot dynamics with computational examples and problems. Some basic programming skills and familiarity with MATLAB are expected. (Formerly CMPE 10.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 9, and AM 20 or MATH 24.",
+        "courses": [
+            [
+                "P ECE 9"
+            ],
+            [
+                "AM 20",
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 39,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "ART 106G",
+    "title": "Immersive Nonfiction",
+    "description": "Focuses on nonfiction creative storytelling using animation and new immersive media technology: augmented reality (AR), mixed reality (MR), locative media, and other technologies. Studio class teaches artmaking tools, skills, production and practices using immersive technologies. Students learn the process of developing nonfiction creative stories and documentaries through collaboration, personal narrative, community experiences, historical narrative and location-based storytelling.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Art 80T, plus three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26; or by permission of instructor. Enrollment restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            [
+                "P",
+                "A 80T",
+                "ART 15 ART 20G ART 20H ART 20I ART 20J ART 20K ART 20L ART 26",
+                [
+                    "E",
+                    ""
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

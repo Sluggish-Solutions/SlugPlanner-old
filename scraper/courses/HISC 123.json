@@ -1,0 +1,32 @@
+{
+    "name": "HISC 123",
+    "title": "What is Belief?  Mystics, Heretics, and Aliens",
+    "description": "Examines the limits of knowledge, what are understood to be the realms of ''belief.'' Begins by interrogating the boundaries modernity has constructed between boundary and belief, and how these boundaries constitute political power. Course also considers other realms of belief: mystics and their attempts to go beyond the limits of knowledge; heretics and popular protest movements; and aliens and their history of seeping the cracks of modernity as aliens, ghosts and other paranormal phenomena. Throughout the course students are questioned: How do we know? And what does this knowledge, and what may lie beyond it, have to do with politics, power, and resistance?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

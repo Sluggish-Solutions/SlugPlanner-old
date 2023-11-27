@@ -1,0 +1,40 @@
+{
+    "name": "CMPM 110",
+    "title": "Writing for Game Technologies",
+    "description": "Game writers create worlds, characters, and stories?and also craft computational systems so players can experience these fictions interactively. This course covers the fundamentals of authoring fictions and systems that work together toward powerful player experiences. All offerings support students with required synchronous section meetings.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 120, or by permission of the instructor.",
+        "courses": [
+            [
+                "P CMPM 120"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 5,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

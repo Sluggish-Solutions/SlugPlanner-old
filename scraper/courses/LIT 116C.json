@@ -1,0 +1,32 @@
+{
+    "name": "LIT 116C",
+    "title": "Ancient Myth/Modern Poetics",
+    "description": "Reading of Greek and Roman texts (in English translation) which utilize mythic material juxtaposed with later poems written in response to them. Readings from Homer, Sappho, Greek drama, Petrarch, modern poets; discussion of concepts of myth, strategies of response. Critical approach designations: Canons, Genres. Distribution requirement: Poetry, Pre-1750.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 64,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

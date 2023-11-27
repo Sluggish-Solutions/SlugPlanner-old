@@ -1,0 +1,37 @@
+{
+    "name": "CHEM 110L",
+    "title": "Intermediate Organic Chemistry Laboratory",
+    "description": "Laboratory experience in organic chemistry and associated principles. Experiments involve the preparation, purification, characterization, and identification of organic compounds, and make use of modern as well as classical techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8M and previous or concurrent enrollment in CHEM 110.",
+        "courses": [
+            [
+                "P CHEM 8M"
+            ],
+            [
+                "CHEM 110"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. First lab section will meet April 4 in advance of the first lecture on 4/7.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 64,
+            "filled seats": 55,
+            "priority": "high"
+        }
+    }
+}

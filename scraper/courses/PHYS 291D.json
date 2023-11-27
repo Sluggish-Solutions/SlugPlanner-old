@@ -1,0 +1,44 @@
+{
+    "name": "PHYS 291D",
+    "title": "Experimental High-Energy Collider Physics",
+    "description": "Seminar on current results in experimental high-energy particle physics. Topics follow recently published results, including design of experiments, development of particle detector technology, and experimental results from new particle searches, quantum chromodynamics, and properties of heavy flavor quarks. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

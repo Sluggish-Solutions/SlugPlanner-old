@@ -1,0 +1,34 @@
+{
+    "name": "CHIN 3",
+    "title": "First-Year Chinese",
+    "description": "Continuation of Chinese 2, which assumes that students are familiar both with the pinyin romanization system and approximately 300 basic characters.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHIN 2 or by consent of instructor.",
+        "courses": [
+            [
+                "P CHIN 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 41,
+            "priority": "moderate"
+        }
+    }
+}

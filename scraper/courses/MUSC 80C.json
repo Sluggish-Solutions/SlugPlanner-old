@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80C",
+    "title": "History, Literature, and Technology of Electronic Music",
+    "description": "This survey of electronic music from previous centuries to the present studies the works and aesthetics of important composers, acoustics, musical perception, the effects of technological innovation on cultural evolution, and the development of synthesizers and computer music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 385,
+            "filled seats": 372,
+            "priority": "high"
+        }
+    }
+}

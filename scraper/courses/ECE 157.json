@@ -1,0 +1,45 @@
+{
+    "name": "ECE 157",
+    "title": "RF Hardware Design",
+    "description": "Engineering design cycle for wireless and RF systems: design, practical hardware implementation, and prototype. (Formerly EE 157.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157L is required.",
+        "courses": [
+            [
+                "P",
+                [
+                    "ECE 101",
+                    "ECE 101L ECE 103"
+                ],
+                "C   ECE 157L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 157L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

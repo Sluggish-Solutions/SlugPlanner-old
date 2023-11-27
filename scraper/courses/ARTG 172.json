@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 172",
+    "title": "Game Design Studio III",
+    "description": "Students scope and polish their final game designs. Students work towards releasing one specific game platform while coordinating across disciplinary boundaries to create and integrate all the necessary code, art, animation, and sound assets for their game. This course is part III of the art and design: games and playable media capstone requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior art and design: games and playable media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 171. Enrollment is restricted to senior art and design: games and playable media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "7",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 165,
+            "filled seats": 122,
+            "priority": "low"
+        }
+    }
+}

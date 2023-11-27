@@ -1,0 +1,32 @@
+{
+    "name": "METX 41",
+    "title": "Physiology of Disease",
+    "description": "Introduces students to physiological processes governing cells and organs and covers mechanisms of physiological regulation and how their malfunction leads to disease. This course is designed to directly contribute to achieving the program learning outcomes for the B.S. in Global and Community Health and is specifically required for the Public and Community Health concentration. In addition, this course provides the foundation for a number of upper-division classes related to health including: BIOL130; METX 115; METX 135/METX 135L; METX 138; BIOL 117; METX 102. Prerequisites: METX 41 has no prerequisite but taking BIOL 20A is  strongly recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 32,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FREN 6",
+    "title": "Second-Year French",
+    "description": "Final course of intermediate sequence includes grammar study, vocabulary building, extensive writing, and discussion. Reading of a French or Francophone novel is an integral part of course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FREN 5 or placement by interview.",
+        "courses": [
+            [
+                "P FREN 5"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

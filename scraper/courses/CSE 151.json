@@ -1,0 +1,34 @@
+{
+    "name": "CSE 151",
+    "title": "Advanced Computer Networks",
+    "description": "Provides an in-depth coverage of fundamental topics introduced in course 150 including routing, transport, and internetworking. Also introduces advanced concepts not covered in course 150 including wireless, application-layer services, security, etc. (Formerly  Computer Engineering 151.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 150. Concurrent enrollment in CSE 151L is required.",
+        "courses": [
+            [
+                "P CSE 150 C   CSE 151L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in CSE 151L required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 76,
+            "filled seats": 99,
+            "priority": "high"
+        }
+    }
+}

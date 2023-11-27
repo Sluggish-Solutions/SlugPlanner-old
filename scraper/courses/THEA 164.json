@@ -1,0 +1,32 @@
+{
+    "name": "THEA 164",
+    "title": "Issues in Dance History and Theory",
+    "description": "A research seminar. Topics range from critical dance cultures, cognitive dance studies, problems in dance aesthetics, criticism, or theory to particular movements, periods, or the work of a choreographer. Discussions may be supplemented by a movement practice component. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

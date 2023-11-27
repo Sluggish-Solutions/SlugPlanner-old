@@ -1,0 +1,32 @@
+{
+    "name": "ART 220",
+    "title": "Methods and Histories",
+    "description": "First-year seminar on methods of the field. Topics include: strategies for artists working in the field, social and environmental art research methods, histories and case studies (artists, projects, and issues).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

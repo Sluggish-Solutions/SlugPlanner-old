@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 240",
+    "title": "Public Policy and Conservation",
+    "description": "Introduction to political and economic approaches to policy analysis, with particular reference to natural resource scarcity, property rights, and environmental conservation. Case studies apply economic and policy process concepts to the management of public lands, biodiversity, and renewable resources.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to environmental studies graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

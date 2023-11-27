@@ -1,0 +1,32 @@
+{
+    "name": "TIM 172P",
+    "title": "Management of Technology Project I",
+    "description": "First of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172A to complete the first part of a major quarter-long comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172A, the team project focus is on the management, design, and commercialization of a new product within a high-tech company. TIM 172A and TIM 172P together form the first part of the required management of technology comprehensive requirement for the TIM B.S. major.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Technology and Information (TIM) majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in TIM 172A. Enrollment is restricted to Technology and Information (TIM) majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in 172A is required. This lab meets on T/TH at the same time as TIM 172A.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 90,
+            "filled seats": 77,
+            "priority": "high"
+        }
+    }
+}

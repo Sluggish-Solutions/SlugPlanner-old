@@ -1,0 +1,38 @@
+{
+    "name": "MUSC 53A",
+    "title": "Beginning Ghanaian Ensemble",
+    "description": "Students learn to perform music that originates primarily from Ghana, West Africa as well as be introduced to the variety of different musical styles present in Ghana through guided viewing of multimedia and discussion of culture as a living, evolving entity. Uses a variety of instruments including drums, bells, rattles, clappers, and hands. Classes consist primarily of hands-on instruction and singing. In-class learning supplemented with audio and video clips and articles posted on Canvas. Repertoire each quarter varies at the discretion of the instructor.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 42,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

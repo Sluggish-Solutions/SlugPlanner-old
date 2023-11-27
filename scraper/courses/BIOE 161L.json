@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 161L",
+    "title": "Kelp Forest Ecology Laboratory",
+    "description": "Fieldwork using SCUBA to quantitatively and qualitatively examine the abundance and distribution of organisms in kelp forests, with additional laboratory work. Culminates with a directed individual research project. Class meets one full morning each week. Students are billed a materials fee of $500. Admission by interview. Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C; satisfaction of the Entry Level Writing and Composition requirements; BIOE 161 must be taken concurrently; BIOE 107, 120/L, 122/L are recommended. Students must pass the University Research Diving Certification (contact the Diving Safety Officer, Institute of Marine Sciences, for further information).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 161 is required. Enrollment by permission code only, and permission granted to students who meet one of the following: 1) are currently an AAUS certified diver (Scientific diver certification) at UCSC 2) are currently an AAUS certified diver at some other institution or at UCSC but are not current with all requirements (e.g., equipment check). We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 3) Are in the Spring BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 4) Are in the Fall BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts Contact instructor, Pete Raimondi, for more information.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 26,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

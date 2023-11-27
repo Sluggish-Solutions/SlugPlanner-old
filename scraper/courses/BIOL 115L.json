@@ -1,0 +1,57 @@
+{
+    "name": "BIOL 115L",
+    "title": "Eukaryotic Molecular Biology Laboratory",
+    "description": "A laboratory designed to provide students with direct training in basic molecular techniques. Each laboratory is a separate module which together builds to allow cloning, isolation, and identification of a nucleic acid sequence from scratch. Students cannot receive credit for this course and BIOL 187L or BIOL 287L.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology and Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 115L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 120L, BIOL 121L, BIOL 129L, BIOL 186L or METX 119L.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 100 or BIOC 100A; BIOL 101L or BIOL 102L; and satisfaction of the Entry Level Writing and Composition Requirements; and previous or concurrent enrollment in BIOL 101 or BIOL 115. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology and Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 115L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 120L, BIOL 121L, BIOL 129L, BIOL 186L or METX 119L.",
+        "courses": [
+            [
+                "S"
+            ],
+            [
+                "M C"
+            ],
+            [
+                "D B"
+            ],
+            [
+                "N BS   O         S    BIOL 115L      C",
+                "BIOL 100L BIOL 103L BIOL 105L BIOL 106L BIOL 108L BIOL 109L BIOL 120L BIOL 121L BIOL 129L BIOL 186L",
+                "METX 119L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 16,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 16,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

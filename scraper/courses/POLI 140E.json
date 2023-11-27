@@ -1,0 +1,37 @@
+{
+    "name": "POLI 140E",
+    "title": "Middle East Politics",
+    "description": "Covers different aspects of the evolution of the contemporary Arab nationalist state. The Arab world has weathered a series of revolutions, military coups, civil wars and liberalization attempts during the past six decades. Before the 2010-2011 uprisings, the region was mistakenly labeled as the home of ''failed'' and ''rogue'' states and understood to be the only region in which genuine democratic change was absent. Course shows that popular legitimacy and political ambitions have not always been lacking in the region, focusing primarily on Egypt, Syria, Tunisia and Algeria to emphasize the changes and continuities in the multiple constructions of state power in the Arab world since decolonization. Students cannot receive credit for this course and POLI 152.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level and Composition requirements.",
+        "courses": [
+            [
+                "P    E L"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

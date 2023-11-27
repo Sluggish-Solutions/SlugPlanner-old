@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 224A",
+    "title": "Proseminar: Cognitive I",
+    "description": "A proseminar reviewing current topics in cognitive psychology, designed to introduce new graduate students to the field.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to psychology graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

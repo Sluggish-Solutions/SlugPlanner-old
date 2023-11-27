@@ -1,0 +1,35 @@
+{
+    "name": "SOCY 107B",
+    "title": "Project Implementation and Grant Writing for Social Entrepreneurs",
+    "description": "Covers conversion of ICT project into a fundable grant proposal for social justice, integration of social activism, entrepreneurship and justice, and implementation of project. Topics include: funders, proposal design, field methods, project assessment, innovative ICT applications, action research methods. (Formerly course 30C.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 107A or SOCY 30B.",
+        "courses": [
+            [
+                "P SOCY 107A",
+                "SOCY 30B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 22,
+            "priority": "very low"
+        }
+    }
+}

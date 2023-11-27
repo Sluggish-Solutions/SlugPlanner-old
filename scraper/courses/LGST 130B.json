@@ -1,0 +1,39 @@
+{
+    "name": "LGST 130B",
+    "title": "Justice and Sustainability in Agriculture",
+    "description": "Agricultural sustainability is examined as a complex set of interactions between ecological, social, and economic factors. Drawing case studies from U.S. agriculture, course examines the social justice implications of historical and current agri-food system dynamics. (Formerly Principles of Sustainable Agriculture.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in LGST 10 and either LGST 111A or 111B, or by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                "LGST 10"
+            ],
+            [
+                "LGST 111A",
+                "111B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

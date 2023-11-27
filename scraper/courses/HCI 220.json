@@ -1,0 +1,32 @@
+{
+    "name": "HCI 220",
+    "title": "Ethics and Activism in Tech and Design",
+    "description": "Examines tech ethics/activism through the lens of design. Students discuss biases within tech and reflect on the role of UX/HCI practitioners through coursework and activities. Students learn the possibilities of political action as UX/HCI practitioners.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): HCI 200 and HCI 201; or by permission of instructor. Enrollment is restricted to human computer interaction graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

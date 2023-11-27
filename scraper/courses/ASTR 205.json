@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 205",
+    "title": "Introduction to Astronomical Research and Teaching",
+    "description": "Lectures and seminar-style course intended to integrate new graduate students into the department; to introduce students to the research and interests of department faculty; and to expose graduate students to teaching skills and classroom techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

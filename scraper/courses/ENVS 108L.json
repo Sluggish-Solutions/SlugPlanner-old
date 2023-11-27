@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 108L",
+    "title": "General Entomology Laboratory",
+    "description": "Laboratory sections are devoted to the identification of insects. Individual collections representing 15 orders, sight identification of 60 families, and use of taxonomic keys for positive designations required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 108 is required.",
+        "courses": [
+            [
+                "C   ENVS 108"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

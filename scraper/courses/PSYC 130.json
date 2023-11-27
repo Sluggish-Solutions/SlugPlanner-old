@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 130",
+    "title": "Deception, Brain, and Behavior",
+    "description": "Focuses on behavioral and brain manifestations of deception. Topics include developmental changes that allow us to understand and to use deception, physical implications of lying expressed in the face, voice, posture, and brain activity. Also covers mechanical or behavioral techniques used in deceptive behavior, whether in the form of overt behavior or brain activity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100; and PSYC 20 or any upper-division cognitive course.  Enrollment is restricted to psychology and cognitive science majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 59,
+            "priority": "unavailible"
+        }
+    }
+}

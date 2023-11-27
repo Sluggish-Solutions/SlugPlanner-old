@@ -1,0 +1,32 @@
+{
+    "name": "CSE 290T",
+    "title": "Topics in Computing for Society",
+    "description": "Current research topics on computer technology that is intentionally targeted to benefiting society. Topics vary year to year. Students read papers from current conferences and journals, and present class lectures. A research project is required. (Formerly Computer Science 290T.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

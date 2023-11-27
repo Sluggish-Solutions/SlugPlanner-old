@@ -1,0 +1,34 @@
+{
+    "name": "AM 170B",
+    "title": "Mathematical Modeling 2",
+    "description": "Second course in mathematical modeling emphasizing the general process of scientific inquiry: model construction, tool selection, numerical methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that must be solved using numerical tools. Applications are drawn from a variety of fields.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 135,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: AM 129 or AM 209, AM 112, and AM 147, and AM 170A. AM 170A may be taken concurrently with 170B on an exceptional basis by permission of the instructor. Enrollment is restricted to seniors. Graduate students may apply with permission of the instructor.",
+        "courses": [
+            [
+                "G"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

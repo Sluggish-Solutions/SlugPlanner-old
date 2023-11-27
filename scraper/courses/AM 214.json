@@ -1,0 +1,32 @@
+{
+    "name": "AM 214",
+    "title": "Applied Dynamical Systems",
+    "description": "Introduces continuous and discrete dynamical systems. Topics include: fixed points; stability; limit cycles; bifurcations; transition to and characterization of chaos; and fractals. Examples drawn from sciences and engineering; founding papers of the subject are studied. Students cannot receive credit for this course and AM 114 or MATH 145. (Formerly AMS 214.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction with AM 114.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 76,
+            "filled seats": 71,
+            "priority": "high"
+        }
+    }
+}

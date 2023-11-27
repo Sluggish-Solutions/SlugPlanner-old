@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 43A",
+    "title": "Martial Arts: Aikido I",
+    "description": "Coeducational. Introductory-level course in nonviolent, noncompetitive Japanese martial art emphasizing mind-body harmony, balance, relaxation, and the understanding of vital energy. Aikido self-defense techniques aim toward the creative resolution of conflict and the growth of the individual.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 56,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 225,
+            "filled seats": 91,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

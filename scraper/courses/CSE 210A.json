@@ -1,0 +1,32 @@
+{
+    "name": "CSE 210A",
+    "title": "Programming Languages",
+    "description": "Covers current issues in programming languages. Language topics include object oriented, concurrent, functional, and logic programming, and other programmable applications such as symbolic manipulators and simulation. (Formerly Computer Science 203.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduate students may enroll for this course if they have completed CSE 112 and have the consent of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 59,
+            "priority": "low"
+        }
+    }
+}

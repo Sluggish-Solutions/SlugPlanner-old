@@ -1,0 +1,48 @@
+{
+    "name": "SPAN 6",
+    "title": "Second-Year Spanish",
+    "description": "Increases oral and written proficiency using authentic reading materials which focus on such topics as social class, ethnicity, education, religion, economic, and political developments in the Spanish-speaking world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 5 or SPAN 5M or placement into SPAN 6 via the online Spanish Placement Examination.",
+        "courses": [
+            [
+                "P SPAN 5",
+                "SPAN 5M",
+                "SPAN 6    S P E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 15,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

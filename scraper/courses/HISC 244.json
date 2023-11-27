@@ -1,0 +1,32 @@
+{
+    "name": "HISC 244",
+    "title": "Racial Capitalism",
+    "description": "Includes readings of selected foundational texts in the intellectual lineage now known as ''racial capitalism.'' Focus is on critical appropriation of and/or engagement with Marxism by key thinkers in what is now sometimes known as the ''Black radical tradition.'' Authors may include Karl Marx, W.E.B. DuBois, Eric Williams, Oliver Cox, Walter Rodney, Stuart Hall, Cedric Robinson, Angela Davis, and/or Ruth Wilson Gilmore. Course is organized around the close reading of a set of key texts. In addition to developing knowledge of the substantive topics, the course is organized to facilitate the development of key skills in textual interpretation and analytic argumentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

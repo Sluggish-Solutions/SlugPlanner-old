@@ -1,0 +1,32 @@
+{
+    "name": "HISC 65",
+    "title": "What is Belief?",
+    "description": "Explores the historical and political conditions in which ?belief? has come to characterize people?s relationships to a nonmaterial, spiritual, or supernatural reality. Analyzing the historically recent genesis and differentiation of categories like ?religion,? ?politics,? and ?science,? course examines how the rise to prominence of ?belief? is constitutive of modernity as a whole. From these theoretical-historical foundations, course goes on to explore the realms of so-called belief themselves, through case studies on the bodily practices of mystics, prophetically inspired peasant uprisings, and the uncanny reality of UFOs. (Formerly offered as HISC 123, What is Belief?  Mystics, Heretics, and Aliens.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

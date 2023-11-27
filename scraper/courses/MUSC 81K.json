@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 81K",
+    "title": "Scenes and Subcultures",
+    "description": "Introduces students to ethnographic research methods through study and application in a local music scene. Explores issues of music culture and genre; issues of space in terms of communities, scenes, and subcultures; and the cultivation of music values within a scene. These topics are integrally related to ontologies of difference and their relation to dominant power discourses, including but not limited to issues of class, race, sex, orientation, age, and so on. No previous knowledge of music is assumed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 320,
+            "filled seats": 304,
+            "priority": "high"
+        }
+    }
+}

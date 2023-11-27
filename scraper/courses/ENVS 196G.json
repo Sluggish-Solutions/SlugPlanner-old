@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 196G",
+    "title": "Senior Seminar in Geographic Information Systems (GIS)",
+    "description": "Readings and discussions of primary literature on Geographic Information Systems (GIS). Lab-based research projects (individual or group) writing multiple drafts resulting in a final project. Enrollment by application with selection based on appropriate background and academic performance and by consent of instructor. Satisfies senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 100 and ENVS 100L; Entry Level Writing and Composition requirements; ENVS 115A, ENVS 115L, ENVS 115B. Previous or concurrent enrollment in ENVS 115C. Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

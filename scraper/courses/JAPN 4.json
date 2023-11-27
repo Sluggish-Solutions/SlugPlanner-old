@@ -1,0 +1,34 @@
+{
+    "name": "JAPN 4",
+    "title": "Second-Year Japanese",
+    "description": "Students carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): JAPN 3 or by consent of instructor.",
+        "courses": [
+            [
+                "P JAPN 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 54,
+            "filled seats": 39,
+            "priority": "low"
+        }
+    }
+}

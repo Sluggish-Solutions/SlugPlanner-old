@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 208A",
+    "title": "Ethnographic Practice",
+    "description": "Introduces graduate students to the practice of fieldwork. Students design and carry out a quarter-long research project exploring a range of methods and producing an analytical case study. Readings and discussion emphasize both methodological critique and successful implementation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to anthropology graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

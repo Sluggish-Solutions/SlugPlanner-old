@@ -1,0 +1,40 @@
+{
+    "name": "BIOE 124L",
+    "title": "Mammalogy Laboratory",
+    "description": "Focuses on the identification of mammals and their specific traits. Exercises provide hands-on experience at identifying mammal orders, families, and species. Field trip provides students with field techniques in mammalogy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C. Concurrent enrollment in BIOE 124 is required.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C C   BIOE 124"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 124 lecture is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

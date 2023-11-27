@@ -1,0 +1,40 @@
+{
+    "name": "BIOE 124",
+    "title": "Mammalogy",
+    "description": "Introduces the biology of mammals, including their classification, evolution, behavior, reproductive strategies, and general ecology. Examines the diagnostic traits of mammals; provides a survey of the living orders along with their diagnostic features, physiological and behavioral specializations, and adaptations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C. Concurrent enrollment in BIOE 124L is required.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C C   BIOE 124L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 124L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

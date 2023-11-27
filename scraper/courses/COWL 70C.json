@@ -1,0 +1,34 @@
+{
+    "name": "COWL 70C",
+    "title": "Advanced Book Arts",
+    "description": "Students learn fundamental skills in fine letterpress printing, including hand typesetting and instruction in the operation of printing presses. Basic typography explored as students design and print a small edition of a selected text. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): COWL 70B or by instructor permission.",
+        "courses": [
+            [
+                "P COWL 70B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 13,
+            "priority": "high"
+        }
+    }
+}

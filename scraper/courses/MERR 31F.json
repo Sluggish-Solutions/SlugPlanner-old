@@ -1,0 +1,32 @@
+{
+    "name": "MERR 31F",
+    "title": "Agency, Dialogue, Action: Fostering Critical Engagement",
+    "description": "What exactly does it mean to have agency, what do we do with agency? Course examines theories of agency, in education and elsewhere, and engages students in opportunities to enact and examine effective approaches. Understanding that spaces of social collaboration are also learning environments, students investigate how different models of student engagement promote agency ultimately leading to investigating how we can utilize our agency to effect change and how dialogue plays an integral role in this process. Also explores effective practices for fostering and implementing agency and communication, and the theories from which these practices emerge. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization. (Formerly MERR 31.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is limited to SOMeCA students. Enrollment by permission only.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

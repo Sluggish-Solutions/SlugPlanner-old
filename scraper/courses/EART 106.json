@@ -1,0 +1,32 @@
+{
+    "name": "EART 106",
+    "title": "Coasts in Crisis",
+    "description": "Comprehensive assessment of the impacts that the human population is having on the coastal zone globally and the diverse ways in which geologic processes and coastal hazards impact human settlement and development in the coastal zone.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 103,
+            "filled seats": 104,
+            "priority": "high"
+        }
+    }
+}

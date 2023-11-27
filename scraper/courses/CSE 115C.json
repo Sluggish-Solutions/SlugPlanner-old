@@ -1,0 +1,34 @@
+{
+    "name": "CSE 115C",
+    "title": "Software Design Project II",
+    "description": "Continuation of CSE 116. Students work in teams to develop, test, document, and deploy a substantial software project. Teams give a formal presentation and demonstration of each project. (Formerly Computer Science 117.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 115B.",
+        "courses": [
+            [
+                "P CSE 115B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 63,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "BME 230A",
+    "title": "Introduction to Computational Genomics and Systems Biology",
+    "description": "Introductory and intermediate-level topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Covers topics in machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students conduct related independent research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 205. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

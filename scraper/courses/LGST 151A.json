@@ -1,0 +1,39 @@
+{
+    "name": "LGST 151A",
+    "title": "Environmental Assessment",
+    "description": "Introduction to California land use planning law and practice, and the theory, practice, and public policy aspects of environmental assessment, using the California Environmental Quality Act (CEQA) as a model. The National Environmental Policy Act (NEPA) and other environmental and planning legislation also considered. Covers elements of State law and regulations, environmental impact assessment requirements, and practical procedures for preparing and evaluating CEQA documents, with case studies that exemplify legal, regulatory and public policy and practice aspects of the assessment process.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in LGST 10 and either LGST 111A or 111B, or by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                "LGST 10"
+            ],
+            [
+                "LGST 111A",
+                "111B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 29,
+            "priority": "low"
+        }
+    }
+}

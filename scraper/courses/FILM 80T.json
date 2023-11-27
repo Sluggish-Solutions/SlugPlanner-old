@@ -1,0 +1,32 @@
+{
+    "name": "FILM 80T",
+    "title": "Technothrillers",
+    "description": "Examination of recent films classified as thrillers that approach technology (computers, robotics, biotech, the Internet, etc.) through suspense, anxiety, and paranoia. It will also address how technologically produced popular culture negotiates attitudes toward technological change.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 240,
+            "filled seats": 232,
+            "priority": "high"
+        }
+    }
+}

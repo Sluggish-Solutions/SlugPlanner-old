@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 130L",
+    "title": "Agroecology and Sustainable Agriculture Laboratory",
+    "description": "Laboratory and field exercises to train in the analysis of ecological processes in agricultural systems, with a focus on the quantification of ecological sustainability. Experimental design, analysis, and data interpretation are emphasized.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 130A is required.",
+        "courses": [
+            [
+                "C   ENVS 130A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 72,
+            "filled seats": 61,
+            "priority": "moderate"
+        }
+    }
+}

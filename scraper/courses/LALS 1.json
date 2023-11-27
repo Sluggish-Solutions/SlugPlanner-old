@@ -1,0 +1,38 @@
+{
+    "name": "LALS 1",
+    "title": "Introduction to Latin American and Latino Studies",
+    "description": "Interdisciplinary introduction presenting the elements for studying Latin American politics and economics, culture, and society as well as the dynamics of Latino communities in the U.S. Special attention paid to issues of colonialism, human rights, U.S. foreign policy toward Latin America, racism, capitalist globalization, migration, to emerging political and economic shifts in the Americas, and to new local and transnational efforts for social change on the part of Latin America's peoples and Latinos in the U.S.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Note: discussion sections have been cancelled for this class; students should enroll in the lecture component only.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 240,
+            "filled seats": 241,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

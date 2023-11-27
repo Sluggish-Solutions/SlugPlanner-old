@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 80K",
+    "title": "Foundations of Video Game Design",
+    "description": "Explores how video games (and games broadly) shape experiences and express ideas. Students develop novel games, interpret games, and survey related topics. No programming experience is required. All offerings support students with required synchronous section meetings and optional synchronous events.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Please note that the primary lecture is offered with asynchronous online instruction and secondary lab sections are taught in person.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 300,
+            "filled seats": 288,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 99,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 294,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

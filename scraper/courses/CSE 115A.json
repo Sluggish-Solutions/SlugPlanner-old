@@ -1,0 +1,55 @@
+{
+    "name": "CSE 115A",
+    "title": "Introduction to Software Engineering",
+    "description": "Emphasizes the characteristics of well-engineered software systems. Topics include requirements analysis and specification, design, programming, verification and validation, maintenance, and project management. Practical and research methods are studied. Imparts an understanding of the steps used to effectively develop computer software. (Formerly Computer Science 115.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 101 and CSE 130.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "CSE 101"
+            ],
+            [
+                "CSE 130"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Science majors during First Pass enrollment. Enrollment restricted to Computer Science and Computer Engineering majors during Second Pass enrollment. Major restrictions lifted after Second Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 147,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 140,
+            "filled seats": 133,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 140,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "CSP 231B",
+    "title": "CSP Year 1 Capstone Planning & Design Winter",
+    "description": "Picks up where the fall capstone planning seminar ended. Students continue designing capstone project for pursuing a scalable solution to a complex and pressing coastal sustainability problem. Winter focus is learning and applying strategies and methods to: (a) co-create a capstone project with a non-academic partner in the government, non-governmental or private sector; and (b) develop and submit successful funding proposals for the project. Methods learned apply broadly to collaborative, solutions-oriented work that may be pursued after graduation. Weekly assignments mean working outside of class on steps or skills for co-creating and fundraising with partners and then sharing work for peer-review in class in the next week. Expect to do the reading and weekly assignments before each week's seminar session. Instructor provides separate instructions for weekly assignments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to Coastal Science and Policy M.S. students; and to Ph.D. students who have declared the Coastal Science and Policy Designated Emphasis by permission.",
+        "courses": [
+            [
+                "E   C S"
+            ],
+            [
+                "P MS"
+            ],
+            [
+                "PD      C S"
+            ],
+            [
+                "P D E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 11,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

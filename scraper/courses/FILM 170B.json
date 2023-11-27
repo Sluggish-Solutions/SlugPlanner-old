@@ -1,0 +1,44 @@
+{
+    "name": "FILM 170B",
+    "title": "Fundamentals of Film and Video Production",
+    "description": "An introduction to the art and craft of making films and videos. Covers principles of cinematography, videography, editing, production planning, and lighting involving both production techniques and methods. Students are billed a course materials fee of $190. Prerequisite(s): FILM 20A or FILM 20B and at least one upper-division film and digital media critical studies course. Admission by application; application materials available during the last three weeks of preceding quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Applications and instructions can be found at this link: https://slugfilm2.ucsc.edu/secure/production_applications/ . Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "ESCI 167",
+    "title": "Applied Environmental Time Series Analysis",
+    "description": "Explores empirical approach to quantify and explain changes in the Earth system over time. With the complexity of the Earth system, and the challenge of making accurate and numerous observations, simple methods can be of limited usefulness. Course covers more advanced methods that are typically not included in introductory-level statistical courses. Students learn how to analyze time-series data and answer questions about the Earth system and acquire the theoretical basis of the statistical approaches, the experience at conducting analyses, and practice interpreting and discussing the results. This class is hands-on and utilizes a suite of observational datasets and outputs from Earth system models. Students cannot receive credit for this course and OCEA 267.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ESCI 160, EART 125, or OCEA 260/EART 260.",
+        "courses": [
+            [
+                "P ESCI 160 EART 125",
+                "OCEA 260EART 260"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 12,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

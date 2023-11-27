@@ -1,0 +1,38 @@
+{
+    "name": "THEA 20",
+    "title": "Introductory Studies in Acting",
+    "description": "Introduction to basic acting skills and the problems of performance. Concentrates on expanding a range of expression and ability to respond to and analyze dramatic text. Designed for students with little or no experience in acting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 88,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 95,
+            "priority": "unavailible"
+        }
+    }
+}

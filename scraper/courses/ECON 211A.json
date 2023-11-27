@@ -1,0 +1,34 @@
+{
+    "name": "ECON 211A",
+    "title": "Advanced Econometrics I",
+    "description": "Introduces advanced econometric methods. Topics include probability theory, hypothesis testing, linear regression analysis, heteroscedasticity, serial correlation, instrumental variables, and panel data models.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to economics Ph.D. students or by permission of the instructor.",
+        "courses": [
+            [
+                "D"
+            ]
+        ]
+    },
+    "class_notes": "Economics Ph.D. students will enroll in this course on the first day of instruction. Please contact the economics graduate programs coordinator for more information.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 7,
+            "filled seats": 4,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "BIOL 20A",
+    "title": "Cell and Molecular Biology",
+    "description": "Introduction to biochemistry, cell biology, molecular biology, and genetics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1A, CHEM 3A, or CHEM 4A.",
+        "courses": [
+            [
+                "P CHEM 1A CHEM 3A",
+                "CHEM 4A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 320,
+            "filled seats": 303,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 460,
+            "filled seats": 435,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

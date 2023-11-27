@@ -1,0 +1,32 @@
+{
+    "name": "STEV 10",
+    "title": "Skills for College and Beyond",
+    "description": "Applications of practical skills for effective, meaningful study in the context of a full, busy life. Topics include learning styles, time management, test preparation, and life balance. Specific techniques for efficient reading comprehension, note-taking, memorization, and self-assessment are introduced. Enrollment restricted to college members and by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 36,
+            "filled seats": 38,
+            "priority": "high"
+        }
+    }
+}

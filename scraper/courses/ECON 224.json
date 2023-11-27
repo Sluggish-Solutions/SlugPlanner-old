@@ -1,0 +1,44 @@
+{
+    "name": "ECON 224",
+    "title": "Economic Applications of Machine Learning",
+    "description": "Introduces machine learning methods and their application to econometrics and applied economics. Covers the traditional use of machine learning for solving prediction problems and recent research applying the methods to causal inference and counterfactual prediction. Students learn the basic theory justifying the use of these methods and gain experience implementing them in R using economic data. Through class discussions, students study examples of applied economic research utilizing machine learning methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 211A, ECON 211B and ECON 211C, or ECON 216 and ECON 217. Recommended prerequisites: M.S. APEF students should have A?s in the econometrics sequence and be comfortable with linear algebra. Experience with R, MATLAB, Python, or related programming language is very strongly recommended, as the course will not teach basic programming.",
+        "courses": [
+            [
+                "P ECON 211A ECON 211B"
+            ],
+            [
+                "ECON 211C",
+                "ECON 216"
+            ],
+            [
+                "ECON 217 R  MS APEF    A"
+            ],
+            [
+                "E  R MATLAB P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

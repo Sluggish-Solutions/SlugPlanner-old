@@ -1,0 +1,58 @@
+{
+    "name": "AM 129",
+    "title": "Foundations of Scientific Computing for Scientists and Engineers",
+    "description": "Covers fundamental aspects of scientific computing for research. Students are introduced to algorithmic development, programming (including the use of compilers, libraries, debugging, optimization, code publication), computational infrastructure, and data analysis tools, gaining hands-on experience through practical assignments. Basic programming experience is assumed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 10 and MATH 11A; or AM 10 and MATH 19A; or AM 10 and MATH 20A; or MATH 21 and MATH 11A; or MATH 21 and MATH 19A; or MATH 21 and MATH 20A.",
+        "courses": [
+            [
+                "P",
+                [
+                    "AM 10",
+                    "MATH 11A"
+                ],
+                [
+                    "AM 10",
+                    "MATH 19A"
+                ],
+                [
+                    "AM 10",
+                    "MATH 20A"
+                ],
+                [
+                    "MATH 21",
+                    "MATH 11A"
+                ],
+                [
+                    "MATH 21",
+                    "MATH 19A"
+                ],
+                [
+                    "MATH 21",
+                    "MATH 20A"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 64,
+            "filled seats": 49,
+            "priority": "moderate"
+        }
+    }
+}

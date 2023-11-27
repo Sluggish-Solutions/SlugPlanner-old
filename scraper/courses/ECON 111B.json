@@ -1,0 +1,34 @@
+{
+    "name": "ECON 111B",
+    "title": "Intermediate Accounting II",
+    "description": "Covers the principles, control, the theory of accounting for liabilities and property; plant and equipment, the preparation and analysis of investments,and review and analysis of bonds and leases.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 111A..",
+        "courses": [
+            [
+                "P ECON 111A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 130C",
+    "title": "Field Experiences in Agroecology and Sustainable Food",
+    "description": "Research and practice in agroecology and sustainable food systems. Students gain multidimensional understanding of agroecology through study at the UCSC farm, guest speakers, field trips, and interdisciplinary readings. Students participate in research projects and learn about methods, and study design and statistical analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L.",
+        "courses": [
+            [
+                "P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        }
+    }
+}

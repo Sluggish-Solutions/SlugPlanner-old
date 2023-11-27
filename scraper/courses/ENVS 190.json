@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 190",
+    "title": "Capstone Course: Environmental Problem Solving",
+    "description": "A synthetic course that draws on the knowledge and skills students bring from other courses in the major. Focuses on written and oral individual and group projects in which students must take the initiative. Emphasizes developing skills critical for students in their future careers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 100 and ENVS 100L; Entry Level Writing and Composition requirements. Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 68,
+            "filled seats": 60,
+            "priority": "high"
+        }
+    }
+}

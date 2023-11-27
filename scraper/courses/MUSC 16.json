@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 16",
+    "title": "Theoretical Foundations of Music",
+    "description": "Explores the physics and socio-historical foundations of music so that students are effectively equipped to undertake further culturally informed study in music theory. No prior formal music education is required for this class, though students should have some experience singing or playing an instrument.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

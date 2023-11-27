@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 150",
+    "title": "Communicating Anthropology",
+    "description": "Encourages anthropology majors to explore different means of communicating anthropology with much attention to individual writing and presentation skills. Intensive work on library research; recognizing, comparing, and making arguments; and analyzing ethnographies, articles, reviews, and films.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore and junior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two of the following courses: ANTH 1, ANTH 2, or ANTH 3; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore and junior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 14,
+            "priority": "unavailible"
+        }
+    }
+}

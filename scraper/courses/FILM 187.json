@@ -1,0 +1,32 @@
+{
+    "name": "FILM 187",
+    "title": "Advanced Topics in Television Studies",
+    "description": "Study of a selected aspect of television history, television criticism, or national television. Includes weekly screenings and historical/theoretical readings. Usually offered in alternate academic years, with rotating topics. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior film and digital media majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20B. Enrollment is restricted to junior and senior film and digital media majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

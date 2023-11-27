@@ -1,0 +1,38 @@
+{
+    "name": "THEA 10",
+    "title": "Introduction to Theater Design and Technology",
+    "description": "Addresses imagination and creativity. Using the framework of theater production, students explore the process of translating a script into a performance. Topics include visual literacy, creative problem solving, establishing effective working teams, tear sheets, storyboarding, drawing, sound and color theory. This course is a prerequisite for all upper-division design courses.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 114,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 114,
+            "priority": "unavailible"
+        }
+    }
+}

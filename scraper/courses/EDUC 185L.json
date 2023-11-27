@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 185L",
+    "title": "Introduction to Teaching: Cal Teach 3",
+    "description": "Supplements theoretical and practical introduction to the teaching of science or mathematics with subject-pedagogical approaches. Concurrent participation in an advanced Cal Teach internship provides context to apply theory and practical techniques. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A, EDUC 50B, or EDUC 50C; EDUC 100A, EDUC 100B, or EDUC 100C; EDUC 185B or EDUC 185C. Enrollment restricted to juniors and seniors or education minors, or by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 19,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

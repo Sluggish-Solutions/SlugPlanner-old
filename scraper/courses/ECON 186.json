@@ -1,0 +1,32 @@
+{
+    "name": "ECON 186",
+    "title": "Mathematical Methods for Economic Analysis",
+    "description": "Presents mathematical methods commonly used in graduate-level economic analysis: basic matrix algebra, real analysis, functions, continuity concepts, differentiation, Taylor expansions, and implicit function theorem and optimization.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Course is taught in an accelerated manner for incoming M.S. APEF students (from 9/5-9/22/2023). Please contact the economics graduate programs coordinator (econ_grad_coor@ucsc.edu) for course scheduling details.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 36,
+            "filled seats": 13,
+            "priority": "very low"
+        }
+    }
+}

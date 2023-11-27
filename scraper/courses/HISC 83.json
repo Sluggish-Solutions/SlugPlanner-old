@@ -1,0 +1,32 @@
+{
+    "name": "HISC 83",
+    "title": "White Like Me: Whiteness and the Racial Imaginary",
+    "description": "Survey course of antiracism literatures in the U.S. that introduces students to critical whiteness studies, a field of research, thought, and embodied antiracist practice that emerged in the 1980s and 1990s and is currently provoking renewed interest. Students think through the genealogy of whiteness studies and its origins in Black studies and movements to gain ethnic studies programs on campuses in California. Also considers the position of whiteness studies within the fields of critical race and ethnic studies, gender and sexuality studies, and political economy. It is important to note that this course is less a critical response to whiteness studies than an introduction to and survey of the field.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This fully online, asynchronous survey course of antiracism literatures in the US introduces students to critical whiteness studies, a field of research, thought, and embodied antiracist practice that emerged in the 1980s and 1990s and is currently provoking renewed interest. We will think through the genealogy of whiteness studies and its origins in Black Studies and movements to gain Ethnic Studies programs on campuses in California. We will also consider the position of whiteness studies within the fields of Critical Race and Ethnic Studies, Gender and Sexuality Studies, and Political Economy. It is important to note that this course is less a critical response to whiteness studies than an introduction to and survey of the field. For this reason you are expected to begin class with a basic awareness of antiracism and a desire to further your understanding of it?you will need to also be motivated to work in an online format, supported by your TAs.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 120,
+            "priority": "high"
+        }
+    }
+}

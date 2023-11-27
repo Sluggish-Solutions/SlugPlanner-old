@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 203B",
+    "title": "Performance Practice in the Renaissance",
+    "description": "A study of performance practices in Renaissance music, including concepts of mode, musica ficta, ornamentation, text underlay, tempo, and articulation. Basic principles of white notation and a brief history of instruments. Transcription, editing, and performance of a Renaissance work. Offered on a rotational basis with other courses in the 203 series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

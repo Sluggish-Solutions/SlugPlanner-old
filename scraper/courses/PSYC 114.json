@@ -1,0 +1,37 @@
+{
+    "name": "PSYC 114",
+    "title": "Human Development as a Cultural Process",
+    "description": "Examines interdisciplinary theory, research, and methods of studying the cultural basis of human development, and variations and similarities in human lives and practices in the United States and worldwide cultural communities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 10"
+            ],
+            [
+                "PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 91,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 186F",
+    "title": "Undergraduate Research in MCD Biology",
+    "description": "Supervised undergraduate research in laboratory of an MCD biology faculty member accompanied by weekly lectures on ethical and practical scientific issues. Topics include: laboratory safety; the scientific method; the collection, treatment, and presentation of data; critical evaluation of scientific literature; scientific misconduct; and peer review. Career issues, including how to apply for admission to graduate and professional schools, are also discussed. Prerequisite(s): BIOL 100 or BIOC 100A; and BIOL 20L or BIOL 102J; and previous completion of the Disciplinary Communication requirement. Each enrolled student must have a committed MCD faculty sponsor by the first class meeting. Enrollment is restricted to biology and affiliated majors.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with BIOL 186L and 186R. Enrollment is by application only, see https://forms.gle/2SRbBxUfHKrFVZDa9",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 11,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 19,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

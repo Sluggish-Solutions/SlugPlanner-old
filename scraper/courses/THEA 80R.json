@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80R",
+    "title": "Bollywood Dance and Culture in India and Indian Diaspora",
+    "description": "Bollywood is the largest film industry in the world. Students learn several fundamental footsteps, eye, hand and body movements, to perform Bollywood dance. They also learn various traditions of Indian classical, folk, and Bollywood dance terms. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 90,
+            "priority": "unavailible"
+        }
+    }
+}

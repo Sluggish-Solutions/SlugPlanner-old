@@ -1,0 +1,41 @@
+{
+    "name": "BME 160",
+    "title": "Research Programming in the Life Sciences",
+    "description": "Teaches programming while exploring object-oriented design, use of high-performance data containers (dictionaries and sets), and team-based development?all with the goal of producing reliable and usable research tools. No programming experience is required, but basic computer and molecular biology understanding is assumed. Students without prior programming experience may benefit from taking CSE 20 in preparation for this course. Students learn programming in Python to manipulate biological data. Programming assignments comprise the majority of the assignments, and a final project using skills developed in this course is required. Lab section registration is required. BioPython and other modules are introduced for use in the final project.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A or BIOL 21A.",
+        "courses": [
+            [
+                "P BIOL 20A",
+                "BIOL 21A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "6",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 80,
+            "filled seats": 65,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

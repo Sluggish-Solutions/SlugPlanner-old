@@ -1,0 +1,32 @@
+{
+    "name": "CRES 70B",
+    "title": "Black Radical University?",
+    "description": "Course emerges from a collaboration with the Black Student Union around Black student organizing and Black liberationist pedagogies. Students explore and archive histories of Black student organizing on the UC Santa Cruz campus and beyond (locally, nationally, and globally), as well as Black liberationist pedagogy (e.g., decolonial thought in the Third World, freedom schools in the U.S. South, Black Panther Party liberation schools, Black feminist pedagogies). Course is offered for pass/no pass grading only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 27,
+            "priority": "low"
+        }
+    }
+}

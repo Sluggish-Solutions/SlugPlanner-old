@@ -1,0 +1,44 @@
+{
+    "name": "ESCI 191",
+    "title": "Capstone Seminar",
+    "description": "In-depth exploration of a topic within the environmental sciences. Involves at least one research paper. Topics vary quarterly; consult the current course listings. Prerequisite(s): Entry Level Writing and Composition requirements; ESCI 100A and previous or concurrent enrollment in ESCI 100B. Enrollment is restricted to senior environmental sciences majors. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 3,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "METX 125",
+    "title": "Practicing Safe Science",
+    "description": "Introduces research safety principles and practices. Instructors and guest experts discuss research hazards and control measures. Students explore the safe use of research methods and materials via hands-on and outside exercises. Issues include compliance with hazardous waste and other environmental safety regulations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

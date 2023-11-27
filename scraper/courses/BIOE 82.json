@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 82",
+    "title": "Introduction to Field Research and Conservation",
+    "description": "A field-based course with overnight and day trips to regionally diverse areas throughout Central California. Field trips and lectures familiarize students with a wide variety of topics in the ecological, conservation, and environmental science as well as natural-resource management. Enrollment is by instructor permission.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by application at https://forms.gle/ZRuSii7F3XVFTdjSA",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

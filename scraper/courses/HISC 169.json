@@ -1,0 +1,32 @@
+{
+    "name": "HISC 169",
+    "title": "Blue Humanities: Oceans, Humanity, and the Future",
+    "description": "As steerers of planetary climate systems, loci of biodiversity, sources of food, and cradles of inspiration to poets, philosophers, artists, and society in general, the oceans are essential to our future. Course combines history, philosophy, literature, and cinema, using them as lenses through which to analyze, understand, and effect positive change on troubled oceans. Course fits well with UCSC's oceanside location and marine campus.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

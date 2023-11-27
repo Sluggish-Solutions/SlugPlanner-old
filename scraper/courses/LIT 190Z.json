@@ -1,0 +1,32 @@
+{
+    "name": "LIT 190Z",
+    "title": "Topics in German Literature and Culture",
+    "description": "Study of selected authors or issues related to German literature and culture. Course topic changes; please see the Class Search for current topic. Critical approach designations: Geographies, Histories. Distribution requirement: Senior Seminar. German studies majors may use this course to satisfy the German studies senior exit requirement. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior German studies and literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LIT 101 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior German studies and literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: aesthetic theories",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

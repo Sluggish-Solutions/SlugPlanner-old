@@ -1,0 +1,35 @@
+{
+    "name": "FILM 168",
+    "title": "National Cinema and Culture",
+    "description": "Study of a specific cinematic or other media tradition of a region, nation, language, diasporic collectivity or other unifying cultural entity. Not a survey, this course selects one focus or offers a comparative of cross-cultural framework. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 130, FILM 132A, FILM 132B, or FILM 132C.",
+        "courses": [
+            [
+                "P FILM 130 FILM 132A FILM 132B",
+                "FILM 132C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 36,
+            "priority": "low"
+        }
+    }
+}

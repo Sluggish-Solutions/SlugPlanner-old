@@ -1,0 +1,41 @@
+{
+    "name": "BME 205",
+    "title": "Bioinformatics Models and Algorithms",
+    "description": "Covers bioinformatics models and algorithms: the use of computational techniques to convert the masses of information from biochemical experiments (DNA sequencing, DNA chips, and other high-throughput experimental methods) into useful information. Emphasis is on DNA and protein sequence alignment and analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160; and CSE 107 or STAT 131; and concurrent enrollment in BIOC 100A.",
+        "courses": [
+            [
+                "U     BME 160"
+            ],
+            [
+                "CSE 107",
+                "STAT 131"
+            ],
+            [
+                "BIOC 100A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 57,
+            "filled seats": 45,
+            "priority": "moderate"
+        }
+    }
+}

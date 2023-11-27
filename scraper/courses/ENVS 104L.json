@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 104L",
+    "title": "Field Methods Laboratory",
+    "description": "Students directly observe elements of natural history and ecological process; design and implement field studies based on lectures; deploy the methods discussed in lectures; and collect data to analyze, interpret, and report in written and oral forms.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 104A is required.",
+        "courses": [
+            [
+                "C   ENVS 104A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

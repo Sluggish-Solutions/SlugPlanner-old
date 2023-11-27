@@ -1,0 +1,32 @@
+{
+    "name": "MATH 264",
+    "title": "Inverse Problems and Integral Geometry",
+    "description": "Concepts of inverse problem and ill-posedness on the Hilbert scale. Approaches to inversion, regularization and implementation. In Euclidean geometry: Radon transform; X-ray transform; attenuated X-ray transform (Novikov's inversion formula); weighted transforms. Same topics in different geometric contexts: homogeneous spaces, manifolds with boundary. Non-linear problems: boundary rigidity, lens rigidity, inverse problems for connections. MATH 148, MATH 204, MATH 205, MATH 206, and MATH 208, are recommended for preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

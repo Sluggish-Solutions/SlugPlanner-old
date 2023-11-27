@@ -1,0 +1,32 @@
+{
+    "name": "LALS 100B",
+    "title": "Cultural Theory in the Americas",
+    "description": "Focuses on transnational, regional, and local features of Latina/o and Latin American cultural production and artistic expression: how culture is shaped by historical, social, and political forces; how cultural and artistic practices shape the social world; and how culture is produced in an interconnected, postindustrial, and globalized economy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LALS 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionPlease contactlalsadvising@ucsc.eduwith enrollment questions.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

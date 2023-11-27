@@ -1,0 +1,32 @@
+{
+    "name": "CLNI 85",
+    "title": "Global Action",
+    "description": "Workshop facilitated by peer instructors. Students learn about current international and global issues through interactive exercises, small-group discussions, and faculty presentations. Students develop an action plan to raise awareness about one or more of these concerns and take practical steps to create positive change in the world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Nine members during priority enrollment only.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 88,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

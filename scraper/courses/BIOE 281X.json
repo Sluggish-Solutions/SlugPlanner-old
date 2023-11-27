@@ -1,0 +1,44 @@
+{
+    "name": "BIOE 281X",
+    "title": "Topics in Behavioral Ecology of Large Marine Vertebrates",
+    "description": "Weekly seminar course centering on reading and discussion of selected publications along with peer review of research plans, grant proposals, manuscripts, lectures, and conference presentations. The overarching goal is to support the development and progress of graduate students in the Ecology and Evolutionary Biology Department whose thesis work and interests align with the course topic (reviewing innovative approaches in marine mammal science, coupling physiological with ecological concepts using integrative tools, identifying ecological and evolutionary context of large marine vertebrate research). May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to ecology and evolutionary biology graduate students; other students may enroll by consent of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "MUSC 252",
+    "title": "Current Issues Colloquium",
+    "description": "An interactive colloquium featuring presentations by faculty, graduate students, and visiting scholars on research projects in composition, musicology / ethnomusicology, and performance practice, followed by focused discussion.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 17,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 20,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

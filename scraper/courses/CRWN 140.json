@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 140",
+    "title": "Designing Your Life",
+    "description": "Do you ever think, \"I want to make a difference!? but don?t know where to start? In this class, students learn design thinking theory and methods and apply them to their lives, specifically to the question of what to do after college. Students build deeper awareness of their values and goals, define areas of life and work they want to grow in, ideate multiple life paths, prototype elements of careers of interest, and take small steps to try these out. This is an experiential class that asks students to try new ways of thinking and step outside comfort zones as they learn a creative problem-solving approach applicable in many contexts. (Formerly offered as CLNI 140.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "CSE 110A",
+    "title": "Fundamentals of Compiler Design I",
+    "description": "An introduction to the basic techniques used in compiler design. Topics include compiler structure, symbol tables, regular expressions and languages, finite automata, lexical analysis, context-free languages, LL(1), recursive descent, LALR(1), and LR(1) parsing; and attribute grammars as a model of syntax-directed translation. Students use compiler building tools to construct a working compiler. (Formerly Computer  Science 104A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12 and CSE 101.",
+        "courses": [
+            [
+                "P CSE 12"
+            ],
+            [
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Engineering BS majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 86,
+            "priority": "high"
+        }
+    }
+}

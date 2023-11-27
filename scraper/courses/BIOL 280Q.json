@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 280Q",
+    "title": "Telomeres and Telomerase",
+    "description": "Weekly seminar and group discussion on current topics telomerase and telomere length regulation. Students present, review, and discuss relevant research on telomerase, regulation of telomere length equilibrium, analysis of telomere length data. In addition to presenting and discussing published research, students present their own independent research and receive feedback from the instructor and other members of the laboratory. Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

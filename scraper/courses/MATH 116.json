@@ -1,0 +1,34 @@
+{
+    "name": "MATH 116",
+    "title": "Combinatorics",
+    "description": "Based on induction and elementary counting techniques: counting subsets, partitions, and permutations; recurrence relations and generating functions; the principle of inclusion and exclusion; Polya enumeration; Ramsey theory or enumerative geometry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100 or CSE 101. Enrollment is restricted to sophomores juniors, and seniors. Familiarity with basic group theory is recommended.",
+        "courses": [
+            [
+                "F"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 41,
+            "priority": "high"
+        }
+    }
+}

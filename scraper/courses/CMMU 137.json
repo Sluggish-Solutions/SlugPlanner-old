@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 137",
+    "title": "Communities and Climate Change",
+    "description": "For many communities the impacts of global warming, rising sea levels and environmental degradation compound already existing systemic racial, class, and gender inequalities. How do we understand the relationships between people and the environment? How are movements for social and ecological justice (dis)connected? This class considers how and why communities, activists and organizations press for alternatives through case studies from the U.S. environmental justice movement and related local and global struggles for food sovereignty, Indigenous rights and climate justice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

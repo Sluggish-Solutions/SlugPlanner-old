@@ -1,0 +1,44 @@
+{
+    "name": "TIM 170",
+    "title": "Management of Technology Seminar",
+    "description": "Uses weekly talks by leading industry practitioners and university researchers to provide in-depth exposure to the management of technology. Topics covered include product development, operations, strategy, finance, and marketing for technologies such as software and information systems. (Formerly CSE 170.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 160,
+            "filled seats": 135,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 134,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

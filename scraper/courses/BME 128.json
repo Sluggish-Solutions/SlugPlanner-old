@@ -1,0 +1,38 @@
+{
+    "name": "BME 128",
+    "title": "Protein Engineering",
+    "description": "For bioengineering, bioinformatics, and biology majors, focuses on engineering (i.e., changing) of proteins. Topics focus on practical aspects of protein engineering strategies that are crucial to modern biotechnology and biomedicinal applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A; and BIOL 100 or BIOC 100A, or by permission of instructor.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOL 100",
+                "BIOC 100A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

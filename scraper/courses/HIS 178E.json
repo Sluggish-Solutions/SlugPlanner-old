@@ -1,0 +1,32 @@
+{
+    "name": "HIS 178E",
+    "title": "Modern Jewish Intellectual History",
+    "description": "Surveys European Jewish intellectual history from the Enlightenment to the present. Major themes include emancipation and assimilation, the flowering of Yiddish literature, the rise of Zionism, new variations on the messianic idea, and Jewish contributions to the culture of urban modernism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 37,
+            "priority": "unavailible"
+        }
+    }
+}

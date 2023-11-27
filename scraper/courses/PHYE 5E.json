@@ -1,0 +1,38 @@
+{
+    "name": "PHYE 5E",
+    "title": "Aquatics: Lifeguard Training (LT)",
+    "description": "Red Cross certified lifeguard training. Provides the necessary minimum skills training to qualify as a non-surf lifeguard. Certification includes CPR Pro, AED, PDT, D2, ADMIN, and Title 22 First Aid. Candidates must successfully pass final skill tests and a written final exam with 80 percent score. Prerequisite(s): must have ability to swim 500 yards in ten minutes, tread water for one minute, strong swimming skills in free, back, breast, side, and elementary backstroke; must purchase Red Cross LT textbook.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "You will be evaluated on a 300 yard swim, treading water, diving to a depth of 10' and retrieving object (timed). All class dates will be weekend/late afternoon. Must be present at first class meeting. Meeting times are as follows: Saturday, October 7: 10am-12pm (prerequisite) Sunday, October 8: 10am-4pm Sunday, October 29: 10am-4pm Saturday, November 11: 10am-4pm Sunday, November 12 : 10am-4pm",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 4,
+            "priority": "unavailible"
+        }
+    }
+}

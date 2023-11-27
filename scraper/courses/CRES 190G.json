@@ -1,0 +1,32 @@
+{
+    "name": "CRES 190G",
+    "title": "Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography",
+    "description": "How do we read, write, and recognize the queer body? How is it marked in politics, in intimate spaces, and in the ethnographic text? Drawing on ethnic studies and black queer studies, this seminar engages contemporary anthropological approaches to sexuality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior critical race and ethnic studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 21,
+            "filled seats": 17,
+            "priority": "moderate"
+        }
+    }
+}

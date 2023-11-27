@@ -1,0 +1,37 @@
+{
+    "name": "MATH 124",
+    "title": "Introduction to Topology",
+    "description": "Topics include introduction to point set topology (topological spaces, continuous maps, connectedness, compactness), homotopy relation, definition and calculation of fundamental groups and homology groups, Euler characteristic, classification of orientable and nonorientable surfaces, degree of maps, and Lefschetz fixed-point theorem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100; MATH 111A recommended.",
+        "courses": [
+            [
+                "P MATH 100"
+            ],
+            [
+                "MATH 111A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 125A",
+    "title": "Transcommunal Peace Making",
+    "description": "Explores the theoretical tenets and applications of Transcommunality, an outgrowth of the principles of Kingian non-violence, which works toward peace, tolerance, and mutual respect across difference and diversity. UCSC students connect with the Cemanahuac Cultural group, a multi-ethnic and multi-racial gathering of incarcerated men who are warriors for peace within and outside the prison community. Three meetings will be held at the Correctional Training Facility (CTF) in Soledad, California. Enrollment is restricted to junior and senior John R. Lewis College members and by interview.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 13,
+            "priority": "unavailible"
+        }
+    }
+}

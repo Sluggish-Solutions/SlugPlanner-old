@@ -1,0 +1,34 @@
+{
+    "name": "LALS 100L",
+    "title": "Social Science Analytics Lab",
+    "description": "Course provides hands-on training in skills for empirical social science research, including writing good research questions, conducting surveys and interviews, and analyzing quantitative and qualitative data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in LALS 100A is required.",
+        "courses": [
+            [
+                "P C   LALS 100A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 81,
+            "filled seats": 48,
+            "priority": "low"
+        }
+    }
+}

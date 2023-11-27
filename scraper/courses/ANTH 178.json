@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 178",
+    "title": "Historical Archaeology: A Global Perspective",
+    "description": "Introduces the archaeology of European colonialism and the early-modern world. Topics include historical archaeological methods; the nature of European colonial expansion in New and Old Worlds; culture contact and change; and power and resistance in colonial societies. Students cannot receive credit for this course and Anthropology 278.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

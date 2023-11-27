@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 202",
+    "title": "Introduction to Teaching in Physics",
+    "description": "A practical introduction to working as a teaching assistant for undergraduate classes in physics, including both teaching laboratories and running discussion sections. The training includes topics in classroom climate and inclusivity, active learning, motivating students, office hours, information technology, grading, communication with the instructor, and handling difficult situations. Students engaged in teaching in the same quarter are encouraged to apply the lessons in their classes and return with feedback to be discussed. Required course for first year graduate students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "1",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

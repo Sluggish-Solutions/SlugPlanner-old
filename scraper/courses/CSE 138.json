@@ -1,0 +1,41 @@
+{
+    "name": "CSE 138",
+    "title": "Distributed Systems",
+    "description": "Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics. Students implement simple distributed systems over the course of the quarter. (Formerly CMPS 128, Distributed Systems: File Sharing, Online Gaming, and More.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 130 or CSE 131.",
+        "courses": [
+            [
+                "P CSE 130",
+                "CSE 131"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 69,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

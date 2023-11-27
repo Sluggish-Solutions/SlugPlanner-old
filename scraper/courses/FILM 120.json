@@ -1,0 +1,38 @@
+{
+    "name": "FILM 120",
+    "title": "Introduction to Media Theory",
+    "description": "Explores media theory. May be organized thematically or chronologically. Selects from key debates and movements central to understanding media forms in relation to self, society, politics, and aesthetics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A. Enrollment is restricted to proposed and declared film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 35,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

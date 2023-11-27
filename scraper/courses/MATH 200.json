@@ -1,0 +1,32 @@
+{
+    "name": "MATH 200",
+    "title": "Algebra I",
+    "description": "Group theory: subgroups, cosets, normal subgroups, homomorphisms, isomorphisms, quotient groups, free groups, generators and relations, group actions on a set. Sylow theorems, semidirect products, simple groups, nilpotent groups, and solvable groups. Ring theory: Chinese remainder theorem, prime ideals, localization. Euclidean domains, PIDs, UFDs, polynomial rings. Prerequisite(s): MATH 111A and MATH 117 are recommended as preparation. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

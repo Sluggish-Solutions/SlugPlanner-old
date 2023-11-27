@@ -1,0 +1,32 @@
+{
+    "name": "HIS 40A",
+    "title": "Early Modern East Asia",
+    "description": "Surveys the history of East Asia from 1500 to 1894. Covers political, social, economic, and cultural histories of China, Japan, and Korea with the goal of perceiving a regional history that encompassed each society.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 95",
+    "title": "Social Justice and Nonviolent Communication (Rumi's Field)",
+    "description": "Nonviolent Communication provides tools for the work needed to bring our reality closer to the ideal of a world with dignity and equity for all its members. Explores righteous anger, grief, empathy, diplomacy, and making requests others want to say ''yes'' to. The course nickname is ''Rumi's Field,'' which comes from a Rumi poem: ''out beyond ideas of wrongdoing and rightdoing/there is a field/I'll meet you there.'' Formerly Social Justice and Nonviolent Communication (Rumi's Field Living-Learning Community).\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MERR 41",
+    "title": "Pandemics and Planetary Health",
+    "description": "Examines global health events through our own personal experiences and foundations in public health, environmental health, social theory, and governance, generating insight about how infectious disease spreads within our communities and across geographic boundaries. A focal objective is to explore lessons from present and past pandemics to inform future actions and responses within our global and local communities. Case study methods are used to analyze the COVID-19 pandemic and engage in learning across multiple global health events and intersecting planetary health challenges, in a theory and practice-based exploration of pandemics from the perspectives of global health, society, science, and human behavior. (Formerly offered as Pandemic Case Studies: Principles in Public Health.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to the College Scholars Program (CSP) students.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

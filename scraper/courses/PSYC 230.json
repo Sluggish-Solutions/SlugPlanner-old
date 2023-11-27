@@ -1,0 +1,44 @@
+{
+    "name": "PSYC 230",
+    "title": "Research in Cognitive Psychology Seminar",
+    "description": "Colloquium series to study and critique research in cognitive psychology and cognitive science. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to psychology graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 26,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

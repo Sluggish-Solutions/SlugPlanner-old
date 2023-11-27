@@ -1,0 +1,32 @@
+{
+    "name": "HCI 201",
+    "title": "Introduction to Design Methods in HCI",
+    "description": "Introduction to design methods in human-computer interaction (HCI). Students gain mastery of ideation, sketching, prototyping, and other current methods used in HCI design practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to human computer interaction graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 30,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ASTR 136",
+    "title": "Advanced Astronomy Laboratory",
+    "description": "Introduces the techniques of modern observational astrophysics at optical wavelengths through hands-on experiments and use of remote observatories. Students develop the skills and experience to pursue original research. Course is time-intensive and research-oriented. (Formerly Physics 136.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior astrophysics majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ASTR 119 and PHYS 133.  Enrollment is restricted to junior and senior astrophysics majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 17,
+            "priority": "high"
+        }
+    }
+}

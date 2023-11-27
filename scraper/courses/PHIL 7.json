@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 7",
+    "title": "Elementary Logic",
+    "description": "Introduction to the critical tools and elementary formal methods for evaluating arguments with an emphasis on sentential logic and its applications. Students may not receive credit for this course and PHIL 9.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

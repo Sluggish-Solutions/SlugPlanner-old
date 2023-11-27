@@ -1,0 +1,41 @@
+{
+    "name": "ECE 13",
+    "title": "Computer Systems and C Programming",
+    "description": "Computer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro. This is a programming class and students will write lots of code. Expect to spend at least 15-20 hours outside of class playing with the code to get things to work. (Formerly CSE 13E Embedded Systems and C Programming)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12. CSE 20 or CSE 30 (Python programming background) is recommended but not required. Programming experience in any other language is also acceptable.",
+        "courses": [
+            [
+                "P CSE 12 CSE 20",
+                "CSE 30 P        P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 104,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 113,
+            "priority": "moderate"
+        }
+    }
+}

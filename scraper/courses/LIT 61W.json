@@ -1,0 +1,32 @@
+{
+    "name": "LIT 61W",
+    "title": "Writing and Research Methods",
+    "description": "Intensive training in the practice of literary analysis and the writing of polished research papers. Topics include manuscript sources, variant editions, reading techniques, publication technologies, web research. Workshop format. Strongly recommended for majors and/or transfer students who have completed LIT 1 or its equivalent.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 32,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

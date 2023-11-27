@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 15",
+    "title": "Research Explorations",
+    "description": "Students participate in two exploratory reading groups on topics related to ongoing research activities. Students read a selection of 8-10 papers providing a general overview and introduction to active research areas within each topic. May be repeated for credit. This class can be taken for Pass/No Pass credit only.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 61,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 54,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "CSE 157",
+    "title": "Internet of Things",
+    "description": "Introduces the key concepts and techniques in the design of Internet of Things (IoT). Topics include dominant architectures and protocols for IoT, wireless infrastructure for IoT, hardware and software development methodologies, embedded software design for IoT, cloud software for IoT, and network and system security. Students work in teams on a project to design, prototype, and test a complete IoT system.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 121 and CSE 150.",
+        "courses": [
+            [
+                "P CSE 121"
+            ],
+            [
+                "CSE 150"
+            ]
+        ]
+    },
+    "class_notes": "Lab meeting times will be established at the start of instruction.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "EART 110N",
+    "title": "The Dynamic Earth Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 110C.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in EART 110C.",
+        "courses": [
+            [
+                "P    EART 110C"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART-110C required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 66,
+            "filled seats": 63,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "BIOL 111A",
+    "title": "Immunology I",
+    "description": "Principles and concepts of the innate and adaptive immune systems, with emphasis on mechanisms of action and molecular and cellular networks. The development, differentiation, and maturation of cells of the immune system are also discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): courses BIOE 20B, BIOL 20A, BIOL 105, and BIOL 110.",
+        "courses": [
+            [
+                "P  BIOE 20B BIOL 20A BIOL 105"
+            ],
+            [
+                "BIOL 110"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 64,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

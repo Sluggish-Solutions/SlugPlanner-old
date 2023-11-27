@@ -1,0 +1,35 @@
+{
+    "name": "ECON 160B",
+    "title": "Government and Industry",
+    "description": "The influence of government regulation on industry and the allocation of resources is rigorously examined using theory and statistics. Areas of regulation include transportation and power, pollution and congestion, rent control, and liability insurance regulation. Both optimal and actual regulation are examined from the point of view of effectiveness, efficiency, social welfare, and re-distribution.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

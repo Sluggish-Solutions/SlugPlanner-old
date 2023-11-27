@@ -1,0 +1,32 @@
+{
+    "name": "MERR 33F",
+    "title": "Transformative Leadership and Social Change",
+    "description": "Examines current state of constant division and dissent to look for solutions to society's largest problems and examples of leadership that exhibit the compassion, openness, and skills needed to reach inclusive and genuine consensus that students can learn from in becoming effective and transformative leaders. Students challenge their own assumptions regarding leadership and explore and assess different means through which they can be leaders who facilitate change with more than just their own ideas in mind. Through both class discussions and interactive practices, students explore ways of strengthening interpersonal relationships, developing shared frameworks, and creating a collective consensus that supports sustainable and inclusive change. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

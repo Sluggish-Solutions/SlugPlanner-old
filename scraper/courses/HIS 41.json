@@ -1,0 +1,32 @@
+{
+    "name": "HIS 41",
+    "title": "The Making of the Modern Middle East",
+    "description": "History of the modern Middle East from 1800 to the present, with special reference to the 20th century and forces which have shaped the area.  The impact of imperialism, nationalism, and revolution in the area, with particular attention to the history of four countries: Turkey, Iran, Egypt, Israel.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Lectures will take place on Tu/Th, 5:20-6:55pm. Mandatory weekly film screenings will take place on Tuesdays, 7:10-8:45pm.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

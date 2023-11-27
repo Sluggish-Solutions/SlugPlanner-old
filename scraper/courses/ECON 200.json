@@ -1,0 +1,32 @@
+{
+    "name": "ECON 200",
+    "title": "Microeconomic Analysis",
+    "description": "Survey of partial equilibrium analysis, market distortions, consumer choice and production and trade theory, perfect and imperfect competition, price discrimination, and intertemporal choice theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

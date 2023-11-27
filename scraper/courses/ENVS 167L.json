@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 167L",
+    "title": "Freshwater and Wetland Ecology Lab",
+    "description": "Provides basic skills to assess chemical, biological, and physical characteristics of freshwater creeks, rivers, and wetlands. These skills are needed in environmental consulting, municipal agencies engaging in water management or impacts on water, and regulatory agencies. Relies on methods in geomorphology, biogeochemistry, hydrology, and field biology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 167 is required.",
+        "courses": [
+            [
+                "C   ENVS 167"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

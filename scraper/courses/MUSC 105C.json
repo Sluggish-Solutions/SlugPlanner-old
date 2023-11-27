@@ -1,0 +1,40 @@
+{
+    "name": "MUSC 105C",
+    "title": "Folk and Traditional Music in California",
+    "description": "A comparative study of the folk and traditional musical productions of five different cultural communities found in California, through a body of media that intersects history, sociology, anthropology, ethnomusicology, and more.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30A and satisfaction of the Entry Level Writing and Composition requirements, or by permission of instructor.",
+        "courses": [
+            [
+                "P MUSC 30A"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

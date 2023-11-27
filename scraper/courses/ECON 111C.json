@@ -1,0 +1,34 @@
+{
+    "name": "ECON 111C",
+    "title": "Intermediate Accounting III",
+    "description": "Covers the principles of control, the theory of accounting for pensions and income taxes; the determination of share-based compensation and earnings per share, the calculation of shareholder's equity, and advanced topics in intermediate accounting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 111A.",
+        "courses": [
+            [
+                "P ECON 111A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 52,
+            "priority": "high"
+        }
+    }
+}

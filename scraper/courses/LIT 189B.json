@@ -1,0 +1,38 @@
+{
+    "name": "LIT 189B",
+    "title": "El Siglo XIX en America Latina: cultura, politica y sociedad",
+    "description": "Speaking, reading, and writing proficiency in Spanish required. Follows the literary manifestations of the growing consciousness of the Latin American writer: discovery of native themes, comparative analysis of Spanish American and Peninsular European models, search for a \"new language\" literally and figuratively. Relates historical events with literary movements. Critical approach designations: Geographies, Histories. Distribution requirement: Global.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 21,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 32,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

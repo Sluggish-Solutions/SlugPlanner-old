@@ -1,0 +1,32 @@
+{
+    "name": "ECON 201",
+    "title": "Applications in Microeconomics",
+    "description": "Applies concepts and tools developed in course 200 to problems encountered in private- and public-sector output and labor markets. The focus is empirical; topics include analysis of labor supply and labor demand and the role of government labor market policies, analysis of pricing policies and regulation, estimation of the returns to schooling, estimation of demand and cost functions, and the role of unions in the economy. Course 200 is strongly recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

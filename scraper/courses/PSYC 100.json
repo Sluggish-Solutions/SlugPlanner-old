@@ -1,0 +1,66 @@
+{
+    "name": "PSYC 100",
+    "title": "Research Methods in Psychology",
+    "description": "An introduction to research methods used to investigate human psychology. Course emphasizes critical thinking, designing and conducting research, analyzing and interpreting data, and writing a professional research report.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Entry Level Writing and Composition requirements; AM 3 or AM 6, or MATH 3 or higher level Mathematics course (MATH 4, MATH 11A, or AM 11A/ECON 11A), or mathematics placement (MP) score of 300 or higher, or AP Calculus AB exam score of 3 or higher; and PSYC 2, or STAT 5, or STAT 7 and STAT 7L.",
+        "courses": [
+            [
+                "P E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "AM 3",
+                "AM 6",
+                "MATH 3",
+                "M  MATH 4 MATH 11A",
+                "AM 11AECON 11A",
+                "MP   300",
+                "AP C AB    3"
+            ],
+            [
+                "PSYC 2",
+                "STAT 5",
+                "STAT 7"
+            ],
+            [
+                "STAT 7L"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 299,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 168,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 238,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

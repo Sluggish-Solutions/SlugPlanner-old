@@ -1,0 +1,32 @@
+{
+    "name": "LIT 120F",
+    "title": "Topics in Modern Poetry",
+    "description": "Survey of modern poetry; includes a variety of poetic forms. Course topic changes; see the Class Search for current topic. Critical approach designations: Genres, Histories. Distribution requirement: Poetry. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Latinx Poetry: Experiments in Language and Form",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 32,
+            "filled seats": 30,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "PHYS 5C",
+    "title": "Introduction to Physics III",
+    "description": "Introduction to electricity and magnetism. Electromagnetic radiation, Maxwell's equations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19B or MATH 20B. Concurrent enrollment in PHYS 5N is required.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "PHYS 5L"
+            ],
+            [
+                "MATH 19B",
+                "MATH 20B C   PHYS 5N"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 170,
+            "filled seats": 136,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 190,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

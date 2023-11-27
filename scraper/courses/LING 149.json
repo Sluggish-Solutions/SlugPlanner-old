@@ -1,0 +1,32 @@
+{
+    "name": "LING 149",
+    "title": "Research Skills in Linguistics",
+    "description": "Designed to give students practical experience with contemporary research topics, methods and skills in linguistics and the broader language sciences. Students engage directly with local researchers and conduct targeted in-class skills activities. Students complete a portfolio of assignments which allow them to broaden their understanding of potential research areas in linguistics and language sciences and also to develop a particular topic of interest, culminating in a literature review and project proposal. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by permission of instructor",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 120",
+    "title": "Conservation Biology",
+    "description": "Introduces biological and anthropogenic influences on the diversity and scarcity of organisms. Explores the mathematical models and research tools that provide the foundation for many conservation and management decisions regarding endangered and/or declining species. Topics explored in the context of various examples of conservation decision-making in the real world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "JRLC 120",
+    "title": "Practical Activism Conference Planning and Development",
+    "description": "Offers an applied experience of collaborative planning, production, and leadership. Students plan workshops and other event components; conduct outreach and publicity; and address all aspects of educational event planning. Enrollment is restricted to members of the spring volunteer Practical Activism planning group. Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 20,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

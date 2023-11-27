@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 163L",
+    "title": "Ecology of Reefs, Mangroves, and Seagrasses Laboratory",
+    "description": "An interdisciplinary laboratory exploration of the anatomy, morphology, adaptations, diversity, evolution, and ecology of corals, mangroves, and seagrasses and of their physical, chemical, and geological environments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C. Concurrent enrollment in BIOE 163 is required.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C C   BIOE 163"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 163 required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 28,
+            "priority": "high"
+        }
+    }
+}

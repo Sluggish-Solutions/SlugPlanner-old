@@ -1,0 +1,32 @@
+{
+    "name": "MATH 225A",
+    "title": "Lie Algebras",
+    "description": "Basic concepts of Lie algebras. Engel's theorem, Lie's theorem, Weyl's theorem are proved. Root space decomposition for semi-simple algebras, root systems and the classification theorem for semi-simple algebras over the complex numbers. Isomorphism and conjugacy theorems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 201 and MATH 202 recommended as preparation Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

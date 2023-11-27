@@ -1,0 +1,32 @@
+{
+    "name": "EART 293",
+    "title": "Graduate Research Seminar",
+    "description": "Weekly seminar series covering a broad spectrum of topics in the Earth sciences. Graduate students give 15- to 20-minute oral presentations on current or anticipated research. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 35,
+            "priority": "low"
+        }
+    }
+}

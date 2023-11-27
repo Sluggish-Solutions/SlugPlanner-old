@@ -1,0 +1,35 @@
+{
+    "name": "MATH 128A",
+    "title": "Classical Geometry: Euclidean and Non-Euclidean",
+    "description": "Euclidean, projective, spherical, and hyperbolic (non-Euclidean) geometries. Begins with the thirteen books of Euclid. Surveys the other geometries. Attention paid to constructions and visual intuition as well as logical foundations. Rigid motions and projective transformations covered.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P  MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 18,
+            "priority": "very low"
+        }
+    }
+}

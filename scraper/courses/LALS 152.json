@@ -1,0 +1,32 @@
+{
+    "name": "LALS 152",
+    "title": "Consumer Cultures Between the Americas",
+    "description": "Examines the circuits of media, commodities, and migration connecting the Americas in an age of globalization. Issues of states, transnational markets, social relations, and cultural representations addressed. Relationship between consumption, nationalism, and globalization is considered critically.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 44,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 21",
+    "title": "Acting Studio I: Psychological Realism",
+    "description": "Explores the fundamentals from the work of Konstantin Stanislavski as developed at the Moscow Art Theater to the works of his and our contemporary playwrights. Specifically, students apply those techniques of action, physical score, given circumstances, subtext, interior monologue, goals, and objectives, throughline, superobjective, and emotional recall to works of Henrik Ibsen, Anton Chekov, and relevant American realists, such as Sam Shepard, August Wilson, etc. Designed for students focused on acting as an academic or professional discipline. Admission by audition at first class meeting (see the department office or theater.ucsc.edu for more information). (Formerly course 21A, Acting Studio 1A: Psychological Realism.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Audition Requirements: Admission by audition on the first day of class. Please prepare one 45 - 90 second monologue. Students admitted to the class after auditioning will be given an enrollment permission number by the instructor. Questions can be addressed to the instructor:nluce@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

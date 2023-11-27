@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 12B",
+    "title": "Mexican Folklorico Music and Dance",
+    "description": "Instruction in the aesthetic, cultural, and historical dimensions of Mexican Folklorico dance and music. Brings together a dance ensemble and a music ensemble. Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 26,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

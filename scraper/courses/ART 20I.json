@@ -1,0 +1,38 @@
+{
+    "name": "ART 20I",
+    "title": "Introduction to Photography",
+    "description": "Introduces basic skills and conceptual development in photography and related digital media through image-making in the field, on the web, and in laboratories, through readings, discussions, and critiques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed art and art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two courses from ART 10D, ART 10E, ART 10F. Enrollment is restricted to proposed art and art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 16,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CSP 243",
+    "title": "Coastal Governance",
+    "description": "Introduction to major theories of ocean and coastal governance, with emphasis on those that underlie current policy and management approaches. Students analyze local, state, national, and international laws and policies, considering interactions across scales, levels of social organization, and institutions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to coastal science and policy graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

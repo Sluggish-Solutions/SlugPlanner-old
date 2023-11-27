@@ -1,0 +1,51 @@
+{
+    "name": "CSE 111",
+    "title": "Advanced Programming",
+    "description": "An introduction to object-oriented techniques of software development including data abstraction, inheritance, polymorphism, and object-oriented design. Extensive practice using a computer to solve problems, including construction of graphical user interfaces and a multithreaded client/server applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 15 and CSE 15L; or CSE 13S and CMPM 35; or CSE 13E and CMPM 35; or ECE 13 and CMPM 35; or CSE 101.",
+        "courses": [
+            [
+                "P",
+                [
+                    "CSE 15",
+                    "CSE 15L"
+                ],
+                [
+                    "CSE 13S",
+                    "CMPM 35"
+                ],
+                [
+                    "CSE 13E",
+                    "CMPM 35"
+                ],
+                [
+                    "ECE 13",
+                    "CMPM 35"
+                ],
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 207,
+            "filled seats": 204,
+            "priority": "high"
+        }
+    }
+}

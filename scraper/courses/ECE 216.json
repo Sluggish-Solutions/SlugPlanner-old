@@ -1,0 +1,32 @@
+{
+    "name": "ECE 216",
+    "title": "Bio-Inspired Locomotion",
+    "description": "Presents the principles of biological locomotion and application to robotics problems. Students learn about effective movements in the biological world (slithering, walking, climbing, and flying); extract their underlying principles; and apply them creatively to robotics design. (Formerly CMPE 216.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 9 or equivalent. Enrollment is restricted to graduate students, and seniors by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

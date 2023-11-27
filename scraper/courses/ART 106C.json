@@ -1,0 +1,32 @@
+{
+    "name": "ART 106C",
+    "title": "Stop Motion Animation",
+    "description": "Introduction to imagining, producing, and creating stop motion animations. Includes hands-on work in storyboarding, drawing and paper-based animation, pixalization, animation of everyday objects, and Claymation with basic characters and sets. Historical and contemporary animations will be viewed in class to inspire animation ideas, aesthetics, and practices. (Formerly Introduction to Stop Motion Animation.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26; or by permission of instructor.  Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

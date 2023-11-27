@@ -1,0 +1,32 @@
+{
+    "name": "HIS 204C",
+    "title": "Colonialism, Nationalism and Race Research Seminar",
+    "description": "Research seminar introducing theories and methods of the comparative histories of race, ethnicity, colonialism, and nationalism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

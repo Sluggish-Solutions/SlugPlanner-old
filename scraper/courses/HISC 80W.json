@@ -1,0 +1,32 @@
+{
+    "name": "HISC 80W",
+    "title": "What is Imperialism?",
+    "description": "Course takes, as its starting point, the formation of the Marxian concept of imperialism in the early 20th century, in the context of centuries of colonialism and the late 19th-century scramble for Africa. Course surveys debates about imperialism in the post-World War period, particularly as they relate to the history of capitalism in the Global South and developments in world trade, finance, and production, leading to consideration of the present moment and grappling with what is novel in global capitalism today.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 113,
+            "priority": "high"
+        }
+    }
+}

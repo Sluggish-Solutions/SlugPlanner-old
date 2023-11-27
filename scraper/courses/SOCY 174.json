@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 174",
+    "title": "Tools for Human Rights Advocacy and Practice",
+    "description": "Presents professional practices in the international field of human rights leading to improvements in people's lives. Addresses recent political developments in the global application of human rights and exposes students to strategic tools?''levers of effectiveness''?used to promote the realization of human rights standards. Course also presents the work of key international and local non-governmental organizations in promoting the capacities of rights holder to claim and enjoy their rights and in persuading duty bearers to fulfill their human rights obligations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and global information and social enterprise studies minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: SOCY 1 or SOCY 10 or SOCY 15 or LGST 10 or by permission of the instructor. Enrollment is restricted to proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and global information and social enterprise studies minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 20,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HISC 285",
+    "title": "Topics in Political Theology",
+    "description": "Readings focus on the early 20th-century rediscovery of political theology; its use in theorizations of the Holocaust; and its return in 21st-centurty debates on empires, war, terror, enmity, reconciliation, fanaticism, human rights, political economy, and global catastrophe. Students cannot receive credit for this course and HISC 85. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

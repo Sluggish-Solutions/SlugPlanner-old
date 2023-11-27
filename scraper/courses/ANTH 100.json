@@ -1,0 +1,44 @@
+{
+    "name": "ANTH 100",
+    "title": "History and Theory of Biological Anthropology",
+    "description": "Provides an historical overview from the 18th century to the present of race, ape-human relationships, and human nature. Emergence of an evolutionary framework and of fossil, genetic, and primate information becomes the basis for reformulating ideas about human biology within anthropology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P ANTH 1 ANTH 2"
+            ],
+            [
+                "ANTH 3"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 20,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

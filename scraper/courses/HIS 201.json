@@ -1,0 +1,32 @@
+{
+    "name": "HIS 201",
+    "title": "Directed Research Colloquium",
+    "description": "Having already prepared a bibliography and research prospectus in a graduate research seminar, students will undertake further research on their projects, write a 25\u201330 page research paper, and present their work to their fellow students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): history graduate research seminar. Enrollment is restricted to graduate history students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

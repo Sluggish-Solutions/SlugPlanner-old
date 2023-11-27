@@ -1,0 +1,32 @@
+{
+    "name": "HISC 12",
+    "title": "Historical Introduction to Philosophy",
+    "description": "Focuses on moral, metaphysical, and epistemological issues using classical texts along with some contemporary readings on related philosophical problems. Plato, Kant, and Sartre provide the central readings on ethics, while Descartes, Hume, Kant (again), and Wittgenstein provide the central metaphysical and epistemological discussions. Issues of philosophy of language and method are highlighted throughout.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

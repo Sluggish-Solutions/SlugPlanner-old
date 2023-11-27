@@ -1,0 +1,40 @@
+{
+    "name": "FREN 2",
+    "title": "First-Year French",
+    "description": "Further development of cultural competence and basic French language skills, both written and spoken. Students learn past tenses in this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FREN 1 or placement by interview.",
+        "courses": [
+            [
+                "P FREN 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

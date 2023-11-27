@@ -1,0 +1,43 @@
+{
+    "name": "PSYC 170",
+    "title": "Psychopathology",
+    "description": "Survey of theory, research, and intervention in human psychopathology. Covers psychological, biological, developmental, and socio-cultural approaches. (Formerly offered as Abnormal Psychology.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100; PSYC 60 highly recommended as preparation.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ],
+            [
+                "PSYC 60"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 176,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

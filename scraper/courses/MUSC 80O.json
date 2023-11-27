@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80O",
+    "title": "Music, Politics, and Protest",
+    "description": "Examination of relationship between music, politics, and protest in the U.S. in the 20th century, with focus on how music commented upon and reflected different eras in American cultural and political life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 89,
+            "priority": "very low"
+        }
+    }
+}

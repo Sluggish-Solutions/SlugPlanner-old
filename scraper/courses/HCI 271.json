@@ -1,0 +1,32 @@
+{
+    "name": "HCI 271",
+    "title": "HCI Capstone 1",
+    "description": "Teaches students how to form project teams, brainstorm, and iterate ideas for the capstone projects, culminating in approved briefs and project teams, including an approved committee of advisers for each project. Advisers may be local industry people (including industry partners who have proposed projects), or may also be UCSC faculty from the main campus.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): HCI 200, HCI 201, and either HCI 202A or HCI 202B. Enrollment is restricted to human computer interaction graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

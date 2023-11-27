@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 277B",
+    "title": "Second-year Doctoral Proseminar",
+    "description": "Three-quarter seminar supporting second-year doctoral students as they progress through their second year research project from proposal, through data collection and analysis, to final paper and presentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): Enrollment is restricted to education doctoral students working on their second-year project.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "See Instructor for class schedule and location.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

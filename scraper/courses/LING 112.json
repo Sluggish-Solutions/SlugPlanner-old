@@ -1,0 +1,46 @@
+{
+    "name": "LING 112",
+    "title": "Syntax I",
+    "description": "An introduction to syntactic investigation, developed through the study of central aspects of English syntax. A major purpose is to introduce students to the study of language as an empirical science.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 51,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 58,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 55,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

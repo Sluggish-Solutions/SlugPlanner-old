@@ -1,0 +1,37 @@
+{
+    "name": "CSE 156",
+    "title": "Network Programming",
+    "description": "Methods and tools used for network programming. Topics include: operating system (OS) support for network protocols; inter-process communication (IPC) facilities, such as pipes, sockets, and remote procedure call (RPC); design of client and server sides of network applications; network security; and programming projects. (Formerly Computer Engineering 156.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": ",Prerequisites: CSE 150 and CSE 101. Concurrent enrollment in course CSE 156L is required.",
+        "courses": [
+            [
+                "P CSE 150"
+            ],
+            [
+                "CSE 101 C    CSE 156L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in CSE 156L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

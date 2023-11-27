@@ -1,0 +1,38 @@
+{
+    "name": "ECE 280D",
+    "title": "Graduate Research Seminar",
+    "description": "Weekly seminar series in topics of current research in information systems and technology management. Enrollment by permission of instructor. (Formerly TIM 280A.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

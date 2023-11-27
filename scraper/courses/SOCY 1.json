@@ -1,0 +1,38 @@
+{
+    "name": "SOCY 1",
+    "title": "Introduction to Sociology",
+    "description": "A systematic study of social groups ranging in size from small to social institutions to entire societies. Organized around the themes of social interaction, social inequality, and social change. Fulfills lower-division major requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 165,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 177,
+            "priority": "unavailible"
+        }
+    }
+}

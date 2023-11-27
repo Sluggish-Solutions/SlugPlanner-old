@@ -1,0 +1,32 @@
+{
+    "name": "ART 20K",
+    "title": "Introduction to New Media and Digital Artmaking",
+    "description": "Introduces digital and new media art practice. Explores the use of the computer as tool and medium. Provides a hands-on introduction to the fundamentals of graphics; digital-image acquisition and manipulation; video; web design; and computer programming. Lectures, readings, and discussions examine the history of technology artwork and technology's relationship to contemporary culture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed art and art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two courses from ART 10D, ART 10E, ART 10F. Enrollment is restricted to proposed art and art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

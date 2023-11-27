@@ -1,0 +1,32 @@
+{
+    "name": "CSE 244A",
+    "title": "Foundations of Deep Learning",
+    "description": "Provides foundations of deep learning algorithms and principles. Topics include neural networks, deep learning principles, deep learning architectures such as convolutional neural networks and recurrent neural networks, autoencoders, generative adversarial networks, and reinforcement learning. (CSE 244A and CSE 244B formerly offered as one course, CSE 244.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 201 and familiarity with basic machine learning concepts. Enrollment is restricted to computer science and engineering graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 31,
+            "priority": "moderate"
+        }
+    }
+}

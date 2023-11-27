@@ -1,0 +1,41 @@
+{
+    "name": "ANTH 152",
+    "title": "Survey of Cultural Anthropological Theory",
+    "description": "Major figures, ideas, and writings in 19th- and 20th-century cultural anthropology surveyed. Students cannot receive credit for this course and ANTH 252.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 2 and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to anthropology majors.",
+        "courses": [
+            [
+                "P ANTH 2"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

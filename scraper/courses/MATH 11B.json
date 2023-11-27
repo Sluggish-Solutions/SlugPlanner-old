@@ -1,0 +1,52 @@
+{
+    "name": "MATH 11B",
+    "title": "Calculus with Applications",
+    "description": "Starting with the fundamental theorem of calculus and related techniques, the integral of functions of a single variable is developed and applied to problems in geometry, probability, physics, and differential equations. Polynomial approximations, Taylor series, and their applications conclude the course. Students cannot receive credit for this course and MATH 19B, or AM 11B, or AM 15B, or ECON 11B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A or MATH 19A or AM 15A or AP Calculus AB exam score of 4 or 5, or BC exam score of 3 or higher, or IB Mathematics Higher Level exam score of 5 or higher.",
+        "courses": [
+            [
+                "P MATH 11A",
+                "MATH 19A",
+                "AM 15A",
+                "AP C AB    4",
+                "5",
+                "BC    3",
+                "IB M H L    5"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 103,
+            "filled seats": 102,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 144,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

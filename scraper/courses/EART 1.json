@@ -1,0 +1,32 @@
+{
+    "name": "EART 1",
+    "title": "Oceanography",
+    "description": "An introduction to the physical environment of the ocean. Origin and evolution of ocean basins; sea-floor morphology; origin, distribution, historical record, and economic significance of marine sediments; ocean currents, waves, tides, and changing sea level; beaches, shorelines, and coastal processes; marine resources, pollution, and human impacts on the oceans. Students may also enroll in and receive credit for Ocean Sciences 1.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 224,
+            "filled seats": 197,
+            "priority": "high"
+        }
+    }
+}

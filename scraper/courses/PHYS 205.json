@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 205",
+    "title": "Introduction to Research in Physics",
+    "description": "Introduction to current research opportunities at UCSC for graduate students. Topics include: elementary particle physics, condensed matter and solid state physics, high energy astrophysics, biophysics, and cosmology. Selected topics related to career development may also be included.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

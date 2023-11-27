@@ -1,0 +1,34 @@
+{
+    "name": "CHEM 122",
+    "title": "Principles of Instrumental Analysis",
+    "description": "A laboratory course designed to develop familiarity with techniques and instrumentation used in analytical chemistry, emphasizing determination of trace inorganic species. Primary emphasis on applications utilizing the absorption or emission of electromagnetic radiation and on voltammetry. Topics include molecular UV-visible absorption and fluorescence spectrometry; atomic absorption, emission and fluorescence spectrometry; and various forms of voltammetry. Lecture: 2 hours; laboratory: 8 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior chemistry (B.S.) majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 110 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior chemistry (B.S.) majors.",
+        "courses": [
+            [
+                "S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

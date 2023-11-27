@@ -1,0 +1,34 @@
+{
+    "name": "PERS 4",
+    "title": "Persian 4",
+    "description": "Continues the yearlong beginning Persian sequence, focusing on listening, speaking, reading, and writing. Students also study aspects of contemporary culture in the Persian-speaking world. PERS 4 develops skills for real-world language functions (e.g., complex descriptions, narrations). May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PERS 3.",
+        "courses": [
+            [
+                "P PERS 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

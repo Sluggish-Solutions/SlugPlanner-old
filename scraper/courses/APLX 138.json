@@ -1,0 +1,32 @@
+{
+    "name": "APLX 138",
+    "title": "English Grammar for TESOL",
+    "description": "What is it that teachers of English as a second/foreign language should know about the English grammar system?and about pedagogical options for teaching grammar?in order to best facilitate students' language development? Course is designed to be an accessible overview of English grammatical structures and grammar-teaching methods for practical classroom application.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "BIOE 133L",
+    "title": "Exercise Physiology Laboratory",
+    "description": "An introduction to basic measurement techniques used in assessing the physiological response of humans to exercise. Sessions cover oxygen consumption, respiratory rate, and heart rate monitoring during aerobic and anaerobic activity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, and BIOE 20B and BIOE 20C. BIOE 131 is recommended. Concurrent enrollment in BIOE 133 is required.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C BIOE 131   C   BIOE 133"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 133 required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

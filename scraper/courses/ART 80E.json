@@ -1,0 +1,32 @@
+{
+    "name": "ART 80E",
+    "title": "Environmental Art in the Expanded Field",
+    "description": "Examines the ways artists engage, interact, and comment upon ecology and nature in their artworks by examining environmental art from the 1960s through the present. Offers students a foundational introduction to art and artists working in the field of environmental and ecological art/activism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 250,
+            "filled seats": 245,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 128",
+    "title": "Choreographic Workshop",
+    "description": "Intensive upper-division choreographic workshop that begins from the key motifs of historical dance to develop original work. Dancers made available to the student choreographers. Concurrent enrollment in THEA 139 is required. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

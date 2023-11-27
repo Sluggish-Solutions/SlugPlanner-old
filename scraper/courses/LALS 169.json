@@ -1,0 +1,32 @@
+{
+    "name": "LALS 169",
+    "title": "South America: History, Society, and Culture",
+    "description": "Examines the southernmost region of South America, commonly referred to as the Southern Cone, exploring the historical trajectories of Argentina, Chile, Paraguay, Uruguay, and southern Brazil, from independence through the end of the 20th century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 44,
+            "priority": "high"
+        }
+    }
+}

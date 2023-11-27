@@ -1,0 +1,32 @@
+{
+    "name": "POLI 101",
+    "title": "Analyzing Political Data",
+    "description": "Overview of research methods and data analytic techniques used in politics. Through hands-on learning, students critically evaluate social research reports, conduct investigations, describe data, assess statistical relationships, and test hypotheses. Prepares students to conduct the in-depth research required in upper-division courses. (Formerly Introduction to Research Methods.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

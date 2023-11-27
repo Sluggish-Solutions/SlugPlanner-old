@@ -1,0 +1,40 @@
+{
+    "name": "CSE 290C",
+    "title": "Advanced Topics in Machine Learning",
+    "description": "In-depth study of current research topics in machine learning. Topics vary from year to year but include multi-class learning with boosting and SUM algorithms, belief nets, independent component analysis, MCMC sampling, and advanced clustering methods. Students read and present research papers; theoretical homework in addition to a research project. (Formerly Computer Science 290C.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 242.",
+        "courses": [
+            [
+                "P CSE 242"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

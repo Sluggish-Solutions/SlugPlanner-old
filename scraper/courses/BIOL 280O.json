@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 280O",
+    "title": "Cell type specific computations in neural circuits",
+    "description": "Introduces students to classic and current research in the area of systems neuroscience with specific focus on how different neural cell types shape the computations that are performed in neural circuits. Each week, a different student or the instructor will give a presentation and/or lead a discussion on a topic of their choosing. These topics can be the student's research project, a classic or current neuroscience journal article, or a tutorial on a new method. Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor. Enrollment limited to 10. May be repeated for credit. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

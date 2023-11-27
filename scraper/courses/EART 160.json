@@ -1,0 +1,46 @@
+{
+    "name": "EART 160",
+    "title": "Planetary Science",
+    "description": "Broad introduction to planetary science. Topics include the fundamental characteristics of solar system bodies; space exploration of these bodies; formation and evolution of surfaces, atmospheres and interiors of planets, satellites and small bodies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MATH 11B or MATH 19B or AM 15B; and PHYS 5A or PHYS 6A.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B",
+                "AM 15B"
+            ],
+            [
+                "PHYS 5A",
+                "PHYS 6A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 39,
+            "priority": "low"
+        }
+    }
+}

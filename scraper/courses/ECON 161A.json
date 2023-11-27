@@ -1,0 +1,41 @@
+{
+    "name": "ECON 161A",
+    "title": "Marketing",
+    "description": "The evolution of markets and marketing; market structure; marketing cost and efficiency; public and private regulation; the development of marketing programs including decisions involving products, price, promotional distribution.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 97,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 100,
+            "priority": "high"
+        }
+    }
+}

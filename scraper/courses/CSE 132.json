@@ -1,0 +1,36 @@
+{
+    "name": "CSE 132",
+    "title": "Computer Security",
+    "description": "Introduction to computer security (including selected topics in network security). Access control. Security in programming languages. Basic cryptography. Security protocols. (Formerly Computer Science 122.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 130 or CSE 131 or permission of instructor. Enrollment restricted to School of Engineering majors.",
+        "courses": [
+            [
+                "P CSE 130",
+                "CSE 131",
+                "E   S  E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 84,
+            "priority": "unavailible"
+        }
+    }
+}

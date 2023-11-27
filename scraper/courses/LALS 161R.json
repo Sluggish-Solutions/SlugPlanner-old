@@ -1,0 +1,32 @@
+{
+    "name": "LALS 161R",
+    "title": "Theatre of American Cultures: Fighting Oppression",
+    "description": "Course uses theory and practice to explore Theater of the Oppressed (T.O.), a humanist theatrical form with its roots in social justice that breaks the boundary between audience and stage. Through audience participation as \"spect-actors\" everyone is invited to move from passive to active to imagine and embody social change. Led by jokers (who \"difficultate\" rather than \"facilitate\"), T.O. has been used by groups around the world to explore, understand, and fight back against a wide range of oppressions. Students practice the games, techniques, methodology, and practical application of this activist theater form, explore the oxymoron of a T.O. class at UCSC, and discover what is possible when we become active creators of knowledge through theater. (Formerly Theater of American Cultures.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

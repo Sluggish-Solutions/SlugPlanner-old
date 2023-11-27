@@ -1,0 +1,34 @@
+{
+    "name": "CHEM 103",
+    "title": "Biochemistry",
+    "description": "Introduction to biochemistry including biochemical molecules, protein structure and function, membranes, bioenergetics, and regulation of biosynthesis. Provides students with basic essentials of modern biochemistry. Students who plan to do advanced work in biochemistry and molecular biology should take the Biochemistry and Molecular Biology (BIOC) 100 series. Students cannot receive credit for this course after they have completed any two courses from the BIOC 100A, 100B, and BIOC 100C sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8B.",
+        "courses": [
+            [
+                "P CHEM 8B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 58,
+            "filled seats": 39,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 3",
+    "title": "Introduction to Archaeology",
+    "description": "Overview of ways of learning about the human past beyond the scope of written history. Reviews development of archaeology, fundamental methods and theories, and archaeology's contribution to understanding human origins, the emergence of farming, and the origins of complex societies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 255,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

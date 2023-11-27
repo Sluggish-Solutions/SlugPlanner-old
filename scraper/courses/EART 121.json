@@ -1,0 +1,45 @@
+{
+    "name": "EART 121",
+    "title": "The Atmosphere",
+    "description": "Course focuses on understanding basic atmospheric weather and climate phenomena starting from the fundamentals of physics and chemistry. Using this approach, covers topics such as atmospheric circulation, precipitation, clouds, storms, urban and regional air quality, atmospheric aerosols, and climate and global change.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11B or MATH 19B or AM 15B; and CHEM 1A or CHEM 3B or CHEM 4B; and PHYS 5B or PHYS 6B.",
+        "courses": [
+            [
+                "P MATH 11B",
+                "MATH 19B",
+                "AM 15B"
+            ],
+            [
+                "CHEM 1A",
+                "CHEM 3B",
+                "CHEM 4B"
+            ],
+            [
+                "PHYS 5B",
+                "PHYS 6B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

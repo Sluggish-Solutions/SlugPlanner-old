@@ -1,0 +1,38 @@
+{
+    "name": "MERR 1",
+    "title": "Academic Literacy and Ethos: Reading Ourselves, Reading the World",
+    "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages students in Merrill's intellectual tradition of investigating social change and social justice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year college members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All incoming Merrill frosh must take Merrill 1 in the fall of their 1st year at UC Santa Cruz.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 500,
+            "filled seats": 473,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 28,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

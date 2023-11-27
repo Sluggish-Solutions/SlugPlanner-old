@@ -1,0 +1,32 @@
+{
+    "name": "MATH 223A",
+    "title": "Algebraic Geometry I",
+    "description": "Topics include examples of algebraic varieties, elements of commutative algebra, local properties of algebraic varieties, line bundles and sheaf cohomology, theory of algebraic curves. Weekly problem solving. MATH 200, MATH 201, MATH 202, and MATH 208 are recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

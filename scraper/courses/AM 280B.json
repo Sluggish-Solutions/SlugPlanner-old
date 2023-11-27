@@ -1,0 +1,44 @@
+{
+    "name": "AM 280B",
+    "title": "Seminar in Applied Mathematical Modeling",
+    "description": "Weekly seminar series covering topics of current research in applied mathematics and statistics. Permission of instructor required. Enrollment is restricted to graduate students. (Formerly AMS 280B.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 19,
+            "filled seats": 10,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

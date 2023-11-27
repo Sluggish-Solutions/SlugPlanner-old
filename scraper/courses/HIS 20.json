@@ -1,0 +1,32 @@
+{
+    "name": "HIS 20",
+    "title": "U.S. Popular Music Movements",
+    "description": "Focuses on the development of popular music genres in the United States and the social contexts that have produced them, from the 19th Century to the present. Promotes an understanding of how music influences and reflects our political lives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is an online course. Enroll in lecture and associated discussion section. This course will be offered online with asynchronous instruction for the lecture and synchronous, remote discussion sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

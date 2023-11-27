@@ -1,0 +1,41 @@
+{
+    "name": "CHEM 161J",
+    "title": "Chemical Biology Research Laboratory",
+    "description": "The first of a three-course research-based series for students in chemistry or biochemistry and molecular biology degree programs. This lab series introduces undergraduates to the emerging field of chemical biology. There is no laboratory guide with pre-designed experiments and results; instead, students develop a hypothesis and work toward understanding a novel system at the interface of multiple biological and chemical subdisciplines. Students gain technical skills related to these areas by designing experiments, researching primary literature, using public databases, and applying various software programs to aid in data analysis and interpretation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: successful completion of CHEM 8B and CHEM 8M; and previous or concurrent enrollment in BIOL 100, BIOC 100A, or CHEM 103. Enrollment is by permission of the instructor.",
+        "courses": [
+            [
+                "P    CHEM 8B"
+            ],
+            [
+                "CHEM 8M"
+            ],
+            [
+                "BIOL 100 BIOC 100A",
+                "CHEM 103 E"
+            ]
+        ]
+    },
+    "class_notes": "This course requires instructor approval. To request enrollment in this course, please complete the form below. All students will receive a final decision about their enrollment in CHEM 161J by September 1, at the latest. https://docs.google.com/forms/d/e/1FAIpQLSdgRXNlg2C3Dgpe1WRr5B69MRPoiar02kmJ-PNNeBfEGkKL8A/viewform?usp=sf_link",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 16,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

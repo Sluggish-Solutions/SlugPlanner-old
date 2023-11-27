@@ -1,0 +1,32 @@
+{
+    "name": "CRES 70S",
+    "title": "Introduction to the Sikhs",
+    "description": "Introduces the Sikh community, including its origins, history, belief system and contemporary challenges. Other topics include Sikh music, art, literature, and aspects of Sikh society. Specific attention is paid to the Sikh diaspora community in the United States, and in California in particular, including comparative perspectives with respect to other minority communities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

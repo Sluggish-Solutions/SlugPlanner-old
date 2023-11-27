@@ -1,0 +1,46 @@
+{
+    "name": "BIOE 281G",
+    "title": "Topics in Sexual Selection and Social Behavior",
+    "description": "Discussion of current topics, research, and methods in sexual selection and social behavior focusing on theoretical and empirical research and links between evolution and ecology. Students present and discuss their research, read and discuss current and classic literature, or read and discuss methods used in the field. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Qualified undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "Q"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

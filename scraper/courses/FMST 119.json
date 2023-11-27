@@ -1,0 +1,32 @@
+{
+    "name": "FMST 119",
+    "title": "Indigenous Feminisms",
+    "description": "Explores issues central to Indigenous women's life experiences and Native feminist thought. Students consider the concerns and methodologies of Native feminisms?theories and actions that highlight how settler colonialism is a fundamentally gendered process. Engages in foundational discussions of Native feminisms, settler colonial theory, and feminist methodologies. Course content focuses on communities in settler states currently known as the U.S. and Canada. Covers topics such as reproductive justice, gendered violence, cultural reclamation, and rematriation. (Formerly FMST 119.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 37,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

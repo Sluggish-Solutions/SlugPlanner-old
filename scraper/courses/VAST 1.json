@@ -1,0 +1,38 @@
+{
+    "name": "VAST 1",
+    "title": "Introduction to Visualizing Abolition Studies",
+    "description": "Why has the proliferation of research on prisons?demonstrating economic and racial disparities, as well as negative effects on individuals and communities?not led to more substantial questioning of public policy that treats imprisonment as a major solution to social problems? This course is an interdisciplinary inquiry into the role visual culture plays in the maintenance of the prison industrial complex and an introduction to artistic practices that challenge law and social policy; the course also introduces fundamental concepts to the study of art and visual culture in relation to the movement for prison abolition. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 108,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

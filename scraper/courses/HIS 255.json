@@ -1,0 +1,32 @@
+{
+    "name": "HIS 255",
+    "title": "Religion and Modernity",
+    "description": "Examines the significance of religion and secularism in the modern period. How did modernity and the concept of the secular transform various religions and how, in turn, did these religions help to create modernity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

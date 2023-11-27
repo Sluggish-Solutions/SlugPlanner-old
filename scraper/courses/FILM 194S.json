@@ -1,0 +1,47 @@
+{
+    "name": "FILM 194S",
+    "title": "Special Topics Seminar",
+    "description": "Intensive research and writing on a changing topic chosen to demonstrate critical mastery in a specific area of film and digital media studies, for example, film adaptations and their literary sources, documentary/reality shows, or networked new media texts. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 120. Enrollment restricted to senior film and digital media majors.",
+        "courses": [
+            [
+                "P FILM 120 E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

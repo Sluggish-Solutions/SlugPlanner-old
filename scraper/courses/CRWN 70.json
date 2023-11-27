@@ -1,0 +1,44 @@
+{
+    "name": "CRWN 70",
+    "title": "Introduction to Broadcast Media: Radio",
+    "description": "Comprehensive history of noncommercial radio as a mass-communication medium. Course also serves as an introduction to UCSC's radio station KZSC-FM and broadcasting. Through lectures, hands-on instruction, and written assignments, students learn the fundamentals of program presentation and audio production. Prerequisite(s): After completing 20 hours of orientation volunteering at KZSC, students apply to the instructor. Enrollment is by permission of the instructor. Concurrent enrollment in CRWN 70L is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 18,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

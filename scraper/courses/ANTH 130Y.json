@@ -1,0 +1,38 @@
+{
+    "name": "ANTH 130Y",
+    "title": "Health, Illness, & Medicines in Muslim Worlds",
+    "description": "How can one bear witness to pandemics, plagues, crises, and destruction in the Middle East without reproducing tropes and myths of chronic instability and regional under-development? This lecture course is an ethnographic, historical, and textual exploration of the past and present of Muslim Worlds and the Islamic tradition and sciences. Students critically engage the region we now evoke as the Middle East and its accompanying traditions as well as the tools that arise to diagnose and guide prescriptions for securing well-being of individuals, communities, and traditions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 2 or GCH 1; ANTH 2 strongly recommended.",
+        "courses": [
+            [
+                "P ANTH 2",
+                "GCH 1"
+            ],
+            [
+                "ANTH 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

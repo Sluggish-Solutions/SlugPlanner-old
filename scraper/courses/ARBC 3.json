@@ -1,0 +1,34 @@
+{
+    "name": "ARBC 3",
+    "title": "First-Year Arabic",
+    "description": "Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARBC 2 or equivalent proficiency.",
+        "courses": [
+            [
+                "P ARBC 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

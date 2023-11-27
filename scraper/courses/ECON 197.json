@@ -1,0 +1,52 @@
+{
+    "name": "ECON 197",
+    "title": "Economic Rhetoric: Using Economic Theory and Empirical Evidence in Arguing Policy",
+    "description": "Economics students are expected to learn to effectively communicate economic theory and evidence relating to economic policy to audiences that do not have economics degrees. The skills to be learned are both written and oral communication. Students learn to present convincing policy arguments in position papers, executive summaries, and in oral presentation that may include charts and other means of communication.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):Entry Level Writing & Composition requirement; one of the following: ECON 100A,ECON 100M, ECON 100B, ECON 100N, or ECON 113. Restricted to sophomore, junior, and senior economics, business-management economics, global economics and combined economics/math majors.",
+        "courses": [
+            [
+                "PE L W  C"
+            ],
+            [
+                "ECON 100AECON 100M ECON 100B ECON 100N",
+                "ECON 113 R"
+            ],
+            [],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 72,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 56,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

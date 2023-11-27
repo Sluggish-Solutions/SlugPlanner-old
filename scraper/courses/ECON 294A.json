@@ -1,0 +1,44 @@
+{
+    "name": "ECON 294A",
+    "title": "Applied Economics and Finance Laboratory",
+    "description": "Practical experience in managing computerized data sets and running statistical packages. Covers STATA and R. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 36,
+            "filled seats": 13,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 15,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 15B",
+    "title": "Court Sports: Basketball",
+    "description": "Coeducational. Introductory course providing instruction in fundamentals, offensive and defensive strategies, rules, and conditioning designed primarily for beginning and intermediate level players.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 19,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 38,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

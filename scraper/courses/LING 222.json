@@ -1,0 +1,32 @@
+{
+    "name": "LING 222",
+    "title": "Syntax B",
+    "description": "Continuation of Syntax A. The syntax of unbounded dependencies, including constituent questions, relative clauses, clefts, topicalization. Constraints on extraction; unbounded versus successive cyclic movement; the licensing of gaps.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 221. Enrollment is restricted to graduate students or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

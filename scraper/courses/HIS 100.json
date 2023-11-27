@@ -1,0 +1,44 @@
+{
+    "name": "HIS 100",
+    "title": "Historical Skills and Methods",
+    "description": "Designed to introduce history majors to historical methods and provide preparation for exit seminars. Students develop critical reading, historical analysis, research, and disciplinary writing skills.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared history majors, or by permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed and declared history majors, or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 42,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 25,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

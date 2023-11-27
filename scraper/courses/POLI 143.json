@@ -1,0 +1,32 @@
+{
+    "name": "POLI 143",
+    "title": "Comparative Post-Communist Politics",
+    "description": "Comparative study of revolutionary transformations of East European, Soviet, and former Soviet nations to post-Communist political orders. Focus on reemergence of political society, social and economic problems of transition, and maintenance of many cultural norms and authority patterns associated with previous regime.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 23,
+            "priority": "very low"
+        }
+    }
+}

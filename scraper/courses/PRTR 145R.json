@@ -1,0 +1,32 @@
+{
+    "name": "PRTR 145R",
+    "title": "From Hamlet to Hamilton: Performing Rhythm and Rhyme in the Twenty-first Century",
+    "description": "This acting studio is an introduction to the skills needed in the performance of rhythmic and rhyming texts. Explores the similarities and differences in the use of rhythm and rhyme between Shakespeare and the contemporary playwright Lin-Manuel Miranda. No acting experience or audition is needed to enroll. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Students interested in taking this course should enroll in THEA 145R.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

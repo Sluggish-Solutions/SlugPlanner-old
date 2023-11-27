@@ -1,0 +1,44 @@
+{
+    "name": "ECON 2",
+    "title": "Introductory Macroeconomics: Aggregate Economic Activity",
+    "description": "For all interested students and prospective economics majors. Examines how the overall level of national economic activity is determined, including output, employment, and inflation. Explores the roles of monetary and fiscal policies in stabilizing the economy and promoting growth, with a focus on contemporary policy debates.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 165,
+            "filled seats": 160,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 300,
+            "filled seats": 321,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

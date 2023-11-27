@@ -1,0 +1,32 @@
+{
+    "name": "CHIN 1",
+    "title": "First-Year Chinese",
+    "description": "Instruction in elementary spoken and written Chinese (Mandarin), beginning with the sounds of Chinese and their representation in the pinyin romanization system. Conversation, structural analysis, and an introduction to character texts. The first-year sequence (1-2-3) begins only in the fall quarter. Students interested in learning Chinese  who are uncertain about where they should enter the sequence should meet with the instructor prior to the first class meeting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

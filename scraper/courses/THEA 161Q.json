@@ -1,0 +1,32 @@
+{
+    "name": "THEA 161Q",
+    "title": "Queer Theatricks: Representations and Sensibilities",
+    "description": "An examination of the idea, form, and significance of queer/gay sensibility and representation in the English-speaking theater from the Renaissance to the present.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 28,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

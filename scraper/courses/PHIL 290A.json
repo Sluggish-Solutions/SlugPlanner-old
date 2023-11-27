@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 290A",
+    "title": "Philosophy of History",
+    "description": "Examines issues that arise with respect to constructing histories. Inter alia, these include: the traditional philosophy of history (e.g., Hegel and Marx); modes of explanation (including narrative); the reality of the past; and underdetermination in history.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

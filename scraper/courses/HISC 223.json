@@ -1,0 +1,32 @@
+{
+    "name": "HISC 223",
+    "title": "Althusser",
+    "description": "Through close readings of Althusser's major texts, this course systematically examines the political and philosophical thought of Louis Althusser and analyzes why he is one of the most important thinkers of the 20th century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

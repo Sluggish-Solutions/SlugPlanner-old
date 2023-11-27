@@ -1,0 +1,44 @@
+{
+    "name": "BME 281J",
+    "title": "Seminar in Computational Genomics and Biomedicine",
+    "description": "Research seminar of the UCSC Computational Genomic Laboratory and Platform Teams. Students receive hands-on instruction in modern computational methods to address research questions. Topics include: genomic and transcriptomic sequence analysis methods, comparative and evolutionary genomics, big-data genomic analysis, biomedical data sharing, and precision medicine. Students attend and participate in monthly lab meetings, monthly all-hands meetings, where students give a quick report on their progress and the next month's goals, and a bi-weekly journal club, where pairs of students present and discuss a paper of their choosing with the lab. Students also participate in hands-on, active computational laboratory-based research. Student evaluation is based on suitable progress toward research goals and graduate program progress.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 9,
+            "filled seats": 5,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 8,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 3,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

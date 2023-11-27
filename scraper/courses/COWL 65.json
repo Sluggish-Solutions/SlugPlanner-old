@@ -1,0 +1,32 @@
+{
+    "name": "COWL 65",
+    "title": "Meaning, Paradox, and Love",
+    "description": "Mary Holmes--legendary founding faculty member of UCSC, keen observer, painter of mythic images, and profound thinker--had a visionary's insight into the mysteries of love, paradox, and meaning. This course explores her art, teaching, and wisdom.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Section time to be determined.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 103,
+            "filled seats": 109,
+            "priority": "high"
+        }
+    }
+}

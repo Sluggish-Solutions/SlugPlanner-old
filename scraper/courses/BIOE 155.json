@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 155",
+    "title": "Freshwater Ecology",
+    "description": "Provides an overview of the physical, chemical, and biological processes that characterize inland waters such as lakes, streams, rivers, and wetlands. Also addresses relationships between humans and freshwater, and discusses these challenges in conservation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 65,
+            "priority": "high"
+        }
+    }
+}

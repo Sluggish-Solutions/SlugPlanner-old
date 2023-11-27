@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 272",
+    "title": "Qualitative Field Methods",
+    "description": "Introduces qualitative research approaches in environmental studies. Focuses on philosophies of science, epistemological debates, and specific approaches to qualitative methods. Course components include: field safety, research ethics, human subjects, training, research design and sampling, field observation and ethnographies, key informants, field notes, focus groups, oral histories, narrative research, archival research, questionnaires, discourse analysis, participatory research, and qualitative data analysis techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HIS 190E",
+    "title": "Topics in Chicana/o History",
+    "description": "A seminar on the history of Chicanos/Mexicans in the United States, 1848 to the present. Topics include Chicana/o labor, family, social, urban, cultural, and political history.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100, and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Open Borders and Chicana Feminism",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

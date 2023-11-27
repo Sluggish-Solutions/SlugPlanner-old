@@ -1,0 +1,32 @@
+{
+    "name": "METX 215",
+    "title": "Antibiotics: Actions and Resistance",
+    "description": "Critical review of scientific literature covering genetic and physiological mechanisms conferring resistance to antibiotics and their spread in the population. Format based on structured discussion of selected topics and original research proposal.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): METX 206A or METX 119, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

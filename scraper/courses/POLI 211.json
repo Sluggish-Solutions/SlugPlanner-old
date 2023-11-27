@@ -1,0 +1,32 @@
+{
+    "name": "POLI 211",
+    "title": "Making and Unmaking Sovereignty",
+    "description": "Focuses on questions of sovereignty. Of what does sovereignty consist? How is it secured, proclaimed, and perpetuated? How is it insecure, contingent, and subject to contestation? How is the idea of individual sovereignty related to the idea of the sovereignty of the state? Our aim is less to answer these questions definitively than to explore them and understand how theorists (historical and contemporary) have explored them, and how different historical episodes illuminate them.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

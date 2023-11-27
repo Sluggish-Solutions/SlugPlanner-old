@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 137",
+    "title": "Deviance and Conformity",
+    "description": "Why certain social acts are considered threatening and how individuals or groups become stigmatized. Sociological analysis of the institutions and processes of social control and the experience of becoming deviant and living with a stigmatized identity. Introductory course in sociology recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior sociology majors, minors, and proposed majors, global information and social enterprise studies minors, and  Latin American and Latino studies/sociology combined majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior sociology majors, minors, and proposed majors, global information and social enterprise studies minors, and  Latin American and Latino studies/sociology combined majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class meets in-person on Mondays and Wednesdays and online/asynchronously on Fridays.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 84,
+            "priority": "unavailible"
+        }
+    }
+}

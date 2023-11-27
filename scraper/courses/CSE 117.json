@@ -1,0 +1,39 @@
+{
+    "name": "CSE 117",
+    "title": "Open Source Programming",
+    "description": "Teaches the principles of open source software development. By participating in diverse projects, students experience the process of developing software in a distributed, community-centric environment. Students learn about the tools, processes, and soft skills that are essential in this context.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101; and CSE 102 or CSE 111 or CSE 115A. Enrollment restricted to School of Engineering majors.",
+        "courses": [
+            [
+                "P CSE 101"
+            ],
+            [
+                "CSE 102",
+                "CSE 111",
+                "CSE 115A E   S  E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

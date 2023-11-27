@@ -1,0 +1,44 @@
+{
+    "name": "PBS 182",
+    "title": "ACE Program Service Learning",
+    "description": "Students participate in training and development to co-facilitate collaborative learning in ACE active learning sessions and final exam review sessions. Students are role models for students pursuing science- and math-intensive majors. Prerequisite(s): Prior participation in ACE; good academic standing; no non-passing grades in prior quarter. Enrollment is restricted to sophomores, juniors, and seniors. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll by permission code",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

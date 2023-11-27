@@ -1,0 +1,40 @@
+{
+    "name": "POLI 105A",
+    "title": "Ancient Political Thought",
+    "description": "Explores tensions between reason and revelation, justice and democracy, and freedom and empire through close readings of ancient texts. Emphasis on Athens, with Hebrew, Roman, and Christian departures and interventions. Includes Sophocles, Thucydides, Socrates, Plato, Aristotle, Stoics, the Bible, and Augustine.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 100,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

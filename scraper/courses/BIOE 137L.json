@@ -1,0 +1,43 @@
+{
+    "name": "BIOE 137L",
+    "title": "Molecular Ecology Laboratory",
+    "description": "This combination lecture/laboratory course explores the use of molecular (DNA and/or protein) data in ecological and conservation research. Topics covered include data collection; marker choice; estimating genetic diversity and population structure; the inference of mating systems; and environmental genomics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOE 20B and BIOE 20C and BIOL 20A and BIOL105. Concurrent enrollment in BIOE 137 is required.",
+        "courses": [
+            [
+                "P BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            [
+                "BIOL 20A"
+            ],
+            [
+                "BIOL105 C   BIOE 137"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 137 required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "POLI 200C",
+    "title": "States and Political Institutions Core Seminar",
+    "description": "Introduces study of political institutions as instruments of collective decision making and action. Explores alternative theoretical approaches to development of political institutions, state and political economy, and security dilemmas.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 54",
+    "title": "North Indian Music Workshop",
+    "description": "A course covering the music of North India taught using the oral traditions of Indian music. For beginners as well as more experienced students, this course is well suited for instrumentalists and vocalists. Interview; instructor determination at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

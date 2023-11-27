@@ -1,0 +1,32 @@
+{
+    "name": "HIS 5B",
+    "title": "Cult, Church, Empire: History of Early Christianity, 0-431 C.E.",
+    "description": "Christianity from its origins as a Jewish messianic movement, its expansion in multiple forms in the Greco-Roman world and the East, to its transformation into the major religion of the Roman and Byzantine empires. (Formerly offered as Early Christianity: First to Fourth Century A.D.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        }
+    }
+}

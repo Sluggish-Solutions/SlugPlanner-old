@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80U",
+    "title": "Everybody Dance Now!",
+    "description": "Examines dance as a primary mode of human communication and expression. Through readings and the viewing of recorded and live performances, students compare and contrast dance traditions of the world. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 198,
+            "priority": "unavailible"
+        }
+    }
+}

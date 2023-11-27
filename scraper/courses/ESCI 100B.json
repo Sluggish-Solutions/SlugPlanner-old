@@ -1,0 +1,32 @@
+{
+    "name": "ESCI 100B",
+    "title": "Introduction to Environmental Processes",
+    "description": "Quantitative exploration of physical and chemical processes relevant to the environment and their applications to complex environmental systems. Focuses on calculus-based tools. Key concepts include fluid mechanics, heat transfer, mass transfer, particle mechanics, turbulence, and physicochemical processes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "environmental sciences and Earth sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ESCI 100A, and MATH 11B or MATH 19B, and CHEM 1C, and PHYS 6B or PHYS 5B.  Enrollment is restricted to environmental sciences and Earth sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 103,
+            "filled seats": 81,
+            "priority": "moderate"
+        }
+    }
+}

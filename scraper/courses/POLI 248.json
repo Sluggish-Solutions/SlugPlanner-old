@@ -1,0 +1,32 @@
+{
+    "name": "POLI 248",
+    "title": "On Property",
+    "description": "Reviews the literatures on property connected to the state, personhood, gender, and legal systems. These conversations take place at the intersection of sociology, jurisprudence, history, economics, and politics in comparative perspective. Course starts with a birds-eye view and progressively hones in on the relation between political economy and family law. Students explore in class discussions and in their research papers closely related issues, including but not limited to intersectionality with race and ethnicity, sexual orientations, different family/household types, in these and other cultural contexts and legal traditions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

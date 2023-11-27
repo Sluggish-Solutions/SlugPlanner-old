@@ -1,0 +1,44 @@
+{
+    "name": "ENVS 290L",
+    "title": "Graduate Research Seminar",
+    "description": "Graduate student presentations of doctoral research proposals, dissertation work-in-progress, grant applications, and conference papers. This weekly laboratory meeting seeks to develop professional skills, teach constructive criticism, and foster effective discussion among peers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

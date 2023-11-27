@@ -1,0 +1,36 @@
+{
+    "name": "SOCY 170",
+    "title": "Ethnicity and Race",
+    "description": "Examines the enduring and changing status of ethnic and racialized minority groups in the United States, such as Latina/os, African Americans, Asian Americans, indigenous peoples within the U.S., as intersecting, historically situated, and dynamically produced categories of social identity and organization. (Formerly Ethnic and Status Groups.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or CRES 10.",
+        "courses": [
+            [
+                "P SOCY 1",
+                "SOCY 10",
+                "CRES 10"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

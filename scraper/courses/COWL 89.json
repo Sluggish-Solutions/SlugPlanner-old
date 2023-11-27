@@ -1,0 +1,32 @@
+{
+    "name": "COWL 89",
+    "title": "Faculty Research Colloquium",
+    "description": "Introduction of UCSC as a research university, our notable researchers, and their work. Weekly discussions with UCSC faculty from a variety of disciplines.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to participants in the first-year scholars program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to students in the College Scholars Program.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 250,
+            "filled seats": 173,
+            "priority": "low"
+        }
+    }
+}

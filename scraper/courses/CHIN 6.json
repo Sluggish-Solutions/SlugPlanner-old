@@ -1,0 +1,35 @@
+{
+    "name": "CHIN 6",
+    "title": "Second-Year Chinese",
+    "description": "Continuation of CHIN 5. Conversation, composition, and the reading of modern texts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHIN 5 or CHIN 5H or by consent of instructor.",
+        "courses": [
+            [
+                "P CHIN 5",
+                "CHIN 5H"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 52,
+            "priority": "high"
+        }
+    }
+}

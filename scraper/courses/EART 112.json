@@ -1,0 +1,48 @@
+{
+    "name": "EART 112",
+    "title": "Geophysical Data Science",
+    "description": "Introduction to coding through fitting and modelling data. General linear models and spectral analysis introduced with applications to environmental and geophysical data. Introduction to MATLAB included.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 or AM 10; plus one of the following series: MATH 19A and MATH 19B (strongly preferred); or MATH 11A and MATH 11B; or AM 15A and AM 15B.",
+        "courses": [
+            [
+                "P",
+                "MATH 21",
+                "AM 10",
+                [
+                    "MATH 19A",
+                    "MATH 19B"
+                ],
+                [
+                    "MATH 11A",
+                    "MATH 11B"
+                ],
+                [
+                    "AM 15A",
+                    "AM 15B"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

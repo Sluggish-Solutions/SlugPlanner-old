@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 280H",
+    "title": "Seminar in Human-Computer Interaction and Computational Media",
+    "description": "Covers advanced topics and current research in human-computer interaction as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment restricted to graduate students and by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

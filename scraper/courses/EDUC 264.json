@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 264",
+    "title": "Research on Teacher Development and Teacher Education",
+    "description": "Addresses personal and professional development of teachers. Explores models of teacher education with specific attention to methods and processes by which teachers can be better prepared to work with culturally and linguistically diverse students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

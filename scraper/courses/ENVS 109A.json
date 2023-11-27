@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 109A",
+    "title": "Ecology and Conservation in Practice Supercourse: Ecological Field Methods",
+    "description": "An intensive, on-site learning experience in terrestrial field ecology and conservation, using the University of California Natural Reserves and other natural areas. Students study advance concepts in ecology, conservation, and field methods for four weeks, then experience total immersion in field research at the UC Natural Reserves and other natural areas. Lectures, field experiments, writing assignments, and computer exercises familiarize students with research methods, study design, statistical approaches, and analytical tools for ecological research. Students complete and communicate the results of short field projects in ecology, learn the natural history of the flora and fauna of California, and plan and execute a significant, independent field-research study at the end of the quarter. Enrollment is by application. Prerequisite(s): BIOL  20A, BIOE 20B, BIOE 20C or ENVS 23, ENVS 24, ENVS 100; and STAT 7 and STAT 7L. Concurrent enrollment in BIOE 151B, BIOE 151C, AND BIOE 151D, or ENVS 109B, ENVS 109C, and ENVS 109D is required. Satisfies the senior exit requirement for biological sciences majors and satisfies the senior exit requirement for environmental studies majors by prior approval. Students cannot receive credit for this course and BIOE 150, BIOE 150L, ENVS 104A or ENVS 196A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 11,
+            "priority": "unavailible"
+        }
+    }
+}

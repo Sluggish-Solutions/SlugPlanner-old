@@ -1,0 +1,45 @@
+{
+    "name": "PHYS 110A",
+    "title": "Electricity, Magnetism, and Optics",
+    "description": "Examines electrostatics, including the electric field, potential, solutions to Laplace's and Poisson's equations, and work and energy; electricity in matter (conductors, dielectrics); magnetostatics, including the magnetic field and vector potential, Ampere's and Faraday's laws; magnetism in matter; and Maxwell's equations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5C; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.",
+        "courses": [
+            [
+                "P PHYS 5C"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ],
+            [
+                "PHYS 116C",
+                "MATH 107"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 95,
+            "filled seats": 83,
+            "priority": "high"
+        }
+    }
+}

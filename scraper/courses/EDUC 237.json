@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 237",
+    "title": "Qualitative Research Methods",
+    "description": "Graduate level introduction to qualitative methods, with special attention to ethnographic research on schooling. Moves from overview of different methods, through examination of selected studies, to discussion of issues in research design, data collection, analysis, and writing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; priority is given to graduate students in education.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

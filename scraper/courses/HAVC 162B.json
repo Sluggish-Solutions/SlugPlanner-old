@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 162B",
+    "title": "Special Studies in Early Indigenous American Visual Culture: The Inka",
+    "description": "The visual culture of the Inka of the Andean region of western South America including textiles, metalwork, and the built environment. HAVC 60 or HAVC 80 are recommended as preparation. (Formerly offered as Advanced Studies in Early Indigenous American Visual Culture: The Inka.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

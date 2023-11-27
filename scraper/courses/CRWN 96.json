@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 96",
+    "title": "Digital Theater Workshop: Theorizing Culture and the Future",
+    "description": "Teaches different interpretation tools to be applied to a selection of dramatic literature in discussions. Students integrate these skills and develop their creativity through mounting a production of a play which addresses the impact of technology in society.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class T & Th with Rehearsal on Wednesdays",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

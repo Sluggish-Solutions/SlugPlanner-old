@@ -1,0 +1,34 @@
+{
+    "name": "LGST 175",
+    "title": "Human Rights",
+    "description": "Embraces an interdisciplinary approach to the study of human rights. Captures the malleable nature of human rights and the contours of its dual role as both law and discourse.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies and politics majors during first and second pass enrollment. Prior coursework in International Law (POLI 160B / LGST 160B) is recommended.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies and politics majors during first and second pass enrollment. Prior coursework in International Law (POLI 160B / LGST 160B) is recommended.",
+        "courses": [
+            [
+                "P   I L POLI 160B  LGST 160B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

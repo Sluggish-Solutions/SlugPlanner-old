@@ -1,0 +1,40 @@
+{
+    "name": "MUSC 55A",
+    "title": "Intermediate Rhythms of North India",
+    "description": "Covers learning to vocalize and play tabla bols. Also works on perfecting the technique of playing the various drum sounds on the tabla, pakhavaj or the dholak. Fundamental rhythmic exercises are focused on learning and improving playing technique and concentrate on compositions, such as a theka, theka prakar, kaida, rela, and tihai. Much of class time is spent on''hands-on'' performance interspersed with short instructional bursts to improve each student's level of playability. Lab hours allotted as per student's practice needs. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 55, or by permission of instructor.",
+        "courses": [
+            [
+                "P MUSC 55"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

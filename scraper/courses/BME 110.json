@@ -1,0 +1,52 @@
+{
+    "name": "BME 110",
+    "title": "Computational Biology Tools",
+    "description": "Hands-on lectures and laboratory geared to teach basic tools and skills used in computational biology (genome browsers, sequence database searching, motif analysis, multiple sequence alignment, gene finders, phylogenetics analysis, protein structure visualization, and others). Web-based tools/databases are used on student laptops. Open to all science students; no prior programming or Unix experience required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 105, or BIOL 100, or BIOL 105, or BIOC 100A, or CHEM 103, or  bioinformatics majors, or biomolecular engineering and bioinformatics majors.",
+        "courses": [
+            [
+                "P BME 105",
+                "BIOL 100",
+                "BIOL 105",
+                "BIOC 100A",
+                "CHEM 103",
+                ""
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 76,
+            "filled seats": 74,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 50,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 73,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

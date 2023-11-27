@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 158",
+    "title": "Feminist Ethnographies",
+    "description": "Considers the relationship between anthropology and feminism. Provides historical perspective on gender inequalities in the discipline as well as the emergence of feminist anthropology. Students read and engage with examples of feminist ethnography form a variety of regions and subfields.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

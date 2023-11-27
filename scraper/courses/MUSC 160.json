@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 160",
+    "title": "University Opera Theater",
+    "description": "A production workshop, culminating in one or more staged performances of an entire opera or selected scenes from the operatic repertory. Admission by audition with instructor prior to first class meeting; auditions usually take place in fall quarter. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 23,
+            "priority": "low"
+        }
+    }
+}

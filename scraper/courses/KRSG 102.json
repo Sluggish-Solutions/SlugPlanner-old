@@ -1,0 +1,38 @@
+{
+    "name": "KRSG 102",
+    "title": "Internship Course: Services for Transfer And Reentry Students",
+    "description": "Students learn models for increased accessibility and efficacy in higher education, and prepare to lead through those models within transfer student- and reentry student-focused communities. Engage in dialogue about university policy, identify structural barriers faced by minoritized and other disadvantaged communities when pursuing higher education, and collaboratively design projects to address them. Implement and lead civic-engagement activities and reflect on personal experience and knowledge to meet student-defined goals. With additional guidance from the STARS director and STARS staff, interns create plans and help to implement projects that reflect the learning of the course.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with KRSG 105. Please contactsaradoff@ucsc.edufor permission to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 4,
+            "priority": "unavailible"
+        }
+    }
+}

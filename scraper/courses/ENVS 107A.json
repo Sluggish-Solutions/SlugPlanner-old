@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 107A",
+    "title": "Natural History Field Quarter",
+    "description": "A 15-unit field course that uses California wild lands to develop skills of natural history observation and interpretation. Students gain the ability to identify plants, animals, vegetation types, and landscapes, as well as address the complex issues of preservation and management of these resources. Enrollment by interview. Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L; concurrent enrollment in ENVS 107B and ENVS 107C required. Students are billed a materials fee of $800.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

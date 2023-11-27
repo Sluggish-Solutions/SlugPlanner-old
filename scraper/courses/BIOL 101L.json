@@ -1,0 +1,50 @@
+{
+    "name": "BIOL 101L",
+    "title": "Molecular Biology Laboratory",
+    "description": "Laboratory course providing hands-on experience with, and covering conceptual background in, fundamental techniques in molecular biology and biochemistry, including DNA cloning, PCR, restriction digest, gel electrophoresis, protein isolation, protein quantification, protein immunoblot (Western) analysis, and use of online bioinformatics tools.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "biochemistry and molecular biology; biology B.S.; microbiology; molecular, cell, and developmental biology; and neuroscience majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  BIOL 20L or BIOL 102J or BIOL 107J; and previous or concurrent enrollment in BIOL 101; or BIOC 100A and BIOC 100B is required. Students cannot receive credit for this course and BIOL 102L or BIOL 107L. Enrollment is restricted to biochemistry and molecular biology; biology B.S.; microbiology; molecular, cell, and developmental biology; and neuroscience majors.",
+        "courses": [
+            [
+                "S"
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 145,
+            "filled seats": 134,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 122,
+            "filled seats": 119,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

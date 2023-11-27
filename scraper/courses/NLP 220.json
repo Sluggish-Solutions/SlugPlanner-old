@@ -1,0 +1,32 @@
+{
+    "name": "NLP 220",
+    "title": "Data Science and Machine Learning Fundamentals",
+    "description": "Covers a broad set of tools and core skills required for working with Natural Language Data. Covers core traditional machine learning methods such as classification methods using Naive Bayes, SVMs, Linear regression and Support Vector Regression, as well as the use of Pytorch and other programming frameworks commonly used in the field. Also includes methods used for collecting, merging, cleaning, structuring and analyzing the properties of large and heterogeneous datasets of natural language, in order to address questions and support applications relying on those data. Course covers working with existing corpora as well as the challenges in collecting new corpora. (Formerly Data Collection, Wrangling and Crowdsourcing.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to natural language processing graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

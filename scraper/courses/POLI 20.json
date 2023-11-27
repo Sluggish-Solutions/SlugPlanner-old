@@ -1,0 +1,32 @@
+{
+    "name": "POLI 20",
+    "title": "American Politics",
+    "description": "Introduces the study of politics through an analysis of the United States political system and processes. Topics vary, but may include political institutions, public policies, parties and electoral politics, and social forces.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

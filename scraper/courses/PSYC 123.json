@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 123",
+    "title": "Cognitive Neuroscience",
+    "description": "An examination of the physiological mechanisms of psychological processes, including sensory systems, motor systems, control systems, and memory and learning. Principles of nervous system organization are discussed at each level.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.  Enrollment is restricted to psychology and cognitive science majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 125,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 187,
+            "priority": "unavailible"
+        }
+    }
+}

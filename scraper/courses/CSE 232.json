@@ -1,0 +1,38 @@
+{
+    "name": "CSE 232",
+    "title": "Distributed Systems",
+    "description": "Overview of research topics in distributed computer systems. Topics may include communication paradigms, process management, naming, synchronization and coordination, consistency and replication, fault tolerance, and security. Examples include distributed operating systems, distributed file and object systems, distributed document systems, and peer-to-peer systems. (Formerly Computer Science 232.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 40,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 23,
+            "priority": "moderate"
+        }
+    }
+}

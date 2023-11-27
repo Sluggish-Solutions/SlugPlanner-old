@@ -1,0 +1,44 @@
+{
+    "name": "CRSN 151C",
+    "title": "Sustainability Laboratory Tools, Techniques, and Applications",
+    "description": "Introduces the concepts, skills, and strategies fundamental to the successful development of sustainability-related projects appropriate to the Sustainability Lab. Provides access to functional and living laboratory space, equipment, professional development, and technical training. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 18,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 17,
+            "filled seats": 13,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

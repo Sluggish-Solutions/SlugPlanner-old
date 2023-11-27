@@ -1,0 +1,47 @@
+{
+    "name": "ECE 103",
+    "title": "Signals and Systems",
+    "description": "Course covers the following topics: characterization and analysis of continuous-time signals and linear systems, time domain analysis using convolution, frequency domain analysis using the Fourier series and the Fourier transform, the Laplace transform, transfer functions and block diagrams, continuous-time filters, sampling of continuous time signals, examples of applications to communications and control systems.  (Formerly EE 103.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L; and AM 20 or MATH 24.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ],
+            [
+                "AM 20",
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 99,
+            "filled seats": 90,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 141,
+            "priority": "high"
+        }
+    }
+}

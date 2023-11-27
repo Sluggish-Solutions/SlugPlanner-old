@@ -1,0 +1,32 @@
+{
+    "name": "HIS 113C",
+    "title": "Women and American Religious Culture",
+    "description": "Historical introduction to religious culture of U.S. as experienced and created by women. Explores religious ideas about women, the treatment of women by mainstream institutions and religio-social communities, and female religious leaders and followers. Takes an explicitly feminist analytical approach and uses a variety of \"texts,\" including historical and literary scholarship, sacred texts, fiction, autobiography, material artifacts, visual art, and music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 29,
+            "priority": "very low"
+        }
+    }
+}

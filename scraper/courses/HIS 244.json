@@ -1,0 +1,32 @@
+{
+    "name": "HIS 244",
+    "title": "Gender and Japanese History",
+    "description": "Examines\u2014through primary and secondary sources\u2014constructions of gender (masculine, feminine, and transgender) in Japanese society over the past several centuries, focusing on the modern era.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

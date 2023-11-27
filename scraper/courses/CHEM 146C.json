@@ -1,0 +1,43 @@
+{
+    "name": "CHEM 146C",
+    "title": "Advanced Laboratory in Physical Chemistry",
+    "description": "Provides advanced laboratory experience in the areas of nanomaterial synthesis and characterization; spectroscopy; fabrication and measurements energy-conversion devices; and soft lithography techniques and instrumentation. Lecture: 1-1/4 hours; laboratory: 4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 163B and CHEM 164; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+        "courses": [
+            [
+                "P CHEM 163B"
+            ],
+            [
+                "CHEM 164"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C  E     M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

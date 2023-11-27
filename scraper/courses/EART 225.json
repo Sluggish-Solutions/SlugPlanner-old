@@ -1,0 +1,32 @@
+{
+    "name": "EART 225",
+    "title": "Statistics and Data Analysis in the Geosciences",
+    "description": "Using a conceptual approach, this course is a project-based introduction to analytical methods, such as univariate and multivariate statistics, cluster analysis and ordination, and maximum likelihood estimation. Introduces analysis and programming using the R software package. Students cannot receive credit for this course and EART 125.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

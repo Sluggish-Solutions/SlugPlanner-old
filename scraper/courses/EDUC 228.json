@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 228",
+    "title": "Math Education: Research and Practice",
+    "description": "Examines research on the learning and teaching of mathematics. Topics include the nature of mathematics cognition and learning, how children learn mathematics, mathematical discourse, and perspectives on addressing diversity in mathematics classrooms. Course is required for M.A./credential students in secondary (single subject) mathematics and of Ph.D. students in mathematics education.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Location TBA - See Instructor Class time 2pm-6pm includes a one hour dinner break",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

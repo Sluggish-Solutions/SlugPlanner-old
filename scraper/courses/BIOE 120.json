@@ -1,0 +1,38 @@
+{
+    "name": "BIOE 120",
+    "title": "Marine Botany",
+    "description": "An introduction to the biology of marine algae, fungi, and angiosperms with regard to form and function. Major boreal, temperate, and tropical marine plant communities. Lecture format.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C, and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 120L.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 120L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 56,
+            "filled seats": 56,
+            "priority": "high"
+        }
+    }
+}

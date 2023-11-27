@@ -1,0 +1,32 @@
+{
+    "name": "CSE 206C",
+    "title": "Foundations of Modern Cryptography",
+    "description": "Focuses on foundational aspects of modern cryptography, namely, private and public key cryptography; digital signatures; pseudorandom generators and functions/permutations; message authentication codes; hash functions; and random oracles, certificates and public-key infrastructures. Also connects the formal concepts with real-world applications. Students are exposed to general concepts of probability theory, number theory, and rigorous proofs. Assumes background on proofs, discrete probability, and modular arithmetic as well as programming in C/C++ or Python. Prerequisite(s): CSE 201 is recommended. Enrollment is restricted to graduate students and requires instructor permission.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 144,
+            "filled seats": 83,
+            "priority": "low"
+        }
+    }
+}

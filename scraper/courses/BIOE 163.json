@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 163",
+    "title": "Ecology of Reefs, Mangroves, and Seagrasses",
+    "description": "Integrated treatment of coral reefs, sea grasses, and mangroves emphasizing interactions and processes through time. Major topics: biological and geological history, biogeography, evolution and ecology of dominant organisms, biodiversity, community and ecosystem ecology, geology, biogeochemistry, global change, human impacts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C. Concurrent enrollment in BIOE 163L is required.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C C   BIOE 163L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 163L required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

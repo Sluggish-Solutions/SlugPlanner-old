@@ -1,0 +1,46 @@
+{
+    "name": "MATH 107",
+    "title": "Partial Differential Equations",
+    "description": "Topics covered include first and second order linear partial differential equations, the heat equation, the wave equation, Laplace's equation, separation of variables, eigenvalue problems, Green's functions, Fourier series, special functions including Bessel and Legendre functions, distributions and transforms.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 or AM 10; and MATH 24 or AM 20; and either MATH 100 or CSE 101; MATH 106 is recommended as preparation.",
+        "courses": [
+            [
+                "P MATH 21",
+                "AM 10"
+            ],
+            [
+                "MATH 24",
+                "AM 20"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ],
+            [
+                "MATH 106"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 20,
+            "priority": "very low"
+        }
+    }
+}

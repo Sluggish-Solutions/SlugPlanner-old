@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 126",
+    "title": "Neural Plasticity and Cognitive Neuroscience",
+    "description": "Focuses on the dynamic aspect of the nervous system and how it subserves various cognitive functions. Starting with synaptic plasticity, students explore the neural circuit mechanisms underlying various cognitive functions and how they go astray in neurological disorders. Students cannot receive credit for this course and BIOL 226. (Formerly Advanced Molecular Neuroscience.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "neuroscience majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 125. Enrollment is restricted to neuroscience majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with BIOL 226",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

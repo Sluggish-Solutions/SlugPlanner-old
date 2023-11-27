@@ -1,0 +1,32 @@
+{
+    "name": "CRES 68",
+    "title": "Approaches to Black Studies",
+    "description": "Provides a diasporic approach to the field of Black Studies in the modern era, with a focus on histories of dispossession and resistance.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

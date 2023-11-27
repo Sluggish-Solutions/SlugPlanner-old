@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 217",
+    "title": "Quantum Field Theory I",
+    "description": "Lorentz invariance in quantum theory, Dirac and Klein-Gordon equations, the relativistic hydrogen atom, Green functions and canonical approach to field theory, quantum electrodynamics, Feynman diagrams for scattering processes, symmetries and Ward identities. Students learn to perform calculations of scattering and decay of particles in field theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 216 or exception by permission of the instructor. Enrollment is restricted to graduate students or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

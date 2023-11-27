@@ -1,0 +1,44 @@
+{
+    "name": "ECE 121",
+    "title": "Microcontroller System Design",
+    "description": "Focus is on the design and use of microcontroller-based embedded systems, specifically addressing issues of low-level functionality, direct manipulation of input/output using various specialized peripheral sets, and multiple communications protocols. Covers timers, Input Capture, Output Compare, ADC, PWM, interrupts, bus and memory organization, DMA, SPI, I2C, device driver programming, serial packet communication, and clocking. Students enrolled in this class learn how to use the C programming language to solve engineering problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12; and ECE 13 or CSE 13E. Concurrent enrollment in  ECE 101 and ECE 101L is required. Enrollment restricted to electrical engineering and robotics engineering majors during First Pass enrollment.",
+        "courses": [
+            [
+                "P CSE 12"
+            ],
+            [
+                "ECE 13",
+                "CSE 13E C    ECE 101"
+            ],
+            [
+                "ECE 101L   E"
+            ],
+            [
+                "F P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to electrical engineering and robotics engineering majors during First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 86,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

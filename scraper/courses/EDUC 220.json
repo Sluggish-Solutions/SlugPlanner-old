@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 220",
+    "title": "Reading and Language Arts for Elementary Classrooms",
+    "description": "This course provides both a theoretical and practical foundation for literacy instruction, emphasizing reading and language arts instruction in grades K?8. Interactive instruction and field experience will be used to examine curricula, methods, materials, and literacy evaluation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

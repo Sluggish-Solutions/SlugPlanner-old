@@ -1,0 +1,32 @@
+{
+    "name": "CSE 228A",
+    "title": "Agile Hardware Design",
+    "description": "Agile Hardware Design techniques take the best of software engineering methods and apply them to improve hardware design productivity. Agile approaches not only reduce the time to solution, but they can also produce solutions which are better tailored for their target problems. In this synchronous in-person course, these techniques are covered while taking advantage of the Chisel hardware design language which brings the strengths of functional object-oriented programming to hardware design. Course consists of engaging lectures (intermixed coding demos and guest speakers) and progressive design assignments that culminate in a small project.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): equivalent experience in at least two of the following three areas: logic design (Verilog/VHDL e.g. CSE 100/CSE 100L or CSE 125/CSE 125L), computer architecture (CSE 120/CSE 220), advanced programming (functional, object oriented, etc.). Enrollment is restricted to graduate students; open to advanced undergraduates with instructor consent.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

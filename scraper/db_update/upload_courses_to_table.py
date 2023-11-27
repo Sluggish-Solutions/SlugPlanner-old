@@ -52,7 +52,7 @@ for i, file in enumerate(sorted_files):
         order = i
         print(name)
         print(order)
-        data, count = supabase.table('all_courses').upsert({'name': name,'order':order, 'info' :  course_data}).execute()
+        data, count = supabase.table('new_all_courses').upsert({'name': name,'order':order, 'info' :  course_data}).execute()
 
 
 

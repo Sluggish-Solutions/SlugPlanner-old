@@ -1,0 +1,32 @@
+{
+    "name": "ART 152A",
+    "title": "Photographic Book",
+    "description": "This studio-based course engages with the traditions and practices of the photographic book to examine and explore both narrative and non-narrative strategies. Students create a coherent photographic photo-book. Course examines the contemporary status of the photobook as well as the rich history of the medium. Editing, sequencing, and the production of photobooks is the centerpiece of this class. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 20I, ART 156, and two courses from ART 15, ART 20G, ART 20H, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

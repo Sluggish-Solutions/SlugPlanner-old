@@ -1,0 +1,32 @@
+{
+    "name": "POLI 220",
+    "title": "Un(Doing) History",
+    "description": "Engages the politics of history through multiple frames: subject matter, interpretation, and the epistemological precepts that underwrite history as a discipline. Introduces students to a wide range of interdisciplinary literatures that include different historical methodologies, feminist theory, political theory, queer studies, postcolonial theory, and critical race studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

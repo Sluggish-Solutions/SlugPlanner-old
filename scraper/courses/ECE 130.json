@@ -1,0 +1,44 @@
+{
+    "name": "ECE 130",
+    "title": "Introduction to Optoelectronics and Photonics",
+    "description": "Introduction to optics, photonics and optoelectronics, fiber optic devices and communication systems: Topics include: ray optics, electromagnetic optics, resonator optics, interaction between photons and atoms, dielectric waveguides and fibers, semiconductor light sources and detectors, modulators, amplifiers, switches, and optical fiber communication systems.  Taught in conjunction with course 230. Students cannot receive credit for this course and ECE 230.  (Formerly EE 130.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5B and PHYS 5C, or PHYS 6B and PHYS 6C; concurrent enrollment in ECE 130L.",
+        "courses": [
+            [
+                "P PHYS 5B"
+            ],
+            [
+                "PHYS 5C",
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 6C"
+            ],
+            [
+                "ECE 130L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 130L is required. Taught in conjunction with ECE 230.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 55,
+            "filled seats": 39,
+            "priority": "low"
+        }
+    }
+}

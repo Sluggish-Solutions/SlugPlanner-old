@@ -1,0 +1,32 @@
+{
+    "name": "ECE 245",
+    "title": "Estimation and Introduction to Control of Stochastic Processes",
+    "description": "Provides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 145. (Formerly CMPE 245.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 240 or ECE 241. Knowledge of Matlab is expected. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

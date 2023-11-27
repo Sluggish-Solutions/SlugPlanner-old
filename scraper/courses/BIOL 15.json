@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 15",
+    "title": "Undergraduate Research Reports",
+    "description": "Undergraduate students who work in faculty research laboratories present the results of their projects. Organized by the Minority Undergraduate Research Program and the Minority Access to Research Careers Program. Designed for students with membership in the above-mentioned programs. Prerequisite(s): qualifications as determined by instructor at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

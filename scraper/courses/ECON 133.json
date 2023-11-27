@@ -1,0 +1,44 @@
+{
+    "name": "ECON 133",
+    "title": "Security Markets and Financial Institutions",
+    "description": "An examination of all major financial markets: equities, bonds, options, forwards, and futures. Uses modern financial theory, including asset pricing models such as CAPM and APT.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M, and ECON 113.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "Weekly mandatory online section meeting times will be scheduled during the first week of the course with student input.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 66,
+            "filled seats": 65,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 104,
+            "filled seats": 101,
+            "priority": "high"
+        }
+    }
+}

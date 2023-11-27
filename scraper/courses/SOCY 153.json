@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 153",
+    "title": "Sociology of Emotions",
+    "description": "Examines sociological approaches to the understanding of emotions and the application of these approaches to work, learning, interpersonal relationships, health and illness, sports, and other aspects of everyday life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": " junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to  junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class meets in-person on Mondays and Wednesdays. Fridays are online/asynchronous",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 93,
+            "priority": "unavailible"
+        }
+    }
+}

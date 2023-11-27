@@ -1,0 +1,38 @@
+{
+    "name": "ECE 293",
+    "title": "Advanced Topics in Electrical and Computer Engineering",
+    "description": "Graduate seminar on a research topic in electrical engineering that varies with the particular instructor. Typical topics include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, and MEMS.  Prerequisite(s):Enrollment is by permission of the instructor and is restricted to graduate students. In some quarters course will be taught in conjunction with ECE 183. (Formerly EE 293.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This section of ECE 183/293 is titled \"Brain-Inspired Machine Learning\". Students will learn how neuroscience can be harnessed to build ultra-efficient machine learning models in both software and hardware. Topics include the neural code, deep learning, spiking neural networks, and AI hardware accelerators. Students will become proficient in PyTorch, snnTorch, and Verilog. Taught in conjunction with ECE 183-01.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 31,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 22,
+            "priority": "very low"
+        }
+    }
+}

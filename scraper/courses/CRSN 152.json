@@ -1,0 +1,44 @@
+{
+    "name": "CRSN 152",
+    "title": "IDEASS Laboratory Practicum",
+    "description": "Laboratory designed to advance sustainability education with real-world impact. Enables students to develop as change agents and to make valued contributions to sustainable-design projects that advance new technologies or strategies and bring about societal and environmental change. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Resource Recovery for a Circular Economy",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 36,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 41,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

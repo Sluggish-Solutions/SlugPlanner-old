@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 195C",
+    "title": "Senior Thesis Capstone",
+    "description": "Students finalize their research projects and write their thesis in the form of a research paper that is in publishable form so it can be submitted to a relevant journal or conference.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 195B. Enrollment is restricted to senior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

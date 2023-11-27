@@ -1,0 +1,47 @@
+{
+    "name": "MATH 121A",
+    "title": "Differential Geometry",
+    "description": "Topics include Euclidean space, tangent vectors, directional derivatives, curves and differential forms in space, mappings. Curves, the Frenet formulas, covariant derivatives, frame fields, the structural equations. The classification of space curves up to rigid motions. Vector fields and differentiable forms on surfaces; the shape operator. Gaussian and mean curvature. The theorem Egregium; global classification of surfaces in three space by curvature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH  21 and MATH 23B and either MATH 100 or CSE 101. MATH 105A strongly recommended.",
+        "courses": [
+            [
+                "P MATH  21"
+            ],
+            [
+                "MATH 23B"
+            ],
+            [
+                "MATH 100",
+                "CSE 101 MATH 105A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 13,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "CSE 168",
+    "title": "Introduction to Augmented Reality and Virtual Reality",
+    "description": "Covers the concepts and methods needed to develop augmented reality (AR) and virtual reality (VR) applications. Topics include 3D modeling, graphics rendering, image compositing, occlusion handling, sensors, computer vision and image analysis, toolkits for AR, different display options, dynamics, interaction, and navigation. Prerequisite(s): CSE 160 and 160L. Some knowledge of mobile platforms (e.g., CSE 118 or CSE 167) is helpful, but not required. Enrollment is by instructor permission. Enrollment is restricted to juniors and seniors. (Formerly Computer Science 168.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

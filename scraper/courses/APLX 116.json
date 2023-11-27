@@ -1,0 +1,32 @@
+{
+    "name": "APLX 116",
+    "title": "Discourse Analysis: Language Use and Context",
+    "description": "Familiarizes students with the methods and theoretical assumptions behind discourse analytic approaches to the study of language. Examines language used in specific contexts. Topics include: genres, registers; discourse organization; discourse grammar; interaction; conversation; pragmatics; and social practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 50 or by consent of the instructor. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

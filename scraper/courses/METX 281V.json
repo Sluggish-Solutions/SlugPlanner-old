@@ -1,0 +1,46 @@
+{
+    "name": "METX 281V",
+    "title": "Topics in Bacterial Pathogenesis and Innate Immunity",
+    "description": "Focuses on the interplay between the human gut bacterial pathogen Yersinia pseudotuberculosis and the innate immune system of the host. Participants are required to present the goals, results, and conclusions from their own research. Participation in the general discussion during others' presentations is also required. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Qualified undergraduates performing research under the supervision of the instructor may enroll with instructor's permission.",
+        "courses": [
+            [
+                "Q"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

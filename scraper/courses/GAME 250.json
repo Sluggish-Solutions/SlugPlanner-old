@@ -1,0 +1,38 @@
+{
+    "name": "GAME 250",
+    "title": "Foundations of Serious Games and Gamification",
+    "description": "Provides an overview of serious games and its applications in health, education, training, and advertisements. Further, it introduces gamification and discusses various examples of gamifications used in the market today in various industries including social media, retail, health trackers, and food industry. Course also provides a practical guide of the process of design and development of serious games and gamification techniques. Through projects students apply these lessons and develop two serious games or gamification projects. (Formerly offered as Foundations of Serious Games.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in games and playable media, human computer interaction, and serious games, or by permission of the instructor",
+        "courses": [
+            [
+                "E"
+            ],
+            [],
+            [
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

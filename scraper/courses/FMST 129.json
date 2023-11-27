@@ -1,0 +1,32 @@
+{
+    "name": "FMST 129",
+    "title": "Reproductive Justice",
+    "description": "Situates current debates about reproductive rights and the repeal of Roe v. Wade in the United States in a transnational context of population governance and carceral power. Readings draw from ethnography, critical race, feminist and queer theory to trouble the concepts of privacy, bodily autonomy, and freedom that have shaped articulations of the ''right to choose.'' Taking a comparative approach to reproductive justice movements in global norths and souths, students explore counter traditions of collective and social rights claims, belonging and responsibility, and practices of care and mutual aid in order to expand our vision of what is politically possible and necessary for a post-Roe era.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 73,
+            "priority": "low"
+        }
+    }
+}

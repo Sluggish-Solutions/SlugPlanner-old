@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 170",
+    "title": "Art of the Body in Oceania",
+    "description": "Explores art of the body, defined broadly, from various perspectives. Examines colonial representations of Oceanic bodies, self-representation through bodily adornment and display (including tattoo, scarification, body painting, ornament, and dress), and bodily metaphors in Oceanic visual cultures.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This hybrid course features both in-person and asynchronous components. Weekly lectures are pre-recorded and available on Canvas, and students are required to attend one class meeting per week to engage in interactive learning activities. Students will be assigned to either Tuesday or Thursday by the instructor and must attend on the specific day assigned each week.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 69,
+            "priority": "unavailible"
+        }
+    }
+}

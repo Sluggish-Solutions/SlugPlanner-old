@@ -1,0 +1,38 @@
+{
+    "name": "CSE 143",
+    "title": "Introduction to Natural Language Processing",
+    "description": "Introduces the theory and practice of natural language processing (NLP)--the creation of computer programs that can understand, generate, and learn natural language. Introduces the three major subfields of NLP: syntax (the structure of a sentence); semantics (the  explicit meaning of a single sentence); and pragmatics (the implicit meaning of a sentence when it is used in a specific discourse). Projects focus on the techniques useful for a particular application area, alternating in different years. Project application areas include information extraction, narrative understanding, sentiment analysis, dialogue systems, and question answering. (Formerly CMPS 143.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101, and CSE 107 or STAT 131. Python competence equivalent to CSE 30 is highly recommended.",
+        "courses": [
+            [
+                "P CSE 101"
+            ],
+            [
+                "CSE 107",
+                "STAT 131 P    CSE 30"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 114,
+            "filled seats": 111,
+            "priority": "high"
+        }
+    }
+}

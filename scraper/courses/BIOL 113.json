@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 113",
+    "title": "Principles of Epidemiology",
+    "description": "Epidemiology is the study of the distribution and determinants of health and disease across human populations; it is the basic science of public health. This course introduces students to the principles and methodologies of public health epidemiology. Students read, analyze, and discuss epidemiological data. This course is intended for undergraduate students majoring in global and community health.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 5, or STAT 7 and STAT 7L.",
+        "courses": [
+            [
+                "P STAT 5",
+                "STAT 7"
+            ],
+            [
+                "STAT 7L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 26,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CSE 220",
+    "title": "Computer Architecture",
+    "description": "Provides a thorough and fundamental treatment of the art of computer architecture. Topics include concepts of von Neumann architectures, methods of evaluating CPU performance, instruction-set design and examples, compiler issues, instruction pipelining, superscalar processors, methods for reduction of branch penalty, memory hierarchies, I/O systems, floating-point arithmetic, and current issues in parallel processing. (Formerly CMPE 202.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll if they have completed CSE 120 and with consent of instructor. A basic knowledge of computer architecture, similar to the content of CSE 120, is recommended.",
+        "courses": [
+            [
+                "A           CSE 120"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 41,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

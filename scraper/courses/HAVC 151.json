@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 151",
+    "title": "Greek Myths Antiquity to the Present",
+    "description": "Myths dominated the culture and visual production of the ancient Greek world, and their presence is still strong today. How did they codify social, political, and religious realities and needs? How were they perceived in different time periods? In addition to ancient Greek and Roman and later European sculptures and paintings, this course considers less conventional sources, such as modern films, comics, and advertisements. HAVC 51 recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This class will be offered online with asynchronous instruction.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 70,
+            "priority": "unavailible"
+        }
+    }
+}

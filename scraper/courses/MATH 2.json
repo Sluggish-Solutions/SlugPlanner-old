@@ -1,0 +1,43 @@
+{
+    "name": "MATH 2",
+    "title": "College Algebra for Calculus",
+    "description": "Operations on real numbers, complex numbers, polynomials, and rational expressions; exponents and radicals; solving linear and quadratic equations and inequalities; functions, algebra of functions, graphs; conic sections; mathematical models; sequences and series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): mathematics placement (MP) score of 100 or higher. Students may not enroll in or receive credit for MATH 2 after receiving credit with a 'C' or better in AM 3, MATH 3, AM 11A, MATH 11A, MATH 19A, MATH 20A or equivalents.",
+        "courses": [
+            [
+                "P   MP   100",
+                "S",
+                "MATH 2      C",
+                "AM 3 MATH 3 AM 11A MATH 11A MATH 19A MATH 20A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 175,
+            "filled seats": 172,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "BIOE 149",
+    "title": "Disease Ecology",
+    "description": "Focuses on the ecological and evolutionary processes that drive the transmission of pathogens between hosts; the impact of disease on host populations; and what causes the emergence of an infectious disease. Includes theoretical framework, description of field techniques, and discussion of wildlife and human diseases including malaria, West Nile virus, Lyme disease, HIV, avian influenza (bird flu), Chikungunya, tuberculosis, chytridiomycosis, and Ebola.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, and BIOE 20B and BIOE 20C and BIOE 107.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            [
+                "BIOE 107"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 44,
+            "priority": "high"
+        }
+    }
+}

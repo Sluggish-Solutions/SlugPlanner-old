@@ -1,0 +1,38 @@
+{
+    "name": "ARTG 129",
+    "title": "Special Topics in Game Design",
+    "description": "Allows students to explore game designs related to their ongoing work within their major in either digital or non-digital formats. Students choose a topic and develop game projects that engage players. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art & design: games and playable media and computer science: computer game design majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 80G,and ARTG 80I. Enrollment is restricted to art & design: games and playable media and computer science: computer game design majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 43,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

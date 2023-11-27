@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 292",
+    "title": "Topics in Research in Environmental Studies",
+    "description": "Seminar in which students give critically evaluated presentations regarding current research in environmental studies and issues in research design. Students should consult with faculty prior to enrolling. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 24,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 95,
+            "filled seats": 28,
+            "priority": "very low"
+        }
+    }
+}

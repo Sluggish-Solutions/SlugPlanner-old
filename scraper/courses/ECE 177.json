@@ -1,0 +1,34 @@
+{
+    "name": "ECE 177",
+    "title": "Power Electronics",
+    "description": "Switch-mode power converter design and analysis. Non-switching power supplies. Electronic power-factor correction. Soft switching. Power-semiconductor devices. Use in energy conservation, renewable energy, lighting, and power transmission. (Formerly EE 177.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177L is required.",
+        "courses": [
+            [
+                "P ECE 103 C   ECE 177L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 177L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

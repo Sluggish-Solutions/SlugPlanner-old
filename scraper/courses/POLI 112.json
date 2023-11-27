@@ -1,0 +1,32 @@
+{
+    "name": "POLI 112",
+    "title": "Women and the Law",
+    "description": "Interdisciplinary approach to study of law in its relation to category \"women\" and production of gender. Considers various materials  including critical race theory, domestic case law and international  instruments, representations of law, and writings by and on behalf of women living under different forms of legal control. Examines how law structures rights, offers protections, produces hierarchies, and sexualizes power relations in both public and intimate life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "politics, feminist studies, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to politics, feminist studies, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionAlso offered as FMST-112.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 93,
+            "priority": "high"
+        }
+    }
+}

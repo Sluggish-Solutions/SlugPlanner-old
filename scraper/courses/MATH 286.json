@@ -1,0 +1,32 @@
+{
+    "name": "MATH 286",
+    "title": "Topics in Number Theory",
+    "description": "Topics in number theory, selected by instructor. Possibilities include modular and automorphic forms, elliptic curves, algebraic number theory, local fields, the trace formula. May also cover related areas of arithmetic algebraic geometry, harmonic analysis, and representation theory. Courses 200, 201, 202, and 205 are recommended as preparation. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

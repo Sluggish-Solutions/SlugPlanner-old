@@ -1,0 +1,32 @@
+{
+    "name": "OCEA 241",
+    "title": "Dynamics of Marine Ecosystems",
+    "description": "Covers physical-biogeochemical interactions in the ocean on marine ecosystems, with a special focus on the California Current region. Lectures introduce fundamental processes occurring at local, regional, and basin scales, and describe their complex interplay.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

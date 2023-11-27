@@ -1,0 +1,44 @@
+{
+    "name": "CSE 280G",
+    "title": "VLSI/CAD Seminar",
+    "description": "Weekly seminar on advanced topics in VLSI and computer-aided design (CAD). Students present and discuss modern issues in semiconductor design, fabrication, and CAD. Frequent guest speakers present pertinent results from industry and academia. (Formerly Computer Engineering 280G.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 19,
+            "filled seats": 13,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 19,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

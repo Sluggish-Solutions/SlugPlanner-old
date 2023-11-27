@@ -1,0 +1,38 @@
+{
+    "name": "CRES 15",
+    "title": "Resource Centers Service Learning Course",
+    "description": "This service learning course offers students of all majors the opportunity to intern at UCSC Resource Centers. Students organize educational community-oriented programs and projects to address retention and equity issues in higher education. Through this course, students develop critical thinking, problem-solving, project planning, and writing skills by combining theoretical concepts and experiential learning experience. Students explore texts that highlight resiliency of minoritized communities through the study of trans, queer, Asian American/Pacific Islander, Black, American Indian, Chicanx/Latinx, undocumented, and feminist political thought. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course is intended only for students who have an academic internship with one of the Resource Centers: the African American Resource and Cultural Center, the American Indian Resource Center, the Asian American/Pacific Islander Resource Center, El Centro: Chicanx/Latinx Resource Center, The Lionel Cantu Queer Center, and the Womxn's Center. Access to this course will be given only via add code. To inquire about the internship process for any of these centers, please contact the specific center's respective email: AARCC -aarcc@ucsc.edu; AIRC -airc@ucsc.edu; AA/PIRC -aapirc@ucsc.edu; El Centro -elcentro@ucsc.edu; Cantu -queer@ucsc.edu; WC -women@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 7,
+            "priority": "unavailible"
+        }
+    }
+}

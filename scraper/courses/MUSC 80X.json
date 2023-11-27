@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80X",
+    "title": "Music of India",
+    "description": "A survey course in Hindustani (North Indian) and Karnatak (South Indian) music covering the Raga (modal system) and Tala (metric system) as they have developed in the two traditions. Consideration is given to the historical development of the music, from Vedic chanting to the modern Raga system; social functions of the music throughout history; and instrumental and vocal forms with an emphasis on listening.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 375,
+            "filled seats": 99,
+            "priority": "very low"
+        }
+    }
+}

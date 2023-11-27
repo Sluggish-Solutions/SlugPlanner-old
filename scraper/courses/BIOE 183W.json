@@ -1,0 +1,54 @@
+{
+    "name": "BIOE 183W",
+    "title": "Undergraduate Research in EEB--Writing",
+    "description": "Working in coordination with an Ecology and Evolutionary Biology (EEB) faculty member, affiliate or adjunct, students develop and write a formal research proposal or report and give a presentation on their research project. Includes weekly class meetings focused on the philosophy of science, basic statistics, library searches, inputting data, creating graphs, and preparing results for publication, posters, and talks.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and BIOE 107, BIOE 108, or BIOE109; and an undergraduate research contract on file with the department.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOE 107 BIOE 108",
+                "BIOE109"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Students must complete the research contract to indicate their faculty sponsor. The link is here: https://www.eeb.ucsc.edu/academics/undergrad/undergraduate-research/undergrad-research-contract.html",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 13,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

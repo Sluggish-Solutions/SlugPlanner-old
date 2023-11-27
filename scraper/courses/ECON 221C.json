@@ -1,0 +1,32 @@
+{
+    "name": "ECON 221C",
+    "title": "Advanced Methods in Macroeconomics",
+    "description": "Focuses on the use of disaggregated data on firms, establishments, workers, and households in macroeconomic research. Students learn about commonly used administrative records, survey data, quasi-experiments, etc., and their use to answer questions of interest to macroeconomists.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, ECON 205C, ECON 211C. Enrollment is restricted to economics graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 3,
+            "filled seats": 2,
+            "priority": "low"
+        }
+    }
+}

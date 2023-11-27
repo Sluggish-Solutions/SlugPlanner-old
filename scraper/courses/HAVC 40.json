@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 40",
+    "title": "Museum Cultures: The Politics of Display",
+    "description": "Explores the history of collecting and displaying art (museums, galleries, fairs) since the mid-19th century and the effect of institutional changes on aesthetic conventions. Follows the history from the origins of museums and collections to contemporary critiques of institutional exclusion and misrepresentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 132,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

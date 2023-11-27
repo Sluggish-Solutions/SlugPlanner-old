@@ -1,0 +1,49 @@
+{
+    "name": "PHYS 6A",
+    "title": "Introductory Physics I",
+    "description": "Elementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L is required.",
+        "courses": [
+            [
+                "P MATH 11A",
+                "MATH 19A",
+                "MATH 20A",
+                "AM 15A C   PHYS 6L"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionEnroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 268,
+            "filled seats": 273,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 254,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 380,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

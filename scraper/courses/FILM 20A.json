@@ -1,0 +1,34 @@
+{
+    "name": "FILM 20A",
+    "title": "Introduction to Film Studies",
+    "description": "An introduction to the basic elements, range, and diversity of cinematic representation and expression. Aesthetic, theoretical, and critical issues are explored in the context of class screenings and critical readings. If space allows, restrictions may be lifted after priority enrollment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+        "courses": [
+            [
+                "S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 163,
+            "priority": "moderate"
+        }
+    }
+}

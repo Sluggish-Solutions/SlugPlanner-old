@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 210",
+    "title": "Political Ecological Thought and Environment",
+    "description": "Provides an introduction to social scientific analyses of the relationships between capitalistic development and the environment in the late 20th century. It has a dual purpose: First, to develop a contemporary historical understanding and sensibility of how economic change, new institutional configurations, and world scale processes are shaping interactions with the environment. Second, to examine some recent political social theoretical perspectives on nature-society relations and radical environmental and social movements.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in environmental studies.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

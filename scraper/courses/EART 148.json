@@ -1,0 +1,47 @@
+{
+    "name": "EART 148",
+    "title": "Glaciology",
+    "description": "Introduction to the role of snow and ice in the dynamics of the earth surface system. Snow deposition and metamorphosis. Heat and mass balance at snow and ice surfaces.  Flow of glaciers, ice sheets, and sea ice. Methods of climate reconstruction. Ice age theories.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 5 or EART 10 or EART 20; and MATH 11A or MATH 19A or AM 15A.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "MATH 11A",
+                "MATH 19A",
+                "AM 15A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 28,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

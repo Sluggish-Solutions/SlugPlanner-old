@@ -1,0 +1,40 @@
+{
+    "name": "CMPM 176",
+    "title": "Game Systems",
+    "description": "Presents game design as the interplay of multiple interacting game systems. Surveys various game systems: movement, combat, reward, economic, logistics, quest, information visibility, narrative. Students explore systems via study, design, and play of board, card, and computer games.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 80K.",
+        "courses": [
+            [
+                "P CMPM 80K"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 74,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

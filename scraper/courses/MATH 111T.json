@@ -1,0 +1,34 @@
+{
+    "name": "MATH 111T",
+    "title": "Algebra",
+    "description": "Introduction to groups, rings and fields; integers and polynomial rings; divisibility and factorization; homomorphisms and quotients; roots and permutation groups; and plane symmetry groups. Also includes an introduction to algebraic numbers, constructible numbers, and Galois theory. Focuses on topics most relevant to future K-12 teachers. Students cannot receive credit for this course and MATH 111A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100.",
+        "courses": [
+            [
+                "P MATH 100"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 13,
+            "priority": "very low"
+        }
+    }
+}

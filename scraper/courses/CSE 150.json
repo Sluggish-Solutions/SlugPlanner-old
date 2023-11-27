@@ -1,0 +1,56 @@
+{
+    "name": "CSE 150",
+    "title": "Introduction to Computer Networks",
+    "description": "Addresses issues arising in organizing communications among autonomous computers. Network models and conceptual layers; Internet-working; characteristics of transmission media; switching techniques (packet switching, circuit switching, cell switching); medium access control (MAC) protocols and local area networks; error-control strategies and link-level protocols; routing algorithms for bridges and routers; congestion control mechanisms; transport protocols; application of concepts to practical wireless and wireline networks and standard protocol architectures. Lab component provides students with hands-on experience in computer networks. Students who have completed CSE 80N can take this course for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 16 and CSE 12; and CSE 30, or CSE 15 and CSE 15L.",
+        "courses": [
+            [
+                "P CSE 16"
+            ],
+            [
+                "CSE 12"
+            ],
+            [
+                "CSE 30",
+                "CSE 15"
+            ],
+            [
+                "CSE 15L"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to Computer Engineering, Network and Digital Technology and Technology and Information Management majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 137,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 124,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

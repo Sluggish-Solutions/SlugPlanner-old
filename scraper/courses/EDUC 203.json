@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 203",
+    "title": "Teaching English Language Development: Foundations, Approaches, and Strategies",
+    "description": "This course will help future educators develop a practical theory for teaching English as a second language in K-5 schools. Topics include the theoretical foundation for language acquisition; current trends and research in the  field; the role of culture in teaching English learners; language assessment; and the design of instructional units. Also focuses on teaching social studies to English learners. Enrollment restricted to M.A./credential students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

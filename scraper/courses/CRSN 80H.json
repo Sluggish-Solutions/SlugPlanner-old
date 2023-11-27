@@ -1,0 +1,32 @@
+{
+    "name": "CRSN 80H",
+    "title": "Bending the Curve: Solutions to Climate Change",
+    "description": "Students examine the interconnectedness of natural and social systems as they evaluate, interpret, and debate evidence and explanations of climate change. Includes interviewing family members, friends, and professionals for a variety of divergent views on the climate change debate. Class sessions are devoted to student discussion of the course materials, including readings, take-home assignments and pre-recorded videos. The class culminates with a written proposal and group presentations of ideas for solutions, with the guidance of the instructor, addressing one of the ''grand challenges'' presented in the course with the goal of empowering students to emerge as critical thinkers and actors equipped with a solution-based mindset.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Also offered as ECE 80H.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

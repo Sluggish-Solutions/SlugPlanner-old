@@ -1,0 +1,32 @@
+{
+    "name": "ECON 221B",
+    "title": "Advanced Methods in Macroeconomics II",
+    "description": "Covers major issues in business-cycle macroeconomics, focusing on structural vector auto-regressions (VARs); solution and estimation of dynamic stochastic general equilibrium (DSGE) models; and solution and estimation of other models?including with slack and unemployment. Topics include: recursive identification; long-run restrictions; sign restrictions; Bayesian estimation; model comparisons; non-linear solution methods; particle filters; and other advanced topics related to business-cycle macroeconomics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 205C, or by permission of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

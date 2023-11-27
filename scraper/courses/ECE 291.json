@@ -1,0 +1,32 @@
+{
+    "name": "ECE 291",
+    "title": "Tomorrow's Professors, Engineers, and Entrepreneurs",
+    "description": "The aim of this course is two-fold: (1) inform, motivate, and prepare graduate students for possible careers in academia and industry; (2) expose graduate students to the professional skills required for possible career options in engineering and science. Course is for Satisfactory/Unsatisfactory grade only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

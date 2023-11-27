@@ -1,0 +1,37 @@
+{
+    "name": "ENVS 115B",
+    "title": "Intermediate Geographic Information Systems (GIS)",
+    "description": "Evaluates advanced technologies of processing spatial data, spatial theory, and application to unique geographic problems, data manipulation and analysis, and reporting and interpretation. Emphasizes GIS as a decision-support system for environmental and social problem solving, using basic model building, experimental design, and database management. Taught in conjunction with ENVS 215B. Students cannot receive credit for this course and ENVS 215B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 115A, ENVS 100, and ENVS 100L. A previous course in computer science, Earth science, mathematics, or geography is recommended.",
+        "courses": [
+            [
+                "P ENVS 115A ENVS 100"
+            ],
+            [
+                "ENVS 100L A      E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

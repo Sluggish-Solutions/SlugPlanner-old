@@ -1,0 +1,38 @@
+{
+    "name": "BME 21L",
+    "title": "Introduction to Basic Laboratory Techniques",
+    "description": "Laboratory course providing hands-on training in fundamental techniques used to express, isolate, and analyze genes in prokaryotic cells. Introduction to common laboratory instruments and fundamental skills required for basic research in molecular biology and biomolecular engineering.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1M or CHEM 3BL, or CHEM 4BL. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 44,
+            "filled seats": 31,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 22,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

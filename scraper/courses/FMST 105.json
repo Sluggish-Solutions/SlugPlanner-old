@@ -1,0 +1,32 @@
+{
+    "name": "FMST 105",
+    "title": "Feminist Methodologies",
+    "description": "Recommended for transfer students. Focuses on particular debates about feminist methodology. Specific methodological debates vary each year but might include feminist theorizing of experience, epistemology, situated knowledges, notions of truth and the real. Feminist methods may include transnational approaches, as well as queer, decolonial, postcolonial, and critical race methodologies. Enrollment is by permission of the instructor.  (Formerly FMST 75.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 4,
+            "priority": "unavailible"
+        }
+    }
+}

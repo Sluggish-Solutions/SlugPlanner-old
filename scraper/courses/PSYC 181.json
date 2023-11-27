@@ -1,0 +1,40 @@
+{
+    "name": "PSYC 181",
+    "title": "Psychological Data Analysis",
+    "description": "Intermediate statistical methods widely used in psychology (e.g., ANOVA, ANCOVA,  multiple-comparisons, bivariate correlation, multiple regression, repeated-measures), corresponding SPSS or R programs, and elements of measurement theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 116,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 119,
+            "priority": "unavailible"
+        }
+    }
+}

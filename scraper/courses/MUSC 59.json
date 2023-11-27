@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 59",
+    "title": "Introductory Keyboard Skills",
+    "description": "Introductory instruction in piano technique, staff notation, and music theory. Includes group and individual performance experience. A minimum of six hours per week individual practice required. Appropriate for students with little/no piano experience. Students are billed a materials fee of $100. Enrollment is by permission of the instructor. Students audition to determine their skill level.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

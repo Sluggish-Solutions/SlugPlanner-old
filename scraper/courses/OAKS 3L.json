@@ -1,0 +1,38 @@
+{
+    "name": "OAKS 3L",
+    "title": "Precalculus Academy Lab",
+    "description": "Students use worksheets designed to help them solve problems by thinking critically, and participate in answering project-based questions relevant to the themes of their college core courses.  Prerequisite(s): Mathematics 2 or placement (MP) score of 200 or higher. Concurrent enrollment in Mathematics 3 is required.  Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

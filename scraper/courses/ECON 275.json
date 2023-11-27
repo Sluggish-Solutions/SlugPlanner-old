@@ -1,0 +1,44 @@
+{
+    "name": "ECON 275",
+    "title": "Applied Microeconomics Workshop",
+    "description": "For Ph.D. students in economics who are at the early stages of their research careers as well as for those who are engaged in dissertation work in applied microeconomics or other empirical work. Students present original research in progress. (Formerly Workshop in Applied Microeconomics.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, ECON 205C, and ECON 211C, or by consent of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

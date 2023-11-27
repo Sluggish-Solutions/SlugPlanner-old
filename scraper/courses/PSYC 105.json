@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 105",
+    "title": "Children's Thinking",
+    "description": "Cognition in children from infancy through adolescence. Basic and current research on children's understanding of the social and physical world. Focus on major theoretical perspectives: especially Piaget's constructivist approach and sociocultural approach.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100.  Enrollment is restricted to psychology and cognitive science majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 123,
+            "priority": "unavailible"
+        }
+    }
+}

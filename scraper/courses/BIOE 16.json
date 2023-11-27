@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 16",
+    "title": "Introduction to Horticulture",
+    "description": "Surveys the production of indoor crops and landscape plants to gain a working\nknowledge of how light, temperature, water, fertilizers, and soilless media interact in a\ncontrolled environment. Also covers pest management and propagation. Lectures and\ndemonstrations are combined with activities in the UCSC Greenhouses and at the\nUCSC Arboretum to give students direct experience with horticulture practices and\nprinciples in controlled environments. The approach is to develop practical skills and\nfamiliarity with agricultural technology while mastering basic principles in plant biology.\nEmphasis is placed on indoor growth systems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

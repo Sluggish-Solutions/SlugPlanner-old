@@ -1,0 +1,32 @@
+{
+    "name": "OAKS 73B",
+    "title": "Oakes College Mentoring: Service Learning Practicum",
+    "description": "Mentors introduce first-year students to campus resources, provide them with academic support, share academic successes and difficulties, and offer guidance on college adjustment. Enrollment is restricted to College members. Please apply to be a mentor or a mentee online on the Oakes College Mentoring website. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

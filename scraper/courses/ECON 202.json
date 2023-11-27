@@ -1,0 +1,32 @@
+{
+    "name": "ECON 202",
+    "title": "Macroeconomic Analysis",
+    "description": "Aggregate economic analysis: determinants of aggregate expenditures and output, the roles of monetary and fiscal policy, recent developments in macro theory; macro policy issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

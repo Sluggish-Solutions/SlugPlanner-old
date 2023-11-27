@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 5",
+    "title": "Introductory Astronomy: The Formation and Evolution of the Universe",
+    "description": "The universe explained. Fundamental concepts of modern cosmology (Big Bang, dark matter, curved space, black holes, star and galaxy formation), the basic physics underlying them, and their scientific development.  Intended for non-science majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 140,
+            "filled seats": 140,
+            "priority": "high"
+        }
+    }
+}

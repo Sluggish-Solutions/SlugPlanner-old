@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 240",
+    "title": "Inequality and Identity",
+    "description": "Explores recent theoretical and empirical studies of race, class, gender, and sexuality with an emphasis on the production of identities and their relationship to processes and structures of power in a postcolonial context.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sociology graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 12,
+            "priority": "high"
+        }
+    }
+}

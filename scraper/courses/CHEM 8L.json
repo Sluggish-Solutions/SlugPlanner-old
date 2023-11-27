@@ -1,0 +1,46 @@
+{
+    "name": "CHEM 8L",
+    "title": "Organic Chemistry Laboratory",
+    "description": "Laboratory experience in organic chemistry associated with CHEM 8A. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1C, CHEM 3C, or CHEM 4B; and either CHEM 1N, CHEM 3CL, or CHEM 4BL. Previous or concurrent enrollment in CHEM 8A is required.",
+        "courses": [
+            [
+                "P CHEM 1C CHEM 3C",
+                "CHEM 4B"
+            ],
+            [
+                "CHEM 1N CHEM 3CL",
+                "CHEM 4BL P",
+                "CHEM 8A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 382,
+            "filled seats": 262,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 224,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

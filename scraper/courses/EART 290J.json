@@ -1,0 +1,32 @@
+{
+    "name": "EART 290J",
+    "title": "Intersections of Geodynamics and Climate",
+    "description": "Reading seminar that focuses on current research aimed at understanding interactions between solid Earth geodynamics and components of the Earth's climate system. Focuses on three main solid Earth processes: (1) mantle convection and dynamic topography; (2) glacial isostatic adjustment; and (3) tectonics processes. Considers the ways that Earth's landscape, atmosphere, and cryosphere respond to these geodynamic processes and vice versa. Possible topics include past sea-level and ice sheet inferences, passive margin earthquakes and submarine landslides, river and landscape evolution, and marine-terminating glacier dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class will be held in Earth&Marine A308",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

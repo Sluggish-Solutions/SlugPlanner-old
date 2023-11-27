@@ -1,0 +1,35 @@
+{
+    "name": "ECON 141",
+    "title": "International Finance",
+    "description": "Topics include national accounting, balance of payments theories, parity conditions in international finance, exchange rate determination models, forward-looking financial instruments, international monetary systems, country interdependence and exchange rate regimes, international monetary integration, and Eurocurrency market.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100B or ECON 100N.",
+        "courses": [
+            [
+                "P ECON 100B",
+                "ECON 100N"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 65,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

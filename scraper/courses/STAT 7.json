@@ -1,0 +1,54 @@
+{
+    "name": "STAT 7",
+    "title": "Statistical Methods for the Biological, Environmental, and Health Sciences",
+    "description": "Case-study-based introduction to statistical methods as practiced in the biological,  environmental, and health sciences. Descriptive methods, experimental design, probability, interval estimation, hypothesis testing, one- and two-sample problems, power and sample size calculations, simple correlation and simple linear regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 6 or AM 11A or ECON 11A or AM 15A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 7L is required.",
+        "courses": [
+            [
+                "P   300",
+                "AM 3",
+                "AM 6",
+                "AM 11A",
+                "ECON 11A",
+                "AM 15A",
+                "MATH 3",
+                "MATH 11A",
+                "MATH 19A C   STAT 7L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in STAT 7L is required. If you are unable to get a seat in STAT 7L, you are ineligible to enroll or request enrollment into STAT 7 lecture. Permission codes will not be granted to override this concurrent enrollment or to increase the capacity of STAT 7L.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 199,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 145,
+            "filled seats": 148,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

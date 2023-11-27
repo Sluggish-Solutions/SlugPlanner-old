@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 201",
+    "title": "The Making of Classical Theory",
+    "description": "Examines the establishment of \"theory\" in the discipline of sociology. Introduces students to close readings and analysis of a core selection of social theory. Problematizes the construction, maintenance, and reproduction of a theoretical canon in sociology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sociology graduate students and by permission number.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

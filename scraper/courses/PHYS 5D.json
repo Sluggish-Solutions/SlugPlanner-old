@@ -1,0 +1,49 @@
+{
+    "name": "PHYS 5D",
+    "title": "Introduction to Physics IV",
+    "description": "Introduces temperature, heat, thermal conductivity, diffusion, ideal gases, laws of thermodynamics, heat engines, and kinetic theory. Introduces the special theory of relativity and the equivalence principle. Includes the photoelectric effect, the Compton effect, matter waves, atomic spectra, and the Bohr model.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and PHYS 5L, or PHYS 6A and PHYS 6L; and PHYS 5B or PHYS 6B; and MATH 19B or MATH 20B.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "PHYS 5L",
+                "PHYS 6A"
+            ],
+            [
+                "PHYS 6L"
+            ],
+            [
+                "PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "MATH 19B",
+                "MATH 20B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 111,
+            "priority": "low"
+        }
+    }
+}

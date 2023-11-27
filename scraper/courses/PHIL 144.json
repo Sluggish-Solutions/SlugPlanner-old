@@ -1,0 +1,49 @@
+{
+    "name": "PHIL 144",
+    "title": "Topics in Social and Political Philosophy",
+    "description": "A study of selected classical and contemporary writings dealing with topics such as the nature and legitimacy of the liberal state, the limits of political obligation, and theories of distributive justice and rights. (Formerly Social and Political Philosophy.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+        "courses": [
+            [
+                "P PHIL 9"
+            ],
+            [
+                "PHIL 11",
+                "PHIL 22",
+                "PHIL 23",
+                "PHIL 24",
+                "PHIL 80E",
+                "BME 80GPHIL 80G",
+                "PHIL 80M",
+                "PHIL 80S"
+            ],
+            [
+                "PHIL 100A",
+                "PHIL 100B",
+                "PHIL 100C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 27,
+            "priority": "very low"
+        }
+    }
+}

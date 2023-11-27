@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 11A",
+    "title": "Introduction to Western Classical Music",
+    "description": "A study of significant works of classical music from Gregorian chant to the present day in relation to the historical periods they represent. Emphasizes the listening experience and awareness of musical style and structure. Illustrated lectures and directed listening.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 375,
+            "filled seats": 154,
+            "priority": "very low"
+        }
+    }
+}

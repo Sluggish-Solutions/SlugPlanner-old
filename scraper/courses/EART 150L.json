@@ -1,0 +1,34 @@
+{
+    "name": "EART 150L",
+    "title": "Structural Geology Laboratory",
+    "description": "Structural analysis of faults, folds, and maps. Use of stereographic projections. Cross section construction and balancing from field data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in EART 150 is required.",
+        "courses": [
+            [
+                "C   EART 150"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in course EART 150 is required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 26,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

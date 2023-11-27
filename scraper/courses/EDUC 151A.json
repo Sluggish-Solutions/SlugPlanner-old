@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 151A",
+    "title": "Corre la Voz: Community Literacies and Power Seminar",
+    "description": "Required seminar for first-quarter students in the Corre la Voz program. Examines theories, curriculum design, and teaching methods that emphasize social connection, leadership, verbal enrichment, multi-modal literacies, and community empowerment. Taken concurrently with field study. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Co-requisite(s): course 151B. Enrollment is by interview only and successful application to the Corre la Voz program. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "151A Seminar Weds 5:20-6:55 To participate in this course, students must be fingerprinted by District (no cost) no later than Jan. 3 for Winter Quarter. To be fingerprinted, students must have negative TB test results in hand and must already be enrolled. For information and enrollment add-codes, e-mail instructor: Leslie Lopez,lesliel@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

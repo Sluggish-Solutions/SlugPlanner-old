@@ -1,0 +1,38 @@
+{
+    "name": "ITAL 1",
+    "title": "First-Year Italian",
+    "description": "During the first quarter of this first-year sequence, students learn to introduce themselves, to talk about their daily activities and hobbies, to describe themselves and their friends/families, and to recount past events. The first-year sequence (1-2-3) begins in fall quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 73,
+            "filled seats": 51,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

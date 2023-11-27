@@ -1,0 +1,32 @@
+{
+    "name": "ECE 152",
+    "title": "Introduction to Wireless Communications",
+    "description": "Introduction to the principles of wireless communications systems. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 252. (Formerly EE 152.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 107 and ECE 151, or by consent of instructor. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 252.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

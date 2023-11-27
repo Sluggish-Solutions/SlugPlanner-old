@@ -1,0 +1,32 @@
+{
+    "name": "LALS 177",
+    "title": "Migrant Health and Social Justice",
+    "description": "Conceptualizes the socio-economic, political, racial, cultural, and environmental factors that influence health conditions among migrant Latinx communities. Explores health-related issues among Latinx migrant communities already established in the United States as well as those in transit. Examines the negative health consequences of various U.S. policies, including migrant policing, deportation, asylum, and the global drug war. Students read and discuss texts from public health, medical anthropology to explore the concepts of structural violence, structural vulnerability, ecosocial theory, and social determinants of health as these relate to the migrant Latinx community. Students also discuss the relevance of solidarity and activist research methods used to challenge health inequities impacting migrant Latinxs.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

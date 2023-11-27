@@ -1,0 +1,50 @@
+{
+    "name": "MATH 3",
+    "title": "Precalculus",
+    "description": "Inverse functions and graphs; exponential and logarithmic functions, their graphs, and use in mathematical models of the real world; rates of change; trigonometry, trigonometric functions, and their graphs; and geometric series. Students cannot receive credit for both MATH 3 and AM 3.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 2 or mathematics placement (MP) score of 200 or higher. Students may not enroll in or receive credit for MATH 3 after receiving credit with a 'C' or better in AM 11A, ECON 11A, MATH 11A, MATH 19A, MATH 20A or equivalents.",
+        "courses": [
+            [
+                "P MATH 2",
+                "MP   200",
+                "S",
+                "MATH 3      C",
+                "AM 11A ECON 11A MATH 11A MATH 19A MATH 20A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 301,
+            "filled seats": 295,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 136,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

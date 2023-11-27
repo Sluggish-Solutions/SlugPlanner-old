@@ -1,0 +1,40 @@
+{
+    "name": "NLP 280",
+    "title": "Seminar in Natural Language Processing",
+    "description": "Weekly seminar course covering current research and advanced development in all areas of Natural Language Processing. The seminar is based on invited talks by guest speakers from industry research and advanced development working in the area of Natural Language Processing. Students attend talks given by speakers in a weekly seminar series and participate in discussions after the talks. This class can be taken for Satisfactory/Unsatisfactory credit only.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students. Others may enroll by permission of instructor.",
+        "courses": [
+            [
+                "O"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 24,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

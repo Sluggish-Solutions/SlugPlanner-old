@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 253A",
+    "title": "Historical Perspectives in Musicology and Ethnomusicology",
+    "description": "Explores trends in musical scholarship in the 20th and 21st centuries, focusing on broad questions and modes of inquiry within historical musicology and ethnomusicology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

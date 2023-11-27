@@ -1,0 +1,32 @@
+{
+    "name": "THEA 126M",
+    "title": "The Meisner Technique: A Practical Exploration",
+    "description": "An intensive immersion into the teaching techniques and actor-training originated by Sanford Meisner. Presents exercises and projects utilizing improvisation, physical activities, and, finally, memorized text. THEA 21 and THEA 124 are recommended as preparation. Admission is by audition at the first class meeting (see the department office or theater.ucsc.edu for more information). May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is admission-by-audition at the first class meeting: Come prepared to deliver two contrasting monologues, 1-2 minutes in length each. Questions may be addresses to the instructor:gfritsch@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

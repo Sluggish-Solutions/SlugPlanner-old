@@ -1,0 +1,49 @@
+{
+    "name": "CSE 12",
+    "title": "Computer Systems and Assembly Language and Lab",
+    "description": "Introduction to computer systems and assembly language and how computers compute in hardware and software. Topics include digital logic, number systems, data structures, compiling/assembly process, basics of the system software, and computer architecture. Course is 7 credits with integrated laboratories illustrating concepts covered in lecture. Note that CSE 12 assumes some programming experience. Students can show programming experience by taking one of the courses listed in the prerequisite list below or by taking the CSE python Test-out Exam: https://undergrad.soe.ucsc.edu/cse-20-testout-exam (Formerly CSE 12 and CSE 12L)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 5J, or CSE 20, or CSE 30, or BME 160, or equivalent.",
+        "courses": [
+            [
+                "P CSE 5J",
+                "CSE 20",
+                "CSE 30",
+                "BME 160"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to frosh, sophomores, or computer science, computer engineering, computer game design, bioinformatics, biomolecular engineering and bioinformatics, electrical engineering, network and digital technology, robotics engineering,and technology information management majors and computer science, computer game design, computer engineering, and robotics proposed majors during First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 477,
+            "filled seats": 402,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 480,
+            "filled seats": 522,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 477,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

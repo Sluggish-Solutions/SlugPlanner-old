@@ -1,0 +1,32 @@
+{
+    "name": "HISC 268B",
+    "title": "Rethinking Capitalism",
+    "description": "HISC 268A addressed changes in the theory and practice of capitalism as derivatives markets have become increasingly central to it. This course, which can be regarded as either background or sequel, concerns questions that surround recent debates about derivatives from the standpoint of broader developments in law, culture, politics, ethics, ontology, and theology. What would it mean to see questions of contingency and value as a challenge to late-modern understandings of these modes of thought?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

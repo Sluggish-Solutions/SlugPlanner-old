@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 125B",
+    "title": "Transcommunal Peace Making",
+    "description": "Explores the principles of community, guided by established texts, for inmates at the Correctional Training Facility (CTF) in Soledad, California. Covers the theoretical tenets and applications of Transcommunality, an outgrowth of the principles of Kingian non-violence. Three joint meetings will be held with UCSC students enrolled in the parallel JRLC 125A. Enrollment by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

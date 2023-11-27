@@ -1,0 +1,32 @@
+{
+    "name": "SCIC 201A",
+    "title": "Reporting and Writing Science News",
+    "description": "A survey of the conventions of newspaper journalism and the special application of those conventions to scientific and technological subjects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

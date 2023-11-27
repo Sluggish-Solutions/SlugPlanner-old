@@ -1,0 +1,38 @@
+{
+    "name": "LGST 140E",
+    "title": "National Environmental Policy",
+    "description": "An overview of all major federal environmental policy domains. Analyzes political, social, economic, and other forces influencing federal (and some state) public policy responses to land use, natural resources, pollution, and conservation dilemmas.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LGST 10, and either of LGST 111A or LGST 111B.",
+        "courses": [
+            [
+                "P LGST 10"
+            ],
+            [
+                "LGST 111A",
+                "LGST 111B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 50,
+            "priority": "high"
+        }
+    }
+}

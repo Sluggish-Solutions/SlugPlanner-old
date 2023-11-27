@@ -1,0 +1,38 @@
+{
+    "name": "BIOE 129",
+    "title": "Biology of Marine Mammals",
+    "description": "A survey of cetaceans, pinnipeds, sirenians, and sea otters, including natural history, systematics, physiology, behavior, anatomy, and conservation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C; and satisfaction of the Entry Level Writing and Composition requirements. BIOL 110 is recommended.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 121,
+            "priority": "high"
+        }
+    }
+}

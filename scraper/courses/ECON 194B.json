@@ -1,0 +1,32 @@
+{
+    "name": "ECON 194B",
+    "title": "Advanced Topics in Business and Professional Development",
+    "description": "Enhances students' marketability, strengthens verbal and written communication skills, teaches appropriate business etiquette, improves networking skills, and helps students determine how to become an integral part of an organization's intellectual capacity. Business professionals provide guest presentations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomores, juniors, and seniors economics, business management economics, global economics majors and combined majors with mathematics and environmental studies.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors economics, business management economics, global economics majors and combined majors with mathematics and environmental studies.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 47,
+            "priority": "high"
+        }
+    }
+}

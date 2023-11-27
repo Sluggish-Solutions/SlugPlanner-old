@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 172",
+    "title": "Textile Traditions of Oceania",
+    "description": "Investigates how textiles contribute to cultural fabric of Oceania. Explores women's roles in socioeconomic exchanges and cultural production; gender issues regarding production and function of Oceanic textiles; and history of processes, functions, and aesthetics. Prerequisite: Prior coursework related to Oceania recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

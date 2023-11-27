@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 111",
+    "title": "Joy In Social Movements",
+    "description": "Focuses on radical joy, the feelings, and practices of freedom in social justice movements. Examines social and psychological effects of joy on social movement participants in terms of growth of movements, well-being and creativity of participants, and evolution of ideas. The articulation of radical joy is traced in movements against white supremacy, patriarchy, ableism, queer/trans-phobia, and other intersections of liberation movements. The course has a primary focus on art, music, and artivism, and will develop students? art praxis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

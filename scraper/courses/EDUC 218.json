@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 218",
+    "title": "Topics in Elementary Education: Visual Arts",
+    "description": "Examines pedagogical understanding in teaching visual arts. Introduces candidates to theoretical and research basis for teaching visual arts and content standards and frameworks. Also investigates and presents instructional practices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class will meet on Friday October 14th & October 28th from 8:00 am - 3:45 pm in McHenry 1253. Final exam on December 9th 3:30pm-6:00pm.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 66,
+            "filled seats": 27,
+            "priority": "very low"
+        }
+    }
+}

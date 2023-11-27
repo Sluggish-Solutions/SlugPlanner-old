@@ -1,0 +1,32 @@
+{
+    "name": "AM 217",
+    "title": "Introduction to Fluid Dynamics",
+    "description": "Covers fundamental topics in fluid dynamics at the graduate level: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 107. (Formerly AMS  217.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with AM 107 and PHYS 107.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

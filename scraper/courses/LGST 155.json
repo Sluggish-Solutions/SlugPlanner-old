@@ -1,0 +1,32 @@
+{
+    "name": "LGST 155",
+    "title": "Topics in American Legal History: Making of American Constitutionalism",
+    "description": "Explores some aspects of early American constitutional thought, particularly immediately preceding the American Revolution situating early colonial constitutional thought within some of the larger themes and controversies of the 17th-century English constitutionalism, then considering some aspects of American constitutional thought in the founding period against the background of the colonial experience. Prerequisite(s): permission of instructor: selection based on the ability to do very advanced work. Enrollment restricted to legal studies majors during first and second pass enrollment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

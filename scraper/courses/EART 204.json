@@ -1,0 +1,32 @@
+{
+    "name": "EART 204",
+    "title": "Earth and Planetary Sciences Foundations",
+    "description": "Provides a comprehensive overview of key concepts, dominant paradigms, and research frontiers in Earth and planetary sciences in plenary talks by multiple faculty. Provides a required foundation course for all incoming students pursuing graduate degrees in Earth and planetary sciences.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to Earth sciences graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 13,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "ASTR 119",
+    "title": "Introduction to Scientific Computing",
+    "description": "Introduction to solving scientific problems using computers. A series of simple problems from Earth sciences, physics, and astronomy are solved using a user-friendly scientific programming language (Python/SciPy).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A.",
+        "courses": [
+            [
+                "P MATH 11A",
+                "MATH 19A",
+                "MATH 20A",
+                "AM 15A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 31,
+            "filled seats": 31,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 28,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 44,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

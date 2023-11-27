@@ -1,0 +1,38 @@
+{
+    "name": "LGST 184",
+    "title": "Shariah and Political Thinking: Law and Politics in Modern Islamic Thought",
+    "description": "What defines just political rule in Islam? How do modern Muslim thinkers conceive the role of Islamic normative guidelines (Shariah) in the context of secular modern nation-states? Course surveys how major trends in modern Islamic thought try to answer this question.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Also offered as",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 36,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

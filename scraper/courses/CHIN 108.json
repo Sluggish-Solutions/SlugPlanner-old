@@ -1,0 +1,39 @@
+{
+    "name": "CHIN 108",
+    "title": "Introduction to Classical Chinese Poetry",
+    "description": "Introduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Classical poetry and lyrics are featured.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 107; or by consent of instructor.",
+        "courses": [
+            [
+                "P",
+                "CHIN 103",
+                "CHIN 104",
+                "CHIN 105",
+                "CHIN 107",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 30B",
+    "title": "Theory, Literature, and Musicianship",
+    "description": "Integrated musicianship, theory, and analysis. Diatonic harmony and fundamentals of chromatic harmony and musical form, with an emphasis on early 18th-century styles. Ear-training, taught in smaller sections, emphasizes recognition of triad and seventh-chord qualities and inversions, dictation of moderately complex melodies and multi-voice chorales, and aural analysis of chord progressions including secondary functions. Most of the ear-training materials consist of homophonic and polyphonic examples from music literature performed live in class. Prerequisite(s): MUSC  30A; instructor determination at first class meeting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

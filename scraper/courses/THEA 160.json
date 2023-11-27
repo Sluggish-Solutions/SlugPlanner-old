@@ -1,0 +1,34 @@
+{
+    "name": "THEA 160",
+    "title": "Dramatic Theories",
+    "description": "An examination of the theories of acting and directing from the 19th century to our own time, starting with the classic theater and concentrating on the 20th-century debate centered in Stanislavski and Brecht, Grotowski, and Robert Wilson. This course must be taken prior to student's senior year; required for THEA 185.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 44,
+            "priority": "unavailible"
+        }
+    }
+}

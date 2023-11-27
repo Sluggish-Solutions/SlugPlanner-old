@@ -1,0 +1,32 @@
+{
+    "name": "FILM 179B",
+    "title": "Documentary Animation Workshop",
+    "description": "A project-based production seminar in documentary animation: students learn diverse animation styles and techniques, and apply them to a documentary-animation class project. FILM 161B and FILM 170A are strongly recommended as preparation (or equivalent background). Admission by application; application materials available during the last three weeks of the preceding quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Applications and instructions can be found at this link: https://slugfilm2.ucsc.edu/secure/production_applications/ . Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

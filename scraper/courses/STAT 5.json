@@ -1,0 +1,47 @@
+{
+    "name": "STAT 5",
+    "title": "Statistics",
+    "description": "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences. Students cannot receive credit for this course if they have already received credit for STAT 7. (Formerly AMS 5.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Antirequisite: Students cannot enroll in STAT 5 after receiving a C or better in STAT 7.",
+        "courses": [
+            [
+                "A S    STAT 5    C",
+                "STAT 7"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 480,
+            "filled seats": 470,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 480,
+            "filled seats": 468,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 470,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

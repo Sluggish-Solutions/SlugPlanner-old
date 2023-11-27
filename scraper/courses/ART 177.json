@@ -1,0 +1,32 @@
+{
+    "name": "ART 177",
+    "title": "Careers in the Creative Economy",
+    "description": "Provides students with information, tools, and strategies to embark on arts career exploration and preparation, including strategies for addressing challenges and opportunities related to diversity, equity, and inclusion. Students explore their career values; network with guest speakers in creative fields (alumni, faculty, graduate students, professional artists); and prepare and create career-related documents (update resumes, cover letters, project proposals) as well as learn about a variety of arts careers through guest speakers, readings, and podcasts. Enrollment is by permission of the instructor and is restricted to juniors, seniors, and graduate students. Please contact the art advisor at artadvisor@ucsc.edu for the application.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 28,
+            "priority": "high"
+        }
+    }
+}

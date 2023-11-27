@@ -1,0 +1,34 @@
+{
+    "name": "PSYC 172",
+    "title": "Health Psychology",
+    "description": "Course examines the psychological aspects of health, illness and healing. Focuses primarily on etiology, treatment and prevention; specific topics include stress and the immune response, social support, compliance, health beliefs, and the healing relationship. (Formerly course 140C.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

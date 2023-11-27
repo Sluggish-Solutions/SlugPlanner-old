@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 291",
+    "title": "Advanced Readings in Environmental Studies",
+    "description": "Focusing on a recently published volume or on a topic of current interest, this seminar requires a rigorous analysis of the principles and methods employed in the four core areas of the program: sustainable agriculture and agro-ecology; conservation biology; environmental policy analysis; and political economy. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "THEA 294",
+    "title": "Future Stages",
+    "description": "Working in an experimental theater with access to new performance technologies, course explores how cross-media practice can expand on basic theatrical relationships in new and culturally relevant ways.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

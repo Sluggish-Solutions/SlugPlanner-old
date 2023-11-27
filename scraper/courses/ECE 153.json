@@ -1,0 +1,32 @@
+{
+    "name": "ECE 153",
+    "title": "Digital Signal Processing",
+    "description": "Introduction to the principles of signal processing, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, and filter design techniques. Taught in conjunction with Electrical Engineering 250. Students cannot receive credit for this course and Electrical Engineering 250.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 103. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 250",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 16,
+            "priority": "very low"
+        }
+    }
+}

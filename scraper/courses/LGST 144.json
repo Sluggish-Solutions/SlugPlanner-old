@@ -1,0 +1,34 @@
+{
+    "name": "LGST 144",
+    "title": "Topics in Social and Political Philosophy",
+    "description": "A study of selected classical and contemporary writings dealing with topics such as the nature and legitimacy of the liberal state, the limits of political obligation, and theories of distributive justice and rights. (Formerly Social and Political Philosophy.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): one course in philosophy.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionAlso offered as PHIL-144.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 27,
+            "priority": "very low"
+        }
+    }
+}

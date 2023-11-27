@@ -1,0 +1,32 @@
+{
+    "name": "GAME 210",
+    "title": "Game Art Intensive",
+    "description": "Teaches the basic vocabulary, concepts, and practices of creating 2D and 3D art assets for games, as well as their management and integration into game engines. Includes sprites, models, textures, animations, and an introduction to effects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to games and playable media and serious game graduate students; others by interview.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 13,
+            "priority": "low"
+        }
+    }
+}

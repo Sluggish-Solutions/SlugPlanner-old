@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 212C",
+    "title": "Bilingualism and Biliteracy: Community and School Partnerships",
+    "description": "Taught in Spanish. Provides opportunities for future bilingual teachers to develop culturally relevant practices that build collaboration between the school, students' families, and community. Topics: Latino culture and history, school-parent communication.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

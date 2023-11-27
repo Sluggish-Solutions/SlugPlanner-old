@@ -1,0 +1,60 @@
+{
+    "name": "SOCY 139I",
+    "title": "Community Engaged Research, Learning and Internships",
+    "description": "Introduction to critical community engaged learning and research for social change as practiced within the Sociology Department. Students build out their own internship and/or research objectives centering ethical community engaged practices. Students supported in locating internships, learning about various approaches to community engaged research and learning, and connecting to a range of opportunities to engage both on and off campus. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or by permission of the instructor. Enrollment restricted to sophomore, junior, and senior sociology majors and proposed majors, Latin American and Latino studies/sociology combined majors and proposed majors, and GISES minors.",
+        "courses": [
+            [
+                "P SOCY 1",
+                "SOCY 10",
+                "SOCY 15",
+                "E"
+            ],
+            [],
+            [
+                "L A"
+            ],
+            [
+                "L"
+            ],
+            [],
+            [
+                "GISES"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 20,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 40,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

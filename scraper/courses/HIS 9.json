@@ -1,0 +1,32 @@
+{
+    "name": "HIS 9",
+    "title": "Introduction to Native American History",
+    "description": "Introduction to the interdisciplinary field of Native American Studies and the Indigenous experience. Topics include: history of United States-Indian relations; colonialism; sovereignty; identity; representation of Native Americans in popular culture; and contemporary efforts toward decolonization in indigenous communities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

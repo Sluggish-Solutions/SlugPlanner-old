@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 129",
+    "title": "Human Learning and Memory",
+    "description": "Examines basic theories, models, methods, and research findings in human memory. Both traditional and nontraditional topics are covered.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.  Enrollment is restricted to psychology and cognitive science majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 123,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 34,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

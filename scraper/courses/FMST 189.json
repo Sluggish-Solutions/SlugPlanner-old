@@ -1,0 +1,32 @@
+{
+    "name": "FMST 189",
+    "title": "Advanced Topics in Feminist Theory",
+    "description": "Focus on a particular problem in feminist theory. Problems vary each year but might include theorizing the gendered subject, racializing gender, the meeting points of psychoanalysis and social-political analysis in theorizing gender, the relationship between queer theory and feminist theory, postcolonial feminist theory. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FMST 100. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Sound Studies",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

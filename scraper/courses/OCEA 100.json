@@ -1,0 +1,41 @@
+{
+    "name": "OCEA 100",
+    "title": "Physical Oceanography",
+    "description": "Introduces physical aspects of the ocean including both descriptive representations of ocean properties and dynamical processes that govern ocean circulation. Topics include measurement methods, the equation of state, the equations of motion, geostrophy, atmospheric forcing, Ekman transport, gyre circulation, western boundary currents, the global circulation, and surface gravity waves.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  MATH 11B or equivalent; and PHYS 6B; and ESCI 100A or EART 110A.",
+        "courses": [
+            [
+                "P  MATH 11B"
+            ],
+            [
+                "PHYS 6B"
+            ],
+            [
+                "ESCI 100A",
+                "EART 110A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 16,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "ANTH 105",
+    "title": "Human Paleopathology",
+    "description": "Examines paleopathology beginning with ancient hominid populations and proceeding to modern populations. Uses both the skeletal evidence and historical documentation when available. Considers evolutionary, cultural, and biological factors. Topics include: osteological diagnosis of infectious disease; trauma; nutritional deficiencies; dental disease; and developmental defects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1; ANTH 102A recommended.",
+        "courses": [
+            [
+                "P ANTH 1"
+            ],
+            [
+                "ANTH 102A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 49,
+            "priority": "high"
+        }
+    }
+}

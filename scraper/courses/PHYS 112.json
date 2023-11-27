@@ -1,0 +1,37 @@
+{
+    "name": "PHYS 112",
+    "title": "Thermodynamics and Statistical Mechanics",
+    "description": "Consequences of the first and second laws of thermodynamics, elementary statistical mechanics, thermodynamics of irreversible processes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5D and MATH 23B. Concurrent enrollment in PHYS 102 is required.",
+        "courses": [
+            [
+                "P PHYS 5D"
+            ],
+            [
+                "MATH 23B C   PHYS 102"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 104,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

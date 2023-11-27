@@ -1,0 +1,32 @@
+{
+    "name": "LIT 190A",
+    "title": "Topics in Pre- and Early Modern Studies",
+    "description": "Examination of individual authors or critical problems in ancient, medieval, or early modern/Renaissance literature. Course topic changes; see the Class Search for current topic. Critical approach designations: Canons, Histories. Distribution requirements: Pre-1750, Senior Seminar. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: What Was the Renaissance? Genealogy of an Idea",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

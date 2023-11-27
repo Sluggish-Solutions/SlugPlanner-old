@@ -1,0 +1,40 @@
+{
+    "name": "EART 102",
+    "title": "Marine Geology",
+    "description": "Geology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; introduction to paleoceanography. Discussion: 1 hour. Students cannot receive credit for this course and OCEA 280.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements,and EART 5 or EART 10 or EART 20 or BIOE 20C.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C  EART 5",
+                "EART 10",
+                "EART 20",
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

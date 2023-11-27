@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 74",
+    "title": "Spontaneous Composition/Improvisation I",
+    "description": "Introduction to the basics of jazz improvisation, including theory, harmony, rhythm, improvisation techniques, aesthetics and idiomatic devices. Exposure to jazz repertoire through in-class performances of swing, blues, modal and Latin styles. Admission by audition with instructor at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

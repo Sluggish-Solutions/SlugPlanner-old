@@ -1,0 +1,35 @@
+{
+    "name": "SOCY 196G",
+    "title": "Project Practicum: Global Information and Social Enterprise",
+    "description": "Project practicum and evaluation are required for completion of major or minor in global information and social enterprise studies (GISES). Projects require approval in advance by the director of GISES. Completed projects must be uploaded electronically on the website or archive of the Everett Program. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 30C or SOCY 107B.",
+        "courses": [
+            [
+                "P SOCY 30C",
+                "SOCY 107B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

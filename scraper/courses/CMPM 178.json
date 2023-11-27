@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 178",
+    "title": "Human-Centered Design Research",
+    "description": "Students move through a rigorous design-research process involving skills and principles in human-centered design research as well as selected formal research methods. They learn to use tools for ideation, human-centered qualitative research, domestic probes, mock-ups, and prototypes. (Formerly Computer Science 178.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 100,
+            "priority": "unavailible"
+        }
+    }
+}

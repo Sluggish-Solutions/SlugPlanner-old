@@ -1,0 +1,50 @@
+{
+    "name": "MATH 24",
+    "title": "Ordinary Differential Equations",
+    "description": "First and second order ordinary differential equations, with emphasis on the linear case. Methods of integrating factors, undetermined coefficients, variation of parameters, power series, numerical computation. Students cannot receive credit for this course and AM 20.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A; MATH 21 is recommended as preparation.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "MATH 21"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 40,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 28,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

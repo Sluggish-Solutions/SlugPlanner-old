@@ -1,0 +1,32 @@
+{
+    "name": "ECE 222",
+    "title": "High-Speed Low-Power Integrated Circuit Design",
+    "description": "Digital integrated circuit design covered with an emphasis on high-speed and low-power applications. Covers signaling techniques and circuits including transmitters and receivers, with emphasis on on-chip interconnect, timing fundamentals and timing circuits. Theoretical fundamentals of phase locked loops and design issues of implementation addressed. Course has a project design component. Interview to assess technical skills of student. Enrollment is restricted to electrical engineering and computer engineering graduate students.  (Formerly EE 222.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

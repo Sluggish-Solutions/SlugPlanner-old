@@ -1,0 +1,32 @@
+{
+    "name": "EART 290C",
+    "title": "Topics in Geophysics",
+    "description": "Different problems and approaches will be stressed from year to year such as geotectonics, paleomagnetism, or properties and processes in the mantle and core.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "graduate students; qualified Earth sciences majors by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified Earth sciences majors by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

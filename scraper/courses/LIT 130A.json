@@ -1,0 +1,32 @@
+{
+    "name": "LIT 130A",
+    "title": "Ancient Literature in Cross-Cultural Perspective",
+    "description": "Comparative approaches to the study of ancient literature and culture. Topic changes; see the Class Search for current topic. Critical approach designations: Geographies, Histories. Distribution requirement: Global, Pre-1750. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section<<<<<< Queer Classics >>>>>> Far before the 1885 recriminalization of homosexuality in England, around which time when, according to Foucault, modern sexuality emerged, English nineteenth-century authors were exploring a multitude of sexual relationalities and desires, and they often did so through classical reception. Classically trained authors and translators wrote literary criticism, translations, and adaptations of the classics, including Greek, Latin, and Persian language literature that centered on non-heterosexuality. This course examines the nineteenth-century reception of ?queer? Greek, Latin, and Persian language literature. English translations of these classics will provide insight into the ways in which nineteenth-century classicists and other classically trained writers engaged with these ancient literary traditions to explore \"queer\" representations and forms. Students will study translations and adaptations of ancient texts that include non-heterosexual narratives, reading authors including Sappho, Plato, Ovid, Lucretius, Omar Khayyam, Hafez, and Amir Khusrau. <<<<<< Required texts : Khayyam, Omar, Rubaiyat, transl. Edward FitzGerald (Oxford edition) and Plato, Symposium and Phaedrus, transl. Benjamin Jowett (Dover edition) >>>>>>",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 96,
+            "filled seats": 89,
+            "priority": "high"
+        }
+    }
+}

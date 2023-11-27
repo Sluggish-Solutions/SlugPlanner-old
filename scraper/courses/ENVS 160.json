@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 160",
+    "title": "Restoration Ecology",
+    "description": "A multidisciplinary overview of restoring degraded ecosystems. Among the topics addressed are linkages between ecological principles and restoration, planning and implementing restoration projects, evaluating restoration success, and case studies of restoration of specific ecosystem types. Participation in one work day is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

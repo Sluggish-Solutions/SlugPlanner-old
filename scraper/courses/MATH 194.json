@@ -1,0 +1,58 @@
+{
+    "name": "MATH 194",
+    "title": "Senior Seminar",
+    "description": "Designed to expose the student to topics not normally covered in the standard courses. The format varies from year to year. In recent years each student has written a paper and presented a lecture on it to the class.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements;  MATH 103A or MATH 105A or MATH 110 or MATH 111A or MATH 111T or MATH 117. Enrollment priority is given to seniors; juniors may request permission from the undergraduate vice chair.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "MATH 103A",
+                "MATH 105A",
+                "MATH 110",
+                "MATH 111A",
+                "MATH 111T",
+                "MATH 117 E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 42,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

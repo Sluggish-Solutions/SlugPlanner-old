@@ -1,0 +1,32 @@
+{
+    "name": "HIS 202",
+    "title": "Practicing World History",
+    "description": "Because world history surfaces in curriculums at all educational levels, this seminar interrogates its value. Why do historians advocate world (and transnational) history? How do historians actually practice it? What are the pitfalls? Can global perspectives apply to localized subjects?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

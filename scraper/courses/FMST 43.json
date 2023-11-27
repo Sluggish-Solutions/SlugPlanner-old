@@ -1,0 +1,34 @@
+{
+    "name": "FMST 43",
+    "title": "Rasanblaj: On Wholeness and Well-Being",
+    "description": "Centering Black feminist Toni Cade Bambara's existential question, ''Are you sure, Sweetheart, that you want to be well?'' this course puts the emphasis on transnational feminist praxis to consider interdisciplinary approaches and methods to living with inequity while pursuing wholeness and well-being. Considering notions of individual and community, care and personhood, environment and nature, self-love and happiness, and other themes, we find theoretical grounding in the concept of rasanblaj (the gathering of ideas, things, people, and spirits). May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FMST 1.",
+        "courses": [
+            [
+                "P FMST 1"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 21,
+            "priority": "very low"
+        }
+    }
+}

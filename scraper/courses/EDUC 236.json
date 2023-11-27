@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 236",
+    "title": "Quantitative Research Methods",
+    "description": "Provides an introductory-level knowledge of quantitative research methods in educational settings. Students learn the foundations of quantitative data theory, general logic behind statistical inference, and specific methods of data analysis in educational contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

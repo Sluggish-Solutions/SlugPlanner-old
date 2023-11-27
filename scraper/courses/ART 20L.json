@@ -1,0 +1,38 @@
+{
+    "name": "ART 20L",
+    "title": "Introduction to Drawing",
+    "description": "Drawing course using traditional media taught online through demonstration videos, digital submissions, and small-group critiques. Introduces the basics of observational drawing in a progression designed to develop and build skills in sighting, measuring, value, and rendering. Familiarity with Canvas, access to a digital camera, and purchase of art supplies are required. Assumes 30 hours per week of coursework.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in studio and associated secondary studio.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 189,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

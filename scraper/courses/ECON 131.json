@@ -1,0 +1,39 @@
+{
+    "name": "ECON 131",
+    "title": "International Financial Markets",
+    "description": "International financial management analyzes the key financial markets and instruments that facilitate trade and investment activity on a global scale. Inquiry spans two areas: (1) economic determinants of prices in international financial markets; and (2) decisions facing private individuals and enterprises, with topics including capital financing, investment, and risk management.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M; and ECON 100B or ECON 100N.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 100B",
+                "ECON 100N"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

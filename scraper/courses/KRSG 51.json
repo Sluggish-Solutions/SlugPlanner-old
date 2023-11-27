@@ -1,0 +1,44 @@
+{
+    "name": "KRSG 51",
+    "title": "City on a Hill Press Practicum in Production",
+    "description": "Students work collaboratively on City on a Hill Press, the student-run, campus newspaper of record, gaining practice in news production. Students engage in analysis and critical reflection regarding both the form and content of news, and its critical relationship to a healthy democracy. Course outcomes include the development of media literacy, and experience addressing issues such as intent, fairness, accuracy, and impact. Areas of focus include, but are not limited to, graphic design, illustration, photojournalism, visual composition, copy editing, fact-checking, and media literacy. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is by permission of the instructor in consultation with City on a Hill Press co-editors-in-chief. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 13,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

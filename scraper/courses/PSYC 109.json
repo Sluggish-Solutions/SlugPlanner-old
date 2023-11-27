@@ -1,0 +1,37 @@
+{
+    "name": "PSYC 109",
+    "title": "Stress and Well-Being throughout Development",
+    "description": "Emphasizes bi-directional relationship between psychobiological systems, stress, and well-being throughout the lifespan. Considers how associations differ across cultural contexts. Major topics include stress response systems (HPA-axis, autonomic nervous system, immune system, neural threat response), positive well-being (emotion, psychological resources, prosocial behavior), and health behaviors (sleep, substance use, eating).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and 100.",
+        "courses": [
+            [
+                "P PSYC 10"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 58,
+            "priority": "unavailible"
+        }
+    }
+}

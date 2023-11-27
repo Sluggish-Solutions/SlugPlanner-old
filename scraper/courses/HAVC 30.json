@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 30",
+    "title": "Introduction to European Visual Culture",
+    "description": "General survey of European art and architecture with a focus on the southern, Mediterranean ancient cultures. Course consists of a number of case studies of works from various periods from ancient to modern.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 140,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

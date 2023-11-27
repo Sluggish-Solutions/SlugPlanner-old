@@ -1,0 +1,32 @@
+{
+    "name": "ART 189",
+    "title": "Special Topics in Sculpture",
+    "description": "Special topics in sculpture as announced, concentrating on specific aspects of subject matter and media. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course from ART 20H, ART 120, ART 121, ART 122, ART 124, ART 125, ART 129, ART 172, ART 175, ART 180B, ART 183, ART 188; and two non-sculpture/intermedia/public art lower-division studios from ART 15, ART 20G, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Special Topic: Art and Food Agriculture has become one of the most impactful human activities on Earth. Up to 90% of the deforestation of the Amazon rainforest is related to animal farming and soybean monoculture to feed the cattle. If the way we have been growing food is questionable, so are our demands as eaters. What we eat shapes entire ecosystems and societies, meaning our food choices have a transformative ability. This course will focus on politicizing our tastes so that we are eating with, and not against, the planet. We will share meals, visit farms, cook together and investigate the image of our digestive systems as sculpting tools that may shape the Earth and satisfy our hunger for social and environmental justice.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "APLX 103",
+    "title": "Second Language Speech",
+    "description": "Examines themes related to the acquisition of L2 phonetics and phonology, including theories and models of L2 speech learning; phonetics and phonology in L2 acquisition; as well as the training effects on L2 pronunciation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): APLX 80 or LING 50.",
+        "courses": [
+            [
+                "P APLX 80",
+                "LING 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 122",
+    "title": "Business of Games",
+    "description": "Ten-week course to provide instruction on important business topics for videogame creators?many related to the games themselves and others for pursuing success in bringing the games to customers: publishing, distribution, marketing, funding, operations, and more.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

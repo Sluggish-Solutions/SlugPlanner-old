@@ -1,0 +1,32 @@
+{
+    "name": "GAME 270",
+    "title": "Games and Playable Media Studio I",
+    "description": "First course in a three-course sequence covering the fundamentals and advanced topics in game and playable-media development. Focuses on developing innovative project concepts using methods ranging from prototyping to design documents, planning, and initiating project development.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to games and playable media graduate students; others by interview.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

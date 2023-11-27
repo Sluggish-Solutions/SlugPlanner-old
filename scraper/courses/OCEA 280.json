@@ -1,0 +1,32 @@
+{
+    "name": "OCEA 280",
+    "title": "Marine Geology",
+    "description": "Geology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; and introduction to paleoceanography. Students cannot receive credit for this course and EART 102.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FILM 20C",
+    "title": "Introduction to Digital Media",
+    "description": "Introduces fundamental features of digital media and examines the immense visual, social, and psychological impact of the digital revolution on our culture. Topics include the concepts and forms of the digital hypertext interface, Internet, and web, and the impact of digital media on conceptions of the self, body, identity, and community. If space allows, restrictions may be lifted after priority enrollment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+        "courses": [
+            [
+                "S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

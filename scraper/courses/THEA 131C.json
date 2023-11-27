@@ -1,0 +1,34 @@
+{
+    "name": "THEA 131C",
+    "title": "Dance Studio II: Advanced Contemporary Forms and Practices",
+    "description": "Continued study of contemporary dance theory and practice. Focus on intermediate dance technique, individual and group movement invention, choreographic voice, and theatrical applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): THEA 31C or permission of instructor.",
+        "courses": [
+            [
+                "P THEA 31C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

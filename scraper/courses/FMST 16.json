@@ -1,0 +1,32 @@
+{
+    "name": "FMST 16",
+    "title": "Media Histories--News and New Media",
+    "description": "The news is a set of narratives that produce, maintain, repair, and transform reality. Using three events that brought together \"old\" and \"new\" media, this course traces how the interaction of new media with news has changed how we make sense of the world around us and our place in it.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 53,
+            "priority": "unavailible"
+        }
+    }
+}

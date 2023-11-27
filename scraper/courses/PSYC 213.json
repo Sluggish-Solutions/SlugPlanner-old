@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 213",
+    "title": "Special Topics in Social Psychology",
+    "description": "Focuses on particular issues of theoretical and practical importance in social psychology. Topics vary from year to year and often concentrate on issues of social justice, social identity, intergroup relations, and social policy. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

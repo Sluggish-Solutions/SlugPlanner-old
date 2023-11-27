@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 227",
+    "title": "English Teaching for Secondary Classrooms",
+    "description": "Prepares English single subject credential candidates for student teaching in winter and spring. Course focuses on developing curricula and strategies in the content area. Through classroom placements, students observe and apply techniques to develop curriculum units used in student teaching.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

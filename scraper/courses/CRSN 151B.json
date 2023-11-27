@@ -1,0 +1,32 @@
+{
+    "name": "CRSN 151B",
+    "title": "Innovation and Professionalization for Sustainability Designers, Engineers, and Entrepreneurs",
+    "description": "Teaches how to become innovators and entrepreneurs, develop projects and enterprises, and adopt professional practices. Focuses on sustainability for students in Sustainability Studies, especially in connection with students' research and interests.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 31,
+            "priority": "high"
+        }
+    }
+}

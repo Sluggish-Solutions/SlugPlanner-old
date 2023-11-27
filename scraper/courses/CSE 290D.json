@@ -1,0 +1,32 @@
+{
+    "name": "CSE 290D",
+    "title": "Neural Computation",
+    "description": "An introduction to the design and analysis of neural network algorithms. Concentrates on large artificial neural networks and their applications in pattern recognition, signal processing, and forecasting and control. Topics include Hopfield and Boltzmann machines, perceptions, multilayer feed forward nets, and multilayer recurrent networks. (Formerly Computer Science 290D.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

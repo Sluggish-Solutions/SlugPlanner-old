@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 121",
+    "title": "Perception",
+    "description": "Introduces the study of human perception. Topics include: the structure and function of the human eye and early visual cortex, perception of motion, color, and objects; recognition of faces; and audition, sensory integration, and synesthesia.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 20 and PSYC 100. Enrollment is restricted to psychology and cognitive science majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Optional sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

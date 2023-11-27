@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 272",
+    "title": "Mass Spectrometry: Fundamentals and Applications",
+    "description": "Lecture and lab course introducing graduate students to mass spectrometry. Begins with the basic framework and concepts in mass spectrometry to break down modern instrumentation to build toward utilizing modern biomedical applications of the technology. Course focuses on biological molecules (amino acids to proteins). Interpretation of organic mass spectra is only be briefly covered. Provides students with the necessary framework to design and execute their own research-based mass spectrometry experiments. Two weeks are dedicated to hands-on experiments using modern mass spectrometers and preparing short technical notes based on the Journal of the American Society for Mass Spectrometry (JASMS) to report findings from laboratory base experiments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

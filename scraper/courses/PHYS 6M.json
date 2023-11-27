@@ -1,0 +1,54 @@
+{
+    "name": "PHYS 6M",
+    "title": "Introductory Physics II Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 6B. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A, PHYS 6A, or PHYS 7A; and PHYS 5L, PHYS 6L or PHYS 7L; and previous or concurrent enrollment in PHYS 6B.",
+        "courses": [
+            [
+                "P PHYS 5A PHYS 6A",
+                "PHYS 7A"
+            ],
+            [
+                "PHYS 5L PHYS 6L",
+                "PHYS 7L"
+            ],
+            [
+                "PHYS 6B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 66,
+            "filled seats": 63,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 130,
+            "filled seats": 117,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

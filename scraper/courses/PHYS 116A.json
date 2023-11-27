@@ -1,0 +1,40 @@
+{
+    "name": "PHYS 116A",
+    "title": "Mathematical Methods in Physics",
+    "description": "Infinite series. Topics in linear algebra including vector spaces, matrices and determinants, systems of linear equations, eigenvalue problems and matrix diagonalization. Ordinary differential equations and Laplace transforms.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  MATH 23A.",
+        "courses": [
+            [
+                "P  MATH 23A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 55,
+            "filled seats": 41,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "ARTG 170",
+    "title": "Game Design Studio I",
+    "description": "Students create novel, interesting game concepts and outline and polish a game pitch for their yearlong project, starting with concept ideation and storyboarding to prototyping and presenting the game idea. This course is part one of the art and design: games and playable media capstone requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to senior art and design: games and playable media majors.",
+        "courses": [
+            [
+                "E"
+            ],
+            [],
+            []
+        ]
+    },
+    "class_notes": "This course focuses on individual design, production, and prototyping of several smaller ideas and projects and has less official collaboration with CSGD senior capstone students and faculty than past versions of this course, although we still hope to incorporate it as an option for those interested.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 167,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 58",
+    "title": "Gardens of Delight: Fifteen Centuries of Islamic Visual Culture",
+    "description": "Examines some of the most representative creations of Islamic visual culture from the 7th Century to the present in order to appreciate the richness of this tradition and its extensive influence on other cultures. Focuses on the social, political, and religious role of a variety of materials, from mosques, palaces, and gardens to visual narratives, ceremonies, dance, and contemporary films.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This hybrid course features both in-person and asynchronous components. Weekly lectures are pre-recorded and available on Canvas, and students are required to watch them before they attend class on Thursdays to engage in interactive learning activities.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 102,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "BME 130",
+    "title": "Genomes",
+    "description": "Advanced elective for biology majors, examining biology on the genome scale. Topics include genome sequencing; large scale computational and functional analysis; features specific to prokaryotic, eukaryotic, or mammalian genomes; proteomics; SNP analysis; medical genomics; and genome evolution.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 105 or BME 105; or permission of the instructor.",
+        "courses": [
+            [
+                "P",
+                "BIOL 105",
+                "BME 105",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 31,
+            "priority": "moderate"
+        }
+    }
+}

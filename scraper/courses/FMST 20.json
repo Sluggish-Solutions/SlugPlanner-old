@@ -1,0 +1,32 @@
+{
+    "name": "FMST 20",
+    "title": "Feminism and Social Justice",
+    "description": "Examines, and critically analyzes, select post-World War II movements for social justice in the United States from feminist perspectives. Considers how those movements and their participants responded to issues of race, class, gender, and sexuality. A feminist, transnational, analytic framework is also developed to consider how those movements may have embraced, enhanced, or debilitated feminist formations in other parts of the world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

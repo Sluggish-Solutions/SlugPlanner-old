@@ -1,0 +1,32 @@
+{
+    "name": "PORT 80",
+    "title": "Voices from the Portuguese-Speaking World: Portugal, Brazil and Africa",
+    "description": "Examines key literary texts and films of the Portuguese-speaking world (Brazil, Portugual, and Africa), and the strategies they use to portray notions of national identity, which were transformed and enriched by transnational contact. Taught in English.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

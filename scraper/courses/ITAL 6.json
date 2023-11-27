@@ -1,0 +1,34 @@
+{
+    "name": "ITAL 6",
+    "title": "Second-Year Italian",
+    "description": "Reading of first novel in the language and weekly viewing of Italian films serve as basis for oral reports and discussions on various aspects of Italian culture and civilization. Weekly assignments, three essays, and a paper on topics derived from or related to the text. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting, and take the placement examination.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 5 or placement by examination.",
+        "courses": [
+            [
+                "P ITAL 5"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

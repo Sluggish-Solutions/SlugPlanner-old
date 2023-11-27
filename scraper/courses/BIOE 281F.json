@@ -1,0 +1,44 @@
+{
+    "name": "BIOE 281F",
+    "title": "Ecological Research Topics",
+    "description": "Intensive research and discussions on plant-animal interactions. All students undertake a research project and meet weekly with the faculty sponsor to monitor progress. The group meets weekly to discuss experimental design and analysis, specific problems related to the students' research, relevant research papers, or manuscripts that the group members are writing. Each student gives a formal presentation of research plans or progress each quarter. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

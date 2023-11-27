@@ -1,0 +1,32 @@
+{
+    "name": "GAME 231",
+    "title": "Game Technologies",
+    "description": "Learn the fundamentals of at least two contemporary game engines. Develop 3D game prototypes using custom-level geometry and shaders. Understand common features of the engines and how engine-specific features shape the space games that are reasonable to implement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 25,
+            "priority": "low"
+        }
+    }
+}

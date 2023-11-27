@@ -1,0 +1,32 @@
+{
+    "name": "METX 201",
+    "title": "Sources and Fates of Pollutants",
+    "description": "Presents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis will be placed on the susceptibility and effects of toxicants across organ systems, toxicokinetics and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 101.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "graduate students; qualified undergraduate science majors may enroll with permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduate science majors may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

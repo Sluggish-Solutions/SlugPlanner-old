@@ -1,0 +1,65 @@
+{
+    "name": "CSE 101",
+    "title": "Introduction to Data Structures and Algorithms",
+    "description": "Introduction to abstract data types and basics of algorithms. Linked lists, stacks, queues, hash tables, trees, heaps, and graphs will be covered. Students will also be taught how to derive big-Oh analysis of simple algorithms. All assignments will be in C/C++. (Formerly Computer Science 101 Algorithms and Abstract Data Types.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12 or BME 160; CSE 13E or ECE 13 or CSE 13S; and CSE 16; and CSE 30; and MATH 11B or MATH 19B or MATH 20B or AM 11B or ECON 11B.",
+        "courses": [
+            [
+                "P CSE 12",
+                "BME 160"
+            ],
+            [
+                "CSE 13E",
+                "ECE 13",
+                "CSE 13S"
+            ],
+            [
+                "CSE 16"
+            ],
+            [
+                "CSE 30"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B",
+                "MATH 20B",
+                "AM 11B",
+                "ECON 11B"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Science, Computer Engineering, Computer Game Design, Network and Digital Technology, Bioinformatics, Biomolecular Engineering and Bioinformatics, and Robotics Engineering majors and Computer Science proposed majors during First Pass enrollment. Enrollment restricted to Computer Science, Computer Engineering, Computer Game Design, Bioinformatics, Biomolecular Engineering and Bioinformatics, Robotics, Technology and Information Management majors, minors and proposed majors during Second Pass enrollment. Major restrictions lifted after Second Pass enrollment appointments.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 627,
+            "filled seats": 441,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 440,
+            "filled seats": 373,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 500,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

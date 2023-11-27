@@ -1,0 +1,47 @@
+{
+    "name": "CSE 182",
+    "title": "Introduction to Database Management Systems",
+    "description": "Concepts, approaches, tools, and methodology of database design. Topics include the entity-relationship model; the relational data model; normal forms; commercial languages such as SQL (SQL constraints, SQL triggers, and update languages); query-by-example (QBE); XML data model, and XML query language (XQuery); as well as relational database-management support for XML and object-relational features in database-management systems. Involves a database -application development project. Students that have taken and passed CSE 180 cannot receive credit for CSE 182.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 16 or BME 160; CSE 15 and CSE 15L or CSE 13E or CSE 13S or ECE 13. Course intended for non-majors; computer science majors should enroll in CSE 180.",
+        "courses": [
+            [
+                "P CSE 16",
+                "BME 160"
+            ],
+            [
+                "CSE 15"
+            ],
+            [
+                "CSE 15L",
+                "CSE 13E",
+                "CSE 13S",
+                "ECE 13 C"
+            ],
+            [
+                "CSE 180"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary labEnroll in lecture and associated secondary lab. Enrollment restricted to technology information management, and biomolecular engineering and bioinformatics. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 141,
+            "priority": "high"
+        }
+    }
+}

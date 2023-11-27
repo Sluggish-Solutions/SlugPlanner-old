@@ -1,0 +1,32 @@
+{
+    "name": "THEA 40",
+    "title": "Introduction to Directing",
+    "description": "An overview of the analytical and creative processes that inform the director's work. Close examination of texts, concepts, and selected directors and directorial choices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 34,
+            "priority": "unavailible"
+        }
+    }
+}

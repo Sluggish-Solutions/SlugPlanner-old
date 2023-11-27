@@ -1,0 +1,32 @@
+{
+    "name": "CSE 200",
+    "title": "Research and Teaching in Computer Science and Engineering",
+    "description": "Basic teaching techniques for teaching assistants, including responsibilities and rights of teaching assistants, resource materials, computer security, leading discussion or lab sessions, presentation techniques, maintaining class records, electronic handling of homework, and grading. The course examines research and professional training, including use of the library and online databases, technical typesetting, writing journal and conference papers, publishing in computer science and computer engineering, giving talks in seminars and conferences, and ethical issues in science and engineering. Required for all teaching assistants. Formerly CMPS 200 and CMPE 200.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 98,
+            "filled seats": 80,
+            "priority": "moderate"
+        }
+    }
+}

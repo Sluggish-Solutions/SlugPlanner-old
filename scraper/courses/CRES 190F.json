@@ -1,0 +1,38 @@
+{
+    "name": "CRES 190F",
+    "title": "Black Queer Film",
+    "description": "Students critically examine public representations of Black queer and trans communities. Work is grounded in analysis of Black feminist, Black queer, and Black trans thought in relation to critical media studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior CRES majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 13,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 61B",
+    "title": "Drama from the Renaissance to the Modern Age",
+    "description": "Examines major trends in European drama from the rediscovery of ancient Greek and Roman drama in the early 17th century to the late 19th century. Examines major trends in European drama from the discovery of ancient Greek and Roman drama in the early 17th century to the late 19th century. These trends include neo-classical drama, the rise of middle-class drama, social realism, romanticism, early naturalism, and the well-made play. These trends are compared with the parallel developments of the non-Western forms of Japanese Kabuki and Javanese Wayang.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

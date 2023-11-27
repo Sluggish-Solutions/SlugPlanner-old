@@ -1,0 +1,46 @@
+{
+    "name": "CRSN 55",
+    "title": "Rachel Carson College: Service Learning Practicum",
+    "description": "Introduces service-learning theory and practice for students engaging in service-learning work in the college, college-related projects, community service organizations, or public agencies. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to college members until after priority enrollment.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 13,
+            "filled seats": 17,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

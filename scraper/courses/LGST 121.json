@@ -1,0 +1,38 @@
+{
+    "name": "LGST 121",
+    "title": "Racism & Justice in America",
+    "description": "Examines racism as a logic of governance in American politics and traces racial reasoning in transcendent notions of ''justice'' in the U.S. from the nation's founding into the 21st century. (Formerly offered as Race & Justice in America.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 47,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 50,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "SOCY 196S",
+    "title": "Senior Seminar",
+    "description": "Small seminars that focus on advanced topics in sociology. The pedagogical aims vary but these seminars often emphasize at least one of the following: close textual analysis, critical and analytical thinking, active learning, field research, advanced research methods, or advanced theory. Topics vary yearly; consult current course listings. Enrollment by application with selection based on appropriate background and by consent of instructor. Satisfies senior comprehensive requirement. Restricted to senior sociology majors.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Immigration Enforcement and Deportations. Application is required for enrollment. For seminar description and application process, visit: https://tinyurl.com/y8vlnejc",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 71,
+            "filled seats": 46,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 51,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

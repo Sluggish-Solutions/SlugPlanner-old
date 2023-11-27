@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 100A",
+    "title": "Approaches to Visual Studies",
+    "description": "Introduction to major issues of method and critique in study of art and visual culture. Focuses on understanding disciplinary and critical modes of scholarly inquiry in the visual arts, including role of historical research. Emphasizes intensive reading, discussion, and writing. HAVC 100A is a prerequisite for all History of Art and Visual Culture seminars.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore, junior, and senior History of Art and Visual Culture majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore, junior, and senior History of Art and Visual Culture majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 38,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

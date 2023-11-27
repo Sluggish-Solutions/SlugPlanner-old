@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 1A",
+    "title": "Physics for Everyone",
+    "description": "Explores some of the great topics in classical and modern physics, including relativity, and the connections to a broad range of inquiry, from daily life to cosmology. Math, mainly algebra, is used in a way that is completely accessible to everyone. No previous knowledge of physics is necessary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 220,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

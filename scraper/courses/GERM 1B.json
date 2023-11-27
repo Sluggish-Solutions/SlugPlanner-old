@@ -1,0 +1,36 @@
+{
+    "name": "GERM 1B",
+    "title": "Accelerated German",
+    "description": "Accelerated course part 2 covers part of GERM 2 and all of GERM 3. In this course, students who have successfully completed GERM 1A (or its equivalent) continue to develop competence in speaking, reading, writing, and understanding real-life German.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GERM 1A or GERM 2 or placement by examination. For students completing GERM 2, GERM 3 is preferable.",
+        "courses": [
+            [
+                "P GERM 1A",
+                "GERM 2",
+                "F   GERM 2 GERM 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

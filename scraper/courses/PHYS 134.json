@@ -1,0 +1,43 @@
+{
+    "name": "PHYS 134",
+    "title": "Physics Advanced Laboratory",
+    "description": "Individual experimental investigations of basic phenomena in atomic, nuclear, and solid state physics. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 133 and PHYS 102.",
+        "courses": [
+            [
+                "P PHYS 133"
+            ],
+            [
+                "PHYS 102"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

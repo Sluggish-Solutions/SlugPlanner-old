@@ -1,0 +1,32 @@
+{
+    "name": "HIS 203",
+    "title": "Global Decolonization",
+    "description": "Focuses on the histories and theories of decolonization in the mid-to-late 20th century, particularly, interactions among anticolonial movements, how Cold War era antagonisms inflected the process of decolonization, and efforts to forge Afro-Asian unity and/or a nonalignment movement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

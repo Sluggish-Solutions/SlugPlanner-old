@@ -1,0 +1,32 @@
+{
+    "name": "NLP 244",
+    "title": "Advanced Machine Learning for Natural Language Processing",
+    "description": "Covers advanced deep machine learning models and algorithms for Natural Language Processing, such as transformers, pre-trained large language models, contextual embeddings, multi-modal embeddings, mullti-task learning, and reinforcement learning. Provides both theoretical and intuitive understanding of NLP learning models.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  NLP 243 or CSE 244B. Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

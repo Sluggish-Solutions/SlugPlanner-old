@@ -1,0 +1,44 @@
+{
+    "name": "MATH 103A",
+    "title": "Complex Analysis",
+    "description": "Complex numbers, analytic and harmonic functions, complex integration, the Cauchy integral formula, Laurent series, singularities and residues, conformal mappings.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 23B; and either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 23B"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 34,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

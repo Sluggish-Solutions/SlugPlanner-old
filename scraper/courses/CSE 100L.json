@@ -1,0 +1,49 @@
+{
+    "name": "CSE 100L",
+    "title": "Logic Design Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 100. Two 2-hour laboratory sessions per week. Weekly laboratory assignments which require the use of the oscilloscopes, TTL circuits, computer-aided design and simulation tools, and programmable logic.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12; previous or concurrent enrollment in CSE 100 is required.",
+        "courses": [
+            [
+                "P CSE 12"
+            ],
+            [
+                "CSE 100"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in CSE 100 is required. Waitlists for this class will be based on CSE 100. Do not waitlist CSE 100L.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 103,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 104,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

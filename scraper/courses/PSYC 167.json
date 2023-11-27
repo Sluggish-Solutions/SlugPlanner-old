@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 167",
+    "title": "Clinical Psychology",
+    "description": "Serves as an in-depth introduction to the field of clinical psychology. Covers issues of clinical assessment, interviewing, testing, and a range of therapeutic modalities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100; previous or concurrent enrollment in PSYC 170. Enrollment is restricted to psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 51,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 56,
+            "priority": "unavailible"
+        }
+    }
+}

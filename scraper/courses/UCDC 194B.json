@@ -1,0 +1,44 @@
+{
+    "name": "UCDC 194B",
+    "title": "UCDC Internship",
+    "description": "A 30- to 36-hour-per-week internship in a Washington, D.C., government, non-profit, or private institution. Required for and enrollment is restricted to UCDC program participants. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 20,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 22,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

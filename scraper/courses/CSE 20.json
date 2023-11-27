@@ -1,0 +1,44 @@
+{
+    "name": "CSE 20",
+    "title": "Beginning Programming in Python",
+    "description": "Provides students with Python programming skills and the ability to design programs and read Python code. Topics include data types, control flow, methods and advanced functions, built-in data structures, and introduction to OOP. No prior programming experience is required. Students may not receive credit for CSE 20 after receiving credit for CSE 30. Students with prior programming experience (especially in Python) are encouraged to take CSE Testout Exam to be evaluated for their readiness to take CSE 30 directly: https://undergrad.soe.ucsc.edu/cse-20-testout-exam.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to frosh, sophomores, or Computer Science, Computer Engineering, Computer Game Design, Bioinformatics, Biomolecular Engineering and Bioinformatics, Electrical Engineering, Network and Digital Technology, Robotics Engineering, and Technology and Information Management majors and Computer Science proposed majors during First Pass enrollment. Restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 964,
+            "filled seats": 950,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 250,
+            "filled seats": 354,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 641,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

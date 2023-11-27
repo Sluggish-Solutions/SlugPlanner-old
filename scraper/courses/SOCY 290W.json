@@ -1,0 +1,44 @@
+{
+    "name": "SOCY 290W",
+    "title": "Sociological Analysis Working Group",
+    "description": "This two-credit course, repeatable for credit, brings together faculty and graduate students interested and actively engaged in a particular research area, and does so in a variety of ways. May include: close readings and discussion, invited speakers, sharing of student and faculty work, and field trips. Working group framework enhances one-on-one mentoring experiences by creating a scholarly community and support structure on campus for scholars in this area, and by introducing students to a range of faculty on our campus and beyond. Also fosters peer-to-peer learning and collegiality among graduate students researching similar topics. Enrollment is by permission of the instructor. Enrollment is restricted to graduate students. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Affect Studies. Across the disciplines, scholarly interest in feelings, emotion, and affect has soared over the last two+ decades. Affect scholars take up a diversity of topics and deploy a variety of vocabularies, but all are interested in the role of feelings in public life",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

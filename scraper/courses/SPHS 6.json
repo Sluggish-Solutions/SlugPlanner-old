@@ -1,0 +1,34 @@
+{
+    "name": "SPHS 6",
+    "title": "Spanish for Heritage Speakers",
+    "description": "Deals with orthography, lexicon development, morphology, syntax, and other linguistic topics as applied to the development of all language skills (listening, reading, speaking, and writing). Emphasizes reading and writing about well-known and pivotal authentic texts of varying genres and formats from the Spanish-speaking world. Emphasis is on South America.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPHS 5.",
+        "courses": [
+            [
+                "P SPHS 5"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 54,
+            "filled seats": 27,
+            "priority": "very low"
+        }
+    }
+}

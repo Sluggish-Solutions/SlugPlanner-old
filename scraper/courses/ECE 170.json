@@ -1,0 +1,32 @@
+{
+    "name": "ECE 170",
+    "title": "Advanced Power Electronics",
+    "description": "Advanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 270. Students cannot receive credit for this course and ECE 270.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 135,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: ECE 177 or equivalent or instructor approval. Enrollment is restricted to seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 270",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

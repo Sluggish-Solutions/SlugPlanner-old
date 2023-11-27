@@ -1,0 +1,32 @@
+{
+    "name": "DANM 250G",
+    "title": "Research Group: Isaac Julien Studio Lab - London Quarter",
+    "description": "Research group course focusing on research and production of Isaac Julien's and Mark Nash's moving image and curatorial projects. Course takes place in the Isaac Julien Studio in London. Students encouraged to develop and prototype their own projects and thesis work. Course includes case studies, workshops, guest speakers, seminar discussions, and site visits. Outside of class students work on independent projects, as well as projects in the Isaac Julien Lab alongside staff. Enrollment is by instructor permission and open to DANM graduate students and graduate and Ph.D. students in other project groups or programs upon application. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "15",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 2,
+            "priority": "unavailible"
+        }
+    }
+}

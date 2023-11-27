@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 110F",
+    "title": "Evolution of Human Diet",
+    "description": "Presents the evolution of human diet and subsistence from a biological anthropological perspective. Covers the key hypothesis and methodologies related to diet, from our early fossil ancestors up to agriculture and animal husbandry.  (Formerly Biocultural Approaches to Food.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 81,
+            "priority": "unavailible"
+        }
+    }
+}

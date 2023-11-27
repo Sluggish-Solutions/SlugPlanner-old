@@ -1,0 +1,34 @@
+{
+    "name": "JRLC 85",
+    "title": "Social Justice Issues Workshop",
+    "description": "Series of presentations, films, and workshops that address personal and cultural identity and examine social, cultural, political, environmental, and other justice concerns.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to John R. Lewis College members during priority enrollment only.",
+        "courses": [
+            [
+                "L C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 96,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

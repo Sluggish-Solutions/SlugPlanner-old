@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 43",
+    "title": "History of Modern Architecture",
+    "description": "Examines the origins and development of modern architecture, from the Enlightenment  and the Industrial Revolution to the 20th Century and beyond. Buildings, urban plans, and works of art and design are discussed in relation to political, social, and cultural currents.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 137,
+            "priority": "unavailible"
+        }
+    }
+}

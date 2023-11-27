@@ -1,0 +1,38 @@
+{
+    "name": "LING 105",
+    "title": "Morphology",
+    "description": "Study of the principles of word formation: derivation, inflection, and compounding; cross-linguistic study of morphological processes, morphological investigation and analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "courses": [
+            [
+                "P LING 101"
+            ],
+            [
+                "LING 111",
+                "LING 112"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 25,
+            "priority": "unavailible"
+        }
+    }
+}

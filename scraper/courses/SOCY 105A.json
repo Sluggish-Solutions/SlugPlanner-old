@@ -1,0 +1,38 @@
+{
+    "name": "SOCY 105A",
+    "title": "Classical Social Theory",
+    "description": "This intensive survey course examines the intellectual origins of the sociological tradition, focusing on changing conceptions of social order, social change, and the trends observed in the development of Western civilization in the modern era. Readings are all taken from original texts and include many of the classical works in social theory with special emphasis on the ideas of Marx, Weber, and Durkheim, which constitute the core of the discipline.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 104,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

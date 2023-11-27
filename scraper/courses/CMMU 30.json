@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 30",
+    "title": "Numbers and Social Justice",
+    "description": "Relates simple lessons of quantitative thinking to topical materials that are accessible and relevant to working for justice and social change. Students learn practical techniques to distinguish credible statistical evidence from misleading statistical claims.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 42,
+            "priority": "unavailible"
+        }
+    }
+}

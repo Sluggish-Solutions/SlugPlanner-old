@@ -1,0 +1,32 @@
+{
+    "name": "HIS 130",
+    "title": "History of Modern Cuba",
+    "description": "Covers from the Cuban sugar revolution (late 18th century) to the socialist revolution and its aftermath (1959\u2013present). It is intended to be not only a modern history of Cuba but also a broader history of Latin America through the case of Cuba.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

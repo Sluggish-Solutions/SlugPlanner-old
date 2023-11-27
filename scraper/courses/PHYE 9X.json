@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 9X",
+    "title": "Boating: Advanced Keelboat Sailing",
+    "description": "Coeducational. Designed for the experienced sailor who desires to bareboat larger vessels in the future. Focus is on managing boat systems, navigation, anchoring and passage-making on a 34-foot sailboat. Prerequisite(s): successful completion of PHYE 9T and 40 or more hours of keelboat usage. Enrollment is by instructor approval only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by permission only. Prerequisite 9T. Contact instructor if interested.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 4,
+            "filled seats": 3,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 4,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

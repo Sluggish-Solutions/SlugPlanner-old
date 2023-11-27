@@ -1,0 +1,40 @@
+{
+    "name": "CRSN 90",
+    "title": "Cultivating Food Justice and Sustainability",
+    "description": "Learn sustainable, ecologically sound horticulture, permaculture, and small-scale organic agricultural practices through hands-on gardening experience. This outdoor interdisciplinary course operates within a food justice framework. (Formerly Rachel Carson College Garden Internship.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to college members. Other students by permission of the instructor.",
+        "courses": [
+            [
+                "E     O"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 14,
+            "priority": "high"
+        }
+    }
+}

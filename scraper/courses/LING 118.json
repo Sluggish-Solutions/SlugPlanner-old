@@ -1,0 +1,32 @@
+{
+    "name": "LING 118",
+    "title": "Semantics III",
+    "description": "Uses the tools learned in LING 53 and LING 116 (Semantics I and Semantics II), giving students the opportunity to explore important topics with heavy emphasis placed on reading primary-source literature. Readings form the basis for weekly lectures and the discussion section. Prerequisite(s): LING 116 and permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by permission of instructor",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 5,
+            "priority": "unavailible"
+        }
+    }
+}

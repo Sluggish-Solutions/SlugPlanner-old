@@ -1,0 +1,32 @@
+{
+    "name": "LALS 158",
+    "title": "Latin American Political Economy",
+    "description": "Explores and applies basic tools of Latin American political economy to map the evolution of the region's main patterns of economic growth and accompanying social structures across past centuries. Reviews the effects of neoliberal capitalist globalization on contemporary Latin America, resistance to destructive consequences, and the nature of emerging alternatives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

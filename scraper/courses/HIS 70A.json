@@ -1,0 +1,32 @@
+{
+    "name": "HIS 70A",
+    "title": "Modern European History, 1500-1815",
+    "description": "Surveys the economic, social, cultural, and political history of Europe since the late 15th century: 1500-1815. HIS 70A is not a prerequisite to HIS 70B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 58,
+            "priority": "unavailible"
+        }
+    }
+}

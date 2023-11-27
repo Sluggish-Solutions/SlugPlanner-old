@@ -1,0 +1,32 @@
+{
+    "name": "APLX 55",
+    "title": "Pardon My French: Politeness, Impoliteness, Swearing, Slang, and Humor",
+    "description": "Explores the history and use of ''bad;'' language, including issues of politeness, impoliteness, swearing, slang, and humor. In readings, lectures and discussions, we examine contexts of language use: who can say what, when, how and under what communicative conditions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "PSYC 115",
+    "title": "Lifespan Developmental Psychopathology",
+    "description": "Examines theory and research on developmental psychopathology. Emphasizes the origin and longitudinal course of disordered behavior. Explores the processes underlying continuity and change in patterns of adaptation and age-related changes in manifestations of disorders.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 10"
+            ],
+            [
+                "PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

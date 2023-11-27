@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 166",
+    "title": "Chamber Singers",
+    "description": "The study of selected works for small vocal ensemble from the 15th through 20th centuries, with performances on and off campus throughout the academic year. Students must have demonstrated vocal and music reading skills. Admission by audition with instructor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 20,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

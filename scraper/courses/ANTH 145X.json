@@ -1,0 +1,34 @@
+{
+    "name": "ANTH 145X",
+    "title": "Special Topics in Socio-Cultural Anthropology",
+    "description": "Taught annually on a rotating basis by faculty members. Each year's topic varies by instructor and is announced by the department. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 2.",
+        "courses": [
+            [
+                "P ANTH 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

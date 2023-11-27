@@ -1,0 +1,38 @@
+{
+    "name": "LIT 101",
+    "title": "Theory and Interpretation",
+    "description": "Contemporary approaches to literary and cultural theory, with emphasis on how theoretical perspectives advance and broaden the reading of literary texts. Introduction to important new theoretical developments and their antecedents. Literature majors should complete this course as early as possible. Course topic changes; see the Class Search for the current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "literature and proposed literature majors and literature minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to literature and proposed literature majors and literature minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Topic: Marxism and Interpretation.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 78,
+            "filled seats": 76,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 104,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

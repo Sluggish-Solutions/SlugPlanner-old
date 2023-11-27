@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 115",
+    "title": "Lead by Design: Experiential Learning Collaborative",
+    "description": "Students work in teams to develop a template for a 10-week-long engineering design project. Teaches teamwork, leadership skills, inclusive team practices, Agile process, engineering ethics, and identity formation in engineers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Please contact the instructor for permission to enroll",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 7,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 7,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "JAPN 104",
+    "title": "Advanced Japanese",
+    "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): JAPN 103 or by consent of instructor.",
+        "courses": [
+            [
+                "P JAPN 103"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 85",
+    "title": "Mathematical Problems in Data Science",
+    "description": "Provides students with exposure to some of the most relevant mathematical concepts appearing in data science. Applications of linear algebra, optimization, graph theory, and topology are explored. No prior mathematical requirements are expected and this course will introduce the necessary theory needed. The intention is to focus on the theoretical aspects of the mathematical problems arising in data science and to provide exposure to mathematical proofs. No coding experience is required nor will it be used.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholars Program students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "OPEN TO ALL this Fall 2023 - This class is open to ALL students (including all non-CSP students) for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

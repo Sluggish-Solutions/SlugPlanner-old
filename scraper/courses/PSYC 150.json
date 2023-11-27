@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 150",
+    "title": "Race, Education, and the Carceral State",
+    "description": "Explores the multifaceted and complex relationship between the U.S. public education and juvenile legal systems to examine how these two seemingly disparate systems work together to systematically disadvantage multiply marginalized communities and individuals. Course follows these histories as a thread for better understanding how these two systems via logics, policies, and practices shape our everyday sensemaking and approach to discipline. Course explores contemporary issues related to schools and the carceral context to better understand the people embedded in these social contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "declared and proposed psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100. Enrollment is restricted to declared and proposed psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ART 20G",
+    "title": "Introduction to Print Media and Drawing",
+    "description": "Introduces the methods, materials, and history of printmaking and drawing as a tool for creative exploration. Understanding and development of concepts and skills are achieved through a series of lectures, studio demonstrations and practice, assignments, and critiques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed art and art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two courses from ART 10D, ART 10E, ART 10F. Enrollment is restricted to proposed art and art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 26,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

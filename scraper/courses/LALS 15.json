@@ -1,0 +1,32 @@
+{
+    "name": "LALS 15",
+    "title": "Truth, Justice, and Statistics",
+    "description": "Provides statistical methodological training and skills through the examination of social and cultural manifestations of truth as a tool to serve social justice efforts for Latinx and other minoritized students in the education setting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

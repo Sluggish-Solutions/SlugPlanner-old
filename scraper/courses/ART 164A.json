@@ -1,0 +1,32 @@
+{
+    "name": "ART 164A",
+    "title": "Screenprinting",
+    "description": "Introduces water-based screen printing. Students are introduced to processes including basic equipment, printing techniques, printing papers, stenciling processes, and photographic and digital techniques. Emphasis is on continued development of content and aesthetic awareness through the possibilities of screen printing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

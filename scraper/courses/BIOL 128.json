@@ -1,0 +1,41 @@
+{
+    "name": "BIOL 128",
+    "title": "Developmental Neurobiology",
+    "description": "Covers the principles of nervous-system development from the molecular control of development, cell-cell interactions, to the role of experience in influencing brain structure and function. Students cannot receive credit for this course and BIOL 228.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Neuroscience B.S. majors; other majors may enroll with the permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 105 and BIOL 125. Enrollment is restricted to Neuroscience B.S. majors; other majors may enroll with the permission of the instructor.",
+        "courses": [
+            [
+                "S"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 30,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 194X",
+    "title": "Women in Politics: A Third World Perspective",
+    "description": "Focuses cross-culturally on the status of women in the Third World and their formal and informal participation in politics. Also discussed are organized efforts, through participation in both national and autonomous movements, for women's rights.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 16,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ECE 240",
+    "title": "Introduction to Linear Dynamical Systems",
+    "description": "Introduction to applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics include the following: Least-squares approximations of over-determined equations and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm and singular value decomposition. Eigenvalues, left and right eigenvectors, and dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input multi-output systems, impulse and step matrices; convolution and transfer matrix descriptions. Control, reachability, state transfer, and least-norm inputs. Observability and least-squares state estimation. (Formerly CMPE 240.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll if they have completed ECE 103 and AM 147.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

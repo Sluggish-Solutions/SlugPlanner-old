@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 15S",
+    "title": "Court Sports: Sand Volleyball",
+    "description": "Coeducational. Introductory course offered for students who desire to learn and improve the basic skills, as well as to understand the rules.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 32,
+            "filled seats": 26,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 25,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 32,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

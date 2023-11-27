@@ -1,0 +1,38 @@
+{
+    "name": "LIT 179C",
+    "title": "Methods and Materials",
+    "description": "Focuses on a particular process or subject used in the production of a literary text. Course is intended to work as a bridge between invention and scholarship. Course topic changes; please see the Class Search for current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Journalism",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 44,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

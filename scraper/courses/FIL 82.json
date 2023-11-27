@@ -1,0 +1,32 @@
+{
+    "name": "FIL 82",
+    "title": "Introduction to Filipino Language & Culture",
+    "description": "Introduction to Filipino language and culture. Four skills (reading, writing, speaking, listening) in basic Filipino (Tagalog), with readings and discussion of critical contemporary thought (decolonization, gender, social movements) in English. For heritage speakers and second-language learners.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

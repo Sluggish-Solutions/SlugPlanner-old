@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 194V",
+    "title": "Who Owns the Past? Ethical and Political Dimensions of Contemporary Archaeology",
+    "description": "Considers the various stakeholders in archaeological practice. Students identify and evaluate the ethical and political issues involved in the study, interpretation, presentation, and conservation of the archaeological past through weekly readings, discussions, and case studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors and Earth sciences and anthropology combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors and Earth sciences and anthropology combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

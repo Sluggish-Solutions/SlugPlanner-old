@@ -1,0 +1,41 @@
+{
+    "name": "STAT 132",
+    "title": "Classical and Bayesian Inference",
+    "description": "Introduction to statistical inference at a calculus-based level: maximum likelihood estimation, sufficient statistics, distributions of estimators, confidence intervals, hypothesis testing, and Bayesian inference. (Formerly AMS 132.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 131 or CSE 107.",
+        "courses": [
+            [
+                "P STAT 131",
+                "CSE 107"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 55,
+            "filled seats": 54,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

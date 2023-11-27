@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 217",
+    "title": "Topics in Elementary Education: Physical Education",
+    "description": "Examines pedagogical understanding in teaching physical education. Introduces candidates to theoretical and research basis in physical education and content standards and frameworks. Also investigates and presents instructional practices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 41,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

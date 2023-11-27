@@ -1,0 +1,32 @@
+{
+    "name": "CSE 237",
+    "title": "Storage Systems",
+    "description": "Topics include storage devices, storage architectures, local file systems, high-performance file systems, and next-generation storage devices and architectures; covers issues of performance, reliability, scalability, robustness, and security. (Formerly Computer Science 229.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

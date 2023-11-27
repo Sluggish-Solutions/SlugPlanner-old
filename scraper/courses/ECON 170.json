@@ -1,0 +1,38 @@
+{
+    "name": "ECON 170",
+    "title": "Environmental Economics",
+    "description": "Economic analysis of environmental issues. Environmental pollution and deterioration as social costs. Economic policy and institutions for environmental control. Influences of technology, economic growth, and population growth on environmental quality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M; and ECON 113.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

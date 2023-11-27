@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 201A",
+    "title": "Research Approaches in Environmental Studies",
+    "description": "The first course of a two-quarter sequence that explores the range of scholarly traditions that inform the kinds of research common to the Environmental Studies Department at UCSC.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MATH 203",
+    "title": "Algebra IV",
+    "description": "Topics include tensor product of modules over rings, projective modules and injective modules, Jacobson radical, Wedderburns' theorem, category theory, Noetherian rings, Artinian rings, affine varieties, projective varieties, Hilbert's Nullstellensatz, prime spectrum, Zariski topology, discrete valuation rings, and Dedekind domains.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 200, MATH 201, and MATH 202. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

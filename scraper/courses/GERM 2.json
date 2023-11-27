@@ -1,0 +1,35 @@
+{
+    "name": "GERM 2",
+    "title": "First-Year German",
+    "description": "GERM 2, a second-quarter course, is designed for students who have successfully completed GERM 1 (or its equivalent). Students continue to develop competence in speaking, reading, writing, and understanding in the context of real-life language use.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GERM 1 or GERM 1A or placement by examination.",
+        "courses": [
+            [
+                "P GERM 1",
+                "GERM 1A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

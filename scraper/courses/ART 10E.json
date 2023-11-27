@@ -1,0 +1,32 @@
+{
+    "name": "ART 10E",
+    "title": "3D Foundation",
+    "description": "Introduces students to the fundamental principles of three-dimensional art and design through basic concepts, techniques, and technical practice. Focuses on three-dimensional art and the design fundamentals of sculpture, public art, architecture, and the industrial-design process and production. This course is a hybrid studio/lecture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors during first-pass enrollment; restrictions lifted after first pass.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to art majors during first-pass enrollment; restrictions lifted after first pass.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and secondary studio section. Enrollment restricted to declared and proposed Art majors during first pass; enrollment restrictions lifted for second pass.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 250,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

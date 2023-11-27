@@ -1,0 +1,32 @@
+{
+    "name": "POLI 216",
+    "title": "Theorizing Politics Beyond the State",
+    "description": "Explores some of the major ways the modern nation-state has been theorized by political theorists, political scientists, and sociologists before moving on to examine some alternate modalities of organizing collective life from Anglophone and Francophone Africa, the Caribbean, India, China, Indigenous Hawaii and North America, and the Muslim world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

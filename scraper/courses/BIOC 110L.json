@@ -1,0 +1,34 @@
+{
+    "name": "BIOC 110L",
+    "title": "Advanced Biochemistry Laboratory",
+    "description": "An introduction to the major techniques used in the isolation and characterization of biological components. Laboratory: 8 hours; lecture: 1-3/4 hours. Students are billed a materials fee of $350.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "chemistry majors in the biochemistry concentration. Other majors by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOC 100B and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors in the biochemistry concentration. Other majors by permission.",
+        "courses": [
+            [
+                "O"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 14,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

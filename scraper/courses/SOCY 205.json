@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 205",
+    "title": "Field Research Methods",
+    "description": "Gives students first-hand experience doing fieldwork with an emphasis on participant observation and some interviewing. Students submit weekly field notes and a final project analysis. At seminar meetings, field experiences and relevant literature are examined.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sociology graduate students and by permission number.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

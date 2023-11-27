@@ -1,0 +1,38 @@
+{
+    "name": "METX 292",
+    "title": "Introductory Graduate Seminar",
+    "description": "Weekly seminars by academic and research faculty on their areas of special interest. Students write weekly abstracts on articles covered by the seminars. This course can be taken for Satisfactory/Unsatisfactory credit only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 33,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 32,
+            "priority": "low"
+        }
+    }
+}

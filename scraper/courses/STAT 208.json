@@ -1,0 +1,32 @@
+{
+    "name": "STAT 208",
+    "title": "Linear Statistical Models",
+    "description": "Theory, methods, and applications of linear statistical models. Review of simple correlation and simple linear regression. Multiple and partial correlation and multiple linear regression. Analysis of variance and covariance. Linear model diagnostics and model selection. Case studies drawn from natural, social, and medical sciences. STAT 205 strongly recommended as a prerequisite. Undergraduates are encouraged to take this class with permission of instructor. (Formerly AMS 256.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): course STAT 205B or permission of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

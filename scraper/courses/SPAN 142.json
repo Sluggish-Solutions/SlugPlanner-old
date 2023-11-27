@@ -1,0 +1,32 @@
+{
+    "name": "SPAN 142",
+    "title": "El mundo de las palabras. Spanish Morphology and Lexicon",
+    "description": "Deals with topics related to processes of word formation in Spanish, extending to some issues related to the syntax and morphology of set phrases as well as topics related to lexicon. One of the goals is to widen students' knowledge of Spanish vocabulary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Spanish studies majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 6 or SPHS 6 or equivalent proficiency. Enrollment is restricted to Spanish studies majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

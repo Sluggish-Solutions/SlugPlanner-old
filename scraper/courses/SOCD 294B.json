@@ -1,0 +1,32 @@
+{
+    "name": "SOCD 294B",
+    "title": "Production/Analysis/Editing",
+    "description": "Workshop seminar oriented toward the editing and creative assemblage of the thesis project in the student's chosen genre. Techniques of preparation, exhibition, and editing taught.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to social documentation graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

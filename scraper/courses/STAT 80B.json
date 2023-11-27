@@ -1,0 +1,38 @@
+{
+    "name": "STAT 80B",
+    "title": "Data Visualization",
+    "description": "Introduces the use of complex-data graphical representations to extract information from data. Topics include: summary statistics, boxplots, histograms, dotplots, scatterplots, bubble plots, and map-creation, as well as visualization of trees and hierarchies, networks and graphs, and text. (Formerly AMS 80B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 42,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 80,
+            "filled seats": 60,
+            "priority": "low"
+        }
+    }
+}

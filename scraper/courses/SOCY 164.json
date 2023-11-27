@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 164",
+    "title": "Capitalism and Its Critics",
+    "description": "Through comparative analysis of texts by several social theorists, explores the rise and consequences of capitalism. How has capitalism affected how humans understand and act in the world? How do oppressions along the lines of race, gender, sexuality, and nations intersect with capitalism? Is resistance desirable and/or possible?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior sociology, global information and enterprise, and combined Latin American and Latin Studies/sociology majors, proposed majors, and minors, or by instructor permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior sociology, global information and enterprise, and combined Latin American and Latin Studies/sociology majors, proposed majors, and minors, or by instructor permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

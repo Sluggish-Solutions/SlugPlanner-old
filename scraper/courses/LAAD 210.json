@@ -1,0 +1,32 @@
+{
+    "name": "LAAD 210",
+    "title": "Oral Communication in the U.S. Classroom: Strategies for International T.A.s",
+    "description": "Seminar for international graduate students who speak English as a second or foreign language. Focuses on oral competency and serves to qualify students as graduate teaching assistants in UCSC classrooms or laboratories.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to international graduate students; language assessment administered by the Graduate Division.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 18,
+            "priority": "high"
+        }
+    }
+}

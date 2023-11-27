@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 119P",
+    "title": "Children and Technology",
+    "description": "Covers current research and theory related to children and technology. Topics include: how children learn to use new technologies; how technology use impacts children's thinking; computer gaming and aggression; and how children's social relationships are influenced by technology.  Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 1, PSYC 10 and PSYC 100; and satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is a synchronous online course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 28,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 296",
+    "title": "Teaching Chemistry",
+    "description": "University-level pedagogy in chemistry; examines the role of preparation, assessment, and feedback in teaching chemistry discussion and laboratory sections. Effective classroom techniques and organizational strategies discussed; oral presentations analyzed critically. Required of entering chemistry graduate students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to chemistry graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

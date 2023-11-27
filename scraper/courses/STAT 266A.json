@@ -1,0 +1,38 @@
+{
+    "name": "STAT 266A",
+    "title": "Data Visualization and Statistical Programming in R",
+    "description": "Introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor. (Formerly Applied Math and Statistics 266A and Computer Science 266A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as CSE 266A.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 16,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 19,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

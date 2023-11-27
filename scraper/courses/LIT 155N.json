@@ -1,0 +1,32 @@
+{
+    "name": "LIT 155N",
+    "title": "Cinema in India",
+    "description": "Examines cinema in India from the silent era to the contemporary production of Bollywood films. Attention is given to the rise of the culture industry in urban centers such as Mumbai, and the dialectical relationship between socio-political change and cultural form. Critical approach designations: Geographies, Media. Distribution requirement: Global.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course includes a weekly movie night.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "ECE 157L",
+    "title": "RF Hardware Design Laboratory",
+    "description": "Laboratory to accompany course 157, emphasizing hardware-design practice and principles applies to RF apparatus. Students design and implement a substantial final project during the last half of the course. Students are billed a materials fee of $112. (Formerly EE 157L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157 is required.",
+        "courses": [
+            [
+                "P",
+                [
+                    "ECE 101",
+                    "ECE 101L ECE 103"
+                ],
+                "C   ECE 157"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 157 is required. Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

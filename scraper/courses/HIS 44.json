@@ -1,0 +1,32 @@
+{
+    "name": "HIS 44",
+    "title": "Modern South Asia, 1500 to Present",
+    "description": "Provides an introductory survey of South Asian history and society from the beginning of the 16th Century until the dawn of the 21st Century. Students gain an understanding of major events and long transformations in society, economy, culture, and politics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 115,
+            "priority": "high"
+        }
+    }
+}

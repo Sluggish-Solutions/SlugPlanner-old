@@ -1,0 +1,32 @@
+{
+    "name": "EART 290I",
+    "title": "Topics in Geomorphology",
+    "description": "Discussion of journal articles focused on a theme in contemporary geomorphology. Topics include: coupling of climate; tectonics and landscape evolution; mechanics of bedrock river channels; fundamentals of fluvial gravel transport; and inference of tectonic rates and processes from analysis of topography. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

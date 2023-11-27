@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 70",
+    "title": "Visual Cultures of the Pacific Islands",
+    "description": "Interdisciplinary course examines visual cultures of Australia, Melanesia, Micronesia, and Polynesia from the archaeological past through contemporary periods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 108,
+            "priority": "unavailible"
+        }
+    }
+}

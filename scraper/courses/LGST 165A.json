@@ -1,0 +1,39 @@
+{
+    "name": "LGST 165A",
+    "title": "Sustainable Water Systems",
+    "description": "Concepts, vocabulary, and skills necessary to the analysis of freshwater issues are introduced from hydrology, ecology, law, economics, engineering, and other disciplines. The skills are then applied to case studies involving local, state, and international freshwater conflicts and crises. (Formerly Freshwater Issues and Policy.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in LGST 10 and either LGST 111A or 111B, or by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                "LGST 10"
+            ],
+            [
+                "LGST 111A",
+                "111B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionAlso offered as ENVS-165.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 49,
+            "priority": "high"
+        }
+    }
+}

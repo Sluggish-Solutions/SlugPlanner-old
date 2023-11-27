@@ -1,0 +1,42 @@
+{
+    "name": "METX 115",
+    "title": "Environmental Health Science",
+    "description": "Addresses challenges related to environmental health, their impact on the health of biological structures, and humans as active elements in the process of environmental degradation, and as passive elements as well. Students discuss events as case studies of environmental health that contributed to environmental protection, and disease control and prevention. Course involves collaborative endeavor in which students develop a group assignment throughout the 10 weeks of the course that is evaluated at the end of the course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A or ENVS 23 or BIOL 89.",
+        "courses": [
+            [
+                "P BIOL 20A",
+                "ENVS 23",
+                "BIOL 89"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 55,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 57,
+            "priority": "high"
+        }
+    }
+}

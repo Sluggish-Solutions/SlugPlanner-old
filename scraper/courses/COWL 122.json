@@ -1,0 +1,44 @@
+{
+    "name": "COWL 122",
+    "title": "United Nations Contemporary Issues",
+    "description": "Introduces the Model United Nations through discussion of contemporary issues. Students learn parliamentary procedures and U.N. protocols, as well as how to work collaboratively to research and to present position papers. Students learn resolution writing, alliance building, and persuasive speech. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 51,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 58,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

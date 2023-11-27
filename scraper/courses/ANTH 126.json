@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 126",
+    "title": "Contraband: Shadow Economies and the Law",
+    "description": "Course takes an interdisciplinary approach to studying contraband and smuggling. Focusing on concepts used to describe illegality we examine how ''shadow economies'' are central to the making of states and sovereignty, the legal and illegal being blurred.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 70,
+            "filled seats": 67,
+            "priority": "high"
+        }
+    }
+}

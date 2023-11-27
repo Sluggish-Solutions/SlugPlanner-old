@@ -1,0 +1,32 @@
+{
+    "name": "HIS 74A",
+    "title": "Introduction to Middle Eastern and North African Jewish History: Ancient to Early Modern",
+    "description": "Popular media present Muslims and Jews as age-old enemies; this is far from the truth. Through primary sources, secondary texts, and films, students examine this fraught and politicized history, challenging conventional narratives of the region and its Jewish population.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        }
+    }
+}

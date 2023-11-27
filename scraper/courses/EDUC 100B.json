@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 100B",
+    "title": "Cal Teach 2: Mathematics",
+    "description": "Examines students, schools, and  mathematics instruction with emphasis on developing an instructional project aligned with state-mandated content standards. Concurrent participation in a secondary school internship required. Course content supports and enhances students' internship experience.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A, EDUC 50B, or EDUC 50C; and acceptance into the Cal Teach program. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

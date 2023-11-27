@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 10",
+    "title": "Introduction to Learning",
+    "description": "Survey course exploring the foundational perspectives on learning, especially when considering learners from non-dominant communities, how those views of learning are reflected in what and how students learn in school and out of school, and how those views of learning can impact teaching practices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 120,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

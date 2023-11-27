@@ -1,0 +1,40 @@
+{
+    "name": "MUSC 101C",
+    "title": "History of Western Art Music",
+    "description": "Third quarter of a three-quarter chronological study of Western art music. Coordinated lectures, readings, listening, and analysis of representative works: Romantic, 20th Century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30C and satisfaction of the Entry Level Writing and Composition requirements, or by permission of instructor..",
+        "courses": [
+            [
+                "P MUSC 30C"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 22,
+            "priority": "high"
+        }
+    }
+}

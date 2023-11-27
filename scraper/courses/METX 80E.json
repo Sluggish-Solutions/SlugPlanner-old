@@ -1,0 +1,32 @@
+{
+    "name": "METX 80E",
+    "title": "Aquatic Toxicology",
+    "description": "An introduction to the sources, cycling, and impacts of toxicants in aquatic systems, including acid rain, ground water, fresh water rivers and lakes, estuaries, and the ocean.  Emphasis is on the properties of toxic chemicals that influence their biogeochemical cycles and factors that influence their toxicity to aquatic organisms and humans.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 38,
+            "priority": "low"
+        }
+    }
+}

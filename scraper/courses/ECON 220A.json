@@ -1,0 +1,32 @@
+{
+    "name": "ECON 220A",
+    "title": "Development Economics I",
+    "description": "Studies the microeconomics of development. Topics may include health and nutrition, education, intra-household economics, formal and informal risk-coping mechanisms, savings, credit, agriculture, institutions, and service delivery, and corruption.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

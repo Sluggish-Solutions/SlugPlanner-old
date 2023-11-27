@@ -1,0 +1,53 @@
+{
+    "name": "CHEM 163A",
+    "title": "Quantum Mechanics and Basic Spectroscopy",
+    "description": "A detailed introduction to quantum theory and the application of wave mechanics to problems of atomic structure, bonding in molecules, and fundamentals of spectroscopy. Students cannot receive credit for this course and BIOC 163A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1B and CHEM 1C, or CHEM 3C, or CHEM 4B; PHYS 5A, PHYS 5B, and PHYS 5C or PHYS 6A, PHYS  6B, and PHYS 6C; and MATH 22 or MATH 23B. PHYS 6C can be taken concurrently.",
+        "courses": [
+            [
+                "P CHEM 1B"
+            ],
+            [
+                "CHEM 1C",
+                "CHEM 3C",
+                "CHEM 4B"
+            ],
+            [
+                "PHYS 5A PHYS 5B"
+            ],
+            [
+                "PHYS 5C",
+                "PHYS 6A PHYS  6B"
+            ],
+            [
+                "PHYS 6C"
+            ],
+            [
+                "MATH 22",
+                "MATH 23B PHYS 6C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 76,
+            "filled seats": 50,
+            "priority": "low"
+        }
+    }
+}

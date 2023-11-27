@@ -1,0 +1,34 @@
+{
+    "name": "CHEM 4B",
+    "title": "Advanced General Chemistry: Molecular Structure and Reactivity",
+    "description": "The second course of the two-quarter accelerated general chemistry series. Coverage includes thermodynamics; kinetics, oxidation-reduction, and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite: CHEM 4A. Concurrent enrollment in CHEM 4BL is required.",
+        "courses": [
+            [
+                "P CHEM 4A C   CHEM 4BL"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Discussion section attendance is mandatory.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

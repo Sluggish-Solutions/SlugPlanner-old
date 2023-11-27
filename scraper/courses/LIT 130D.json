@@ -1,0 +1,32 @@
+{
+    "name": "LIT 130D",
+    "title": "The Global Middle Ages",
+    "description": "Examination of texts from the global Middle Ages in a range of world cultures and traditions, with attention to their historical and social contexts. Course topic changes; please see the Class Search for the current topic. Satisfies the Global and Pre- and Early Modern distribution requirements. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 64,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

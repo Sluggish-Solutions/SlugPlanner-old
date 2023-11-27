@@ -1,0 +1,32 @@
+{
+    "name": "CSP 245",
+    "title": "Facilitating Change in Coastal Science Policy",
+    "description": "Skills-based course in effective leadership and communication, including stakeholder engagement, facilitation, conflict resolution, team building, and introduction to project management. Communication training includes identifying audiences and objectives (public, philanthropy, policymakers, managers, scientist practitioners) and leveraging non-traditional communication platforms. Enrollment is by application and restricted to graduate students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

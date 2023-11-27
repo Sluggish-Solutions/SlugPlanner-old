@@ -1,0 +1,46 @@
+{
+    "name": "EART 104",
+    "title": "Geologic Hazards",
+    "description": "The recognition, evaluation, and mitigation of geologic hazards: earthquakes and faulting, tsunamis, volcanism, landslides and mass movements, and flooding.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 10 and EART 10L; or EART 5 and 5L; or EART 20 and EART 20L.",
+        "courses": [
+            [
+                "P",
+                [
+                    "E L W",
+                    "C"
+                ],
+                [
+                    "EART 5",
+                    "5L"
+                ],
+                [
+                    "EART 20",
+                    "EART 20L"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "Prerequisites: satisfaction of the Entry Level Writing and Composition requirements, and course 10/L or 5/L or 20/L",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

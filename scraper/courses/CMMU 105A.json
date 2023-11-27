@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 105A",
+    "title": "Field Study",
+    "description": "Full-time independent field study in an approved off-campus setting with onsite supervision by the sponsoring organization and regular distanced supervision by campus faculty. Enrollment is restricted to community studies majors upon completion of the required preparatory coursework.  Prerequisite(s): CMMU 102. (Formerly CMMU 198, Independent Field Study.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Community Studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMMU 102. Enrollment is restricted to Community Studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 26,
+            "priority": "low"
+        }
+    }
+}

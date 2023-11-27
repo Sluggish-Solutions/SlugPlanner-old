@@ -1,0 +1,32 @@
+{
+    "name": "HEBR 80",
+    "title": "Introduction to Biblical Hebrew",
+    "description": "Introduces students to the basic lexicon and grammatical structures of biblical Hebrew, with an emphasis on the development of a set of useful translation strategies. Throughout the course, students apply their emergent skills to translating a variety of biblical texts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 53,
+            "priority": "high"
+        }
+    }
+}

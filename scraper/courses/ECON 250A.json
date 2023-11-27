@@ -1,0 +1,32 @@
+{
+    "name": "ECON 250A",
+    "title": "Applied Microeconomics I",
+    "description": "Theory of the role of public sector expenditures and taxes in market economies. Analyzes efficiency and equity arguments for government intervention. Topics include the role of public debt and deficits in economies, international effects of tax and spending policies, and economic theories of public sector decision making. ECON 204A and ECON 205A are strongly recommended as preparation. Students cannot receive credit for this course and ECON 150.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "POLI 1",
+    "title": "Politics: Power, Principle, Process, and Policy",
+    "description": "Systematic introduction to the nature of politics and government, organized around the dynamic relationship between power, principle, and process in democratic politics. Provides historic and contemporary overview; explores the interactions among government, laws, and societies at the national and international levels.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 194,
+            "priority": "unavailible"
+        }
+    }
+}

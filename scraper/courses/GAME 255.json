@@ -1,0 +1,32 @@
+{
+    "name": "GAME 255",
+    "title": "Serious Games Studio I",
+    "description": "Focuses on developing innovative project concepts, rapid prototyping and playtesting, and the creation of concept presentations. Students identify appropriate sources of subject matter expertise, elicit knowledge to inform a game project, and integrate that knowledge into the core gameplay experience.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GAME 200, or GAME 230, or GAME 236, or GAME 250. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

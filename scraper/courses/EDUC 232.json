@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 232",
+    "title": "Social Science: Theory and Curriculum",
+    "description": "Required for the single subject social science credential student. Tracks both the implicit and explicit connections between theory and practice, illustrating that theory suggests best practice while practice informs theory-formation and testing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "MA/C Social Sciences Cohort",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 145",
+    "title": "Global Capitalism: a History of the Present",
+    "description": "Provides an overview of the history of capitalism in order to understand current crises within the global political economy. Gives particular attention to the origin, character, and consequences of neoliberalism. (Formerly Globalization and Its Discontents.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 28,
+            "priority": "unavailible"
+        }
+    }
+}

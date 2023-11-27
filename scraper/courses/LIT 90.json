@@ -1,0 +1,44 @@
+{
+    "name": "LIT 90",
+    "title": "Introduction to Creative Writing",
+    "description": "Introduction to the crafts and techniques of poetry, fiction, and creative non-fiction, identifying and exploring traditional and non-traditional literary forms and genres while working on individual creative writing projects. An author reading and two workshop sections per week. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Prerequisite: satisfaction of the Entry Level Writing requirement. Enrollment is restricted to first-year students, sophomores, and juniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 107,
+            "filled seats": 107,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 109,
+            "filled seats": 111,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 88,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

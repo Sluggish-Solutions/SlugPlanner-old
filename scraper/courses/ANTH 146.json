@@ -1,0 +1,40 @@
+{
+    "name": "ANTH 146",
+    "title": "Anthropology and the Environment",
+    "description": "Examines recent approaches to study of nature and the environment. Considers historical relationship between nature, science, and colonial expansion as well as key issues of contemporary environmental concern: conservation, environmental justice, and social movements. Students cannot receive credit for this course and ANTH 246.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 2.",
+        "courses": [
+            [
+                "P ANTH 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

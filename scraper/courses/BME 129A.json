@@ -1,0 +1,32 @@
+{
+    "name": "BME 129A",
+    "title": "Project Design and Implementation in Biomolecular Engineering I",
+    "description": "First of a three-part series focused on senior design projects in biomolecular engineering. In this first part, students examine experiments that elucidated the function of biological macromolecules at the Angstrom scale, and how technologies related to those functions were invented and implemented. Guided by these examples, each student develops a senior design project concept or small business proposal and defends its utility, plausibility, and inventiveness in a written document and an oral presentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A; BME 23L; BIOL 100 or BIOC 100A; and previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 19,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

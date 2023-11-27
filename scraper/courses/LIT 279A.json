@@ -1,0 +1,32 @@
+{
+    "name": "LIT 279A",
+    "title": "Methods and Materials",
+    "description": "A combined seminar and creative-writing workshop with a concentrated focus on a particular problem, aspect, or genre of poetry or prose writing. Includes reading and analysis of selected texts with critical responses and creative writing. Explores the productive interaction between various practices of scholarship and creative invention. The course topic changes; please see the Class Search for the current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

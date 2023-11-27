@@ -1,0 +1,32 @@
+{
+    "name": "CSE 208",
+    "title": "Introduction to Information Theory",
+    "description": "An introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding. (Formerly EE 253 and CMPS 250.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Also offered as ECE 253.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 13,
+            "priority": "very low"
+        }
+    }
+}

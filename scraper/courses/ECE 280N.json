@@ -1,0 +1,38 @@
+{
+    "name": "ECE 280N",
+    "title": "Seminar on Nanophotonics and Lab-on-Chip Systems",
+    "description": "Weekly series covering current research in nanophotonics and lab-on-chip systems including nanoplasmonic biosensors; nanospectroscopy (Raman and vibrational mid-infrared spectroscopy); nanofabrication; nanophotonics devices for energy conversion and thermoplasmonics; acoustic fluids; and microfluidic integration. Current research work and recent literature are discussed. Enrollment is by permission of the instructor and restricted to graduate students. Sophomores, juniors, and seniors may enroll by permission of instructor. (Formerly EE 280N.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

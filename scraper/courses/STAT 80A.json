@@ -1,0 +1,38 @@
+{
+    "name": "STAT 80A",
+    "title": "Gambling and Gaming",
+    "description": "Games of chance and strategy motivated early developments in probability, statistics, and decision theory. Course uses popular games to introduce students to these concepts, which underpin recent scientific developments in economics, genetics, ecology, and physics. (Formerly AMS 80A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 53,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

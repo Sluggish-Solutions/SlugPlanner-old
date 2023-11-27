@@ -1,0 +1,32 @@
+{
+    "name": "MERR 90",
+    "title": "Theory and Practice of Field Study",
+    "description": "Course provides an opportunity for lower-division students to learn about Santa Cruz, Calif., its contemporary history, culture, and politics through classroom theoretical learning integrated with individual field studies. Course also examines social change, qualitative research, and community organizing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholar Students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This Fall, MERR 90-01 is open to ALL students",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

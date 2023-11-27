@@ -1,0 +1,32 @@
+{
+    "name": "SOCD 200",
+    "title": "Approaches to Social Documentation",
+    "description": "Comprehensive review and analysis of documentary strategies aimed at societal critique and social change, evaluating changes in argument, evidence, and process over development of the discipline.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

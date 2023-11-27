@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 194I",
+    "title": "Consumption and Consumerism",
+    "description": "Investigates cultural analysis of consumer society, commodities, and consumer practices. Students develop their own research projects. Themes include: critiques of consumer society; symbolic analysis of goods, consumption as resistance, anthropologies of marketing, culture jamming; consumption and (post) colonialism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 16,
+            "filled seats": 16,
+            "priority": "high"
+        }
+    }
+}

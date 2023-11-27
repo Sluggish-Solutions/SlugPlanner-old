@@ -1,0 +1,44 @@
+{
+    "name": "ECE 280Z",
+    "title": "Seminar on Smart Grids and Data Analytics",
+    "description": "Weekly series covering state-of-the-art research in smart power grids, machine learning, communications, and signal processing. Current research works and recent literature are discussed. Enrollment is by permission of the instructor and is restricted to graduate students. Undergraduates may enroll by permission of the instructor. (Formerly EE 280Z.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Please note that the instructor for this course is Professor Yu Zhang. His email address iszhangy@ucsc.edu",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

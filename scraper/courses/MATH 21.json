@@ -1,0 +1,51 @@
+{
+    "name": "MATH 21",
+    "title": "Linear Algebra",
+    "description": "Systems of linear equations matrices, determinants. Introduces abstract vector spaces, linear transformation, inner products, the geometry of Euclidean space, and eigenvalues. Students cannot receive credit for this course and AM 10.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11A or MATH 19A or MATH 20A  or AM 11A or ECON 11A or AM 15A.",
+        "courses": [
+            [
+                "P MATH 11A",
+                "MATH 19A",
+                "MATH 20A",
+                "AM 11A",
+                "ECON 11A",
+                "AM 15A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 210,
+            "filled seats": 153,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 240,
+            "filled seats": 215,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

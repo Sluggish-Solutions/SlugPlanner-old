@@ -1,0 +1,34 @@
+{
+    "name": "ECON 204A",
+    "title": "Advanced Microeconomic Theory I",
+    "description": "Economic theory of individual and market behavior, including constrained optimization, duality, theory of the consumer, theory of the producer, dynamic optimization, behavior under uncertainty, intertemporal choice, asymmetric information, game theory, partial and general equilibrium, pure and applied welfare economics, public goods and externalities. ECON 204A, ECON 204B, and ECON 204C must be taken in sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to Ph.D. students in economics or by permission of the instructor.",
+        "courses": [
+            [
+                "D"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "POLI 160A",
+    "title": "Theories of International and World Politics",
+    "description": "Examination of analytical perspectives on international and world politics, international and global political economy, war and conflict, corporations and civil society. Explores theoretical tools and applications, recurring patterns of global conflict and cooperation, the nexus between domestic politics, foreign policy and international and world politics. This is not a current events course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 100,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

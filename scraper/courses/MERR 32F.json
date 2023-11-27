@@ -1,0 +1,32 @@
+{
+    "name": "MERR 32F",
+    "title": "Mindful Collaboration: Cultivating Radical Exchange",
+    "description": "Collaboration can be challenging, particularly in a society in which there is an emphasis on individualism and competitiveness. Compromise, for example, can be experienced or interpreted as personal sacrifice rather than fertile ground for possibility. Solving many of the world's most significant issues (climate change, economic instability, pandemic, etc.) will require collective effort and this will challenge us to create new ways of being and thinking. Through classroom discussions, journal reflections, and experiential exercises, students investigate models of collaboration, how social inequities can challenge collaborative work, the importance of common purpose, practices that support respectful and inclusive deliberation, and student organizations as sites of collaboration. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment limited to SOMeCA students. Enrollment by permission only.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

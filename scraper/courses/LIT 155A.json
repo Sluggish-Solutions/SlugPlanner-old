@@ -1,0 +1,32 @@
+{
+    "name": "LIT 155A",
+    "title": "Cinema and Subjectivity",
+    "description": "An examination of the ways in which the technological and institutional practices of cinema construct modes of modern and contemporary subjectivity. Course topic changes; please see the Class Search for current topic. Critical approach designations: Media, Power and Subjectivities. Distribution requirement: Global. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section>>>>>> Cinema and Subjectivity (LIT 155A) will examine the ways in which the technological and institutional practices of cinema construct, hail, project, and/or assume different types of subjectivity among real and imagined film viewers. We will survey important film forms (narrative film, documentary, ethnographic film), international new waves/neo-realisms (Italy, Senegal, Taiwan, Argentina, Romania, and Iran), and genres in order to develop a nuanced sense of the kinds of sensoria, senses of self, and forms of spectatorship films have fostered, impeded, ignored, or anticipated over the past century. <<<<<< Lectures meet on Tuesdays from 5:20 to 6:55 PM and on Thursdays from 7:10 to 8:45 PM. Likewise, there will be required weekly film screenings on Tuesdays starting at 7:10 PM . >>>>>>>",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 64,
+            "filled seats": 35,
+            "priority": "low"
+        }
+    }
+}

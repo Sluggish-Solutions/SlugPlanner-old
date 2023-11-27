@@ -1,0 +1,34 @@
+{
+    "name": "CHEM 146A",
+    "title": "Advanced Laboratory in Organic Chemistry",
+    "description": "Exposes students to advanced laboratory techniques in organic chemistry. Designed for students without previous research background in organic chemistry. Experiments carry a research-like format and cover the areas of natural products and reaction chemistry. Modern methods of organic analysis are emphasized including chromatographic methods and organic structure determination by spectroscopy. Laboratory: 8 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "chemistry majors. Minors by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 110 and CHEM 110L; satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors. Minors by permission of instructor.",
+        "courses": [
+            [
+                "M"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

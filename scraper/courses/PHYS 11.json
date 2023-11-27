@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 11",
+    "title": "The Physicist in Industry",
+    "description": "One two-hour meeting per week. Subjects include roles of the physicist in industry, the business environment in a technical company, economic considerations, job hunting, and discussions with physicists with industrial experience. Enrollment by permission of instructor. Priority given to applied physics upper-division students; other majors if space available.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "No permission required - any student may enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        }
+    }
+}

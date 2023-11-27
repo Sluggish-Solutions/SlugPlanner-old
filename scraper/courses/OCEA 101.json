@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 101",
+    "title": "The Marine Environment",
+    "description": "An introduction to the marine environment stressing the interaction of physical, chemical, geological, and biological factors in the ocean. Provides the oceanographic background needed for studies in marine biology. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1C and MATH 11B or MATH 19B. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+        "courses": [
+            [
+                "P CHEM 1C"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

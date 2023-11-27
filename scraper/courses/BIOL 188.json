@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 188",
+    "title": "A Life in Medicine",
+    "description": "Students explore healthcare from the perspectives of both clinicians and patients. The class focuses on medicine's cognitive, emotional, and spiritual elements, with the goal of understanding the rewards and costs of healthcare practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior human biology majors, and others by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior human biology majors, and others by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 27,
+            "filled seats": 50,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 45,
+            "priority": "high"
+        }
+    }
+}

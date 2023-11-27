@@ -1,0 +1,32 @@
+{
+    "name": "HIS 149",
+    "title": "Plants, People, and the Making of Modern Southeast Asia",
+    "description": "Analyzes the entangled history of plants and people in Southeast Asia. Provides a broad sweep of the early modern period (pre-1500), imperial contact, anti-colonialism, nationalism, and decolonization up to present-day social and political conditions. The class examines plants of agricultural and medicinal value, political importance and ritual meaning. Students also consider how plants can be historical agents that shape and influence interaction in the region. Students likewise learn about the emergence of Southeast Asia as a field of study in the United States and debate the intellectual legitimacy of area studies, particularly through the optic of plant life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

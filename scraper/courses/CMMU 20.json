@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 20",
+    "title": "Media and Social Movements",
+    "description": "From #BlackLivesMatter to #MeToo, from the Women's March on Washington to the March for Our Lives following the Stoneman Douglas High School shooting, a new generation of activists is using media to advance social justice goals. From the perspectives of sociology, psychology, and political science, course explores how contemporary activists harness a diverse range of media tools and platforms for social change and how contemporary strategies are rooted in and/or diverge from historical practices of using media to effect social and political change. Defines ''media'' broadly to include social media and legacy media forms, such as radio, television, and print journalism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

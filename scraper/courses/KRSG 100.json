@@ -1,0 +1,32 @@
+{
+    "name": "KRSG 100",
+    "title": "University Learning with Intention and Purpose",
+    "description": "Students learn practical ways of maximizing the resources of a public education and research institution. Students collaborate across disciplines, broaden impacts of higher learning, and develop strategies for effective interaction with faculty and the broader professional communities to which they aspire.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomore, junior, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

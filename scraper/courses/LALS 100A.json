@@ -1,0 +1,32 @@
+{
+    "name": "LALS 100A",
+    "title": "Social Science Analytics",
+    "description": "Introduces methods and analytic approach of social science research within the interdisciplinary field of LALS, with an emphasis on research oriented toward the pursuit of social change and social justice. Course focuses on the process of research itself: writing good surveys, being able to conduct an interview, presenting data in a compelling way, and creating a critical literature review. Students also learn the overall process of designing a research project, and practice a variety of research techniques used in both academic and community-based research. Class introduces students to diverse examples of LALS activist research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors or by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LALS 100 and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in LALS 100L required. Enrollment is restricted to sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors or by permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Contactlalsadvising@ucsc.eduwith enrollment questions or to request a permission number to enroll in the class.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

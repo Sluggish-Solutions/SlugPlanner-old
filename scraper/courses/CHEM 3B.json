@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 3B",
+    "title": "General Chemistry",
+    "description": "The second course in UCSC's three-quarter introductory chemistry series. Topics in this quarter include chemical equilibrium, acids and bases, solution pH, buffers and chemical kinetics. Course consists of in-person lecture and a secondary active learning discussion section. In addition to the lecture, students are required to enroll and attend one discussion section.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 3A with a grade of C or better, and previous or concurrent enrollment in CHEM 3BL. Students cannot enroll in CHEM 3B after receiving a 'C' or better in CHEM 1A.",
+        "courses": [
+            [
+                "P CHEM 3A     C"
+            ],
+            [
+                "CHEM 3BL S    CHEM 3B    C",
+                "CHEM 1A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Discussion section attendance is mandatory.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 600,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

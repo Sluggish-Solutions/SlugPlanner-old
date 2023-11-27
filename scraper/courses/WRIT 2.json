@@ -1,0 +1,44 @@
+{
+    "name": "WRIT 2",
+    "title": "Rhetoric and Inquiry",
+    "description": "Provides declarative knowledge about writing, with a special focus on writing from research, composing in multiple genres, and transferring knowledge about writing to new contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 45,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): College 1 and satisfaction of the Entry Level Writing; or College 80A, 80D, or 80F and satisfaction of the C1 requirement. Enrollment is restricted to frosh, sophomore and junior students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 1598,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 1208,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

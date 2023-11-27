@@ -1,0 +1,32 @@
+{
+    "name": "POLI 146",
+    "title": "The Politics of Sub-Saharan Africa",
+    "description": "Comparative study of contemporary sub-Saharan African states. Selected issues and countries. Internal and external political institutions and processes are studied in order to learn about politics in contemporary Black Africa and to learn more about the nature of politics through the focus on the particular issues and questions raised by the African context. (Formerly The Politics of Africa.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

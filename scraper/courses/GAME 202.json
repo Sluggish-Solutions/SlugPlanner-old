@@ -1,0 +1,32 @@
+{
+    "name": "GAME 202",
+    "title": "Introduction to Build (Advanced): Physical Computing",
+    "description": "Advanced course on build methods in HCI, applicable to any computing domain including gaming. Course covers a combination of HCI theory and practice to design, build, deploy, iterate, document, and demo novel prototypes of varying purpose to multiple stakeholders. Advanced topics may include physical computing, input devices (e.g., alternative controllers), wearable computing, IoT, AR, VR, 3D fabrication, programmatic wireframing, and accessible designs. May be taught in conjunction with HCI 202B. Students cannot receive credit for this course and HCI 202B. (Formerly offered as Alternative Controllers, AR, and VR.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in games and playable media and serious games or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with HCI 202B",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

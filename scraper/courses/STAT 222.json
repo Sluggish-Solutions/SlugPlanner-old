@@ -1,0 +1,32 @@
+{
+    "name": "STAT 222",
+    "title": "Bayesian Nonparametric Methods",
+    "description": "Theory, methods, and applications of Bayesian nonparametric modeling. Prior probability models for spaces of functions. Dirichlet processes. Polya trees. Nonparametric mixtures. Models for regression, survival analysis, categorical data analysis, and spatial statistics. Examples drawn from social, engineering, and life sciences. (Formerly AMS 241.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 207. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

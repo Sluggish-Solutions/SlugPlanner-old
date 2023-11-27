@@ -1,0 +1,32 @@
+{
+    "name": "ECON 233",
+    "title": "Finance I",
+    "description": "Applications of economic analysis in private finance. Topics include risky choice and intertemporal choice theory, asset pricing models, efficient market hypotheses, market institutions, and derivative securities. Course 200 is strongly recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

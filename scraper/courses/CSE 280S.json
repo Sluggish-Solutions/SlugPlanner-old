@@ -1,0 +1,44 @@
+{
+    "name": "CSE 280S",
+    "title": "Seminar on Computer Systems",
+    "description": "Weekly seminar series covering topics of current research in computer systems. Enrollment by permission of instructor. (Formerly CMPS 280S AND CMPE 280S.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 8,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

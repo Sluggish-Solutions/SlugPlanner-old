@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 215A",
+    "title": "Geographic Information Systems and Environmental Applications",
+    "description": "Introduction to geographic information systems (GIS) as the technology of processing spatial data, including input, storage and retrieval; manipulation and analysis; reporting and interpretation. Emphasizes GIS as a decision support system for environmental and social problem solving, using basic model building, experimental design, and database management. Students cannot receive credit for this course and ENVS 115A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in ENVS 215L is required. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 102,
+            "priority": "high"
+        }
+    }
+}

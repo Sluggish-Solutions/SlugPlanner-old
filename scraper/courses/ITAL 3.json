@@ -1,0 +1,34 @@
+{
+    "name": "ITAL 3",
+    "title": "First-Year Italian",
+    "description": "During the third quarter of this first-year sequence, students learn to talk about historical events, to formulate hypothetical scenarios, to express wishes, desires, doubts, and opinions, and to discuss more abstract topics (e.g., immigration, work, politics).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 2 or placement by examination.",
+        "courses": [
+            [
+                "P ITAL 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

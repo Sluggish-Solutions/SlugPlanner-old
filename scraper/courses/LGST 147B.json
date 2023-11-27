@@ -1,0 +1,34 @@
+{
+    "name": "LGST 147B",
+    "title": "Psychology and Law",
+    "description": "Continuing discussion of current and future relationships between law and psychology and to contrasting psychological realities with legal fictions. Special attention is given to the criminal justice system including crime causation, the psychology of policing and interrogation, plea bargaining, jury selection and decision making, eyewitness identification, and the psychology of imprisonment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LGST 147A.",
+        "courses": [
+            [
+                "P LGST 147A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 90,
+            "priority": "high"
+        }
+    }
+}

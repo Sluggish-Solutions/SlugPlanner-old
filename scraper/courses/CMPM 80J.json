@@ -1,0 +1,37 @@
+{
+    "name": "CMPM 80J",
+    "title": "Games as Technical Culture",
+    "description": "Examines games as technical and cultural artifacts?shaped by society and, in turn, shaping it. Core topics are traced over time, including social, technical, and artistic topics (for example: conceptions of war, platform affordances, and genre evolution).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P S   E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 94,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

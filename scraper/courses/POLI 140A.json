@@ -1,0 +1,40 @@
+{
+    "name": "POLI 140A",
+    "title": "European Politics",
+    "description": "Explores the political and economic systems of advanced industrialized societies. In addition to specific comparisons between the countries of western Europe and the United States, covers important themes and challenges, including immigration, globalization, and the crisis of the welfare state.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 90,
+            "filled seats": 60,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 75,
+            "priority": "low"
+        }
+    }
+}

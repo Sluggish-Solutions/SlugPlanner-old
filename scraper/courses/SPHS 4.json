@@ -1,0 +1,32 @@
+{
+    "name": "SPHS 4",
+    "title": "Spanish for Heritage Speakers",
+    "description": "Deals with orthography, lexicon development, morphology, syntax, and other linguistic topics as applied to the development of all language skills (listening, reading, speaking, and writing). Emphasizes reading and writing about well-known and pivotal authentic texts of varying genres and formats from the Spanish-speaking world. Emphasis is on the United States, Mexico, and Spain. Students need to use the self-placement questionnaire posted on the Languages and Applied Linguistics web page. The Spanish Placement Exam can be taken but it is not required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 65,
+            "priority": "low"
+        }
+    }
+}

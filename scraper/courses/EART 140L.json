@@ -1,0 +1,34 @@
+{
+    "name": "EART 140L",
+    "title": "Geomorphology Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 140. These extensive laboratory exercises emphasize the quantification of the geomorphic processes and forms, and on the writing of concise summaries of the science in the form of abstracts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in EART 140 is required.",
+        "courses": [
+            [
+                "P C   EART 140"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

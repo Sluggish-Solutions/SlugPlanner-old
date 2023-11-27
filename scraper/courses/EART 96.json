@@ -1,0 +1,32 @@
+{
+    "name": "EART 96",
+    "title": "Earth Sciences Orientation",
+    "description": "Practical, evidence-based strategies for maximizing learning, developing a sense of belonging, and building your identity in Earth and planetary sciences studies.This course can be taken for Pass/No Pass grading only. (Formerly Academic Success Skills.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "first-year proposed Earth sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to first-year proposed Earth sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

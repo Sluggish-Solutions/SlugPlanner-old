@@ -1,0 +1,32 @@
+{
+    "name": "ECE 80T",
+    "title": "Modern Electronic Technology and How It Works",
+    "description": "Basic knowledge of electricity and \"how things work,\" how technology evolves, its impact on society and history, and basic technical literacy for the non-specialist. Broad overview of professional aspects of engineering and introduction and overview of basic systems and components. Topics include electrical power, radio, television, radar, computers, robots, telecommunications, and the Internet. (Formerly EE 80T.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "LIT 288Y",
+    "title": "Teoria Critica en America Latina",
+    "description": "Overview of contemporary theoretical issues in Latin American cultural critique. Course topic changes; please see the Class Search for the current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Migrations, LIT 288Y is taught in conjunction with LIT 230A-02.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

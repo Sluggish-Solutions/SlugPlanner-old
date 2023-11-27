@@ -1,0 +1,34 @@
+{
+    "name": "CMPM 121",
+    "title": "Game Development Patterns",
+    "description": "Advanced game programming focused on software design patterns and refactoring. Introduces classic software design patterns, as well as game programming patterns. Introduces software refactoring, including code smells and widely used refactoring patterns.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 120.",
+        "courses": [
+            [
+                "P CMPM 120"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 114,
+            "filled seats": 60,
+            "priority": "low"
+        }
+    }
+}

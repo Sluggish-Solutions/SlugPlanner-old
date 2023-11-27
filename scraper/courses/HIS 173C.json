@@ -1,0 +1,32 @@
+{
+    "name": "HIS 173C",
+    "title": "The Soviet Union and its Aftermath",
+    "description": "Covers the history of the Soviet Union from its beginning to its end, and its legacy in the present day. Explores the nature of the Soviet state, relationships between state and society, the role of the Soviet Union in the Cold War, and experiences of everyday life. (Formerly offered as History of the Soviet Union.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        }
+    }
+}

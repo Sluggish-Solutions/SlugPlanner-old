@@ -1,0 +1,32 @@
+{
+    "name": "HIS 78",
+    "title": "Modern Authoritarianism in Europe and Beyond",
+    "description": "Examines modern authoritarianism and mass dictatorship as distinct political forms that promote and draw their strength from popular support and mobilization. Students study how non-democratic leaders are able to attain, exercise, perpetuate, and misuse their power.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

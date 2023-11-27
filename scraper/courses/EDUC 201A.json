@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 201A",
+    "title": "Intermediate Student Teaching: Single Subject",
+    "description": "Provides advanced pre-professional experience for single subject teaching candidates who progressively assume full-time responsibility for public school student teaching beginning in winter quarter. Taken concurrently with course 201. Weekly supervision and seminars with teacher supervisors are required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): EDUC 200. Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "See Instructors for schedule.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 44,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

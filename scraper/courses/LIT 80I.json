@@ -1,0 +1,32 @@
+{
+    "name": "LIT 80I",
+    "title": "Topics in American Culture",
+    "description": "A history of one or more cultural genres in written, visual, and/or musical forms. Course topic changes; please see the Class Search for the current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 32,
+            "priority": "high"
+        }
+    }
+}

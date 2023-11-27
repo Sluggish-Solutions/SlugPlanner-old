@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 139G",
+    "title": "Eye-tracking: A Window into Cognition",
+    "description": "Examines eye-tracking as a valuable research method to study cognition. Research using this method has established that eye movements are closely linked to ongoing cognitive processes in the human brain. Course covers the use of this technique in research on reading, language comprehension, scene perception, visual search, infant cognition, and other areas of cognitive science. Students read and review journal articles, participate in class discussions, and analyze publicly available eye movement data for a final report due at the end of the quarter. Satisfies the seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 20, PSYC 100, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 25,
+            "priority": "unavailible"
+        }
+    }
+}

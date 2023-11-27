@@ -1,0 +1,37 @@
+{
+    "name": "STAT 206B",
+    "title": "Intermediate Bayesian Inference",
+    "description": "Bayesian statistical methods for inference and prediction including: estimation; model selection and prediction; exchangeability; prior, likelihood, posterior, and predictive distributions; coherence and calibration; conjugate analysis; Markov Chain Monte Carlo methods for simulation-based computation; hierarchical modeling; Bayesian model diagnostics, model selection, and sensitivity analysis. (Formerly AMS 206B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 203. Enrollment is restricted to graduate students. Undergraduates may enroll by permission (STAT 131 and 132 have to be verified by the instructor directly with the student).",
+        "courses": [
+            [
+                "U     STAT 131"
+            ],
+            [
+                "132"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

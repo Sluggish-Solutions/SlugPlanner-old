@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 55",
+    "title": "Rhythms of North India",
+    "description": "Introduces students to the richness of North Indian rhythms. Includes hands-on exploration of the language of rhythm that is specific to learning the tabla. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

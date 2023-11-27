@@ -1,0 +1,38 @@
+{
+    "name": "JRLC 135",
+    "title": "Apprenticeship in Community Engaged Research",
+    "description": "Course takes a holistic approach in familiarizing students about how to effectively and ethically conduct community engaged research, from contextualized understandings of power and knowledge to hands-on training in various methodologies through a class project. The topical focus of the course varies (e.g., sustainability, water justice, educational equity etc.).NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

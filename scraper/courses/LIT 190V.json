@@ -1,0 +1,32 @@
+{
+    "name": "LIT 190V",
+    "title": "Fiction Senior Seminar",
+    "description": "Satisfies the Creative Writing Literature concentration; also satisfies the senior seminar distribution requirement. Critical approach designation: Media. Distribution requirement: Senior Seminar.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior creative writing literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior creative writing literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "***************************************************************************************************************If you are enrolling in multiple creative writing courses you will receive a message indicating there is a course conflict due to the Living Writers Series. To enroll in both courses, you will need to send a note to the Office of the Registrar explaining that the two courses are conflicting over the same class meeting. They should be familiar with the situation, and will be able to override the conflict for you. You can contact them atregistrar@ucsc.eduor by calling (831) 459-4412.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

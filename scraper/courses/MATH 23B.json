@@ -1,0 +1,46 @@
+{
+    "name": "MATH 23B",
+    "title": "Vector Calculus",
+    "description": "Double integral, changing the order of integration. Triple integrals, maps of the plane, change of variables theorem, improper double integrals. Path integrals, line integrals, parametrized surfaces, area of a surface, surface integrals. Green's theorem, Stokes' theorem, conservative fields, Gauss' theorem. Applications to physics and differential equations, differential forms.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 23A.",
+        "courses": [
+            [
+                "P MATH 23A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 39,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 62,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

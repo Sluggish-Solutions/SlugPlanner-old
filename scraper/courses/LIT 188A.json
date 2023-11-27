@@ -1,0 +1,32 @@
+{
+    "name": "LIT 188A",
+    "title": "Literatura medieval",
+    "description": "Speaking, reading, and writing proficiency in Spanish required. Focuses on Spanish medieval literature, broadly covering the 12th to the 15th centuries. Examines and contextualizes literary genres developed in this period. Critical approach designations: Geographies, Histories. Distribution requirement: Pre-1750. (Formerly Medieval Spanish Literature.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

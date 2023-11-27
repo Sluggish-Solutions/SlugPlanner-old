@@ -1,0 +1,40 @@
+{
+    "name": "EART 140",
+    "title": "Geomorphology",
+    "description": "An introduction to the evolution of the Earth's landscape, with emphasis on the processes responsible. Review of climatic and tectonic forcing followed by detailed discussion of weathering, glaciers, hillslopes, wind, rivers, and coastal processes with emphasis on their geographic distribution. One single day and one three-day field trip.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 110A. Concurrent enrollment in EART 140L is required.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 110A C   EART 140L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

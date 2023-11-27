@@ -1,0 +1,41 @@
+{
+    "name": "CHEM 163C",
+    "title": "Statistical Thermodynamics and Kinetics",
+    "description": "Statistical mechanics, kinetic theory, and reaction kinetics and topics in spectroscopy. (Formerly Kinetic Theory and Reaction Kinetics, Statistical Mechanics, Spectroscopic Applications.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 163A and CHEM 163B, or BIOC 163A and BIOC 163B.",
+        "courses": [
+            [
+                "P CHEM 163A"
+            ],
+            [
+                "CHEM 163B",
+                "BIOC 163A"
+            ],
+            [
+                "BIOC 163B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 58,
+            "filled seats": 44,
+            "priority": "moderate"
+        }
+    }
+}

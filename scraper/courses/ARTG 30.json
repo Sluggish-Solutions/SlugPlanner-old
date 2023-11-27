@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 30",
+    "title": "Games as Activism",
+    "description": "How can art make change? How can changing culture contribute to broader movements for social change? How can artists make games that move culture and society? Course approaches games as a site for political expression and social change. Looks at game makers who identify as feminist, queer, disabled, Black, Indigenous, people of color, workers, radicals, artists, scholars, and/or activists who are using games to drive social commentary, critical play, and political action. By the end of this course, students have a strong understanding of games as a political medium as demonstrated by the design of their own cultural intervention using games and play.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 95,
+            "priority": "unavailible"
+        }
+    }
+}

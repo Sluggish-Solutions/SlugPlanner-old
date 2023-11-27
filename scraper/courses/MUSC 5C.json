@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 5C",
+    "title": "West Javanese Gamelan Ensemble: Advanced",
+    "description": "Instruction in practice and performance of gamelan music from Java or Sunda. Preparation of several works for public presentation. Attend first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 18,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

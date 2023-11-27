@@ -1,0 +1,52 @@
+{
+    "name": "MATH 11A",
+    "title": "Calculus with Applications",
+    "description": "A modern course stressing conceptual understanding, relevance, and problem solving. The derivative of polynomial, exponential, and trigonometric functions of a single variable is developed and applied to a wide range of problems involving graphing, approximation, and optimization. Students cannot receive credit for both this course and MATH 19A or AM 11A or AM 15A, or ECON 11A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 3 or AM 3; or mathematics placement (MP) score of 300 or higher; or AP Calculus AB exam score of 3 or higher.",
+        "courses": [
+            [
+                "P",
+                "MATH 3",
+                "AM 3",
+                "MP   300",
+                "",
+                "AP C AB    3",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 382,
+            "filled seats": 382,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 195,
+            "filled seats": 174,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

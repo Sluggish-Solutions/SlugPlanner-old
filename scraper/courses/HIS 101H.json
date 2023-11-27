@@ -1,0 +1,32 @@
+{
+    "name": "HIS 101H",
+    "title": "The Horse in World History",
+    "description": "Before the 20th century, the horse was, for humans, the most important animal: quickening the pace of travel; facilitating hunting and herding; providing traction for agriculture and industry; enabling the formation of cavalries that projected military power. The horse and rider became the subject of powerful myths, from the Arthurian legends of the Middle Ages through the American Western of our own time. Only with the advent of modern engines and motors did role of the horse begin to recede in human history. Course examines the human/equine partnership over a period of 6,000 years, from the beginning of domestication to the middle of the 20th century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionAll discussion sections for HIS 101H (F 10:40 ? 11:45 AM / TH 7:10 ? 8:15 PM) will be taught via remote synchronous instruction.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 61,
+            "priority": "unavailible"
+        }
+    }
+}

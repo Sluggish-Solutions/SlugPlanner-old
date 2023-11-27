@@ -1,0 +1,44 @@
+{
+    "name": "ENVS 196",
+    "title": "Senior Seminar",
+    "description": "Readings and discussions of primary literature on a current environmental studies topic. Field or literature-based research projects (individual or group) writing multiple drafts resulting in a final paper. Topics vary yearly; consult current course listings. Satisfies senior comprehensive requirement. Prerequisite(s): ENVS 100 and ENVS 100L; Entry Level Writing and Composition requirements. Enrollment is by application with selection based on appropriate background and academic performance and by permission of instructor. Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

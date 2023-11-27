@@ -1,0 +1,44 @@
+{
+    "name": "LALS 194L",
+    "title": "Senior Seminar Research Development Lab",
+    "description": "Provides hands-on guidance in the research and communication skills related to the LALS 194 Senior Seminar.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior Latin American and Latino studies majors and combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in one of the LALS 194 series. Enrollment is restricted to senior Latin American and Latino studies majors and combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 14,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 110",
+    "title": "Intermediate Organic Chemistry with Emphasis on Synthesis and Analytical Methods",
+    "description": "An intermediate study of organic chemistry, including synthetic methods, reaction mechanisms, and application of synthetic chemistry techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "chemistry majors, minors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8B. Enrollment is restricted to chemistry majors, minors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 76,
+            "filled seats": 60,
+            "priority": "moderate"
+        }
+    }
+}

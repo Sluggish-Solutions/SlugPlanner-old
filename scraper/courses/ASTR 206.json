@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 206",
+    "title": "Introduction to Research Mentoring",
+    "description": "For graduate students interested in mentoring undergraduate students through research. Graduate students design an original research project and lead a small group of undergraduates through it while learning how to adapt the project to the dynamic needs and skills of their students. This course creates a structured but realistic framework for graduate students to develop their mentoring skills, which is critical to their professional development. By needing to communicate the important aspects of conducting research, communicating results, and maintaining research integrity, students cultivate and strengthen their own values as a researcher. This is a continuing class that spans both winter and spring quarters, for a total of 10 credits. Because research projects will span both quarters, students must enroll in both quarters. Enrollment is restricted to graduate students and is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

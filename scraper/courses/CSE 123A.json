@@ -1,0 +1,37 @@
+{
+    "name": "CSE 123A",
+    "title": "Engineering Design Project I",
+    "description": "First of a two-course sequence that is the culmination of the engineering program. Students apply knowledge and skills gained in elective track to complete a major design project. Students complete research, specification, planning, and procurement for a substantial project. Includes technical discussions, design reviews, and formal presentations; engineering design cycle, engineering teams, and professional practices. Formal technical specification of the approved project is presented to faculty.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 121; previous or concurrent enrollment in CSE 185E.",
+        "courses": [
+            [
+                "P CSE 121"
+            ],
+            [
+                "CSE 185E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

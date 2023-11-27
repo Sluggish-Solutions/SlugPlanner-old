@@ -1,0 +1,37 @@
+{
+    "name": "BME 178",
+    "title": "Stem Cell Biology",
+    "description": "Basic concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading the primary scientific literature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 110; BIOL 115 recommended.",
+        "courses": [
+            [
+                "P BIOL 110"
+            ],
+            [
+                "BIOL 115"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with BME 278",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "name": "PSYC 10",
+    "title": "Introduction to Developmental Psychology",
+    "description": "Addresses psychological development from conception through adolescence. Provides an overview of developmental psychology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 1; and AM 3, or AM 6, or MATH 3 or a higher level Mathematics course (MATH 4, MATH 11A, or MATH 19A), or mathematics placement (MP) score of 300 or higher, or AP Calculus AB exam score of 3 or higher; and PSYC 2 or STAT 5 or STAT 7 and STAT 7L.",
+        "courses": [
+            [
+                "P PSYC 1"
+            ],
+            [
+                "AM 3",
+                "AM 6",
+                "MATH 3",
+                "M  MATH 4 MATH 11A",
+                "MATH 19A",
+                "MP   300",
+                "AP C AB    3"
+            ],
+            [
+                "PSYC 2",
+                "STAT 5",
+                "STAT 7"
+            ],
+            [
+                "STAT 7L"
+            ]
+        ]
+    },
+    "class_notes": "Optional sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 132,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 130,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 170,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

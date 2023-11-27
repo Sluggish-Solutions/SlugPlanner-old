@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 146",
+    "title": "Game AI",
+    "description": "Examines the use of artificial intelligence (AI) in games. Covers core AI technologies for search, control, and learning, and the application of AI to improve game design, development, and game play. Examines the AI content in multiple commercial games. This is an online class; most lectures are asynchronous. The weekly lab is synchronous, focused on Q&A and group discussion of work in progress.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101 or equivalent; familiarity with python a plus, though not required. Enrollment is restricted to sophomores, juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

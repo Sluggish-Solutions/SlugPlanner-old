@@ -1,0 +1,32 @@
+{
+    "name": "FMST 1",
+    "title": "Feminist Studies: An Introduction",
+    "description": "Introduces the core concepts underlying the interdisciplinary field-formation of feminist studies within multiple geopolitical contexts. Explores how feminist inquiry rethinks disciplinary assumptions and categories, and animates our engagement with culture, history, and society. Topics include: the social construction of gender; the gendered division of labor, production, and reproduction; intersections of gender, race, class, and ethnicity; and histories of sexuality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 235,
+            "priority": "unavailible"
+        }
+    }
+}

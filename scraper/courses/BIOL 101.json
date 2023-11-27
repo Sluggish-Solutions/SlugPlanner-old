@@ -1,0 +1,58 @@
+{
+    "name": "BIOL 101",
+    "title": "Molecular Biology",
+    "description": "Covers the basic molecular mechanism of DNA replication and transcription, protein synthesis, and gene regulation in bacterial and eukaryotic organisms. The experimental techniques used to determine these mechanisms are emphasized.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Biology B.S.; Global and Community Health B.S.; Human Biology B.S.; Molecular, Cell, and Developmental Biology B.S.; and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  BIOL 100. Enrollment is restricted to Biology B.S.; Global and Community Health B.S.; Human Biology B.S.; Molecular, Cell, and Developmental Biology B.S.; and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "S"
+            ],
+            [
+                "G"
+            ],
+            [
+                "C H BS"
+            ],
+            [
+                "H B BS"
+            ],
+            [
+                "M C"
+            ],
+            [
+                "D B BS"
+            ],
+            [
+                "N BS  O"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 152,
+            "filled seats": 134,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 160,
+            "filled seats": 152,
+            "priority": "high"
+        }
+    }
+}

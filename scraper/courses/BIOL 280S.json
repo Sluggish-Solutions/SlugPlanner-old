@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 280S",
+    "title": "Stem Cell Genomics and Neurodevelopment",
+    "description": "Weekly seminar and group discussion on current topics related to the role of human genome variants, including retrotransposons and segmental duplications, on gene regulation and human brain development and disease. Students present, review, and discuss research pertaining, but not limited, to the evolution of retrotransposons and KZNF proteins and their effect on early embryonic gene regulatory programs as well as the development and characterization of pluripotent stem cell-derived brain organoid models. In addition to presenting and discussing published research, students also present their own independent research and receive feedback from the instructor and other class participants. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

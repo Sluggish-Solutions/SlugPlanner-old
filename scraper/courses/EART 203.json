@@ -1,0 +1,32 @@
+{
+    "name": "EART 203",
+    "title": "Introductory Teaching Seminar",
+    "description": "Intended for new Earth sciences graduate students. Focus on preparation, assessment, and feedback. Classroom techniques, organizational and time management strategies, practice teaching sessions specific to laboratory and/or science instruction. Required follow-up meetings to discuss practical teaching experience.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "1",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 13,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ANTH 142",
+    "title": "Anthropology of Law",
+    "description": "An ethnographically informed consideration of law, dispute management, and social control in a range of societies including the contemporary U.S. Topics include conflict management processes, theories of justice, legal discourse, and relations among local, national, and transnational legal systems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "anthropology and legal studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to anthropology and legal studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 47,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

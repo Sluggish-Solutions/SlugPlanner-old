@@ -1,0 +1,44 @@
+{
+    "name": "ECE 135",
+    "title": "Electromagnetic Fields and Waves",
+    "description": "Vector analysis. Electrostatic fields. Magnetostatic fields. Time-varying fields and Maxwell's equations. Plane waves. (Formerly EE 135.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135L.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ],
+            [
+                "MATH 23B"
+            ],
+            [
+                "MATH 24",
+                "AM 20 S     ECE 135L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 135L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 85,
+            "filled seats": 47,
+            "priority": "low"
+        }
+    }
+}

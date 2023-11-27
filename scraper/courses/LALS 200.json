@@ -1,0 +1,32 @@
+{
+    "name": "LALS 200",
+    "title": "Bridging Latin American and Latina/o Studies",
+    "description": "Provides historical and analytical foundations for the inter/transdisciplinary and transnational project of bridging the fields of Latin American and Latino studies (area and ethnic studies). Explores social, cultural, economic, and political changes connecting Latin America and U.S. Latina/o communities. Traces the intellectual genealogy of these efforts and how they contribute to each other. Introduces students to LALS' four substantive themes: (1) Transnationalisms, Migrations, and Displacement; (2) Intersectionality, Identities, and Inequalities; (3) Collective Action, Social Movements, and Social Change; and (4) Culture, Power, and Knowledge. Core requirement for students pursuing the Designated Emphasis in Latin American and Latino studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

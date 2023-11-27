@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 30J",
+    "title": "Fitness Activities: Strength Training",
+    "description": "Coeducational. Introduction to safe and effective methods of weight training and other personal conditioning activities. Topics covered include proper weight-training techniques, care of body and equipment, and elementary exercise physiology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 144,
+            "filled seats": 87,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 67,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

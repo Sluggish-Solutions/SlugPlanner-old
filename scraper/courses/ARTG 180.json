@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 180",
+    "title": "Personal Narrative in Play",
+    "description": "Explores how storytelling techniques can align with game mechanics to examine and provoke questions of identity and personal narrative. Drawing from games that express personal experience through autobiography, to games that question the relationship and separation between player and character, students develop exploratory prototypes in digital and/or nondigital formats around potential mechanics for personal narrative and expression. Course culminates in a final piece of interactive art as well as designing the exhibit and public documentation for this work.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "seniors majoring in art and design: games and playable media.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors majoring in art and design: games and playable media.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

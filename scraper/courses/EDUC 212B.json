@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 212B",
+    "title": "Bilingualism and Biliteracy: Language, Literacy and Content Instruction",
+    "description": "Taught in Spanish. Prepares future bilingual teachers to teach language, literacy, and the content areas in ways that address the needs of culturally and linguistically diverse students. Topics: literacy in two languages; academic language; assessment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Class meeting dates: 1.19, 1.26, 2.9, 2.23 (Fridays); 2.24 (date tentative, Sat. in Watsonville)",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

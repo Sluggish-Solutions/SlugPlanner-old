@@ -1,0 +1,32 @@
+{
+    "name": "GAME 221",
+    "title": "Professional Development for Game Makers",
+    "description": "Professional preparation for students in Games and Playable Media, and Serious Games master's degree programs. Includes entrepreneurship, employment rights, IP law, interview skills, business analysis, and other topics aligned with the dynamic industry of computer games.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to games and playable media and serious games graduate students; others by interview.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 49,
+            "filled seats": 37,
+            "priority": "moderate"
+        }
+    }
+}

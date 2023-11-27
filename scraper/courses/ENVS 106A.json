@@ -1,0 +1,40 @@
+{
+    "name": "ENVS 106A",
+    "title": "Natural History of Birds",
+    "description": "The evolution, taxonomy, physiology, behavior, ecology, and management of birds. Lecture, discussion, field format. Birds observed in habitats including bay, marsh, meadow, and forest. Evaluations based on a field journal and examinations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor. ENVS 105 or BIOL 138 are recommended.",
+        "courses": [
+            [
+                "P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L",
+                "ENVS 105",
+                "BIOL 138"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

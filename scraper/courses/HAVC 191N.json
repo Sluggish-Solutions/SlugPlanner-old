@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 191N",
+    "title": "Topics in Renaissance Art and Visual Culture",
+    "description": "Seminar on changing topics related to the current scholarship on the art and visual culture of the Renaissance. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Seminar topic: Black representation between 15th and 18th centuries.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

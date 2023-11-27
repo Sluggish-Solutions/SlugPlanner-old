@@ -1,0 +1,32 @@
+{
+    "name": "LGST 146",
+    "title": "Philosophy of Law",
+    "description": "Introduction to topics in the philosophy of law. Begins by discussing some famously difficult legal cases. These motivate students to consider more generally how to theorize about law and legality. Course ends by examining a handful of modern legal issues from a philosophical perspective. Course asks students to formulate and defend their positions on classic and contemporary legal debates and provides them tools from moral and legal philosophy with which to work.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 138M",
+    "title": "Introduction to Matlab Programming for the Cognitive Sciences",
+    "description": "Matlab is a powerful and widely used programming language to design stimuli, collect behavioral data, conduct statistical analyses, and visualize results. This course provides students with basic tools to use Matlab in a range of cognitive science applications. The course includes in-class coding, weekly assignments, and a term project in which students write a program to analyze, collect, or visualize a dataset or model a cognitive phenomenon. No previous programming experience is required. Topics include modeling of cognitive and neural processes and principal components analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 20 and PSYC 100. Enrollment is restricted to psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 55,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

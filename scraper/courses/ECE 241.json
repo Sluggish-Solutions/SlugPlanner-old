@@ -1,0 +1,32 @@
+{
+    "name": "ECE 241",
+    "title": "Introduction to Feedback Control Systems",
+    "description": "Graduate-level introduction to control of continuous linear systems using classical feedback techniques. Design of feedback controllers for command-following error, disturbance rejection, stability, and dynamic response specifications. Root locus and frequency response design techniques. Extensive use of Matlab for computer-aided controller design. Course has concurrent lectures with ECE 141.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

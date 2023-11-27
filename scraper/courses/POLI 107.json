@@ -1,0 +1,41 @@
+{
+    "name": "POLI 107",
+    "title": "Politics of Aesthetics",
+    "description": "Introduces a variety of critical and aesthetic theories and various ways in which aesthetics are mobilized politically. Students are challenged to consider the politics of aesthetics as well as the aesthetics of politics both theoretically and historically. Enrollment  restricted to sophomore, junior, and senior art, critical race and ethnic studies, feminist studies, history of art and visual culture, history, legal studies, philosophy, and politics majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): POLI 105B or POLI 105C.",
+        "courses": [
+            [
+                "P POLI 105B",
+                "POLI 105C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

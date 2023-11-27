@@ -1,0 +1,32 @@
+{
+    "name": "PRTR 1",
+    "title": "Academic Literacy and Ethos: Arts of Reading",
+    "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages Porter's intellectual tradition of investigating the contribution the arts and humanities make to a good life, a just society, and a flourishing world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year college members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 493,
+            "filled seats": 479,
+            "priority": "high"
+        }
+    }
+}

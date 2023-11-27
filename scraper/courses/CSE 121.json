@@ -1,0 +1,55 @@
+{
+    "name": "CSE 121",
+    "title": "Embedded System Design",
+    "description": "The design and use of microprocessor-based embedded systems. Covers microprocessor and microcontroller architecture, programming techniques, bus and memory organization, DMA, timing issues, interrupts, peripheral devices, serial and parallel communication, and interfacing to analog and digital systems. (Formerly Microprocessor System Design, and formerly offered as two courses, CMPE 121 and CMPE 121L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12, CSE 100, CSE 100L; and CSE 13E or CSE 13S or ECE 13 or CSE 15 and CSE 15L; and ECE 101, ECE 101L, PHYS 5C and PHYS 5N.",
+        "courses": [
+            [
+                "P CSE 12 CSE 100 CSE 100L"
+            ],
+            [
+                "CSE 13E",
+                "CSE 13S",
+                "ECE 13",
+                "CSE 15"
+            ],
+            [
+                "CSE 15L"
+            ],
+            [
+                "ECE 101 ECE 101L PHYS 5C"
+            ],
+            [
+                "PHYS 5N"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment is restricted to Computer Engineering majors during first-pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 89,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 80,
+            "filled seats": 51,
+            "priority": "low"
+        }
+    }
+}

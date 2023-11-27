@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 295",
+    "title": "Critical Perspectives on Education",
+    "description": "Investigates critical theories in education. Situates the themes against and within critical theory and philosophic foundations of Paulo Freire's theory of liberation education. Elaborates these themes within the discourses on critical race theory and education, and feminism and education.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 11,
+            "priority": "high"
+        }
+    }
+}

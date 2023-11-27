@@ -1,0 +1,32 @@
+{
+    "name": "CRES 210",
+    "title": "Sex and the Carceral State",
+    "description": "The expansion of the state's carceral capacity over the course of the 20th century and into the present has been intimately connected to ideas about sex, gender. This course examines the ways that sex has been a target of the carceral state at the same time that policing and incarceration have shaped our understanding of sexuality and gender. Rather than focusing solely on repression, course also examines how feminists and queer activists have challenged carceral logics and practices and imagined expansive forms of freedom, justice, and safety.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 14,
+            "priority": "high"
+        }
+    }
+}

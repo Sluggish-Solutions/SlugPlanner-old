@@ -1,0 +1,34 @@
+{
+    "name": "CSE 215",
+    "title": "Design and Implementation of Database Systems",
+    "description": "Advanced course in implementation techniques for database systems. For students who wish to do research in databases or to learn more about large-scale data processing. Topics include: indexing of complex data; techniques for high-volume concurrency control; query processing and optimization; database recovery; parallel database system architectures; database systems for streaming data; approximate query answering. Additional topics may include: self-managing database systems; advanced query optimization techniques; and query processing techniques for semi-structured data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Enrollment is restricted to graduate students. Undergraduates that have taken CSE 181 may enroll. A basic knowledge of databases, similar to the content of CSE 180, is recommended.",
+        "courses": [
+            [
+                "U    CSE 181   A          CSE 180"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

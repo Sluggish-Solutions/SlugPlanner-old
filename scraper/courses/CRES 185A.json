@@ -1,0 +1,32 @@
+{
+    "name": "CRES 185A",
+    "title": "Race, Gender, and Science",
+    "description": "Examines how science as epistemology and its accompanying practices participate in, create, and are created by understandings of race, gender, sexuality, and nation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course is now open to all majors. No science background is required.Expanded Course Description:In this course, we will think critically and creatively together about the ways in which science as a practice and a way of knowing gives rise to particular and perhaps peculiar ways of experiencing bodies as individual, raced, gendered, and even 'specied'. We will explore a variety of issues in contemporary science and technology, with an emphasis on body and embodiment ? that is, ways of knowing and experiencing the body within and beyond science, and within and beyond race and gender",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 32,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "PSYC 140T",
+    "title": "Psychology of Trauma",
+    "description": "Overview of psychological theory and research on trauma and traumatic stress, including responses to childhood trauma (especially sexual abuse), combat, and natural disasters. Variety of theoretical frameworks presented, including developmental, cognitive, neuropsychological, clinical, and social/contextual.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100 or permission of instructor.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 127,
+            "priority": "unavailible"
+        }
+    }
+}

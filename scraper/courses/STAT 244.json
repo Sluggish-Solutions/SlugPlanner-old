@@ -1,0 +1,32 @@
+{
+    "name": "STAT 244",
+    "title": "Bayesian Decision Theory",
+    "description": "Explores conceptual and theoretical bases of statistical decision making under uncertainty. Focuses on axiomatic foundations of expected utility, elicitation of subjective probabilities and utilities, and the value of information and modern computational methods for decision problems. (Formerly AMS 221.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 206. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

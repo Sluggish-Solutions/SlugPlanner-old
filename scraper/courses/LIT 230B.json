@@ -1,0 +1,32 @@
+{
+    "name": "LIT 230B",
+    "title": "Narrative Theory",
+    "description": "A survey of 20th-century narratology, emphasizing structuralist and poststructuralist theories of narrative. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is course is an introduction to narrative theory and an exploration of the analytical use of narrative for a variety of literary and non-literary writing, with a focus on pre-modern material and the use and presence of narrative in religion, law, and historical writing. We explore how thinking about narrative can give us tools to talk about a wide set of discursive and social practices, such as religious polemic and apology, conversion, and legal disputation.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

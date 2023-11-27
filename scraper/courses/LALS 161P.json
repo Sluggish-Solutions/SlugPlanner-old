@@ -1,0 +1,38 @@
+{
+    "name": "LALS 161P",
+    "title": "Theater in the \"Chicano Power\" Movement",
+    "description": "Covers the rise of Teatro Chicano as a cultural-political force within the 1960's \"Chicano Power\" Movement starting with founding playwriter Luis Valdez and El Teatro Campesino and covering Chicana/o playwrights inspired by the movement, e.g. Cherrie Moraga, Luis Alfaro, and Josefina Lopez.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 42,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 55,
+            "filled seats": 49,
+            "priority": "high"
+        }
+    }
+}

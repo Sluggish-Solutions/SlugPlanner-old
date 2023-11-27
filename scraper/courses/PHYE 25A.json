@@ -1,0 +1,44 @@
+{
+    "name": "PHYE 25A",
+    "title": "Fencing: Epee",
+    "description": "Coeducational. Basic instruction in the techniques, strategy, and general methodology of modern fencing.  Emphasis on \u00e9p\u00e9e fencing as a development from the traditional French and Italian dueling sword styles as they have evolved to form the modern electrical game.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 35,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 37,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

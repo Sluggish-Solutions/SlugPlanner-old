@@ -1,0 +1,41 @@
+{
+    "name": "PHYS 160",
+    "title": "Practical Electronics",
+    "description": "Provides a practical knowledge of analog electronics that experimentalists generally need in research, including basic circuits with bipolar and field-effect transistors, op-amps, comparators, oscillators, and voltage regulators. It assumes no previous knowledge of electronics but includes twice-weekly lectures with some homework assignments, including small circuit simulations done using PSpice. However, with the aid of the instructor and teaching assistant, the students are expected to learn mainly through the construction, debugging, and analysis of small electronics projects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N.",
+        "courses": [
+            [
+                "P PHYS 5C"
+            ],
+            [
+                "PHYS 5N",
+                "PHYS 6C"
+            ],
+            [
+                "PHYS 6N"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

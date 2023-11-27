@@ -1,0 +1,32 @@
+{
+    "name": "LALS 10",
+    "title": "Introduction to Chicanx & Latinx Studies",
+    "description": "Introduces students to the interdisciplinary fields of Chicanx and Latinx studies through the frameworks of social justice and anti-racism. Examines the histories, current issues, and unique lived experiences in order to understand the intersectional complexities. Delves into questions of race, ethnicity, class, gender, sexuality, indigeneity, citizenship, and belonging and illuminates the historical development by contextualizing major concepts, debates, and approaches while underscoring how these fields transform historical narratives of inequality, contextualize current realities, and can inform political change. Students engage in lively discussions to develop critical thinking skills, and to hone reading and writing skills.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 140,
+            "filled seats": 139,
+            "priority": "high"
+        }
+    }
+}

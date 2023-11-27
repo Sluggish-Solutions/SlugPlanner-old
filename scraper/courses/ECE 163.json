@@ -1,0 +1,32 @@
+{
+    "name": "ECE 163",
+    "title": "Introduction to Small-Scale UAV Theory and Practice",
+    "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Taught in conjunction with ECE 263. Students cannot receive credit for this course and ECE 263.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 141 or ECE 241 or ECE 242; and CSE 30 or ECE 13 or CSE 13E or CSE 13S. ECE 121, ECE 167, and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 263.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

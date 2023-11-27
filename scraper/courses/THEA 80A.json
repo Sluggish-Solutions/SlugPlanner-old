@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80A",
+    "title": "Introduction to African American Theater",
+    "description": "Surveys African American theater from late-19th-century to contemporary 21st-century playwrights and examines dramatic narratives to trace creation, evolution, and development of African American cultural identity formation in American theater.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 34,
+            "priority": "unavailible"
+        }
+    }
+}

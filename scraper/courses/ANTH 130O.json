@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 130O",
+    "title": "Native Feminisms, Gender, and Settler Colonialism",
+    "description": "Covers Native feminisms, gender, settler colonialism, and ethnography. Students read ethnographies that intervene in Native feminisms and its possibilities. Focuses on ethnographies in the U.S., including Native men and masculinities in Hawaii.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "CHEM 8M",
+    "title": "Organic Chemistry Laboratory",
+    "description": "Laboratory experience in organic chemistry associated with CHEM 8B. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.",
+        "courses": [
+            [
+                "P CHEM 8A"
+            ],
+            [
+                "CHEM 8L"
+            ],
+            [
+                "CHEM 8B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in the main lab lecture course in order to enroll in one of the secondary lab sections. Secondary lab sections will meet starting the week of January 15 (the week of MLK Jr Day). Absent students will be dropped from the course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 268,
+            "filled seats": 111,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 224,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 105P",
+    "title": "The Piano",
+    "description": "Research-based survey of the history of the piano and related keyboard instruments. Topics include instrument mechanics, design, and tuning; important players and innovators in piano technique; repertoire written for piano in classical, jazz, vernacular, and experimental traditions and performance practices, including improvisation; the socioeconomics of the piano industry; the piano's use as a pedagogical tool. Prerequisite(s): MUSC 30A and consent of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

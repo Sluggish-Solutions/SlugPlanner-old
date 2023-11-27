@@ -1,0 +1,32 @@
+{
+    "name": "POLI 161",
+    "title": "The Rise of China",
+    "description": "Explores China's rising international power and the implications thereof. Special emphasis on China's interactions with the United States and related issues (Korea, Taiwan, the South China Sea). Also addresses China's dealings with South Asia, Southeast Asia, Africa, Japan, international organizations, and more. (Formerly Foreign Relations of China.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "politics and politics/Latin America and Latino studies combined majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to politics and politics/Latin America and Latino studies combined majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 49,
+            "priority": "unavailible"
+        }
+    }
+}

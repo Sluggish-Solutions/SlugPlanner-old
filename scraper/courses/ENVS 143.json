@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 143",
+    "title": "Sustainable Development: Economy, Policy, and Environment",
+    "description": "Considers whether and how global poverty can be alleviated without irreparably damaging the environment. Examines interactions among population, economic growth, poverty, global consumption ethos, property rights systems, global economy, state capacity, and environmental damage. Scrutinizes impact of various developmental strategies adopted during the past 50 years on poverty, governance, and the environment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 49,
+            "priority": "unavailible"
+        }
+    }
+}

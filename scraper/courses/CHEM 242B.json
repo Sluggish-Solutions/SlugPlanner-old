@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 242B",
+    "title": "Modern Synthetic Methods in Organic Chemistry",
+    "description": "Presents concepts in bond formation, conformation, selectivity, and stereocontrol in modern organic synthesis. Focuses on understanding reaction mechanisms. Culminates with strategy in designing multi-step synthesis of complex targets.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80C",
+    "title": "Monsters",
+    "description": "Examines the operation of monsters in plays from Ancient Greece to today, inquiring as to why these powerful cultural tools for the expression of  social tension show no sign of diminishing despite our ostensible advance into scientific rationalism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in both the main lecture and an associated discussion section. This class will be offered with online asynchronous (not-scheduled) instruction and synchronous (scheduled) in-person required discussion sections. Please note that there are 8 discussion sections -- to choose one, when adding this course to your enrollment, select \"VIEW ALL\" to see all section options.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 400,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

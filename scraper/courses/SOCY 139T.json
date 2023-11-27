@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 139T",
+    "title": "Community-Engaged Research Practicum",
+    "description": "Covers the theories and methods associated with community-based and participatory action research. Students review relevant scholarship then engage in a collective field research project in collaboration with a community organization. Themes, collaborations, and research projects vary. Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: We Belong Too: Youth Voices for Action and Equity. Enrollment is by application and permission code: tinyurl.com/ybudprsh. Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 38,
+            "priority": "low"
+        }
+    }
+}

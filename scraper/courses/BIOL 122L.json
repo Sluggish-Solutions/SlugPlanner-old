@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 122L",
+    "title": "Phage Biology Lab II",
+    "description": "Hypothesis-driven research laboratory. Students amplify unique genes from a bacteriophage genome and complete gene-function exploration, Students also develop wet lab skills including PCR, Tet expression plasmids, and immunity screens and use these skills and other methods to investigate various aspects of bacteriophage gene function. An understanding of introductory molecular biology is required. Prerequisite(s): BIOL122K. Enrollment is restricted to biology, biochemistry and molecular biology; and molecular, cell, and developmental biology majors. Enrollment is by permission of the instructor. Students are billed a materials fee.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 16,
+            "filled seats": 17,
+            "priority": "high"
+        }
+    }
+}

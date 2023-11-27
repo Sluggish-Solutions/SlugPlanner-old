@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 151C",
+    "title": "Ecology and Conservation in Practice Supercourse: Functions and Processes of Terrestrial Ecosystems",
+    "description": "From lectures and discussion of terrestrial community and ecosystem ecology, students work individually or in small groups to present an idea for a project, review relevant literature, develop a research question/hypothesis, design and perform an experiment, collect and analyze data, and write a report. The instructor evaluates the feasibility of each student's project before it begins. Enrollment is by application. Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C or ENVS 23, ENVS 24, and ENVS 100; and STAT 7 and STAT 7L. Concurrent enrollment in BIOE 151A, BIOE 151B, and BIOE 151D; or ENVS 109A, ENVS 109B, ENVS 109D is required. Satisfies the senior exit requirement for biological sciences majors and satisfies the senior exit requirement for environmental studies majors by prior approval. Students cannot receive credit for this course and BIOE 150, BIOE 150L, ENVS 104A or ENVS 196A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by application and permission of instructor.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

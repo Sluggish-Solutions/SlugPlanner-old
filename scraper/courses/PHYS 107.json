@@ -1,0 +1,37 @@
+{
+    "name": "PHYS 107",
+    "title": "Introduction to Fluid Dynamics",
+    "description": "Covers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 217. (AM 107 formerly AMS 107.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.",
+        "courses": [
+            [
+                "P AM 112",
+                "MATH 107",
+                "PHYS 116C",
+                "EART 111"
+            ]
+        ]
+    },
+    "class_notes": "Cross-listed with AM 107. Taught in conjunction with AM 217.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 203",
+    "title": "Sociological Methods",
+    "description": "Approaches methods as a series of conscious and strategic choices for doing various kinds of research. Introduces students to the epistemological questions of method in social sciences; to key issues in \"technique,\" particularly control, reliability, and validity; and to good examples of social research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sociology graduate students and by permission number.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

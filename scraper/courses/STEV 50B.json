@@ -1,0 +1,32 @@
+{
+    "name": "STEV 50B",
+    "title": "Stevenson Alumni Careers in Science and Technology",
+    "description": "Connecting Stevenson students with alumni who provide practical advice for careers in science and technology. Topics covered include internships, graduate school, networking, applying for jobs, interviewing, and adapting to a rapidly changing job market.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 20,
+            "priority": "moderate"
+        }
+    }
+}

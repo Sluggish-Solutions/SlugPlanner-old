@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 261",
+    "title": "Foundations of Spectroscopy",
+    "description": "The basic theory of time-dependent processes is covered at an advanced level. The interaction of electromagnetic radiation and matter is described using both semiclassical and quantum field formulations. A variety of modern spectroscopic techniques are discussed both in terms of the basic processes and their use in the elucidation of chemical structure and dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course is offered as a Global Classroom (see here: https://global.ucsc.edu/partnerships/initiatives/global-classrooms). It features a virtual exchange component allowing students in this course to collaborate with students at Universidad Michoacana de San Nicolas de Hidalgo in Mexico.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

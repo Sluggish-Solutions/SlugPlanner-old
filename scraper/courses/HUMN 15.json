@@ -1,0 +1,32 @@
+{
+    "name": "HUMN 15",
+    "title": "Ethics and Technology",
+    "description": "Addresses the role of values in technology: Who is technology for? What could it be? How does it relate to its social and historical contexts? Students think systematically and imaginatively about how the design of different technologies assists and constrains everyday life. Course asks whether there is a ''right'' way to do technology, and if there is, how we might go about pursuing it. To explore this question, the course draws on cross-disciplinary materials taken from literature, history, sociology, anthropology, politics, and philosophy, and introduces students to the principles of design justice and inclusive design.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 36,
+            "priority": "high"
+        }
+    }
+}

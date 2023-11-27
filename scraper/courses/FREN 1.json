@@ -1,0 +1,44 @@
+{
+    "name": "FREN 1",
+    "title": "First-Year French",
+    "description": "Introduction to French language and culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of French.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 55,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 21,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

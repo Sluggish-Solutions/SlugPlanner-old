@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 6",
+    "title": "The Space-Age Solar System",
+    "description": "Scientific study of the Moon, Earth, Mercury, Venus, and Mars by the space program; history of rocket development; the Apollo program and exploration of the Moon; unmanned spacecraft studies of the terrestrial planets; scientific theories of planetary surfaces and atmospheres. Intended for nonscience majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Secondary discussion is optional.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 95,
+            "filled seats": 96,
+            "priority": "high"
+        }
+    }
+}

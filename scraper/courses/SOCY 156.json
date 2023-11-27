@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 156",
+    "title": "U.S. Latinx Identities: Centers and Margins",
+    "description": "Explores historical and contemporary constructions of Latinx identities and experiences in U.S. Particular emphasis placed on transcultural social contexts, racial formations, and intersections with other identities including sexuality and gender. (Formerly U.S. Latina/o Identities: Centers and Margins).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, global information and enterprise, Latin American studies, and  Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and enterprise, Latin American studies, and  Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 32,
+            "priority": "moderate"
+        }
+    }
+}

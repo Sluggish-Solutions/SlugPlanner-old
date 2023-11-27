@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 256C",
+    "title": "Advanced Topics in Inorganic Chemistry",
+    "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

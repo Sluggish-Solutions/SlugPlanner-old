@@ -1,0 +1,34 @@
+{
+    "name": "METX 200",
+    "title": "Interdisciplinary Approaches in Environmental Toxicology",
+    "description": "Introduction to interdisciplinary, case-based approaches to problem-solving. Demonstrates how important, current problems in environmental and human health have been addressed and solved. Presents assigned problems that integrate the different organization levels (environmental, molecular/cellular, organismal/public health) inherent to environmental and human health. Students work in collaborative teams to analyze each problem and create a proposal for a research plan/solution. This course must be taken for a letter grade.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Advanced undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

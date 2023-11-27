@@ -1,0 +1,34 @@
+{
+    "name": "KRSG 85S",
+    "title": "Critical Writing Practicum: The Politics of Climate Crisis",
+    "description": "The climate crisis challenges and frustrates common assumptions about individual and collective agency, nature and the process of history, the organization of human and non-human activity, and of politics itself. This seminar examines current debates and representations in various media, working collaboratively to understand the political dimensions of what we designate in simple terms as ?climate change?, but which really encompasses a broad range of interrelated natural and social phenomena. Students develop critical interdisciplinary research projects within thematic groups that explore more specific topics?e.g., strategic failures of cosmopolitanism, eco-fascism and climate migration, biodiversity and land enclosure, the Green New Deal vs. degrowth, or the ethics of sabotage. (Formerly offered as Critical Writing Practicum: Subject and System.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to students in the College Scholars Program.",
+        "courses": [
+            [
+                "E      C S P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 233",
+    "title": "Galaxies and Cosmology I",
+    "description": "Advanced survey of topics in cosmology and galaxy formation. Appropriate for graduate students and undergraduates with a significant background in physics and astronomy. Topics include modern physical cosmology, curved space-times, observational tests of cosmology, the early universe, dark matter, the emergence of cosmic structure and the formation and evolution of galaxies. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

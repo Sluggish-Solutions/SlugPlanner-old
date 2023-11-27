@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 188A",
+    "title": "Practicum in Archaeology A",
+    "description": "Introduces practical skills in archaeological materials identification of stone, shell, bone, and other materials, curation, and database management. Students receive entry-level training with once-weekly class meetings and five hours per week of hands-on work. Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3, and instructor consent. All three courses in sequence (ANTH 188A, ANTH 188B, ANTH 188C) required to count for the anthropology major or minor.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

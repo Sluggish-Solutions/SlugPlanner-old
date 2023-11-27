@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 129",
+    "title": "Live Electroacoustic Music Ensemble",
+    "description": "Explores the live performance practice of electroacoustic music, including historical repertoire, improvisation, and compositions by participants. All manner of electronic audio resources are applied to real-time performance. Participants need a basic proficiency in electronic audio and computer tools. Enrollment is restricted to juniors, seniors, and graduate students. Enrollments is by permission of the instructor at first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

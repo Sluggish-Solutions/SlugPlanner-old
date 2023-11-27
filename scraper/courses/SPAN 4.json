@@ -1,0 +1,48 @@
+{
+    "name": "SPAN 4",
+    "title": "Second-Year Spanish",
+    "description": "Includes comprehensive grammar review, composition, readings, and discussion. Reading and audiovisual material deal with various sociopolitical and cultural issues in the Spanish-speaking world. Classes are conducted in Spanish.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 1B or SPAN 3 or placement into SPAN 4 via the online Spanish Placement Examination.",
+        "courses": [
+            [
+                "P SPAN 1B",
+                "SPAN 3",
+                "SPAN 4    S P E"
+            ]
+        ]
+    },
+    "class_notes": "This course features a virtual exchange component with students at Universidad Arturo Prat (UNAP) in Chile. As part of the UCSC Global Classroom program, this course will allow you to have conversation exchanges and collaborate with students at UNAP.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 44,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 81,
+            "filled seats": 55,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

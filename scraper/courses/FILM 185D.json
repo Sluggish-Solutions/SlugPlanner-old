@@ -1,0 +1,34 @@
+{
+    "name": "FILM 185D",
+    "title": "Sound and Image in Theory and Criticism",
+    "description": "Explores theories and critiques of sound in culture and analyzes sound in relation to media images in film, video, and other media.  Voice, noise, and music are addressed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 120.",
+        "courses": [
+            [
+                "P FILM 120"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

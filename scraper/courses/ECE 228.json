@@ -1,0 +1,32 @@
+{
+    "name": "ECE 228",
+    "title": "Engineering of Thin Film Deposition",
+    "description": "Covers key processes to build a coherent picture of the deposition of thin films. Offers an opportunity to implement general computing resources in describing the formation of thin films. The deposition of thin films plays a key role in technology due to their unprecedented physical properties. Their deposition depends on such factors as thermodynamics in the deposition environment and kinetics on the solid surfaces where atoms are assembled; therefore, understanding the fundamental processes involved is important. (Formerly EE 217.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Students should have a background in solid-state materials that is equivalent to ECE 102. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

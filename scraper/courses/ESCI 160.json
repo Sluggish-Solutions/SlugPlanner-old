@@ -1,0 +1,32 @@
+{
+    "name": "ESCI 160",
+    "title": "Data Analysis in the Environmental Sciences",
+    "description": "Introduces data-analysis methods regularly encountered within environmental sciences. Students learn how to think about data, its uncertainty, how models and data are related and depend on underlying assumptions, and how to synthesize information contained in data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "environmental sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11B or MATH 19B or equivalent. Enrollment is restricted to environmental sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 103,
+            "filled seats": 60,
+            "priority": "low"
+        }
+    }
+}

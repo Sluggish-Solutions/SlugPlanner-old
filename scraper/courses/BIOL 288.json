@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 288",
+    "title": "Pedagogy in STEM",
+    "description": "Prepares graduate students to help teach university science courses. Weekly class sessions include activities and interactive discussions of diverse modes of learning, diverse ways of teaching, peer instruction, assessment of learning, equity and inclusion, and professional ethics. Students also visit an active learning class and an active learning discussion section at UCSC, then write evaluations of the teaching strategies used in those classes. (Formerly Teaching Assistant Training.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 24,
+            "priority": "moderate"
+        }
+    }
+}

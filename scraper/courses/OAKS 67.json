@@ -1,0 +1,32 @@
+{
+    "name": "OAKS 67",
+    "title": "The Politics of Food: Labor and Social Justice",
+    "description": "Engages the themes of Oakes College (respect for diversity and social justice) and the interests of UCSC's Center for Agroecology and Sustainable Food Systems. Topics include the racial politics of food, farm labor, organic farming, and activism. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): OAKS 1. Enrollment is restricted to Oakes College affiliates.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Non-Oakes Affiliates or students without the pre-requisite may contact Professor King to request an add code to enroll:ryking@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HIS 163C",
+    "title": "Jesus in History and Film",
+    "description": "In Roman Judea, a Jewish religious leader named Jesus was born during the reign of Herod the Great and executed under Pontius Pilate. Course focuses on the historical figure Jesus of Nazareth and the stories people have told about him, past and present. Also examines the ever-changing interpretations of Jesus, exploring the interpretive relationship between the ancient sources and the multiple efforts to narrate his life in film.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 36,
+            "priority": "unavailible"
+        }
+    }
+}

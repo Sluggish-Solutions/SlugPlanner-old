@@ -1,0 +1,32 @@
+{
+    "name": "LIT 61H",
+    "title": "Reading the Movies",
+    "description": "Introduces techniques for the close reading of film (shot-by-shot analysis, etc.), with particular attention to what makes film different from other media. Films studied will cohere around a specific theme, geography, or genre, like film noir. (Formerly Introduction to Film Analysis.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "*** Topic: Introduction to Film Analysis *** Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

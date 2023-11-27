@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 10",
+    "title": "Introduction to Community Activism",
+    "description": "Surveys different strategies of community activism including charity, volunteering, labor and community organizing, and recently emerging global activism with goal of demonstrating how certain strategies challenge existing social relations and arrangements while others typically (and often by design) reproduce them.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 88,
+            "priority": "high"
+        }
+    }
+}

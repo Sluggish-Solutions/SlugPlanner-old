@@ -1,0 +1,32 @@
+{
+    "name": "ECE 215",
+    "title": "Models of Robotic Manipulation",
+    "description": "Theory and application of mathematical models to analyze, design, and program serial kinematic chains (robot arms). Covers models of arbitrary articulated robotic or biological arms and their application to realistic arms and tasks, including the homogeneous coordinate model of positioning tasks; the forward and inverse kinematic models; the Jacobian matrix; trajectory generation;and dynamic models, including Newton-Euler and Lagrangian formulations.  (Formerly CMPE 215.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; and to seniors who have taken ECE 141, and AM 10 or MATH 21; or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

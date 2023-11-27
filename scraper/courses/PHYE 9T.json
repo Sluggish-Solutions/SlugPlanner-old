@@ -1,0 +1,40 @@
+{
+    "name": "PHYE 9T",
+    "title": "Boating: Intermediate Keelboat Sailing",
+    "description": "Coeducational. Further development and refinement of boat-handling techniques, including advanced maneuvering, anchoring, and racing with an introduction to the use of spinnakers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9S.",
+        "courses": [
+            [
+                "P PHYE 9S"
+            ]
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if class is full. Prerequisite 9S.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

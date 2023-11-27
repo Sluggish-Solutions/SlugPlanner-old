@@ -1,0 +1,32 @@
+{
+    "name": "HIS 189",
+    "title": "@history: Doing History in a Digital Age",
+    "description": "Investigates questions relating to how new technologies are changing the way historians do research and interact with the public. This course has both a critical classroom component and a hands-on computer laboratory component.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history, Jewish studies, German studies, and classical studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior history, Jewish studies, German studies, and classical studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

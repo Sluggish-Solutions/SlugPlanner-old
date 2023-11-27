@@ -1,0 +1,34 @@
+{
+    "name": "PHIL 270",
+    "title": "Research Seminar",
+    "description": "A research seminar to develop the skills of the profession with special focus on critical reading, constructing feedback, and philosophical research and writing. Enrollment is restricted to third-year Ph.D. students, and students must complete it by the end of their third year. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to philosophy graduate students. Other students may enroll with instructor permission.",
+        "courses": [
+            [
+                "O"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "SPAN 190A",
+    "title": "Temas de la literatura y cultura espanolas y latinoamericanas",
+    "description": "Speaking, reading, and writing proficiency in Spanish is required. Examines authors or issues in Spanish and Latin American literature and cultures. Course topic changes; see the Class Search for the current topic. Critical approach designations: Geographies, Histories. Distribution requirement: Senior Seminar. Spanish studies majors may use this course to satisfy the Spanish studies senior exit requirement. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior Spanish studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 114 or SPHS 115.  Enrollment is restricted to senior Spanish studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course is cross-listed with LIT 190X",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

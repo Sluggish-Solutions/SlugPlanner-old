@@ -1,0 +1,32 @@
+{
+    "name": "LIT 61J",
+    "title": "Introduction to Jewish Literature and Culture",
+    "description": "Surveys 3,000 years of Jewish literature and culture. Themes include origins of the Jews in the ancient world; formation and persistence of the Jewish diaspora; coherence and diversity of Jewish experience; Jewish narrative and textual traditions; interaction between Jews and other cultures; tensions between tradition and modernity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

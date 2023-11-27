@@ -1,0 +1,38 @@
+{
+    "name": "OAKS 80D",
+    "title": "Political Change in Mexico",
+    "description": "Reviews broad trends in contemporary Mexican politics against the backdrop of long-term historical, social, and economic change throughout the 20th century, analyzing how power is both wielded from above and created from below. The course covers national politics, grassroots movements for social change and democratization, environmental challenges, indigenous movements, the media, and the politics of immigration and North American integration.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

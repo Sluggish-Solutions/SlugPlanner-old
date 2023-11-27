@@ -1,0 +1,32 @@
+{
+    "name": "EART 2",
+    "title": "Earth Catastrophes",
+    "description": "The role of catastrophic processes in shaping Earth and the environment in which we live.  The physical processes causing earthquakes, volcanic eruptions, tsunamis, floods, windstorms, landslides, and meteorite impacts will be described, along with the role played by these rapid processes in the geological and biological evolution of the planet.  Interdisciplinary approaches to understanding these phenomena will be discussed.  The entire time scale from formation of the universe to the present Earth system will be considered.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 268,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

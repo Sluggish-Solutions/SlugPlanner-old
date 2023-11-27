@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80P",
+    "title": "Pixar - Story Matters",
+    "description": "Emphasizes script development by exploring dramatic writings from ancient to contemporary theater, then focusing on Pixar screenplays with their universal themes and compelling characters. Film analysis of Pixar movies delves into animation history, fairytale, psychology, and popular culture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

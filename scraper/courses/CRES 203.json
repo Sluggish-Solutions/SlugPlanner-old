@@ -1,0 +1,32 @@
+{
+    "name": "CRES 203",
+    "title": "Black Studies Theories",
+    "description": "Exploration of interdisciplinary research and theoretical frameworks relevant to the study of the global black communities. Examines multiple theoretical approaches to the study of Blackness, drawing from a wide array of ethnographic, historical/archival, cultural studies and discursive analyses. Designed to help students develop a research tool kit, one that is rigorous, flexible, practical, ethical, grounded, and self-reflexive.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to Graduate Students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

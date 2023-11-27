@@ -1,0 +1,34 @@
+{
+    "name": "PUNJ 3",
+    "title": "First-Year Punjabi",
+    "description": "Designed to continue building and strengthening students' skills in reading, writing, speaking and listening of modern Punjabi. In addition to new vocabulary, students are introduced to Punjabi idioms, proverbs, modern/medieval poetry, letter writing, and more elaborate compositions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PUNJ 2 or by consent of the instructor.",
+        "courses": [
+            [
+                "P PUNJ 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

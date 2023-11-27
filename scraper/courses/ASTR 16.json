@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 16",
+    "title": "Astrobiology: Life in the Universe",
+    "description": "Topics include the detection of extrasolar planets, planet formation, stellar evolution and properties of Mars, the exploration of our solar system and the search for life within it, and the evolution of life on Earth. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the Math 2 level required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 85,
+            "filled seats": 85,
+            "priority": "high"
+        }
+    }
+}

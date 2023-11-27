@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 122E",
+    "title": "Art and Propaganda in China",
+    "description": "Examines painting, photography, sculpture, film, mixed-media works, propaganda posters, and performance art from the mid-19th century to the contemporary period. Investigates how transcultural exchanges shaped the trajectory of Chinese arts; the roles new mediums played in changing Chinese art and national identity; the impact of politics on the development of visual culture; and the varied styles and movements that burgeoned since the post-Mao period. Course provides students with a firm understanding of the development of modern and contemporary Chinese art and visual culture within social, political, and historical contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

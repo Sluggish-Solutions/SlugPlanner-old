@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 119Q",
+    "title": "Perspectives on Autism",
+    "description": "Explores multiple perspectives on autism, highlighting those of autistic scholars, disability studies scholars, and philosophers. Satisfies the seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10, PSYC 100, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

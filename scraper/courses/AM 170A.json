@@ -1,0 +1,32 @@
+{
+    "name": "AM 170A",
+    "title": "Mathematical Modeling 1",
+    "description": "Introduction to mathematical modeling emphasizing model construction, tool selection, methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that can be solved using only analytical tools, and simple Matlab routines. Applications are drawn from a variety of fields such as physics, biology, engineering, and economics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. AM 30, and AM 114 or AM 214, and STAT 131 or CSE 107, or by permission of the instructor. Enrollment is restricted to juniors and seniors; graduate students may apply by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

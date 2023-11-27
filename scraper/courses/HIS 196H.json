@@ -1,0 +1,32 @@
+{
+    "name": "HIS 196H",
+    "title": "Sex and the City--The History of Sexuality in Urban Areas Around the Globe",
+    "description": "Focuses on the history of sexuality in major urban areas globally. Topics include: sexual identities and race, class, and gender; sex work, policing, and urban spaces; gay, lesbian, and transgender communities; race, gender, and sexuality within the context of colonialism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100, and two additional upper-division history courses, or by permission of instructor. Enrollment is restricted to junior and senior history majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

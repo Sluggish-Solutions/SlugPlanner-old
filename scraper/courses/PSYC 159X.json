@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 159X",
+    "title": "Psychology of Social Activism",
+    "description": "Covers social-psychological scholarship relevant to social justice activism that receives limited academic attention in conventional psychology. The seminar aims at understanding how knowledge gained in action-oriented research can be applied to social change.  Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and PSYC 100. Enrollment is restricted to senior psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 17,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 16,
+            "priority": "unavailible"
+        }
+    }
+}

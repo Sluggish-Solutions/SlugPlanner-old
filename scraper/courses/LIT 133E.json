@@ -1,0 +1,32 @@
+{
+    "name": "LIT 133E",
+    "title": "Contemporary Chinese Society, Culture, and Politics",
+    "description": "Focuses on contemporary China: society, politics, culture, and the economy. Critical approach designations: Geographies, Histories. Distribution requirement: Global. (Formerly Topics in Asian Modernism.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "*** The Monday evening 7:10 - 10:10 pm class time is reserved for weekly film screenings. ***",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

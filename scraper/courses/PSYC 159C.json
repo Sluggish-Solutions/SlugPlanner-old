@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 159C",
+    "title": "Disability Justice and Psychology",
+    "description": "Introduces students to the paradigm and legacies of disability justice and inquires how psychology as a discipline and practice can incorporate disability justice theory and practice. These histories of ableism within psychology are traced and examined over the past two centuries to the present with a critique of ''abnormality'' and ''cure.''  Taking an intersectional perspective, the course presents ableism intersecting with other power systems like racism and sexism and includes perspectives from the emerging area of DisCrit (also called critical disability studies). Within the framework of disability justice alternative models of healing justice and harm reduction are elaborated upon. Satisfies the seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Entry Level Writing and Composition requirements; and PSYC 100. Enrollment is restricted to senior psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 29,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

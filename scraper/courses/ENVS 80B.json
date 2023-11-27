@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 80B",
+    "title": "Climate Change Science and Solutions",
+    "description": "A broad overview of the impacts of human activities on the global climate system. Topics include how climate affects the distribution of ecosystems, the influence of global climate change on biodiversity, ecosystem function, and consequences for the human enterprise. (Formerly The Ecological Forecast for Global Warming.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 140,
+            "filled seats": 118,
+            "priority": "moderate"
+        }
+    }
+}

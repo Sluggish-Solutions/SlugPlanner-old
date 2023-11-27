@@ -1,0 +1,32 @@
+{
+    "name": "LIT 200",
+    "title": "Proseminar",
+    "description": "The proseminar provides a common experience for entering students, facilitates exchange of ideas and approaches to literary and extra-literary texts, critical issues, and theoretical problems. It focuses on broad aspects of the history of theory and criticism, on the students' critical writing, and on aspects of professional development.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

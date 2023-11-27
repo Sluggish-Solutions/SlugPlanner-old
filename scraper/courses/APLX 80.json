@@ -1,0 +1,38 @@
+{
+    "name": "APLX 80",
+    "title": "Introduction to Applied Linguistics",
+    "description": "Introduces the field of applied linguistics, learning about language acquisition, use, and teaching in multilingual contexts from multiple disciplinary perspectives. Also, introduces research models that examine psycholinguistic, sociolinguistic, and/or educational aspects of multilingualism..",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

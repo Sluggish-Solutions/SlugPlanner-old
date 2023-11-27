@@ -1,0 +1,38 @@
+{
+    "name": "ART 101",
+    "title": "Introduction to Computer Programming for the Arts",
+    "description": "Combines an introduction to computer programming for beginners with special topics that are essential for the digital arts. Basic concepts of programming are developed in the JavaScript language and applied to digital arts media, such as algorithmically generated still images and animations in two and three dimensions, sound art, and music composition. Presentation of digital artwork in the theater and via the web are covered in detail.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 75,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 99,
+            "priority": "high"
+        }
+    }
+}

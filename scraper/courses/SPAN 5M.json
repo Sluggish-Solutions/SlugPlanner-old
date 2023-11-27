@@ -1,0 +1,49 @@
+{
+    "name": "SPAN 5M",
+    "title": "Medical Spanish",
+    "description": "Students learn medical vocabulary, useful expressions, suitable grammatical structures, and cultural background to be able to interact with Spanish-speaking patients and doctors. Medical Spanish fulfills language requirement for Human Biology majors and Global Community Health B.A. and B.S. majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "human biology majors and global community health B.A. and B.S. majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 4; or SPHS 4, or SPHS 5, or SPHS 6; or placement into SPAN 5 or SPHS 4 via the online Spanish Placement Examination. Enrollment is restricted to human biology majors and global community health B.A. and B.S. majors.",
+        "courses": [
+            [
+                "A"
+            ],
+            [
+                "BS"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 27,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

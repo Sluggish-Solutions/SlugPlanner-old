@@ -1,0 +1,43 @@
+{
+    "name": "CMPM 171",
+    "title": "Game Design Studio",
+    "description": "Students work in teams to create a fully-functional subset (''vertical slice'') of an interactive, playable software system. Focus is on experience design, systems design, integrating assets (visual, auditory, and written), testing, and project management. May be repeated for credit. (Formerly offered as Game Design Studio II.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: CMPM 121 and CMPM 130 and CMPM 170 and CMPM 176.",
+        "courses": [
+            [
+                "P CMPM 121"
+            ],
+            [
+                "CMPM 130"
+            ],
+            [
+                "CMPM 170"
+            ],
+            [
+                "CMPM 176"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction (collaboration) with CMPM 171-02.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 130,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

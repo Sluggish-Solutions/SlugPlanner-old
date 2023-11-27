@@ -1,0 +1,34 @@
+{
+    "name": "GERM 5",
+    "title": "Second-Year German",
+    "description": "Intermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GERM 4 or placement by examination.",
+        "courses": [
+            [
+                "P GERM 4"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

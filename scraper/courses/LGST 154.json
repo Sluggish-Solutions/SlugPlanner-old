@@ -1,0 +1,32 @@
+{
+    "name": "LGST 154",
+    "title": "The Legal Profession",
+    "description": "Lawyers stand between the legal system and those who are affected by it.  Examines this relationship descriptively and normatively, and from the point of view of sociological theory. Concentrates on the U.S. profession, with some comparative material.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 50,
+            "priority": "high"
+        }
+    }
+}

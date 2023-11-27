@@ -1,0 +1,32 @@
+{
+    "name": "MATH 239",
+    "title": "Homological Algebra",
+    "description": "Homology and cohomology theories have proven to be powerful tools in many fields (topology, geometry, number theory, algebra). Independent of the field, these theories use the common language of homological algebra. The aim of this course is to acquaint the participants with basic concepts of category theory and homological algebra, as follows: chain complexes, homology, homotopy, several (co)homology theories (topological spaces, manifolds, groups, algebras, Lie groups), projective and injective resolutions, derived functors (Ext and Tor). Depending on time, spectral sequences or derived categories may also be treated. MATH 200 and MATH 202 strongly recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "STEV 43",
+    "title": "Comparative Nationalisms in Historical  Perspective",
+    "description": "From the white nationalist demonstrations in the USA to Brexit and the resurgence of populist movements in India and Europe, nationalism is resurgent worldwide. In this course, students conduct research into a current nationalist movement of their choice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to students in the College Scholars Program.",
+        "courses": [
+            [
+                "E      C S P"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 18,
+            "priority": "low"
+        }
+    }
+}

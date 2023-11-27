@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 123",
+    "title": "Electronic Sound Synthesis",
+    "description": "Introduction to electronic music studio techniques, relevant electroacoustical studies, and procedures of electronic music composition. Practical experience in the UCSC electronic music studio with an analog synthesizer; mixing, equalization, multitrack recording equipment, and other sound processing. Application form available at department office during last two weeks of the previous quarter. Preference given to music majors, students in the film/video major, and those with substantial musical experience. Prerequisite(s): instructor determination via application; MUSC 80C or MUSC 30A placement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

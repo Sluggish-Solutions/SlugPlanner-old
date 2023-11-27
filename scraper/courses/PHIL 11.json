@@ -1,0 +1,44 @@
+{
+    "name": "PHIL 11",
+    "title": "Introduction to Philosophy",
+    "description": "An introduction to the main areas of philosophy through critical reflection on and analysis of both classical and contemporary texts. Focuses on central and enduring problems in philosophy such as skepticism about the external world, the mind-body problem, and the nature of morality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 360,
+            "filled seats": 361,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 360,
+            "filled seats": 355,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 360,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "STAT 203",
+    "title": "Introduction to Probability Theory",
+    "description": "Introduces probability theory and its applications. Requires a multivariate calculus background, but has no measure theoretic content. Topics include: combinatorial analysis; axioms of probability; random variables (discrete and continuous); joint probability distributions; expectation and higher moments; central limit theorem; law of large numbers; and Markov chains. Students cannot receive credit for this course and STAT 131 or CMPE 107. (Formerly AMS 203.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students, or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 16,
+            "priority": "very low"
+        }
+    }
+}

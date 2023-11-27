@@ -1,0 +1,44 @@
+{
+    "name": "OCEA 80B",
+    "title": "Our Changing Planet",
+    "description": "Interdisciplinary scientific perspective on Earth system, focusing on human impacts on global environment. Introduces concepts of Earth system science and explores topics such as global warming, ozone depletion, pollution, deforestation, and future climate change. Prerequisite(s): high school chemistry course recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 96,
+            "filled seats": 26,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 39,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 96,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

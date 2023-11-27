@@ -1,0 +1,38 @@
+{
+    "name": "ART 157",
+    "title": "Immersive Arts Field Research",
+    "description": "Students are immersed in site specific field research over the span of a four-day in-the-field trip utilizing the public land of California, via the UC Natural Reserve System. Students are educated about research related to a specific place while exploring concepts of site-specificity and develop their own new inquiries about a place by experiencing it physically and by engaging with contemporary art concepts and art project development. Prerequisite(s): two lower-division studio art courses. Enrollment is restricted to junior and senior art majors. Enrollment is by permission of instructor. Due to the rigor of the course, students must submit an application demonstrating the commitment and photo preparation necessary for successful completion of the class. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Arts field research Sweeney Granite Mountains Desert Research Center: Mojave trip dates: depart morning November 9th - return evening of Monday November 13. Four Friday morning (9-11am) zoom meetings will also be held as part of the course; specific dates to be announced by the instructors at the start of the quarter. Enrollment by permission of instructor via application process. Please contact instructor for information on the application process.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 10,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 109D",
+    "title": "Ecology and Conservation in Practice Supercourse: Conservation in Practice",
+    "description": "Focuses on current issues in environmental and conservation biology and the emerging field methods used to address them. From field-oriented lectures about current issues in environmental and conservation biology, students pursue research project as individuals and small groups to develop hands-on experience with field skills in conservation research and resource management. Enrollment is by application. Prerequisite(s): BIOL 20A, BIOE 20B, BIOE 20C or ENVS 23, 24, 100; and AMS 7 and 7L. Concurrent enrollment in BIOE 151A-B-C or ENVS 109A-B-C required. Satisfies the senior exit requirement for biological sciences majors and satisfies the senior exit requirement for environmental studies majors by prior approval. Students cannot receive credit for this course and BIOE 150, 150L, ENVS 104A or 196A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment By Permission Only",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "4",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 11,
+            "priority": "unavailible"
+        }
+    }
+}

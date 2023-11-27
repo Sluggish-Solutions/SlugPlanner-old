@@ -1,0 +1,32 @@
+{
+    "name": "GCH 195",
+    "title": "Global and Community Health Communication",
+    "description": "Focuses on enabling students to assess and communicate their learning in global and community health (GCH) using an iterative process of writing, review, and website development. The e-portfolio webpages students complete by the end of the course will together comprise their capstone ''GCH e-Record'' designed to communicate their disciplinary and interdisciplinary learning in their degree to a specific audience beyond the university.  These written reflections, in turn, involve meta-learning about how expert knowledge moves between different communities, and about how audience expectations and writing conventions condition communications about health expertise in particular. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "seniors majoring in global and community health.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GCH 1, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors majoring in global and community health.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

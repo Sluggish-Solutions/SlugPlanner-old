@@ -1,0 +1,37 @@
+{
+    "name": "PHYS 5M",
+    "title": "Introduction to Physics II Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 5B. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5L; concurrent enrollment in PHYS 5B is required.",
+        "courses": [
+            [
+                "P PHYS 5L"
+            ],
+            [
+                "PHYS 5B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 264,
+            "filled seats": 256,
+            "priority": "high"
+        }
+    }
+}

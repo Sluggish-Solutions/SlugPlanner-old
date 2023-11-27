@@ -1,0 +1,41 @@
+{
+    "name": "COWL 158A",
+    "title": "Special Topics: Oral History",
+    "description": "Introduction to the theory, practice, technology, and ethics of conducting oral history. Readings and expert guest speakers offer both theoretical and practical insights. Students plan and implement oral history projects in accordance with professional standards.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            [
+                "E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

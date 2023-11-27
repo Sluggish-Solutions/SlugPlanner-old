@@ -1,0 +1,32 @@
+{
+    "name": "STAT 206",
+    "title": "Applied Bayesian Statistics",
+    "description": "Introduces Bayesian statistical modeling from a practitioner's perspective. Covers basic concepts (e.g., prior-posterior updating, Bayes factors, conjugacy, hierarchical modeling, shrinkage, etc.), computational tools (Markov chain Monte Carlo, Laplace approximations), and Bayesian inference for some specific models widely used in the literature (linear and generalized linear mixed models).  (Formerly AMS 206.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 131 or STAT 203, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

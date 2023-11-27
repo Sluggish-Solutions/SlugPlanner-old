@@ -1,0 +1,44 @@
+{
+    "name": "PHYS 291C",
+    "title": "Developments in Theoretical Particle Physics",
+    "description": "Seminar on the current literature of elementary particle physics, ranging from strong and weak interaction phenomenology to Higgs physics, supersymmetry, and superstring theory. Students may present their own research results. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 218. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 1,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

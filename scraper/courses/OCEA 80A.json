@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 80A",
+    "title": "Life in the Sea",
+    "description": "The ecology of plants and animals in oceans and coastal areas. Consideration of life in various marine habitats, including the open ocean, rocky shores, estuaries, and the sea. Includes field trips. High school biology and chemistry courses are recommended prior to taking this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 244,
+            "filled seats": 131,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 144,
+            "filled seats": 141,
+            "priority": "high"
+        }
+    }
+}

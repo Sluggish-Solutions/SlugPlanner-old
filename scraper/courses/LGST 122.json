@@ -1,0 +1,32 @@
+{
+    "name": "LGST 122",
+    "title": "The Sociology of Law",
+    "description": "Explores the social forces that shape legal outcomes and the ways law, in turn, influences social life. Traces the history and political economy of American law; the relation between law and social change; how this relation is shaped by capitalism and democracy; and how class, race, and gender are expressed in welfare and regulatory law.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors and minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors and minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as SOCY 122",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

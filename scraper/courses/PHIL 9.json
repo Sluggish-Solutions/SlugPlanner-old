@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 9",
+    "title": "Introductory Symbolic Logic",
+    "description": "A first course in symbolic deductive logic. Major topics include (but are not limited to) the study of systems of sentential logic and predicate logic, including formal deduction, semantics, and translation from natural to symbolic languages. Formerly Introduction to Logic.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 144,
+            "filled seats": 138,
+            "priority": "high"
+        }
+    }
+}

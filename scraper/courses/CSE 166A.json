@@ -1,0 +1,38 @@
+{
+    "name": "CSE 166A",
+    "title": "Game Theory and Applications I",
+    "description": "Introduces modern game theory, including applications in social science, biology, and engineering. Topics include extensive form, strategic form, mixed strategies, incomplete information, repeated games, evolutionary games, and simulation techniques.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 5, STAT 7, STAT 17 or ECON 113; and ECON 11B or AM 11B, or MATH 11B, MATH 19B, STAT 131 or CSE 107. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 65,
+            "filled seats": 63,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

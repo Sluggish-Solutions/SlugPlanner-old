@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 119E",
+    "title": "The World of Babies",
+    "description": "Focuses on how infants learn about intuitive physics, naive psychology, and shared culture. Also discusses how cultural communities shape infants' learning. Satisfies the seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements and PSYC 100.  Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 29,
+            "priority": "unavailible"
+        }
+    }
+}

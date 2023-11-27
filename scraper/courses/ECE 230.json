@@ -1,0 +1,32 @@
+{
+    "name": "ECE 230",
+    "title": "Optical Fiber Communication",
+    "description": "Components and system design of optical fiber communication. Topics include step-index fibers, graded-index fibers, fiber modes, single-mode fibers, multimode fibers, dispersion, loss mechanics, fiber fabrication, light-emission processes in semiconductors, light-emitting diodes, laser diodes, modulation response, source-fiber coupling, photodetectors, receivers, receiver noise and sensitivity, system design, power budget and rise-time budget, fiber-optic networks (FDDI, SONET, etc.), wavelength division multiplexing (WDM). Students cannot receive credit for this course and course 130. (Formerly EE 230.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 130.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 55,
+            "filled seats": 39,
+            "priority": "low"
+        }
+    }
+}

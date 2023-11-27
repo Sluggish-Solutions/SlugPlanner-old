@@ -1,0 +1,32 @@
+{
+    "name": "GAME 235",
+    "title": "Game Development I",
+    "description": "First in a two-course sequence providing an introduction to game programming using a modern object-oriented language. Introduces the technologies used in the construction of computer games. Introduces the principles of 2D game engine design, including architecture, object-oriented design patterns, and collision detection. Students may not receive credit for this course and GAME 230.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 28,
+            "filled seats": 23,
+            "priority": "moderate"
+        }
+    }
+}

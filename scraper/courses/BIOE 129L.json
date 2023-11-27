@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 129L",
+    "title": "Biology of Marine Mammals Laboratory",
+    "description": "Covers the basics of marine mammal taxonomy, anatomy, and field methods with an emphasis on local field identification and understanding of local species. Will include field trips to Long Marine Lab, Ano Nuevo, and Monterey Bay.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C. Must be taken concurrently with BIOE 129.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C M     BIOE 129"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 129 is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 114,
+            "priority": "high"
+        }
+    }
+}

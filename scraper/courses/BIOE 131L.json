@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 131L",
+    "title": "Animal Physiology Laboratory",
+    "description": "Experiments conducted with primary focus on quantitative physiological principles of organ systems and intact organisms. Students cannot receive credit for this course and BIOL 130L.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C. Concurrent enrollment in BIOE 131 is required.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C C   BIOE 131"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 131 is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

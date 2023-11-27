@@ -1,0 +1,38 @@
+{
+    "name": "HUMN 55",
+    "title": "Technologies of Representation",
+    "description": "Explores the technologies that variously delight, extend, and command our imagination. Students explore the social and political problems they can create or amplify and collaborate on creative responses. In this iteration, the focus is on technologies for visual representation. Examines cameras, drones, apps, algorithms and other technologies that allow people to make and share images, and asks how these technologies shape how and what we see, as well as what they keep hidden and obscure. Also investigates how power operates in the making, circulation, and consumption of pre- and post-internet visual culture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course fulfills a course requirement towards the Humanizing Technology Certificate.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 33,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

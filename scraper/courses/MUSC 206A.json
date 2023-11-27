@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 206A",
+    "title": "World Music Composition",
+    "description": "Studies in the history, structure, and cultural function of music from cultures as diverse as Global African, central European, Korean, Latin American, Indonesian, and Indian traditions. Examines ways in which composers such as Bartok, Anthony Braxton, Chou Wen-Chung, Lou Harrison, and Takemitsu sought and integrated such influences. Students choose to write critical and analytic essays on musics exhibiting diverse cultural influences, or to compose music that takes a vernacular or non-European music as a model for a compositional/improvisational approach. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

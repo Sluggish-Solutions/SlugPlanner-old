@@ -1,0 +1,47 @@
+{
+    "name": "BIOL 115",
+    "title": "Eukaryotic Molecular Biology",
+    "description": "Covers eukaryotic gene and genome organization; DNA, RNA, and protein synthesis; regulation of gene expression; chromosome structure and organization; and the application of recombinant DNA technology to the study of these topics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 101 or BIOC 100A; and BIOL 105; and BIOL 101L or BIOL 102L or BIOL 107L or BIOL 122K or CHEM 160K or CHEM 161K. Enrollment restricted to biological sciences and affiliated majors, non-majors by permission of instructor.",
+        "courses": [
+            [
+                "P BIOL 101",
+                "BIOC 100A"
+            ],
+            [
+                "BIOL 105"
+            ],
+            [
+                "BIOL 101L",
+                "BIOL 102L",
+                "BIOL 107L",
+                "BIOL 122K",
+                "CHEM 160K",
+                "CHEM 161K E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 84,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

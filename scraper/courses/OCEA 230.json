@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 230",
+    "title": "Biological Oceanography",
+    "description": "Biological description of the sea,  with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and OCEA 130.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

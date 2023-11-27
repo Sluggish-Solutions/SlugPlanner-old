@@ -1,0 +1,44 @@
+{
+    "name": "LIT 91A",
+    "title": "Intermediate Fiction/Prose Writing",
+    "description": "An intermediate-level course in fiction designed for prospective applicants to the creative writing concentration. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 22,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

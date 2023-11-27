@@ -1,0 +1,34 @@
+{
+    "name": "TIM 58",
+    "title": "Systems Analysis and Design",
+    "description": "Students learn how information technology is used to deal with business requirements and/or solve business problems. Provides an understanding of structured computer systems analysis and design methodologies and techniques and their application to business information systems. Intended for technology and information management and business management economics majors. (Formerly CSE 58.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): TIM 50.",
+        "courses": [
+            [
+                "P TIM 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

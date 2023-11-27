@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 81T",
+    "title": "Fundamentals of Music Technology",
+    "description": "A practical introduction to the tools and techniques used for live sound reinforcement and studio recording. Hands-on demonstrations of different microphones, speakers, hardware and software processors, analog and digital systems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 44,
+            "priority": "high"
+        }
+    }
+}

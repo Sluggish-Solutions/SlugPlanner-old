@@ -1,0 +1,32 @@
+{
+    "name": "LIT 81I",
+    "title": "Engineering California",
+    "description": "Online course using literary and artistic texts to investigate the history and engineering of California, and to imagine a virtual, material, and cultural infrastructure for California's future. Course begins and ends with the Internet, and includes topics such as cyberspace, the Gold Rush, Spanish/Mexican missions, wartime development, and early cybernetics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionPlease note: The primary lecture component of LIT 81I is offered as an asynchronous online course. Enrolling in a synchronous discussion section is required. The majority of the discussion sections are offered as online synchronous with the exception of sections LIT 81I-01O and LIT 81I-01P which will be offered as in-person discussion sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 390,
+            "filled seats": 387,
+            "priority": "high"
+        }
+    }
+}

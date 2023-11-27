@@ -1,0 +1,40 @@
+{
+    "name": "ARTG 179",
+    "title": "Game Design Practicum",
+    "description": "Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games  using this technology. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 120.",
+        "courses": [
+            [
+                "P ARTG 120"
+            ]
+        ]
+    },
+    "class_notes": "The topic is Experimental Gameplay: exploring unconventional mechanics, unique control schemes, and innovative game design approaches.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 37,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 31,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 2",
+    "title": "University Orchestra",
+    "description": "A study of selected works for orchestra, culminating in one or more public concerts. Admission by audition with conductor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with MUSC 102",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 63,
+            "filled seats": 53,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 47,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

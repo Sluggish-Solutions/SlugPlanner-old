@@ -1,0 +1,32 @@
+{
+    "name": "SOCD 294A",
+    "title": "Production/Analysis/Editing",
+    "description": "Workshop seminar oriented toward actual fieldwork, production, and preparation for editing of the thesis project in the student's chosen genre. Techniques of collection and recording, analysis, preparation, and editing taught.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to social documentation graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

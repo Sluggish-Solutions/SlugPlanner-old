@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 145",
+    "title": "Green Cities",
+    "description": "Are cities an environmental savior or an engine of pollution? This course considers what makes a truly green city and analyzes innovative urban policies in areas such as energy, transportation, buildings, and waste management.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of the instructor.",
+        "courses": [
+            [
+                "P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 34,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "ECE 167",
+    "title": "Sensing and Sensor Technologies",
+    "description": "Introduces fundamental issues in sensing of temperature, motion, sound, light, position, etc. Sensors are integrated into a digital system using filtering, amplification, and analog-to-digital conversion. Advanced topics may include noise, temperature, and other sources of variability. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 13E or ECE 13; and ECE 103 and ECE 103L.",
+        "courses": [
+            [
+                "P CSE 13E",
+                "ECE 13"
+            ],
+            [
+                "ECE 103"
+            ],
+            [
+                "ECE 103L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 43,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 70,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

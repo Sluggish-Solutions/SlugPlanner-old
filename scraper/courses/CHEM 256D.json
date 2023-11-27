@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 256D",
+    "title": "X-ray Crystallography",
+    "description": "Course in chemical crystallography focuses on the needs of small-molecule, single-crystal diffraction studies. Includes diffraction theory, space-group analysis, data collection, structure solution, and refinement. Practical component: use of diffraction equipment and solution/refinement software.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students and seniors who have taken CHEM 151A, CHEM 151L, and CHEM 163A.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 19,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

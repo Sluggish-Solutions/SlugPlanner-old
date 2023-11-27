@@ -1,0 +1,32 @@
+{
+    "name": "FMST 147",
+    "title": "Gender, Race, Power, Knowledge",
+    "description": "Explores the possibility that forces of social oppression, stratification, and domination emerge not first and foremost from ignorance, but rather from socially legitimated and institutionally embedded forms of knowledge. Primary engagement is with feminist of color texts, science studies, Black and Indigenous studies. Course supports students in building reading, writing, and analytic skills while investigating the intersections of knowledge, power, oppression, and liberation. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "LIT 288Z",
+    "title": "Literatura y sociedad",
+    "description": "Analyzes the relationship between Latin American cultural products and their cultural, economic, and political contexts. The course topic changes; please see the Class Search for the current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Hacia una potica de las Amricas (Spanish)",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "LALS 179",
+    "title": "Environmental Racism in Latin America",
+    "description": "Environmental racism is a structural obstacle to achieving environmental and social justice globally. With a focus on Latin America, this course explores how environmental discourses have shaped everyday life, how the power of race and racism have advanced a colonial relationship in the region. Students learn about the role of race in shaping Latin American societies, and how this is deeply connected to racialized territories, and reflect on their understanding of the inter-relationship between environmental racism and environmental justice across the Americas region.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

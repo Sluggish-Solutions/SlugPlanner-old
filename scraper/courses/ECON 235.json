@@ -1,0 +1,34 @@
+{
+    "name": "ECON 235",
+    "title": "Corporate Finance",
+    "description": "Application of modern financial theory to corporate decision making. Topics covered include capital budgeting and the firm's investment decision, capital structure, dividend policies, and the implications of corporate governance for enterprise financial goals.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 233.",
+        "courses": [
+            [
+                "P ECON 233"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 16,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 235",
+    "title": "Philosophy of Psychology",
+    "description": "Looks at philosophical issues raised by current research on the nature of perception, cognition, and consciousness in psychology and cognitive science or neuroscience. Can there be a science of the mind? Could machines be conscious? Do animals have minds? How did the mind evolve? These and a host of related questions form the subject matter of this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course in philosophy, psychology, or linguistics. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 11,
+            "priority": "high"
+        }
+    }
+}

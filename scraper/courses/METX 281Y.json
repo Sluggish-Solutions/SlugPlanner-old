@@ -1,0 +1,46 @@
+{
+    "name": "METX 281Y",
+    "title": "Biofilms: Processes and Regulation",
+    "description": "Intensive seminar series focusing on the most current work on genes and the processes that regulate biofilm development dynamics as well as on the recent developments on visualization of biofilms. Presentation and discussion based. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor's permission.",
+        "courses": [
+            [
+                "Q"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

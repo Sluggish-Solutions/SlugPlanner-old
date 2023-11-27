@@ -1,0 +1,38 @@
+{
+    "name": "EART 109",
+    "title": "Elements of Field Geology",
+    "description": "Basic tools and techniques used in geologic fieldwork. Preparation, analysis, and interpretation of geologic maps. Nine to 10 days of weekend field trips required, including a six-day geologic mapping exercise. Laboratory: 3 hours. Recommended for courses 120, 130, 150, and required for 188A-B. May not be taken concurrently with course 120, 150, or 188.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "majors and minors in Earth and planetary sciences and the combined majors with anthropology and environmental studies.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, and  EART 5 or EART 10 or EART 20; and EART 5L or EART 10L or EART 20L; or by permission of instructor. Concurrent enrollment in EART 109L is required. Enrollment is restricted to majors and minors in Earth and planetary sciences and the combined majors with anthropology and environmental studies.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART 109L is required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 20,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

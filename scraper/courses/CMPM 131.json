@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 131",
+    "title": "User Experience for Interactive Media",
+    "description": "Theories and practices for approaching the design problems of interactive media holistically, beyond usability and accessibility. Includes hands-on learning, application of human-centered design and evaluation skills in group projects, and peer critique.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 114,
+            "filled seats": 116,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "PHIL 290C",
+    "title": "Advanced Topics in Ethics",
+    "description": "Topics vary but the course focuses on major questions in contemporary ethical theory, or figures influential on contemporary moral philosophy. Examines different foundational ethical principles and arguments for those principles, contrasting accounts of moral action and moral motivation, as well as the epistemological and motivational role of emotions in ethical theory. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to philosophy graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 26,
+            "filled seats": 28,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "STEV 120",
+    "title": "Self and Society: Teaching Practicum",
+    "description": "In pairs, students facilitate one seminar section of STEV 2, attend lectures, and meet with faculty for mentoring and guidance through the teaching process. Students are responsible for designing and executing lesson plans, creating assignments, and for evaluating student work. Prerequisite(s): STEV 80 or STEV 1, and STEV 81 or STEV 2. Admission to the program by application and subsequent interview. Applications are available each fall in early October from the college office and interviews are conducted in early November. Qualifications include, but are not limited to, excellent performance in the core courses, good academic standing, leadership experience, genuine passion for teaching, and caring for fellow students. Strong candidates will be skilled in time management, organization, communication, and judgment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

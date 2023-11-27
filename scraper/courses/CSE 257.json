@@ -1,0 +1,40 @@
+{
+    "name": "CSE 257",
+    "title": "Wireless and Mobile Networks",
+    "description": "An interdisciplinary course on wireless communication and mobile computing. Covers the physical aspects of wireless communication but emphasizes higher protocol layers. Topics include cellular networks, packet radio and ad hoc networks, wireless transport protocols, security, and application-level issues. (Formerly Computer Engineering 257.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 250A or permission of instructor.",
+        "courses": [
+            [
+                "P CSE 250A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 290J",
+    "title": "Advanced Topics in the History of Ethics",
+    "description": "Careful study of any one of the main moral theories in the history of philosophy, with some emphasis on the relation to contemporary moral philosophy. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 23,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

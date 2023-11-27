@@ -1,0 +1,38 @@
+{
+    "name": "EDUC 50B",
+    "title": "CAL Teach 1: Mathematics",
+    "description": "Introductory seminar exploring secondary students, teaching, and schools in the context of mathematics instruction. Concurrent participation in a secondary school internship required. Course material supports and enhances students' placement experiences. Prerequisite(s): Acceptance into CAL Teach and concurrent participation in a secondary school internship in a math classroom.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "See Enrollment Conditions for instructions",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

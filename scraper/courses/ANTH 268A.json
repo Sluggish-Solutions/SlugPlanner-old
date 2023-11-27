@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 268A",
+    "title": "Rethinking Capitalism",
+    "description": "Readings include works by speakers at UCSC's Rethinking Capitalism Initiative. Topics are: (1) financialization versus commodification (how options-theory has changed capitalism); (2) material markets (how this theory performs); and (3) valuation and contingency (how economies make worlds).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 1,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

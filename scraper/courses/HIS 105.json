@@ -1,0 +1,38 @@
+{
+    "name": "HIS 105",
+    "title": "Nations and Nationalism",
+    "description": "Provides an historical, comparative, and theoretical exploration of the development of nations and nationalism. Emphases include the historical formation of nation-states, modernization, colonialism, decolonization, nations and globalization, and the intersections between ethnicity, race, religions, and nationalism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

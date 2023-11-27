@@ -1,0 +1,32 @@
+{
+    "name": "ECON 250B",
+    "title": "Applied Microeconomics II",
+    "description": "Covers topics in applied microeconomics, including public, labor, education, environmental, and health. Discusses advanced econometric techniques used to establish causal identification. Students read and evaluate current research and develop an independent research agenda.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 11,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

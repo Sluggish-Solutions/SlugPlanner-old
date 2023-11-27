@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 267",
+    "title": "Applied Environmental Time Series Analysis",
+    "description": "Course takes an empirical approach to quantify and explain changes in the Earth system over time. Students learn how to analyze time-series data and answer questions about environmental change and variability. Students acquire the theoretical basis of the statistical approaches, gain experience interpreting and discussing the results, and debate the methods chosen resulting in a critical understanding of the underlying assumptions and limitations of the methods discussed. This is a hands-on class and utilizes a suite of observational datasets and outputs from Earth system models. Students cannot receive credit for this course and ESCI 167.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Students are expected to know R, Matlab or Python and have statistics background. Please contact the instructor before enrolling if you are unsure.Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 12,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

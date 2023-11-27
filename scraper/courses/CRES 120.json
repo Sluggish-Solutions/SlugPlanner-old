@@ -1,0 +1,32 @@
+{
+    "name": "CRES 120",
+    "title": "Third World Feminisms",
+    "description": "Places the thought and praxis developed and pursued by Third Worldist women, queer, and gender nonconforming peoples at the center of a conversation on the conditions of coloniality and pursuits of liberation from the entwined tyrannies of imperial, racial, and gendered oppressions. Course asks how African, Asian, Caribbean, and other Third Worldist women activists, artists, and scholars imagined and defined what liberation might have looked like in the 20th century, and what it might mean today.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 34,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 178",
+    "title": "Nutritional Psychology",
+    "description": "Explores the interactive relationship between nutrition and mental health. Includes a review of the research on the impact of different components of nutrition (e.g., protein, minerals, sugar) on the function of the brain, the nervous system, and the endocrine (hormone) system, and how that translates into changes in mood and cognitive capacity. Also explores the psychological factors that influence food choice and eating behaviors in the context of cultural beliefs and pressures.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100; PSYC 170 is recommended as preparation. Enrollment is restricted to psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 118,
+            "priority": "unavailible"
+        }
+    }
+}

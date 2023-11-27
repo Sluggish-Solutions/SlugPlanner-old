@@ -1,0 +1,34 @@
+{
+    "name": "MATH 148L",
+    "title": "Numerical Analysis Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 148. One three-hour session per week in the computer laboratory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in MATH 148 is required.",
+        "courses": [
+            [
+                "C   MATH 148"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "CRWN 81",
+    "title": "Theory and Practices for a Purposeful Life",
+    "description": "Goal is to understand our ability to impact the world around us and recognize that while we cannot control it, we are able to control the ways in which we respond to the various situations that life brings us. The class discusses each of our seven intelligences, the ways in which we intake, process, and put out information and how we gain, use, and lose our internal resources in our everyday exchanges. Includes lectures and active engagement with texts and videos, shared experiences, physical exercises, and games. Also includes a customized App to support follow-through and engagement, and journaling to support self-awareness and reflection.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 82,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 31,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HISC 80T",
+    "title": "What is the Witch: Terror, Subjectivity, Modernity",
+    "description": "What is the witch? A historical person? A vestige of pre-colonial European ancestry? A cultural object whose image and identity are shaped by film, paintings and literature. Class considers the witch's development in Europe. Also reviews the witch as a tool of racial, economic and social stratification in society. By looking at how the witch is represented through visual and literary culture, students develop an understanding of the witch as a historic symbol of shifting relations of gender, class and power.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 179,
+            "priority": "high"
+        }
+    }
+}

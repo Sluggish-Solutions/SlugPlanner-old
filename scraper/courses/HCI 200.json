@@ -1,0 +1,32 @@
+{
+    "name": "HCI 200",
+    "title": "Introduction to HCI",
+    "description": "Introduction to the core premises of human-computer interaction (HCI), including major phases in the evolution of HCI. Issues covered include the origins of HCI and its transformation alongside the spread of computing technologies into the fabric of everyday life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to human computer interaction graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

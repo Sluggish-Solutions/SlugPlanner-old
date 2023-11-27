@@ -1,0 +1,47 @@
+{
+    "name": "ARTG 137",
+    "title": "Experimental Tabletop RPG Design",
+    "description": "Explores experimental mechanics, dynamics, themes, and aesthetics within the tabletop RPG form. In groups and individually, students will play, run, design, write, workshop, and print/produce experimental tabletop RPGs, as well as conduct usability tests focused on layout, design cohesion, and accessibility.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 80G and ARTG 80I; or ARTG 10 and (ARTG 20 or ARTG 30) and (ARTG 40 or ARTG 50).",
+        "courses": [
+            [
+                "P",
+                [
+                    "ARTG 80G",
+                    "ARTG 80I"
+                ],
+                [
+                    "ARTG 10",
+                    "ARTG 20"
+                ],
+                [
+                    "ARTG 30",
+                    "ARTG 40"
+                ],
+                "ARTG 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

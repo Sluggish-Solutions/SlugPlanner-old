@@ -1,0 +1,32 @@
+{
+    "name": "FILM 80M",
+    "title": "Understanding Media",
+    "description": "Introduces students to contemporary concerns, issues, and topics of media and media criticism. With an emphasis on visual analysis, students develop conceptual tools to think critically about photography, cinema, television, video, and print journalism.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 85,
+            "priority": "very low"
+        }
+    }
+}

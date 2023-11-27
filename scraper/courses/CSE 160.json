@@ -1,0 +1,44 @@
+{
+    "name": "CSE 160",
+    "title": "Introduction to Computer Graphics",
+    "description": "Introduces techniques of modeling, transformation, and rendering for computer-generated imagery. Topics: 2D/3D primitives, projections, matrix composition, and shading algorithms. Programming assignments and major project required. Students cannot receive credit for both this course and CSE 260 in quarters when they are offered concurrently. Mastery of materials in the prerequisite courses will be verified with a quiz or assignment during the first two weeks of the course. Lab component will help with gaining additional competence with a number of important software development tools, graphics libraries, and graphical user interfaces. Topics include OpenGL, WebGL, rubberbanding, picking, sliders, buttons, dialog, event handling, double buffering, lighting, shading, materials, and textures. The topic list may be updated to reflect technological changes. (Formerly Computer Science 160.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101 and MATH 21 or AM 10. Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+        "courses": [
+            [
+                "P CSE 101"
+            ],
+            [
+                "MATH 21",
+                "AM 10 E       F P  M    F P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 85,
+            "filled seats": 125,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 115,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 80I",
+    "title": "Foundations of Play",
+    "description": "Understanding the foundations of play through reading influential texts; in-class lectures and activities; designing and playtesting games; and the ethnographies of players in the physical world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionCourse meets occasionally in the meadow between DARC and ARC buildings for \"play\".",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 80,
+            "priority": "high"
+        }
+    }
+}

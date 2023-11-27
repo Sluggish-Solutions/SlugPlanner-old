@@ -1,0 +1,38 @@
+{
+    "name": "ART 20H",
+    "title": "Introduction to Sculpture and Public Art",
+    "description": "Introduces sculpture and art in public space. The course is composed of lectures, readings, discussions, studio assignments, and demonstrations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed art and art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): two courses from ART 10D, ART 10E, ART 10F. Enrollment is restricted to proposed art and art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 17,
+            "filled seats": 21,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

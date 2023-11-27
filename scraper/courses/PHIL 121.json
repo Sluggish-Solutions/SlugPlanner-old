@@ -1,0 +1,49 @@
+{
+    "name": "PHIL 121",
+    "title": "Epistemology",
+    "description": "A sustained look at central problems in epistemology. Topics might include the problem of other minds, the nature of justification and knowledge, skepticism of the external world, the nature and limits of human rationality, the problem of induction. (Formerly Knowledge and Rationality.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+        "courses": [
+            [
+                "P PHIL 9"
+            ],
+            [
+                "PHIL 11",
+                "PHIL 22",
+                "PHIL 23",
+                "PHIL 24",
+                "PHIL 80E",
+                "BME 80GPHIL 80G",
+                "PHIL 80M",
+                "PHIL 80S"
+            ],
+            [
+                "PHIL 100A",
+                "PHIL 100B",
+                "PHIL 100C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

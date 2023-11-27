@@ -1,0 +1,40 @@
+{
+    "name": "CSE 140",
+    "title": "Artificial Intelligence",
+    "description": "Introduction to the contemporary concepts and techniques of artificial intelligence, including any or all of: machine perception and inference, machine learning, optimization problems, computational methods and models of search, game playing and theorem proving. Emphasis may be on any formal method of perceiving, learning, reasoning, and problem solving which proves to be effective. This includes both symbolic and neural network approaches to artificial intelligence. Issues discussed include symbolic versus nonsymbolic methods, local versus global methods, hierarchical organization and control, and brain modeling versus engineering approaches. Lisp or Prolog may be introduced. Involves one major project or regular programming assignments. (Formerly Computer Science 140.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101.",
+        "courses": [
+            [
+                "P CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 140,
+            "filled seats": 136,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 145,
+            "filled seats": 142,
+            "priority": "high"
+        }
+    }
+}

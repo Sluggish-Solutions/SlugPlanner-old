@@ -1,0 +1,32 @@
+{
+    "name": "BME 80G",
+    "title": "Bioethics in the 21st Century: Science, Business, and Society",
+    "description": "Serves science and non-science majors interested in bioethics. Guest speakers and instructors lead discussions of major ethical questions having arisen from research in genetics, medicine, and industries supported by this knowledge.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as PHIL 80G.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 240,
+            "filled seats": 197,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BIOC 163B",
+    "title": "Biochemical Thermodynamics and Statistical Mechanics for Biochemistry and Molecular Biology",
+    "description": "Detailed introduction to the fundamentals of classical and statistical thermodynamics and applications to problems involving biochemical equilibria, macromolecular structure and function. Course is designed as an alternative to CHEM163B for partial fulfillment of the biochemistry and molecular biology major physical chemistry requirement. Students cannot receive credit for this course and CHEM 163B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1B and CHEM 1C; PHYS 6A or PHYS 5A; and previous or concurrent enrollment in BIOC 100A. \n.",
+        "courses": [
+            [
+                "P CHEM 1B"
+            ],
+            [
+                "CHEM 1C"
+            ],
+            [
+                "PHYS 6A",
+                "PHYS 5A"
+            ],
+            [
+                "BIOC 100A"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment in a secondary discussion section optional but strongly recommended.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 51,
+            "filled seats": 52,
+            "priority": "high"
+        }
+    }
+}

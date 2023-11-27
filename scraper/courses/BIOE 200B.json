@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 200B",
+    "title": "Advanced Organismal Biology",
+    "description": "Consists of lectures focusing on pivotal topics in ecology and evolution. Relevant background material is developed followed by a critical analysis of readings from the primary literature. Designed to give graduate (and advanced undergraduate) students direct contact with the major areas of research that are currently at the forefront of organismal biology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to graduate students.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

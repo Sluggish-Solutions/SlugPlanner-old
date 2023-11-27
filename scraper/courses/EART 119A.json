@@ -1,0 +1,41 @@
+{
+    "name": "EART 119A",
+    "title": "Introduction to Scientific Programming",
+    "description": "Introduction to programming for Earth and environmental scientists. Course assumes no prior programming experience. Develops useful Python skills for prospective scientists, rather than cover all aspects of the computer language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19A or MATH 11A or MATH 20A and EART 5 or EART 10 or EART 20.",
+        "courses": [
+            [
+                "P MATH 19A",
+                "MATH 11A",
+                "MATH 20A"
+            ],
+            [
+                "EART 5",
+                "EART 10",
+                "EART 20"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 64,
+            "filled seats": 44,
+            "priority": "low"
+        }
+    }
+}

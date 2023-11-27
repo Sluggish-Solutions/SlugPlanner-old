@@ -1,0 +1,32 @@
+{
+    "name": "LALS 194X",
+    "title": "Extractivism and Socio-Environmental Conflicts in the Americas",
+    "description": "Explores, in-depth, how local communities, transnational capital, and state participate in conflicts anchored in extractive sectors, for example, mining, agro-exports, and so on. Through digital-based, case-study research, students identify and explore the logics of action, strategic interests, and the rhetoric of the principal protagonists in socio-ecological conflicts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in associated lab that meets Tues/Thurs at 11:45am: LALS 194L-02",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

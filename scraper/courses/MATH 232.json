@@ -1,0 +1,32 @@
+{
+    "name": "MATH 232",
+    "title": "Morse Theory",
+    "description": "Classical Morse Theory. The fundamental theorems relating critical points to the topology of a manifold are treated in detail. The Bott Periodicity Theorem. A specialized course offered once every few years.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 208, MATH 209, MATH 210, MATH 211, and MATH 212 recommended as preparation.  Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

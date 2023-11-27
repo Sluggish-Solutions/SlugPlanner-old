@@ -1,0 +1,38 @@
+{
+    "name": "LING 53",
+    "title": "Semantics I",
+    "description": "Introduction to the logical foundations of natural language semantics. Logical and semantic relations, simple set theory, logical representations (propositional and predicate calculi, modal and tense logics) and their interpretations. A basic literacy course in the language of logical representation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 99,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 118,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 106A",
+    "title": "Chimpanzee Behavior and Culture A",
+    "description": "Provides students with an in depth understanding of the non-invasive study of chimpanzee behavior via video footage.  The interactive lab aspect of this class will focus on how to non-invasively monitor the presence and behavioral diversity of wildlife, using camera trap technology. Students will be exposed to the primary scientific literature and gain experience handling and maintaining large datasets in excel, and will be working as a team throughout this class. Prerequisite: ANTH 1.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        }
+    }
+}

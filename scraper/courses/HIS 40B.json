@@ -1,0 +1,32 @@
+{
+    "name": "HIS 40B",
+    "title": "The Making of Modern East Asia",
+    "description": "A broad introductory survey of the political, social, economic, philosophical, and religious heritage of modern China, Japan, and Korea. Emphasis on the historical foundations of modern nationalism, the colonial experience, and revolutionary movements.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 115,
+            "priority": "high"
+        }
+    }
+}

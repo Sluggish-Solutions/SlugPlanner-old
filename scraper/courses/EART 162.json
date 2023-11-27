@@ -1,0 +1,35 @@
+{
+    "name": "EART 162",
+    "title": "Planetary Interiors",
+    "description": "The chemical and thermal structure and evolution of silicate planet interiors. Topics include equation of state of mantle and core materials, thermal history of the mantle and core, dynamics of mantle convection, geophysical determination of interior structure. Students cannot receive credit for this course and EART 262.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 160 or PHYS 116A.",
+        "courses": [
+            [
+                "P EART 160",
+                "PHYS 116A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

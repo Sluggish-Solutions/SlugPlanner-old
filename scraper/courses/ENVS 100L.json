@@ -1,0 +1,43 @@
+{
+    "name": "ENVS 100L",
+    "title": "Ecology and Society Writing Laboratory",
+    "description": "Required writing lab accompanying course 100. Students are introduced to writing in different styles and for different audiences typical of the ecosystem-society interface.  Course 100 writing assignments are developed, written, and revised in conjunction with the lab.  W credit is granted only upon successful completion of course 100.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in ENVS 100 is required.",
+        "courses": [
+            [
+                "P S   E L W"
+            ],
+            [
+                "C  C   ENVS 100"
+            ]
+        ]
+    },
+    "class_notes": "Must enroll in ENVS 100",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 64,
+            "filled seats": 69,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 160,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

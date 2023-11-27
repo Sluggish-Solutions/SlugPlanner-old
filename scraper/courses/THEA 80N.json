@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80N",
+    "title": "Walt Disney",
+    "description": "An examination of Walt Disney's creation of the American vision of family entertainment. Particular attention will be paid to the classic animated feature films of Walt Disney and to the way this Disney invention has been preserved and developed since his death.  We will also look at the live action films, theme parks, and other Disney creations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 371,
+            "priority": "unavailible"
+        }
+    }
+}

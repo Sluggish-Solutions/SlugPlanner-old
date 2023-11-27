@@ -1,0 +1,32 @@
+{
+    "name": "LALS 163",
+    "title": "The Amazon: Cultures and Perspectives",
+    "description": "Examines the peoples and cultures of lowland South America, particularly the historical, economic, and environmental processes that have shaped the Amazonian region. Students acquire tools to critically approach traditional representations of Amazonian cultures and understand their relevance to global issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

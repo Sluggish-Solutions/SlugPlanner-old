@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 159D",
+    "title": "Psychology of Sexual Aggression",
+    "description": "An overview of psychological theory and research related to sexual aggression, focusing on both perpetration and victimization. Includes a discussion of the social construction of masculinity and femininity, media representations of sexual violence, and alternative (non-aggressive) visions of sexuality. Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology or feminist studies majors or permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Entry Level Writing and Composition requirements; and PSYC 100.  Enrollment is restricted to senior psychology or feminist studies majors or permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 28,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

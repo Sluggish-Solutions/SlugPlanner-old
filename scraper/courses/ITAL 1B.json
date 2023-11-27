@@ -1,0 +1,36 @@
+{
+    "name": "ITAL 1B",
+    "title": "Accelerated Italian",
+    "description": "The second quarter of accelerated instruction in elementary Italian language. The accelerated pace allows a rapid mastery of grammar and vocabulary, giving students a basic knowledge of Italian in only two quarters. Completion of the sequence is equivalent to the completion of the 1-2-3 sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 1A or ITAL 2 or placement by examination. For students completing ITAL 2, ITAL 3 is preferable.",
+        "courses": [
+            [
+                "P ITAL 1A",
+                "ITAL 2",
+                "F   ITAL 2 ITAL 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

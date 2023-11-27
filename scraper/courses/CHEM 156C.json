@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 156C",
+    "title": "Materials Chemistry",
+    "description": "Advanced topics in inorganic chemistry and an introduction to solid-state chemistry. Synthesis and structure of materials discussed as well as their influence on properties for modern devices and applications. Recent developments in area of material science also explored. Taught in conjunction with CHEM 256C.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 135,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in CHEM 151A. Enrollment is restricted to seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Prerequisite(s): CHEM 151A. Enrollment is restricted to seniors.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "HCI 290",
+    "title": "HCI Seminar",
+    "description": "Weekly speakers on human-computer interaction topics. Course can be taken for Satisfactory/Unsatisfactory credit only.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 49,
+            "filled seats": 50,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

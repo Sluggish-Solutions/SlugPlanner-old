@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 109B",
+    "title": "Ecology and Conservation in Practice Supercourse: Ecological Field Methods Laboratory",
+    "description": "Field-oriented course in ecological research. Combines overview of methodologies and approaches to field research with practical field studies. Students complete field projects in ecology and also learn the natural history of the flora and fauna of California. Students are billed a materials fee of $1,450. Enrollment is by application. Prerequisite(s): BIOL  20A, BIOE 20B, BIOE 20C or ENVS 23, ENVS 24, and ENVS 100; and STAT 7 and STAT 7L; satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in BIOE 151A, BIOE 151C, and BIOE 151D, or ENVS 109A, ENVS 109C, and ENVS 109D is required. Satisfies the senior exit requirement for biological sciences majors and satisfies the senior exit requirement for environmental studies majors by prior approval. Students cannot receive credit for this course and BIOE 150, BIOE 150L, ENVS 104A or ENVS 196A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment By Permission Only",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 11,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ENVS 100",
+    "title": "Ecology and Society",
+    "description": "Introduction to environmental issues in an interdisciplinary matrix. Focuses on three issues at the intersection of ecological questions and social institutions: agroecology and sustainable agriculture; population growth, economic growth, and environmental degradation; and biodiversity conservation and land management. Reviews the important roles of disciplinary abstraction and of the application of that knowledge to context-dependent explanations of environmental problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 23 or CHEM 1A, CHEM 3B, or CHEM 4B; ENVS 24 or BIOE 20C; ENVS 25; and STAT 7/L or STAT 17/L or ECON 113 or OCEA 90; and one from: ANTH 2, SOCY 1,10,15, PHIL 21,22,24,28, or 80G. Concurrent enrollment in 100L required.",
+        "courses": [
+            [
+                "P ENVS 23",
+                "CHEM 1A CHEM 3B",
+                "CHEM 4B"
+            ],
+            [
+                "ENVS 24",
+                "BIOE 20C"
+            ],
+            [
+                "ENVS 25"
+            ],
+            [
+                "STAT 7L",
+                "STAT 17L",
+                "ECON 113",
+                "OCEA 90"
+            ],
+            [
+                "ANTH 2 SOCY 11015 PHIL 21222428",
+                "80G C   100L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ENVS 100L Is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 85,
+            "filled seats": 60,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

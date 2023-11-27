@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 106M",
+    "title": "Natural History of Birds Laboratory",
+    "description": "A field course designed to complement ENVS 106A by providing students with the opportunity to gain direct experience in bird study. This includes participation in field exercises and trips to off-campus sites in the region.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in ENVS 106A required.",
+        "courses": [
+            [
+                "P C   ENVS 106A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "ASTR 202",
+    "title": "Astrophysics I",
+    "description": "Survey of radiative processes of astrophysical importance from radio waves to gamma rays. The interaction of radiation with matter: radiative transfer, emission, and absorption. Thermal and non-thermal processes, including bremsstrahlung, synchrotron radiation, and Compton scattering. Radiation in plasmas. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

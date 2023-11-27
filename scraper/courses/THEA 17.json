@@ -1,0 +1,32 @@
+{
+    "name": "THEA 17",
+    "title": "Costume Construction",
+    "description": "Explores different aspects of costume construction, including draping, basic sewing, flat patterning techniques, proper protocols for measurements and fittings, dyeing, and costume crafting. The class activities are a mixture of lectures, demonstrations, and project-based learning. Students work in a lab setting and learn proper costume shop etiquette regarding shared spaces, organization, and cleanliness.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

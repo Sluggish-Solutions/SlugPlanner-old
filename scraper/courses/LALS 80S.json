@@ -1,0 +1,32 @@
+{
+    "name": "LALS 80S",
+    "title": "Sexualities and Genders in Latin American and Latina/o Studies",
+    "description": "Introduction to issues and themes surrounding sexualities and genders within Latin American and Latina/o studies. Provides background in the basic theoretical and historical frameworks of gender and its relationship to sexuality. In addition to cross-border perspectives, course also examines how gender and sexuality are structured and experienced through other social categories.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 125,
+            "filled seats": 128,
+            "priority": "high"
+        }
+    }
+}

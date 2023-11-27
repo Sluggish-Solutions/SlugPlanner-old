@@ -1,0 +1,56 @@
+{
+    "name": "ECON 100A",
+    "title": "Intermediate Microeconomics",
+    "description": "Covers major theoretical issues arising in the study of resource allocation, the function of markets, consumer behavior, and the determination of price, output, and profits in competitive, monopolistic, and oligopolistic market structures. Also considers issues of welfare and public policy. Students cannot receive credit for this course and course 100M.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 1 and ECON 2; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30.",
+        "courses": [
+            [
+                "P ECON 1"
+            ],
+            [
+                "ECON 2"
+            ],
+            [
+                "AM 11B",
+                "ECON 11B",
+                "MATH 22",
+                "MATH 23A",
+                "AM 30"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 240,
+            "filled seats": 152,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 167,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

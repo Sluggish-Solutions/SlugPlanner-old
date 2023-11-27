@@ -1,0 +1,34 @@
+{
+    "name": "JAPN 105",
+    "title": "Advanced Japanese",
+    "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Further development of cultural knowledge and understanding through critical examination of authentic Japanese materials in a variety of genres, including literary work, expository writing, and films. May be repeated for credit with consent of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): JAPN 104 or by consent of instructor.",
+        "courses": [
+            [
+                "P JAPN 104"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

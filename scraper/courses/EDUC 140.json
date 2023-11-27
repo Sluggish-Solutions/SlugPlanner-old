@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 140",
+    "title": "Language, Diversity, and Learning",
+    "description": "Explores the intersection between language, diversity, and education to examine the education of youth who have been historically underserved by schools. Topics include dialect and register variation; language policy; and sociocultural perspectives on learning/teaching of language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 60,
+            "priority": "high"
+        }
+    }
+}

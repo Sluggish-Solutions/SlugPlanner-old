@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 204",
+    "title": "Pedagogy of Music",
+    "description": "Provides graduate students with an opportunity to reflect on and practice a wide variety of pedagogical skills necessary to teach post-secondary music in a number of settings, including rehearsals, lectures, sections, and labs. These skills may include lesson planning, inclusive teaching, active learning, assessment, evaluation, teaching with technology, syllabus design, teaching statement writing, and lesson facilitation. Pedagogical skills modeled through a series of facilitated activities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

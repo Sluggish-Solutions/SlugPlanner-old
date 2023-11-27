@@ -1,0 +1,32 @@
+{
+    "name": "LALS 175",
+    "title": "Migration, Gender, and Health",
+    "description": "Through an interdisciplinary, cross-border approach, examines complex nature of Latino health in relation to migration and how women and men experience health problems differently. Examines how health problems are created by economic and social conditions, how migrants experience access to care, and how agencies can design culturally sensitive programs.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

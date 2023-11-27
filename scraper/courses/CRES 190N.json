@@ -1,0 +1,32 @@
+{
+    "name": "CRES 190N",
+    "title": "Science/Fiction and the Possible",
+    "description": "Where are the limits of our imaginations around science and technology? How does existing science fiction reimagine the same old kinds of science, technology, and social and political relations between people? How do they wildly reimagine all these categories? This senior seminar analyzes and creates short pieces of speculative fiction that imagine new political configurations capable of giving rise to different forms of science and technology than those currently on offer. Class collates these into an anthology, and culminate the course with a public reading of our work.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior CRES majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Does NOT satisfy the CRES DC requirement",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 18,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

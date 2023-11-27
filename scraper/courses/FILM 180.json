@@ -1,0 +1,32 @@
+{
+    "name": "FILM 180",
+    "title": "Writing About Film, Television, and Digital Media",
+    "description": "Improves students' ability to write and edit, and invites students to explore different kinds of writing related to film, television, and digital media including historical, theoretical, cultural criticism, popular reviews, grant proposals, online forums, and publishing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore and junior film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A, FILM 20B, or FILM 20C. Enrollment is restricted to sophomore and junior film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        }
+    }
+}

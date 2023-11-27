@@ -1,0 +1,38 @@
+{
+    "name": "PHYS 137",
+    "title": "Advanced Optics Laboratory",
+    "description": "Application of advanced optical techniques to the study of problems in astrophysics, physics, chemistry, biology, and engineering. Techniques include interferometry, Fourier optics, adaptive optics, optical tweezers, photon correlation spectroscopy, optical pumping, laser spectroscopy, and more.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 102 or ECE 102; and PHYS 133 or by permission of instructor.",
+        "courses": [
+            [
+                "P PHYS 102",
+                "ECE 102"
+            ],
+            [
+                "PHYS 133"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 18,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

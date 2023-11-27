@@ -1,0 +1,45 @@
+{
+    "name": "PHYS 139A",
+    "title": "Quantum Mechanics I",
+    "description": "Basic principles and mathematical techniques of nonrelativistic quantum mechanics: Schrodinger equation and Dirac notation; one-dimensional systems, including the free particle and harmonic oscillator; three-dimensional problems with spherical symmetry; angular momentum; hydrogen atom; spin; identical particles and degenerate gases.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.",
+        "courses": [
+            [
+                "P PHYS 102"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ],
+            [
+                "PHYS 116C",
+                "MATH 107"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 85,
+            "filled seats": 75,
+            "priority": "high"
+        }
+    }
+}

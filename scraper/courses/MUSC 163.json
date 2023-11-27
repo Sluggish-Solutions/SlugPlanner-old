@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 163",
+    "title": "Early Music Ensemble",
+    "description": "A study of selected works for varied early music instrumental and vocal resources, culminating in one or more public concerts. Individual lessons are recommended in conjunction with consort work. Recommended for students who have instrumental or vocal competence and music literacy. Admission by audition with instructor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

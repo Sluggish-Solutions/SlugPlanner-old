@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 133",
+    "title": "Exercise Physiology",
+    "description": "An advanced-level course concerning physiological and biochemical processes associated with human performance. Emphasis is on the integration of organ systems for exercise. Topics include metabolism and fuel utilization, cardiovascular and respiratory dynamics during activity, and the effects of training. Requires a good understanding of basic physiological function and anatomy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B and BIOE 20C. BIOE 131 is recommended. Concurrent enrollment in BIOE 133L is required.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C BIOE 131   C   BIOE 133L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 133L required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

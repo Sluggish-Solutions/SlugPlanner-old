@@ -1,0 +1,44 @@
+{
+    "name": "STAT 280D",
+    "title": "Seminar in Bayesian Statistical Methodology",
+    "description": "Weekly seminar/discussion group on Bayesian statistical methods, covering both analytical and computational approaches. Participants present research progress and finding in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280D.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 19,
+            "filled seats": 10,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

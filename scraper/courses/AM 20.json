@@ -1,0 +1,45 @@
+{
+    "name": "AM 20",
+    "title": "Mathematical Methods for Engineers II",
+    "description": "Applications-oriented class on ordinary differential equations (ODEs) and systems of ODEs using Matlab as a computational support tool. Covers linear ODEs and systems of linear ODEs; nonlinear ODEs using substitution and Laplace transforms; phase-plane analysis; introduction to numerical methods. Students cannot receive credit for this course and MATH 24.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B or MATH 20B, and AM 10 or MATH 21.",
+        "courses": [
+            [
+                "MATH 19B",
+                "MATH 20B"
+            ],
+            [
+                "AM 10",
+                "MATH 21"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 170,
+            "filled seats": 161,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

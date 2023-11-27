@@ -1,0 +1,32 @@
+{
+    "name": "LIT 149A",
+    "title": "Behind the Berlin Wall",
+    "description": "Examines cultural life in the German Democratic Republic between 1946 and 1992 through films from the state-owned DEFA film studios. Topics include: socialist realism and international modernism in cinema; the representation of collective labor; the status of women; youth culture; and the texture of everyday life and consumer culture in socialism. Critical approach designations: Histories, Media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. *** There are Monday night film screenings (7:10 - 10:10pm) associated with this course ***",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 128,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MATH 205",
+    "title": "Analysis II",
+    "description": "Lebesgue measure theory, abstract measure theory, measurable functions, integration, space of absolutely integrable functions, dominated convergence theorem, convergence in measure, Riesz representation theorem, product measure and Fubini 's theorem. Lpspaces, derivative of a measure,  the Radon-Nikodym theorem, and the fundamental theorem of calculus.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 204. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

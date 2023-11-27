@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 160",
+    "title": "Solving Homelessness",
+    "description": "Explores the phenomenon of homelessness and potential solutions to this troubling and persistent feature of American society. Discussions center on social research, historical context, and community and political discourse as they relate to homelessness at both the local and global level with the goal of better understanding what the trends in these areas mean for service providers, government entities, advocates, and our unhoused community members. While the course readings often center on theories and data, a key component this course is field visits and expert presentations, which introduce students to key individuals and organizations doing work or making policy to address homelessness.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

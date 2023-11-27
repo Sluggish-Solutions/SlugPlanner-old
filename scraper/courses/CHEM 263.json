@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 263",
+    "title": "Quantum Mechanics",
+    "description": "A rigorous introductory course: the Schrodinger equation, operator formalism, matrix mechanics, angular momentum, and spin. Perturbation and other approximate methods. Applications to atomic and molecular problems. Lecture: 3-1/2 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A, PHYS 116A, and PHYS 116C.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

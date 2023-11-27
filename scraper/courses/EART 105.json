@@ -1,0 +1,36 @@
+{
+    "name": "EART 105",
+    "title": "Coastal Geology",
+    "description": "An investigation of the evolution, morphology, and processes in the coastal zone including the terrestrial (marine terraces, dunes, estuaries, sea cliffs) and marine (beaches, continental shelves, sea level changes, shoreline erosion and protection, waves, tides) components and their interaction. Laboratory: 3 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

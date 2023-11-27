@@ -1,0 +1,37 @@
+{
+    "name": "APLX 122",
+    "title": "Linguistic Diversity & Social Justice",
+    "description": "Explores the relationship between linguistic diversity and social justice: the celebration of multilingualism on the one hand and the negative experiences of people who speak ''minority'' languages in ''dominant'' cultural contexts on the other.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): APLX 80; enrollment restricted to applied linguistics and multiculturalism, language studies, and linguistics majors.",
+        "courses": [
+            [
+                "P APLX 80"
+            ],
+            [],
+            [],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

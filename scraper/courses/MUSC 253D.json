@@ -1,0 +1,38 @@
+{
+    "name": "MUSC 253D",
+    "title": "Issues in the Ethnography of Music",
+    "description": "Explores ethnography\u2014the description of culture\u2014as it relates to musicology and ethnomusicology, particularly where \"culture\" and cultural production are historically dynamic and geographically porous. Examines music with sensitivity to such complexities of context, and the disciplinary points of reference from which cultural difference is calculated. Considers the ideological imprint of methodology on cultural analysis: how to study an unfamiliar music in a way that transcends the measure of  \"difference from the familiar,\" and, conversely, how to conduct an \"objective\" study of a familiar music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

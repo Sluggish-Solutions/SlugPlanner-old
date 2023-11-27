@@ -1,0 +1,34 @@
+{
+    "name": "MATH 105B",
+    "title": "Real Analysis",
+    "description": "Metric spaces, differentiation and integration of functions. The Riemann-Stieltjes integral. Sequences and series of functions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 105A.",
+        "courses": [
+            [
+                "P MATH 105A"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Mon., April 10th for Spring 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

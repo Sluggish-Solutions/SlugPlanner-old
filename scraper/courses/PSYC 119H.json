@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 119H",
+    "title": "Children, Research, and Policy",
+    "description": "Explores ways that research in developmental psychology can be used to address \"real-world\" problems facing children. With an analytical focus on evidence and generalizability, we will investigate research-policy connections in topics of popular interest (e.g., child custody, poverty). Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement  (Formerly Developmental Psychology Research and \"Real World\" Problems)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and PSYC 100. Enrollment is restricted to senior psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

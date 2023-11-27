@@ -1,0 +1,32 @@
+{
+    "name": "STAT 209",
+    "title": "Generalized Linear Models",
+    "description": "Theory, methods, and applications of generalized linear statistical models; review of linear models; binomial models for binary responses (including logistical regression and probit models); log-linear models for categorical data analysis; and Poisson models for count data. Case studies drawn from social, engineering, and life sciences. (Formerly AMS 274.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 205B or STAT 208. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

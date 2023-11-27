@@ -1,0 +1,40 @@
+{
+    "name": "PHYS 5L",
+    "title": "Introduction to Physics I Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 5A. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in PHYS 5A is required.",
+        "courses": [
+            [
+                "P    PHYS 5A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 264,
+            "filled seats": 258,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 140,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

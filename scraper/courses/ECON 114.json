@@ -1,0 +1,44 @@
+{
+    "name": "ECON 114",
+    "title": "Advanced Quantitative Methods",
+    "description": "Application of statistical methods to estimating and testing economic relationships, i.e., econometric techniques. Topics include the effects of misspecification, choice of functional form, serial correlation, heteroscedasticity, limited dependent variables, and simultaneous equations. Includes discussion of existing empirical work and econometric projects by students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M, and ECON 113.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "6",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 35,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 33,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

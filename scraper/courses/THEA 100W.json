@@ -1,0 +1,32 @@
+{
+    "name": "THEA 100W",
+    "title": "Black/African Diasporic World Theater",
+    "description": "Examines major black African diasporic playwrights and theater. Focuses on the historical, cultural, and literary contexts that gave rise to the works of dramatists such as Ama Ata Aidoo, Derek Walcott, Wole Soyinke, Aime Cesaire, Debbie Green Tucker, and Paul Boakye.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "THEA 100W is being cancelled. The instructor has requested to teach the lower division THEA 80A Introduction to African American Theater instead. These classes fulfill different requirements. Questions about requirements may be addressed to the Theater Arts Academic Advisor:theater-ugradadv@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

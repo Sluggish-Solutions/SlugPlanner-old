@@ -1,0 +1,36 @@
+{
+    "name": "EART 191",
+    "title": "Earth Sciences Capstone Seminar",
+    "description": "In-depth exploration of a topic within the Earth sciences. Involves at least one research paper. Topics vary quarterly; consult the current course listings. (Formerly EART 191A, Climate Change Science and Policy.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior majors in Earth sciences and the combined major with anthropology. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements.  Enrollment is restricted to senior majors in Earth sciences and the combined major with anthropology. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor.",
+        "courses": [
+            [
+                "E"
+            ],
+            [],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

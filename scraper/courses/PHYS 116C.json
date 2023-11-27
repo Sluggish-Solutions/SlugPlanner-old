@@ -1,0 +1,50 @@
+{
+    "name": "PHYS 116C",
+    "title": "Mathematical Methods in Physics",
+    "description": "Fourier series and transforms, Dirac-delta function, Green's functions, series solutions of ordinary equations, Legendre polynomials, Bessel functions, sets of orthogonal functions, and partial differential equations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and MATH 23A and MATH 23B.",
+        "courses": [
+            [
+                "P PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ],
+            [
+                "MATH 23A"
+            ],
+            [
+                "MATH 23B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 103,
+            "filled seats": 70,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

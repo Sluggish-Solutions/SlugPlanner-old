@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 230",
+    "title": "Science Education: Research and Practice",
+    "description": "Examines theoretical approaches to the learning and teaching of science including the nature of scientific knowledge, theories of how children learn science, approaches to scientific discourse, and perspectives on addressing diversity in science classrooms. Course is required for single subjects science credential.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

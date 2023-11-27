@@ -1,0 +1,32 @@
+{
+    "name": "HCI 202A",
+    "title": "Introduction to Build: Bootcamp",
+    "description": "Introductory course on build methods in HCI for students with minimal prototyping experience. Course covers a combination of HCI theory and practice to design, build, deploy, iterate, document, and demo novel prototypes of varying purpose to multiple stakeholders. Topics may include paper prototyping, HTML prototyping, mobile app prototyping, introductions to physical prototyping, and accessible designs. (Formerly offered as Introduction to HCI Build: Bootcamp.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in human computer interaction, or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

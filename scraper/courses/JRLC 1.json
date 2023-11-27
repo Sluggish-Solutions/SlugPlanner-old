@@ -1,0 +1,38 @@
+{
+    "name": "JRLC 1",
+    "title": "Academic Literacy and Ethos: Social Justice and Community",
+    "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Reflects our college theme of Social Justice and Community, addressing topics such as identity formation, inequality, and environmental injustice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year college members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All incoming John R Lewis College Frosh must take JRLC 001 in the Fall of their first year at UC Santa Cruz.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 476,
+            "filled seats": 454,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 56,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

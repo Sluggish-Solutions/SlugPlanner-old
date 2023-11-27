@@ -1,0 +1,46 @@
+{
+    "name": "CSE 103",
+    "title": "Computational Models",
+    "description": "Various representations for regular languages, context-free grammars, normal forms, simple parsing, pumping lemmas, Turing machines, the Church-Turing thesis, intractable problems, the P-NP question. (Formerly Computer Science 130.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101.",
+        "courses": [
+            [
+                "P CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science B.S. majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 240,
+            "filled seats": 245,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 123,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

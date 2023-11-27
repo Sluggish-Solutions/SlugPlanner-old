@@ -1,0 +1,37 @@
+{
+    "name": "BIOE 140",
+    "title": "Behavioral Ecology",
+    "description": "An introduction to social and reproductive behavior. Emphasis on studies of vertebrates in their natural habitat. Ideas concerning the evolution of social behavior, mating systems, and individual reproductive strategies. Case histories of well-studied animals that illustrate key principles in courtship and mating, parental behavior, and food-getting behavior.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

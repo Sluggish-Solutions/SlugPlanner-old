@@ -1,0 +1,38 @@
+{
+    "name": "ECON 10A",
+    "title": "Economics of Accounting",
+    "description": "Introduces students to fundamental accounting principles and practices. Key topics include reviewing the accounting cycle, preparing basic financial statements, and integrating data analysis tools to interpret and analyze financial statement data. Course improves students' financial literacy skills by illustrating how financial statements are used by external parties such as bankers, creditors, investors, and others who have a desire and/or need to learn more about the financial information of business organizations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 320,
+            "filled seats": 284,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

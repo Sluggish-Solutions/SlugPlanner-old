@@ -1,0 +1,44 @@
+{
+    "name": "CRWN 70L",
+    "title": "Broadcast Production: Radio",
+    "description": "Practical application of technical and creative skills in the KZSC studios. Production of audio content and promotional materials for broadcast. Critical evaluation in a workshop setting. Assignments require original research, professional writing, and the operation of complex technology. Prerequisite(s): After completing 20 hours of orientation volunteering at KZSC, students apply to the instructor. Enrollment is by permission of the instructor. Concurrent enrollment in CRWN 70 is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 18,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "BIOE 118",
+    "title": "Plants and Society: the Biology of Food, Shelter, and Medicine",
+    "description": "Introduces plant biology as it affects human society. Topics include the origins of agriculture, the morphology and chemistry of food plants, the material uses of plant products, the biology of medicinal plants, and plant diversity and bioprospecting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C; or ENVS 23 and ENVS 24.",
+        "courses": [
+            [
+                "P",
+                [
+                    "BIOL 20A",
+                    "BIOE 20B"
+                ],
+                [
+                    "ENVS 23",
+                    "ENVS 24"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 45,
+            "filled seats": 46,
+            "priority": "high"
+        }
+    }
+}

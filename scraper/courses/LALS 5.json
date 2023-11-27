@@ -1,0 +1,32 @@
+{
+    "name": "LALS 5",
+    "title": "Introduction to Human Rights and Social Justice",
+    "description": "Introduces human rights as a way to study social justice. Students gain an understanding of interdisciplinary approaches to human rights as a theory, legally, and as a basis for global social movements.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Contactlalsadvising@ucsc.eduwith enrollment questions.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 135,
+            "filled seats": 138,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 130G",
+    "title": "Asian Americans in Ethnography and Film",
+    "description": "Critically examines category of Asian Americans. Addresses historic representations of Asians and Asian Americans in ethnographic research and film. Explores contemporary issues of race, culture, and politics through ethnographic practice and cultural production.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 49,
+            "priority": "unavailible"
+        }
+    }
+}

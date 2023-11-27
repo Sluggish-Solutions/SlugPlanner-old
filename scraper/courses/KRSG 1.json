@@ -1,0 +1,32 @@
+{
+    "name": "KRSG 1",
+    "title": "Academic Literacy and Ethos: Power and Representation",
+    "description": "Teaches foundational concepts for intellectual and personal development in an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Focuses on the power of education and learning to imagine the world otherwise and to effect justice and social change. Texts address generational trajectories to college; the history of UCSC and the local region; family traditions of knowledge; and social movements that can inspire us. Students learn to read in different genres and formats and reflect on their reading practices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year college members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 392,
+            "filled seats": 386,
+            "priority": "high"
+        }
+    }
+}

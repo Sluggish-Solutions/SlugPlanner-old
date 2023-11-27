@@ -1,0 +1,43 @@
+{
+    "name": "BIOE 135L",
+    "title": "Plant Physiology Laboratory",
+    "description": "Weekly laboratory concerning the cellular and organismal functions of green plants.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C; concurrent enrollment in BIOE 135.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            [
+                "BIOE 135"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 135 required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 49,
+            "priority": "high"
+        }
+    }
+}

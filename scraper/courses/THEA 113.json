@@ -1,0 +1,38 @@
+{
+    "name": "THEA 113",
+    "title": "The History of Design for Theater",
+    "description": "The development of scenic design from the Greek period to the present. Concentration is on the changing styles of set design in relation to the changing attitudes toward dramatic literature, art, and theater architecture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 16,
+            "priority": "unavailible"
+        }
+    }
+}

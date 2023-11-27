@@ -1,0 +1,32 @@
+{
+    "name": "LIT 126G",
+    "title": "Science Fiction and the Sublime: Science, Technology, and Subjectivity",
+    "description": "Studies the sublime encounter in works of science fiction literature and film. Lyotard defined the sublime as the ''presentation of the unpresentable.'' By examining what and who constitutes the sublime, we can explore relationships among fundamental concepts like knowing, being, and embodiment. Critical approach designations: Genres, Media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 32,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

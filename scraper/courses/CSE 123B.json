@@ -1,0 +1,38 @@
+{
+    "name": "CSE 123B",
+    "title": "Engineering Design Project II",
+    "description": "Second of two-course sequence in engineering system design. Students fully implement and test system designed and specified in CSE 123A. Formal written report, oral presentation, and demonstration of successful project to review panel of engineering faculty required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 123A, and CSE 185E or CSE 185S.",
+        "courses": [
+            [
+                "P CSE 123A"
+            ],
+            [
+                "CSE 185E",
+                "CSE 185S"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "7",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 41,
+            "priority": "low"
+        }
+    }
+}

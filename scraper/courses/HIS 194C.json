@@ -1,0 +1,32 @@
+{
+    "name": "HIS 194C",
+    "title": "Topics in Modern Chinese History",
+    "description": "Explores important themes in modern Chinese history ranging from empire and nation-state formation, foreign imperialism, revolutionary movements and politics, global capitalism, and social and cultural change. Teaches the writing of a major research paper using primary and secondary sources.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100, and two upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Hong Kong History",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 6,
+            "priority": "unavailible"
+        }
+    }
+}

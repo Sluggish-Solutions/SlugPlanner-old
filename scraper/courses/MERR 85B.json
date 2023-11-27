@@ -1,0 +1,40 @@
+{
+    "name": "MERR 85B",
+    "title": "Merrill Classroom Connection Field Study",
+    "description": "Supervised hands-on experience assisting in local K-12 school classrooms. Students attend UCSC class meetings, complete relevant readings in educational theory, and present a final assignment. This course requires more hours than MERR 85C and involves travel to Pescadero twice per week. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Priority enrollment restricted to Merrill College members.",
+        "courses": [
+            [
+                "P    M C"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with MERR 85C please see the Merrill website for class details . Non- Affiliated students emailclassroomconnection@ucsc.eduand attend first class meeting.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 139R",
+    "title": "Social Frames of Memory",
+    "description": "Remembering is an activity that we often do with others, and shared representations of the past bind us to one another as couples, families, and nations. Remembering is a fundamentally social process. Topics include extended cognitive systems, conversational remembering, family reminiscence, how social networks shape how and what we remember, cognitive content biases supporting collective convergence, and the psychology of collective memory. This includes social representations of history and their biases, cultural tools for thought, intergenerational transmission, and collective future thought. Satisfies seminar requirement. Satisfies senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. PSYC 129 recommended. Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 29,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

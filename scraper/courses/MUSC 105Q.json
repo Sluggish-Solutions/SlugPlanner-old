@@ -1,0 +1,46 @@
+{
+    "name": "MUSC 105Q",
+    "title": "The String Quartet from Haydn to the Present",
+    "description": "Traces the development of the string quartet from its origins in the mid-18th Century through the works of the mid-late 20th Century. Emphasis is on listening and analysis with significant research and writing component. (Formerly The String Quartet from Haydn to Shostakovich.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 30A and satisfaction of the Entry Level Writing and Composition requirements, or by permission of instructor.",
+        "courses": [
+            [
+                "P MUSC 30A"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

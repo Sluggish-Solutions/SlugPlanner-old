@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 229",
+    "title": "Teaching Mathematics in the Secondary Classroom",
+    "description": "Examines constructivist and sociocultural approaches to teaching mathematics in the secondary classroom. Course will provide an introduction to mathematics teaching standards and a critical overview of curricula, instructional theories, and multiple approaches to teaching the \"big ideas\" in secondary mathematics. Required for mathematics secondary credential.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): EDUC 228. Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "See Instructor for meeting location.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

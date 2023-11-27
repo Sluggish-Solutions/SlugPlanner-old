@@ -1,0 +1,32 @@
+{
+    "name": "ECON 116",
+    "title": "Advanced Topics in Accounting and Ethics",
+    "description": "Covers topics in accounting and ethics. Builds a strong accounting foundation; develops critical thinking skills; and explores ethical standards in accounting, forensic accounting, international financial recording standards, and accounting for sustainability. Meets the California state educational ethics requirement for certified public accountant (CPA) licensure.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 111A and ECON 111B. Enrollment is restricted to economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

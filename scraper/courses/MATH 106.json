@@ -1,0 +1,43 @@
+{
+    "name": "MATH 106",
+    "title": "Systems of Ordinary Differential Equations",
+    "description": "Linear systems, exponentials of operators, existence and uniqueness, stability of equilibria, periodic attractors, and applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 or AM 10; and either MATH 24 or AM 20; and either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 21",
+                "AM 10"
+            ],
+            [
+                "MATH 24",
+                "AM 20"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FILM 234",
+    "title": "Toward an Ethics of New Media",
+    "description": "Investigates an ethics of new media. Using an intersectional approach, students read thematic units that consider issues of race, class, and gender as they crosscut questions of advanced technological tools and their implementation in modern society.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 7,
+            "priority": "low"
+        }
+    }
+}

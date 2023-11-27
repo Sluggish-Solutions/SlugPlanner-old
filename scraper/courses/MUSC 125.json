@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 125",
+    "title": "Advanced Electronic Sound Synthesis",
+    "description": "Continuing study in the electronic music studio, with concentration on compositional development. Includes advanced applications of skills developed in MUSC 123 and MUSC 124, expansion of background knowledge and relevant electroacoustical studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 124.",
+        "courses": [
+            [
+                "P MUSC 124"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

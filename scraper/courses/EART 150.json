@@ -1,0 +1,47 @@
+{
+    "name": "EART 150",
+    "title": "Structural Geology",
+    "description": "Principles and methods of analysis of brittly and ductily deformed rocks. Includes descriptions of structures, field analysis of structures, and mechanics of deformation. Three day-long field trips on weekends.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 110A or EART 110B; EART 109 recommended; concurrent enrollment in EART 150L is required.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 110A",
+                "EART 110B"
+            ],
+            [
+                "EART 109"
+            ],
+            [
+                "EART 150L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART 150L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

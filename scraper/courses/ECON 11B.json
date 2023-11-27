@@ -1,0 +1,49 @@
+{
+    "name": "ECON 11B",
+    "title": "Mathematical Methods for Economists II",
+    "description": "Mathematical tools and reasoning, with applications to economics. Topics are drawn from multivariable differential calculus and single variable integral calculus, and include partial derivatives, linear and quadratic approximation, optimization with and without constraints, Lagrange multipliers, definite and indefinite integrals, and elementary differential equations. Students cannot receive credit for both this course and MATH 11B or MATH 19B or AM 15B. (AM 11B formerly AMS 11B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 11A, or AM 11A, or MATH 11A, or MATH 19A.",
+        "courses": [
+            [
+                "P ECON 11A",
+                "AM 11A",
+                "MATH 11A",
+                "MATH 19A"
+            ]
+        ]
+    },
+    "class_notes": "ECON 11B is crosslisted with AM 11B. Do NOT wait list for ECON 11B. Capacity for ECON 11B is not being raised. Enroll in AM 11B if ECON 11B is full. It is the exact same course (same time, place, instructor and credit).",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 180,
+            "filled seats": 174,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 160,
+            "filled seats": 115,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 190,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

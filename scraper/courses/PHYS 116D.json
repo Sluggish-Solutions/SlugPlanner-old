@@ -1,0 +1,41 @@
+{
+    "name": "PHYS 116D",
+    "title": "Mathematical Methods in Physics",
+    "description": "Complex functions, complex analysis, asymptotic series and expansions, special functions defined by integrals, and probability and statistics. (Formerly offered as PHYS 116B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and PHYS 116C.",
+        "courses": [
+            [
+                "P PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ],
+            [
+                "PHYS 116C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

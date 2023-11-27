@@ -1,0 +1,32 @@
+{
+    "name": "FMST 100",
+    "title": "Feminist Theories",
+    "description": "Core course for feminist studies. Serves as an introduction to thinking theoretically about issues of feminism within multiple contexts and intellectual traditions. Sustained discussion of gender and its critical connections to productions of race, class, and sexuality. Focus will change each year.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

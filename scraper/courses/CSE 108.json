@@ -1,0 +1,35 @@
+{
+    "name": "CSE 108",
+    "title": "Algorithmic Foundations of Cryptography",
+    "description": "Focuses on some of the foundational aspects of modern cryptography, namely, private and public key cryptography, digital signatures, pseudorandom generators and functions, message authentication codes, hash functions, and random oracles. Course also connects the formal concepts with some real-world applications, like RA, SSL, and bitcoin, exposing students to general concepts of probability theory, number theory, and rigorous proofs. (Formerly Computer Science 118.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101. Enrollment restricted to computer engineering and computer science majors.",
+        "courses": [
+            [
+                "P CSE 101 E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 144,
+            "filled seats": 83,
+            "priority": "low"
+        }
+    }
+}

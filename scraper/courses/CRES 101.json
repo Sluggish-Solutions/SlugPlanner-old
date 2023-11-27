@@ -1,0 +1,35 @@
+{
+    "name": "CRES 101",
+    "title": "Research Methods and Writing in Critical Race and Ethnic Studies",
+    "description": "Introduces students to tools, conceptual frameworks, keywords, and methods for research and writing in critical race and ethnic studies. Drawing from ethnic studies, Asian American studies, Arab American studies, Black studies, Indigenous studies, Latinx studies, feminist studies, and queer studies, students analyze how scholars do the work of studying the effects of and resistance to U.S. colonialism, capitalism, empire, war, globalization, and migration. Examines questions of settler colonial state practice, dispossession, diaspora, incarceration, and the ethics of research methods. Students practice the craft of writing about race, colonialism, state violence, and the manifold movements that imagine alternative, decolonized futures.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P CRES 10"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 46,
+            "priority": "moderate"
+        }
+    }
+}

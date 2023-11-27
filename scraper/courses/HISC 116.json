@@ -1,0 +1,32 @@
+{
+    "name": "HISC 116",
+    "title": "What is Species?",
+    "description": "Examines the rise of species-thinking within the Western philosophical tradition and how different thinkers have defined what distinguishes the human species from others. A critical and close examination of Charles Darwin?s role as a thinker of species is at the center of the course, with interest in its theoretical and political implications for discourses on gender and race. Readings include Kant, Feuerbach, Marx, Plessner, Grosz, Haraway, and others.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 41,
+            "priority": "low"
+        }
+    }
+}

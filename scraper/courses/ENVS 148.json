@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 148",
+    "title": "Cites, Urban Planning, and the Law",
+    "description": "Explores how local land use and planning objectives are defined and determined by federal, state, and (most importantly) local law. Focuses on California, and on California municipal law issues. Housing, transportation, water supply, regional government, environmental protection, natural resource protection, urban sprawl, and growth management issues are addressed as students learn how federal, state, and local laws relate to city urban planning problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

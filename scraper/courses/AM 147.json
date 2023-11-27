@@ -1,0 +1,36 @@
+{
+    "name": "AM 147",
+    "title": "Computational Methods and Applications",
+    "description": "Applications of computational methods to solving mathematical problems using Matlab. Topics include solution of nonlinear equations, linear systems, differential equations, sparse matrix solver, and eigenvalue problems. Students cannot receive credit for this course and MATH 148. (Formerly AMS 147.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 10 or MATH 21. Knowledge of differential equations (AM 20 or  MATH 24) is recommended.",
+        "courses": [
+            [
+                "P AM 10",
+                "MATH 21 K    AM 20",
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 147,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

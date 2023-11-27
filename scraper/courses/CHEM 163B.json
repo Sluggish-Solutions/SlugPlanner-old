@@ -1,0 +1,43 @@
+{
+    "name": "CHEM 163B",
+    "title": "Chemical Thermodynamics",
+    "description": "Fundamentals of thermodynamics and applications to chemical and biochemical equilibria. Students cannot receive credit for this course and BIOC 163B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1C, CHEM 3C, or CHEM 4B; and PHYS 6A or PHYS 5A; and MATH 22 or MATH 23B.",
+        "courses": [
+            [
+                "P CHEM 1C CHEM 3C",
+                "CHEM 4B"
+            ],
+            [
+                "PHYS 6A",
+                "PHYS 5A"
+            ],
+            [
+                "MATH 22",
+                "MATH 23B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

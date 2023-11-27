@@ -1,0 +1,44 @@
+{
+    "name": "ECE 135L",
+    "title": "Electromagnetic Fields and Waves Laboratory",
+    "description": "Laboratory sequence illustrating topics in course 135. One two-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ],
+            [
+                "MATH 23B"
+            ],
+            [
+                "MATH 24",
+                "AM 20 S     ECE 135"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 135 is required. Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 85,
+            "filled seats": 51,
+            "priority": "low"
+        }
+    }
+}

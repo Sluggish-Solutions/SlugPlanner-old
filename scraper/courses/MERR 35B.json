@@ -1,0 +1,32 @@
+{
+    "name": "MERR 35B",
+    "title": "Pathways to Graduate School?Phase 2",
+    "description": "Guides students via a strengths-based approach in utilizing the information, resources, support, and self-determination they identified in MERR 35A, Pathways to Graduate School?Phase 1, to navigate the graduate school application process and submit for admission to respective graduate programs and/or other competitive opportunities. Prerequisite(s): MERR 35A. Enrollment is by permission of the instructor. Enrollment is restricted to juniors and seniors in the Arts, Humanities, and Social Sciences Divisions or by instructor permission. Students in the EOP program are given priority.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Prerequisite(s): MERR 35A. Enrollment is restricted to juniors and seniors in the Arts, Humanities, and Social Sciences, and by instructor permission. Students in the EOP program are given priority.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

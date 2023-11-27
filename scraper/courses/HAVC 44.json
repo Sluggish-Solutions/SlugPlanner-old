@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 44",
+    "title": "Designing California: Architecture, Design, and Environment",
+    "description": "Introduces the complex interplay between design--including architecture, art, engineering, and city planning--and conceptions of environment during the 20th Century in the American West.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 136,
+            "priority": "unavailible"
+        }
+    }
+}

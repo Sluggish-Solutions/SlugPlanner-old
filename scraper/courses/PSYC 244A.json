@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 244A",
+    "title": "Proseminar I: Cognitive and Language Development",
+    "description": "Explores major theories and research in the fields of cognitive development and language development. Begins with classic theorists, such as Piaget and Vygotsky, and proceeds to theories and research on topics of current interest.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

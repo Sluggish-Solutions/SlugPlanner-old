@@ -1,0 +1,32 @@
+{
+    "name": "MATH 201",
+    "title": "Algebra II",
+    "description": "Vector spaces, linear transformations, eigenvalues and eigenvectors, the Jordan canonical form, bilinear forms, quadratic forms, real symmetric forms and real symmetric matrices, orthogonal transformations and orthogonal matrices, Euclidean space, Hermitian forms and Hermitian matrices, Hermitian spaces, unitary transformations and unitary matrices, skewsymmetric forms, tensor products of vector spaces, tensor algebras, symmetric algebras, exterior algebras, Clifford algebras and spin groups.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 200 is recommended as preparation. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

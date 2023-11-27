@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 195B",
+    "title": "Senior Thesis Group",
+    "description": "Individually supervised senior research that results in a senior thesis. Must meet regularly with faculty sponsor to discuss progress of the project, and to receive academic and technical guidance. Students must submit electronic copies of the completed research and write-up. Satisfies the senior comprehensive requirement. Prerequisite(s): Completion of ENVS 100 and ENVS 100L and ENVS 195A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Independent Study",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 999,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

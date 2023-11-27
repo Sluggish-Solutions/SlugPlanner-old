@@ -1,0 +1,38 @@
+{
+    "name": "BIOE 75",
+    "title": "Scientific Diving Certification",
+    "description": "Prerequisite for course 161/L, Kelp Forest Ecology, and all research diving performed under the auspices of UCSC or other academic institutions. Course work includes lectures and scuba diving. Topics include subtidal sampling techniques, navigation, low visibility diving, search and recovery, rescues, small boat use, oxygen administration for divers, technical blue water deep diving, physics, and physiology. Apply online at http://www2.ucsc.edu/sci-diving. Students are billed a course materials fee that covers costs for equipment use, materials, and transportation. Prerequisite(s): skill level equal to Advanced Scuba Diver Certification, pass scuba physical, provide own scuba gear, be certified in CPR and First Aid; and interview: pass swim test and scuba skills test.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by application at https://ehs.ucsc.edu/programs/diving-boating/sci-diving-classes.html Contactdivingsafety@ucsc.edufor additional questions about enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 12,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 10,
+            "priority": "moderate"
+        }
+    }
+}

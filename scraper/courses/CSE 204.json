@@ -1,0 +1,34 @@
+{
+    "name": "CSE 204",
+    "title": "Computational Models and Complexity",
+    "description": "Finite automata and regular expressions, universal models of computation, computability and unsolvability, relations between complexity classes, hierarchy theorems, reductions, complete problems for the major complexity classes (L, NL,  P, NP, PSPACE). Other topics may include complexity of counting and enumeration problems, complexity of approximation, randomized complexity classes. (Formerly Computer Science 210.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 201.",
+        "courses": [
+            [
+                "P CSE 201"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 12,
+            "priority": "very low"
+        }
+    }
+}

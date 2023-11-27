@@ -1,0 +1,40 @@
+{
+    "name": "CHEM 151L",
+    "title": "Inorganic Chemistry Laboratory",
+    "description": "Laboratory experience in inorganic chemistry. Experiments involve the preparation, purification, and characterization of inorganic compounds. In addition, experiments are designed to illustrate fundamental principles in inorganic chemistry and are coordinated with lectures in CHEM 151A. Laboratory: 4 hours per week. Laboratory lecture: 1 1/4 hours per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151A is required.",
+        "courses": [
+            [
+                "PCHEM 8B"
+            ],
+            [
+                "CHEM 8M"
+            ],
+            [
+                "CHEM 163A C   CHEM 151A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in the main lab lecture course in order to enroll in one of the secondary lab sections. Secondary lab sections will meet starting the week of January 15 (the week of MLK Jr Day).",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

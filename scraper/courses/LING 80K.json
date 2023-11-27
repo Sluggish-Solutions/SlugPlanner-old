@@ -1,0 +1,32 @@
+{
+    "name": "LING 80K",
+    "title": "Invented Languages, from Elvish to Esperanto",
+    "description": "Considers invented languages, including Elvish and Klingon, as well as lesser-known ones that tackle ethical, social, or cognitive concerns. Students learn tools from contemporary linguistics to analyze language structures and understand how they relate to creator intentions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is an online course. There will be one required \"real time\" online meeting lasting one hour, choice of days and times TBD.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 462,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "BME 5",
+    "title": "Introduction to Biotechnology",
+    "description": "Introduces the tools and applications of biotechnology in the fields of medicine, agriculture, the environment, and industry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 61,
+            "filled seats": 53,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 53,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

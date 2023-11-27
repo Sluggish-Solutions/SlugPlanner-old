@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80F",
+    "title": "Music in Latin American Culture: Regional Traditions",
+    "description": "In-depth study of select music cultures of Mexico, Central America, and Caribbean, Brazil, Chile, Argentina, Colombia, and Peru. Characteristic regional genres, ensembles, instruments, and music rituals. Case studies by ethnomusicologists with expertise in specific regional musics. Also Latin American Nueva Canci\u00f3n, women's musics, and overarching themes in Latin American music, as a whole. Offered on a rotational basis with other non-Western courses in the 80 series.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

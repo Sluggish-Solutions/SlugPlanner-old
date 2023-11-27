@@ -1,0 +1,34 @@
+{
+    "name": "CHIN 4",
+    "title": "Second-Year Chinese",
+    "description": "Instruction in intermediate spoken and written Chinese (Mandarin). Conversation, composition, and the reading of modern texts. The second-year sequence (4-5-6) begins only in the fall quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHIN 3 or by consent of instructor.",
+        "courses": [
+            [
+                "P CHIN 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

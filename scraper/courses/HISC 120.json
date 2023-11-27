@@ -1,0 +1,32 @@
+{
+    "name": "HISC 120",
+    "title": "What is a State?",
+    "description": "Examines the modern concept of state, its anthropological assumptions, categories, its critique, and its crisis. Inquires into the concept of representation, borders, security and control in thinkers, such as Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Immanuel Kant, G.W.F. Hegel, Karl Marx, Carl Schmitt, and Lenin.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Is the state obsolete? Is the state a political form that is no longer adequate to deal with the current times? What is a state? This course is about the concept of the state, its anthropological assumptions, categories, critique, and crisis. The course will investigate the state and the statesman, constitutions, and political practices. This course proposes to inquire into the concept of representation, borders, resistance, and democracy in texts by G.W. F. Hegel, Karl Marx, Rosa Luxemburg, and Hannah Arendt, with a close reading of Plato?s Statesman.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        }
+    }
+}

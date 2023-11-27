@@ -1,0 +1,32 @@
+{
+    "name": "CRES 201",
+    "title": "Exile & Diaspora",
+    "description": "Explores ''subaltern'' narratives of diaspora exile in order to interrogate the condition of exile and its interwoven, often contradictory relations to many diasporic formations that endure in the 20th and 21st centuries. Students explore the various origins of diaspora and forms of exile emergent from chattel slavery, colonialism, war, racism, xenophobia, political dissidence, and dispossession, informing an understanding of these broader global machinations, and the experiences of those exiled and in diaspora themselves.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

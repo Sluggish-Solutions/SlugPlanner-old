@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 141B",
+    "title": "Death, Desire, and Modernity",
+    "description": "Explores war, consumption and desire in the art of the 20th century. From Paris to New York, Cubism to Feminism, explores the relationship between the visual arts and intellectual movements such as psychoanalysis, existentialism, and phenomenology with particular attention to racial and sexual politics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 73,
+            "priority": "unavailible"
+        }
+    }
+}

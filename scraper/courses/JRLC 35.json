@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 35",
+    "title": "Knowledge For Justice",
+    "description": "Introduction to the (H)ACER program at John R. Lewis College. (H)ACER trains students in participatory research methodologies and creates opportunities for students to work in real world contexts addressing issues such as social, economic, educational, and environmental injustice. Students gain a foundation in understanding the context of the research university and developing critical research methods for working with communities. Students grapple with questions of how to conduct research in an ethical way and to build relationships that both recognize and are not foreclosed by histories of violence, with particular attention to race, class, gender, and nationality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

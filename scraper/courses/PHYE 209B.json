@@ -1,0 +1,32 @@
+{
+    "name": "PHYE 209B",
+    "title": "Boating: Graduate Beginning Dinghy Sailing",
+    "description": "Coeducational. Introductory course in practical boating safety using 15-foot sailboats. Includes introduction to rigging, nomenclature, seamanship, proper boat-handling techniques, and general boating and aquatic safety. Satisfactory completion meets prerequisites for intermediate-level dinghy course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites(s): swimming ability. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

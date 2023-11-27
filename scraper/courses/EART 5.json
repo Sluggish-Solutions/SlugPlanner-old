@@ -1,0 +1,32 @@
+{
+    "name": "EART 5",
+    "title": "California Geology",
+    "description": "An introduction to physical geology emphasizing the minerals, rocks, volcanoes, mountains, faults, and earthquakes of California. In-class field trips to study the caves, rocks, and landforms of the campus and the Monterey Bay area. Discussion-1 hour. Concurrent enrollment in EART 5L is required for majors and minors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in 5L required for majors and minors.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 224,
+            "filled seats": 223,
+            "priority": "high"
+        }
+    }
+}

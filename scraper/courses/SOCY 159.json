@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 159",
+    "title": "Pregnancy and Birth",
+    "description": "Examines the socio-cultural processes that shape the meanings, experiences, institutions, and outcomes of pregnancy and birth. Pregnancy and birth serve as a microcosm for understanding the interlocking forces of patriarchy, racial capitalism, and white supremacy, as well as the gendered and sexualized meanings and practices that work to discipline individuals and naturalize those processes. As such, course examines institutional efforts to control the reproductive capacities of people with wombs, as well as resistance to those efforts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or by permission of the instructor. Enrollment is restricted to sophomores, juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

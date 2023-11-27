@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 110D",
+    "title": "Tourism Imaginaries and Encounters",
+    "description": "Explores anthropological approaches to the study of tourism, in particular themes of authenticity, \"othering,\" visual economies, development, identity politics, alternative tourisms, and material culture with reference to history, power, and location.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MATH 288A",
+    "title": "Pedagogy of Mathematics",
+    "description": "Prepares graduate students to become successful Teaching Assistants in mathematics courses. Topics include class management, assessment creation, evaluation and grading, student interaction, introduction to teaching and learning strategies, innovation in education, use of technology, and best practices that promote diversity and inclusion.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 202",
+    "title": "Computation Media Research",
+    "description": "Overview of computational media research strategies. Includes case studies of how particular projects were defined and completed and how interdisciplinary concerns have been successfully integrated. Considers the expressive and authorial affordances of different system architecture approaches.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 201, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

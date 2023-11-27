@@ -1,0 +1,32 @@
+{
+    "name": "BME 275",
+    "title": "Entrepreneurship in Biotechnology",
+    "description": "Focuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with BME 175.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with BME 175",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

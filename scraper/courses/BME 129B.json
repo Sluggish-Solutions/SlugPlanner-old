@@ -1,0 +1,32 @@
+{
+    "name": "BME 129B",
+    "title": "Project Design and Implementation in Biomolecular Engineering II",
+    "description": "Second part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior bioengineering or biomolecular engineering and bioinformatics majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 129A or BME 150. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

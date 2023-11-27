@@ -1,0 +1,32 @@
+{
+    "name": "ECE 104",
+    "title": "Bioelectronics",
+    "description": "Covers selected case studies in interfacing electronic devices with biological systems. from Galvani to neuronal stimulation and electroceuticals. These studies include: the squid giant axon, the pace maker, deep brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly student papers on case studies and through a final presentation. (Formerly EE 104.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 204",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 37,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "PHYS 5B",
+    "title": "Introduction to Physics II",
+    "description": "A continuation of PHYS 5A. Wave motion in matter, including sound waves. Geometrical optics, interference and polarization, statics and dynamics of fluids.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and MATH 19B or MATH 20B; concurrent enrollment in PHYS 5M is required.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "MATH 19B",
+                "MATH 20B"
+            ],
+            [
+                "PHYS 5M"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 260,
+            "filled seats": 259,
+            "priority": "high"
+        }
+    }
+}

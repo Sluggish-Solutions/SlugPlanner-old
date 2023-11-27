@@ -1,0 +1,38 @@
+{
+    "name": "PHYS 133",
+    "title": "Intermediate Laboratory",
+    "description": "Demonstration of phenomena of classical and modern physics. Development of a familiarity with experimental methods. Special experimental projects may be undertaken by students in this laboratory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J, or CSE 14, or CSE 20, or ASTR 119, or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 32,
+            "filled seats": 31,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 36,
+            "filled seats": 28,
+            "priority": "moderate"
+        }
+    }
+}

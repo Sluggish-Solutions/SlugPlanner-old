@@ -1,0 +1,35 @@
+{
+    "name": "AM 3",
+    "title": "Precalculus for the Social Sciences",
+    "description": "Introduces mathematical functions and their uses for modeling real-life problems in the social sciences. Includes inequalities, linear and quadratic equations, functions (linear, quadratic, polynomial, rational, power, exponential, logarithmic, trigonometric), inverses, and the composition of functions. Students cannot receive credit for both this course and MATH 3. MATH 3 can substitute for this course. (Formerly Applied Mathematics and Statistics 3.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): score of 200 or higher on the  mathematics placement examination (MPE), or MATH 2.",
+        "courses": [
+            [
+                "P   200",
+                "MATH 2"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

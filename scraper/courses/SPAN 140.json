@@ -1,0 +1,38 @@
+{
+    "name": "SPAN 140",
+    "title": "Sounds of Spanish",
+    "description": "Examines the sound system of Spanish, compares the English and Spanish systems of pronunciation, and teaches the phonetic/phonological variation across dialects of Spanish.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 6 or SPHS 6; and LING 50.",
+        "courses": [
+            [
+                "P SPAN 6",
+                "SPHS 6"
+            ],
+            [
+                "LING 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 27,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PHIL 113",
+    "title": "The History of Analytic Philosophy",
+    "description": "Examination of the beginnings and development of analytic philosophy, with primary interest in the reformulation of traditional philosophical problems beginning with Frege. Other figures studied include, but are not limited to, Russell, Carnap, Wittgenstein, Quine, and Sellars.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+        "courses": [
+            [
+                "P PHIL 9"
+            ],
+            [
+                "PHIL 11",
+                "PHIL 22",
+                "PHIL 23",
+                "PHIL 24",
+                "PHIL 80E",
+                "BME 80GPHIL 80G",
+                "PHIL 80M",
+                "PHIL 80S"
+            ],
+            [
+                "PHIL 100A",
+                "PHIL 100B",
+                "PHIL 100C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 24,
+            "priority": "low"
+        }
+    }
+}

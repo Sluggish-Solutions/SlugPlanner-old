@@ -1,0 +1,32 @@
+{
+    "name": "CRSN 160",
+    "title": "Developing Leadership to Facilitate Environmental Education",
+    "description": "Prepares students to facilitate working groups for \"Sustainable Living\" (courses 61/161) during the spring quarter. The skills acquired during this course include: facilitation skills; problem-solving; syllabus planning; curriculum building; experiential learning techniques; leadership skills; cultural competence; and non-violent communication training. Enrollment by interview only. Enrollment restricted to sophomores, juniors, and seniors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ECE 129B",
+    "title": "Capstone Project II",
+    "description": "Second of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this second course, students complete the training, research, and procurement for a substantial project and a preliminary implementation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 135,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A. Enrollment is restricted to seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

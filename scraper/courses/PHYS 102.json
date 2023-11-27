@@ -1,0 +1,49 @@
+{
+    "name": "PHYS 102",
+    "title": "Modern Physics",
+    "description": "Topics in quantum physics including the Schrodinger equation; angular momentum and spin; the Pauli exclusion principle; and quantum statistics. Applications in multi-electron atoms and molecules, and in solid-state, nuclear, and particle physics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A, PHYS 5L, PHYS 5B, PHYS 5M, PHYS 5C, PHYS 5N and PHYS 5D; or PHYS 6A, PHYS 6L, PHYS 6B, PHYS 6M, PHYS 6C, PHYS 6N, and PHYS 5D; or equivalent.",
+        "courses": [
+            [
+                "P",
+                [
+                    "PHYS 5A PHYS 5L PHYS 5B PHYS 5M PHYS 5C PHYS 5N",
+                    "PHYS 5D"
+                ],
+                [
+                    "PHYS 6A PHYS 6L PHYS 6B PHYS 6M PHYS 6C PHYS 6N",
+                    "PHYS 5D"
+                ],
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 41,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

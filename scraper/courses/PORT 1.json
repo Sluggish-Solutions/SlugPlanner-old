@@ -1,0 +1,32 @@
+{
+    "name": "PORT 1",
+    "title": "First-Year Portuguese",
+    "description": "Introduces first-year Portuguese language instruction and requires no previous study of Portuguese. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

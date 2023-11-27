@@ -1,0 +1,38 @@
+{
+    "name": "BIOL 86",
+    "title": "Research Deconstruction:  MCD Biology",
+    "description": "Explores scientific principles and logic through research seminars in molecular, cellular, and developmental biology. Additional topics may include diseases, stem cell biology, and other medically relevant areas in biomedical research. Prerequisite(s): Mathematics 3 or equivalent (i.e., mathematics placement examination score), and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to first-year, sophomore, and junior students. Enrollment is by permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 36,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

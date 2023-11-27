@@ -1,0 +1,32 @@
+{
+    "name": "ART 260",
+    "title": "Curatorial Collective",
+    "description": "Second-year seminar course focusing on exhibition, curatorial questions, and practices as they relate to presenting final thesis work for public reception. Covers practical, theoretical, and historical considerations for artists and researchers in the process of preparing for presenting the outcome of MFA research. Students examine multiple modalities for presentation and exhibition and address issues of diversity and access in exhibition and curatorial practices. This course can be taken for Satisfactory/Unsatisfactory grading only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "ECON 110",
+    "title": "Managerial Cost Accounting and Control",
+    "description": "Focuses on how cost data are used by managers in the planning and control of both private- and public-sector organizations. Specific topics include organization of the management and control function, use of cost data for the pricing of goods and services, the effect of cost systems on management performance, and capital budgeting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 10B.",
+        "courses": [
+            [
+                "P ECON 10B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 130,
+            "filled seats": 115,
+            "priority": "high"
+        }
+    }
+}

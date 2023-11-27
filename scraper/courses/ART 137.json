@@ -1,0 +1,32 @@
+{
+    "name": "ART 137",
+    "title": "Outdoor Painter's Project",
+    "description": "Explores contemporary landscape through the practice of plein air painting. Observational plein air painting will provides the foundation for the class. Instruction includes technical instruction in materials and technique as well as conceptual material. Student may work with oils, alkyds, or acrylic on panels, paper, or canvas. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One from ART 20J, ART 130, ART 133, ART 138, ART 139; and two non-painting lower-division studios from ART 15, ART 20G, ART 20H, ART 20I, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

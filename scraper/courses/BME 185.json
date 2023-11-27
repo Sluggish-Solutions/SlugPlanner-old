@@ -1,0 +1,46 @@
+{
+    "name": "BME 185",
+    "title": "Technical Writing for Biomolecular Engineers",
+    "description": "Writing by biomolecular engineers, not to general audiences, but to engineers, engineering managers, and technical writers. Exercises include job application and resume, library puzzle, graphics, laboratory protocols, document specification, progress report, survey article or research proposal, poster, and oral presentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A; satisfaction of Entry Level Writing and Composition requirements; Enrollment restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and biotechnology majors.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "E"
+            ],
+            [],
+            [],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 36,
+            "priority": "high"
+        }
+    }
+}

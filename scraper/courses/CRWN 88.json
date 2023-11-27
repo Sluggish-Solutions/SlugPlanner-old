@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 88",
+    "title": "Computational Futurology:Use of Data Analysis for Predicting Human Behavior and Activity",
+    "description": "Investigates statistical and computational methods for the prediction of human activity, both at the individual and at the collective level. Students learn to evaluate and critique famous predictions, and consider the ethical and social implications of predictive technologies. Articulated around a creative group project to integrate concepts learned in the course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholar Students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

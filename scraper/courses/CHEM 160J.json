@@ -1,0 +1,38 @@
+{
+    "name": "CHEM 160J",
+    "title": "Biochemistry Research Laboratory",
+    "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8L and completion of or enrollment in BIOC 100A, BIOL 100, or CHEM 103.",
+        "courses": [
+            [
+                "P CHEM 8L"
+            ],
+            [
+                "BIOC 100A BIOL 100",
+                "CHEM 103"
+            ]
+        ]
+    },
+    "class_notes": "This course requires instructor approval. To request enrollment in this course, please complete the form below. All students will receive a final decision about their enrollment in CHEM 160J by September 1, at the latest. https://docs.google.com/forms/d/e/1FAIpQLSdgRXNlg2C3Dgpe1WRr5B69MRPoiar02kmJ-PNNeBfEGkKL8A/viewform?usp=sf_link",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

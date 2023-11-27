@@ -1,0 +1,38 @@
+{
+    "name": "CRWN 90",
+    "title": "Start-up Entrepreneurship Academy",
+    "description": "Introduction to the basics of setting up a start-up company using the Lean Launchpad/NSF I-Corps model of instruction. Students learn principles of data collection, marketing processes, and resources needed for new companies. The class is articulated around the design of a business plan, in groups of 4-5 students coached by a successful entrepreneur, and culminates in a presentation. The market research for the project  involves talking to at least 5 potential customers, partners, channels and/or related experts each week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholar Students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 253",
+    "title": "Race, Crime, and Justice",
+    "description": "Covers empirical research on ''race, crime, and justice'' from multiple methodological and theoretical traditions in social science research. The course draws on historical examples of slavery, state violence, and crimes against humanity across the globe. Also covers research on the entanglement of race and crime in the United States, both historically and today.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

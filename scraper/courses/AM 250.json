@@ -1,0 +1,32 @@
+{
+    "name": "AM 250",
+    "title": "An Introduction to High Performance Computing",
+    "description": "Designed for STEM students and others. Through hands-on practice, this course introduces high-performance parallel computing, including the concepts of multiprocessor machines and parallel computation, and the hardware and software tools associated with them. Students become familiar with parallel concepts and the use of MPI and OpenMP together with some insight into the use of heterogeneous architectures (CPU, CUDA, OpenCL), and some case-study problems. (Formerly AMS 250.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

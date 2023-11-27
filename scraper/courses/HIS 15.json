@@ -1,0 +1,38 @@
+{
+    "name": "HIS 15",
+    "title": "The United States of America from its Founding through Our Time",
+    "description": "Takes students through five critical \"moments\" in United States history: the American Revolution, the Civil War, the New Deal, the Civil Rights era, and the years following the attack on the United States on Sept. 11, 2001.  Designed for non-majors.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This is an online course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 177,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

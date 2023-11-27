@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 287A",
+    "title": "Advanced Topics: Indigenous Archaeology",
+    "description": "Traces the development of indigenous archaeology primarily in North America. Topics include: the Native American Graves Protection and Repatriation Act (NAGPRA) and issues of cultural patrimony; postcolonialism; decolonizing methodologies; community-based research; oral sources and other ways of knowing the past; and future directions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

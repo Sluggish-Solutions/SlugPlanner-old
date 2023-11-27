@@ -1,0 +1,46 @@
+{
+    "name": "PHYS 152",
+    "title": "Physics and Machine Learning",
+    "description": "Review of select topics in statistical physics including information theory, entropy, coupled systems, phase transitions, and symmetry breaking. Introduction to multivariate algorithms, with an emphasis on their foundations in statistical physics and classical mechanics. Notebooks, data preparation, cross-validation, supervised and unsupervised learning. Practical considerations for training and optimizing neural networks and related tools. (Formerly offered as Neural Networks, Statistical Physics and Computing.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 105; and CSE 20 or ASTR 119 or PHYS 115 or prior programming experience with permission of instructor. Corequisite: PHYS 112.",
+        "courses": [
+            [
+                "P PHYS 105"
+            ],
+            [
+                "CSE 20",
+                "ASTR 119",
+                "PHYS 115",
+                "C PHYS 112"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 21,
+            "filled seats": 21,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

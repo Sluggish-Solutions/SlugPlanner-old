@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 108L",
+    "title": "Synthetic Gene Regulation Lab III",
+    "description": "The Synthetic Gene regulation course is a goal-oriented research laboratory. Students will be given a project and will discuss and design experiments to reach that aim. Students will develop molecular tools and will use these and other methods to investigate various aspects of gene silencing in eukaryotes. An understanding of introductory biology and genetics is required. Prerequisite(s): BIOL 107L and satisfaction of the Entry Level Writing and Composition is required. Students cannot enroll in BIOL 108L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 186L and METX 119L. Enrollment by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

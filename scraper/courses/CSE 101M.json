@@ -1,0 +1,34 @@
+{
+    "name": "CSE 101M",
+    "title": "Mathematical Thinking for Computer Science",
+    "description": "Introduction to problem-solving and proof techniques for computer science: modeling CS problems using mathematical concepts; solving problems and inventing mathematical arguments; writing rigorous, understandable proofs using LaTeX. Applications in all CS areas with focus on analyzing algorithms, programs, and protocols.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101.",
+        "courses": [
+            [
+                "P CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

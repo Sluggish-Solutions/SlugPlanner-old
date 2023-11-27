@@ -1,0 +1,32 @@
+{
+    "name": "HEBR 82",
+    "title": "Hebrew: Travel Abroad",
+    "description": "Class is designed for students planning to travel to Israel with one of many funded or unfunded programs offered to students by different agencies. The main course focus is to learn reading and communication skills in Hebrew. Students learn about Israeli culture, with a focus on its differences from U.S. cultures. These communication skills can be used while in Israel for either traveling purposes or attending classes in one of the universities as part of the learning abroad programs. Students acquire the skills required for practical use of Hebrew in order to communicate everyday life activities along with specific functional tasks, such as understanding directions; ordering in a restaurant; health issues; dealing with security issues and emergency situations; understanding tour guides; and addressing historical, political, and geographical issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        }
+    }
+}

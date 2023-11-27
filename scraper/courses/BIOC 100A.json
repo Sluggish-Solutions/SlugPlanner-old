@@ -1,0 +1,32 @@
+{
+    "name": "BIOC 100A",
+    "title": "Biochemistry and Molecular Biology",
+    "description": "Fundamentals of molecular biology, structure and function of nucleic acids, and protein structure. Designed for students preparing for research careers in biochemistry and molecular biology. Lecture: 3-1/2 hours; discussion: 1-1/4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "chemistry, biochemistry, and biomolecular engineering and bioinformatics majors, and chemistry minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 8B; and BIOL 20A. Enrollment is restricted to chemistry, biochemistry, and biomolecular engineering and bioinformatics majors, and chemistry minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment in a secondary discussion section is required. If you are a non-Chemistry, Biochemistry, or Biomolecular Engineering and Bioinformatics major who wants to take BIOC 100A, please request enrollment in BIOC 100A with this form: https://docs.google.com/forms/d/1-4f9Qe3N-kDIRYjx_wWOIfu9PVW75blSbGk_vK67A_Q/edit.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 224,
+            "filled seats": 144,
+            "priority": "low"
+        }
+    }
+}

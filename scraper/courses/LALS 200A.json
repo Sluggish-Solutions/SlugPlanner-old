@@ -1,0 +1,32 @@
+{
+    "name": "LALS 200A",
+    "title": "Power and Structure in the Americas",
+    "description": "Examines historical processes and contemporary social, cultural, and political structures in the Americas. Explores power as a mesh that interweaves relations of exploitation/domination/conflict aimed at controlling different dimensions of social existence. Places particular emphasis on the nature of capitalist development in the Americas, colonialism, imperialism/anti-imperialism, nationalism/ transnationalism/ plurinationalism, and neoliberalism. Builds a contextual foundation for conceptual inquiry in the department?s four substantive themes. (Formerly Power and Society.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

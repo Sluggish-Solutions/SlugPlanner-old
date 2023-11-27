@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 261",
+    "title": "Thinking and Learning",
+    "description": "Examines multiple theoretical perspectives on thinking, learning, and teaching; the development of the whole person in a variety of cultural contexts; the roles thinking, learning, and teaching play in that development; and how researchers' and educators' conceptions shape instruction.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

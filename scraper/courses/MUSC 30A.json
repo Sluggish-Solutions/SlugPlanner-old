@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 30A",
+    "title": "Theory, Literature, and Musicianship",
+    "description": "Integrated musicianship, theory, and analysis. Species counterpoint and fundamentals of tonal harmony. Analysis of literature from the Middle Ages and Renaissance. Ear-training, taught in smaller sections, emphasizes recognition of triad and dominant-seventh inversions, dictation of diatonic melodies, and aural analysis of simple diatonic interval and chord progressions. Most of the ear-training materials consist of homophonic and polyphonic examples from music literature performed live in class. Prerequisite: admission by core curriculum placement examination.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 17,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 11,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

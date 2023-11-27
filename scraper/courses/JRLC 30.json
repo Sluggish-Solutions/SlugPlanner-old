@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 30",
+    "title": "(H)ACER Undergraduate Community Internship",
+    "description": "Student Internship through the Apprenticeship in Community Engaged Research (H)ACER Program at College Nine and John R. Lewis College. The (H)ACER Program joins community engagement with critical reflexive components of qualitative research to support transformative learning and strengthen community-university partnerships. Students will be placed at a variety of internships and work with our community partners such as Calabasas Elementary School classroom teachers, Calabasas Elementary School After School Program, Calabasas Community Garden, and Watsonville High School classroom teachers. Students also may propose internships if they already have strong ties with a community partner and receive approval from the (H)ACER Director. Requires students to read selected readings on critical service learning, community learning, qualitative research methods and a variety of texts relevant to the history, context and activities at the sites where they will intern. Internships will take place primarily in Watsonville. Enrollment by permission of the instructor.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 11,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

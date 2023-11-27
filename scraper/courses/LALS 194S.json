@@ -1,0 +1,32 @@
+{
+    "name": "LALS 194S",
+    "title": "Nature/Cultures of Latin America",
+    "description": "Students explore and apply ''ecocentric'' perspectives, and theories such as ''natureculture'' (introduced by feminist scholar Donna Haraway) as a means of building our own transdisciplinary approach to worlds beyond strictly human social configurations. Course incorporates a broad range of assigned reading and audiovisual resources. Seminar participants engage in class discussions, activities, and guided opportunities for natural history field observations. Course is divided into three topical modules, each of which has the dual purpose of introducing students to scholarship and methods relating to multi-species academic inquiry, and guiding the class through the conception, development, and writing of a relevant research project. Course is taught in tandem with LALS 194L, where students have further support in the multi-stage execution of their research projects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in associated lab that meets Tues/Thurs at 5pm: 194L-01",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

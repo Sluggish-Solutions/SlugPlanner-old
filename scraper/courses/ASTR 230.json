@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 230",
+    "title": "Diffuse Matter in Space",
+    "description": "Fundamental physical theory of gaseous nebulae and the interstellar medium. Ionization, thermal balance, theory and observation of emission spectra. Interstellar absorption lines, extinction by interstellar dust. Ultraviolet, optical, infrared, and radio spectra of gaseous nebulae.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

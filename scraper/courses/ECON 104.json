@@ -1,0 +1,56 @@
+{
+    "name": "ECON 104",
+    "title": "Is There Truth in Numbers: The Role of Statistics in Economics",
+    "description": "Applies the techniques of econometrics and experimental economics to the understanding of economics. A \"hands-on\" course where real economic data is used in an interactive way so that students develop the art of empirical analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M;  and ECON 113, and Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ],
+            [
+                "ECON 113"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 73,
+            "filled seats": 72,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 84,
+            "filled seats": 80,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 62,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

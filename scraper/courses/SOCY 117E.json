@@ -1,0 +1,40 @@
+{
+    "name": "SOCY 117E",
+    "title": "Migrant Europe",
+    "description": "Introduction to questions of immigration, nationalism, and racism in contemporary Europe. Addresses colonial roots of migration to Europe; patterns of immigration and responses to immigrants across different European regions; and political movements led by immigrants and other people of color.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1, or SOCY 10 or SOCY 15 or CRES 10 or LGST 10; or by permission of the instructor.",
+        "courses": [
+            [
+                "P",
+                "SOCY 1",
+                "SOCY 10",
+                "SOCY 15",
+                "CRES 10",
+                "LGST 10",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

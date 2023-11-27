@@ -1,0 +1,40 @@
+{
+    "name": "CSE 222A",
+    "title": "VLSI Digital System Design",
+    "description": "Advanced Very Large Scale Integrated (VLSI) custom integrated circuits. Topics include: semiconductors; field-effect transistors (FETs); circuits; and  interconnect simulation, along with advanced material on manufacturability, variability, short-channel devices, and non-volatile memories. Students cannot receive credit for this course and CSE 122. (Formerly Computer Engineering 222.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 122 or equivalent.",
+        "courses": [
+            [
+                "P CSE 122"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 27,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

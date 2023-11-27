@@ -1,0 +1,46 @@
+{
+    "name": "CHEM 146B",
+    "title": "Advanced Laboratory in Inorganic Chemistry",
+    "description": "Designed to expose students to advanced synthetic and spectroscopic techniques in inorganic chemistry. Examples include anaerobic manipulations, characterization of inorganic materials through spectral assignments and synthesis of coordination and organometallic complexes. Lecture: 1-1/4 hours; laboratory: 8 hours. Students billed a materials fee of $240.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 151A and CHEM 151L; CHEM 163A; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+        "courses": [
+            [
+                "P CHEM 151A"
+            ],
+            [
+                "CHEM 151L"
+            ],
+            [
+                "CHEM 163A"
+            ],
+            [
+                "E L W"
+            ],
+            [
+                "C  E     M"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in the main lab lecture course in order to enroll in one of the secondary lab sections. Secondary lab sections will meet starting the second week of classes (week of April 9).",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

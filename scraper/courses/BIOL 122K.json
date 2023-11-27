@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 122K",
+    "title": "Phage Biology Lab I",
+    "description": "Hypothesis-driven research laboratory. Students isolate a unique bacteriophage from the environment and characterize its structure using electron microscopy and genome by restriction digest analysis. Students develop wet lab skills and use these skills and other methods to investigate various aspects of bacteriophage. An understanding of introductory molecular biology is required. Note that completion of this course, BIOL122K, is necessary to enroll in BIOL122L. Enrollment is by permission of the instructor. Prerequisite(s): CHEM1B, CHEM 3A, or CHEM 4A; and BIOL20A, BIOL20L, BIOL86. Enrollment is restricted to biology; biochemistry and molecular biology; and molecular, cell, and developmental biology majors. Students with credit for BIOL121L may not enroll in this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

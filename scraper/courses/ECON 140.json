@@ -1,0 +1,35 @@
+{
+    "name": "ECON 140",
+    "title": "International Trade",
+    "description": "The theory of international production and trade. The effects of tariffs and quantitative trade restrictions; the nature of economic integration; multinational firms; effects of trade and protection on economic stability and welfare.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 66,
+            "filled seats": 65,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "EART 164",
+    "title": "Planetary Atmospheres",
+    "description": "A quantitative study of the origin, chemistry, dynamics, and observations of the atmospheres of terrestrial and gas-giant planets. Students cannot receive credit for this course and EART 264.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 160 or PHYS 116A.",
+        "courses": [
+            [
+                "P EART 160",
+                "PHYS 116A"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with EART 264",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

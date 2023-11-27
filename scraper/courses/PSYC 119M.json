@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 119M",
+    "title": "Identity Development in Social and Cultural Contexts",
+    "description": "Senior seminar that focuses on identity development in adolescence and young adulthood. Discusses theory and research on the development of personal and social identities and the sociocultural contexts in which these personal and social identities are negotiated. Satisfies seminar requirement. Satisfies senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology majors or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and PSYC 100; PSYC 102 strongly recommended. Enrollment is restricted to senior psychology majors or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

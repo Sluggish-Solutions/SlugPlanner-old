@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 3",
+    "title": "Introductory Astronomy: Planetary Systems",
+    "description": "Properties of the solar system and other planetary systems. Topics include the Sun, solar system exploration, the physical nature of the Earth and the other planets, comets and asteroids, the origin of the solar system, the possibility of life on other worlds, planet formation, and the discovery and characterization of planets beyond the solar system. Intended for nonscience majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately or sequentially.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 165,
+            "filled seats": 166,
+            "priority": "high"
+        }
+    }
+}

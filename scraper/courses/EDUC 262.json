@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 262",
+    "title": "Social and Cultural Context of Education",
+    "description": "Application of anthropological and sociological theories to study of education. Examines social, cultural, and linguistic context of schooling with particular attention to role of race, class, culture, power, and language in influencing schooling outcomes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

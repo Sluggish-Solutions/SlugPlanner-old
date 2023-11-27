@@ -1,0 +1,40 @@
+{
+    "name": "TIM 175",
+    "title": "Business Strategy and Information Systems",
+    "description": "Analysis of effective use of information systems within a business enterprise, with emphasis on gaining a competitive advantage. Integration of information systems with business strategy, financial justification, personnel, and organizational considerations are highlighted. Intended for technology and information management majors or senior engineering majors who have a business interest. (Formerly  CSE 175.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and TIM 50 or permission of instructor.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "TIM 50"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 123,
+            "priority": "unavailible"
+        }
+    }
+}

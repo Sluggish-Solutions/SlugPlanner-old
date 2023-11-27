@@ -1,0 +1,35 @@
+{
+    "name": "FILM 162",
+    "title": "Film Authors",
+    "description": "Intensive critical study of the work of one film auteur (director, screenwriter, actor, cinematographer). Themes, style, and structure are explored using various critical modes of analysis. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 130, FILM 132A, FILM 132B, FILM134A, or FILM 134B.",
+        "courses": [
+            [
+                "P FILM 130 FILM 132A FILM 132B FILM134A",
+                "FILM 134B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 58,
+            "priority": "high"
+        }
+    }
+}

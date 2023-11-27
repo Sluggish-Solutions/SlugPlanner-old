@@ -1,0 +1,38 @@
+{
+    "name": "NLP 245",
+    "title": "Conversational Agents",
+    "description": "Reviews recent work on conversational AI systems for task-oriented, informational, and social conversations with machines. Students read and review theoretical and technical papers from journals and conference proceedings, present paper summaries, and engage in discussions. A research project is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Requirements Prerequisite(s):  NLP 201 and NLP 243 or CSE 244B. Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 15,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

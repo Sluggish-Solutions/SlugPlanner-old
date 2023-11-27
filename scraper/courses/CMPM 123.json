@@ -1,0 +1,41 @@
+{
+    "name": "CMPM 123",
+    "title": "Advanced Programming",
+    "description": "Course introduces students to current and emerging advanced programming methods used in building complex, high-performance, and networked interactive media systems. Students use tools like debuggers and profiles to inspect and resolve software performance bottlenecks in a compiled language.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: CSE 101 or CMPM 35.",
+        "courses": [
+            [
+                "P CSE 101",
+                "CMPM 35"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 103,
+            "filled seats": 24,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

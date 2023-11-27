@@ -1,0 +1,32 @@
+{
+    "name": "KRSG 2",
+    "title": "The Power of Filmmaking",
+    "description": "Introduction to media representations through film and their consequences for individuals and communities. Addresses how today's films represent struggles for justice and agency?especially relative to race, gender, citizenship/documentation, and communities of diaspora?in terms of filmmaking frameworks and the dialogues they foment. Each week class screens and discusses a collection of films, television, news programming, and video games to analyze and critique the ways in which power operates. Students also use such analyses and criticism to inform us as we create our own filmmaking projects. (Formerly offered as Power and Representation in Media.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "CSE 113",
+    "title": "Parallel and Concurrent Programming",
+    "description": "Introduction to parallel and concurrent programming. Topics include: types of parallel computers and programming platforms; design, implementation, and optimization of programs for parallel and multicore processors; basic and advanced programming techniques; performance analysis and load balancing; and selected parallel algorithms.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12 and CSE 101. CSE 120 recommended.",
+        "courses": [
+            [
+                "P CSE 12"
+            ],
+            [
+                "CSE 101 CSE 120"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

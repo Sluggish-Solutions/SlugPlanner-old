@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 139",
+    "title": "Queer and Trans Art and Games",
+    "description": "Students study, and make, queer and trans art and games. Course considers how gender and sexuality are systems of rules often assumed in game design, and how those rules can be subverted to create novel and experimental games. By identifying and resisting cisnormativity and heteronormativity, students create original game concepts, using a critical, intersectional approach that understands that race as a constitutive element of both gender and sexuality. Course also studies with queer and trans ecologies understanding gender and race as inseparable from our idea of nature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art and design: games and playable media, and critical race and ethnic studies majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 120; or ARTG 20 and ARTG 30. Enrollment is restricted to art and design: games and playable media, and critical race and ethnic studies majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

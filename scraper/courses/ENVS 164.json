@@ -1,0 +1,39 @@
+{
+    "name": "ENVS 164",
+    "title": "Projects and Practices in Soil Ecology",
+    "description": "Students learn soil ecological principles by carrying out inquiry-based projects and practices in land ecosystems (agroecosystems, forests and grasslands). UCSC reserves, farms, gardens, and greenhouses are the default living-laboratories for the course. The emphasis is on experiential learning of practical and technical skills in using soil methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of  the instructor. Previous enrollment in ENVS 161 is recommended.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L",
+                "P   ENVS 161"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

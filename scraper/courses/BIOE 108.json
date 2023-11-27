@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 108",
+    "title": "Marine Ecology",
+    "description": "Paradigms and designs in marine ecology. A review of the paradigms that have shaped our understanding of marine ecology; analysis and discussion of experiments with these paradigms. Students cannot receive credit for this course and BIOE 208.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A, BIOE 20B, and BIOE 20C; BIOE 107 or BIOE 140 recommended. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 85,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

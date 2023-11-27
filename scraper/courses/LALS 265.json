@@ -1,0 +1,32 @@
+{
+    "name": "LALS 265",
+    "title": "Nature, Societies, and Archives in the Americas",
+    "description": "Graduate students in LALS and related fields discuss interdisciplinary texts on the interconnection between Latin American species and geographies. Takes a historically grounded approach to address a range of topics related to the study of non-human subjects in this hemisphere, such as animals, plants, fungi, and the ecologies that they co-constitute. Topics include: centering non-humans in Latin American history; critical natural histories of the hemisphere; and inhabiting, and producing knowledge about, nature in contemporary America. In addition, students choose their own related topic(s) of interest and complete a series of reflective and iterative writing assignments, culminating in a draft for (optional) future publication.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

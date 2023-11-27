@@ -1,0 +1,46 @@
+{
+    "name": "PHYE 9J",
+    "title": "Boating: Intermediate Rowing",
+    "description": "Coeducational intermediate course designed to cover more advanced rowing techniques and the skills needed for safe open water rowing. Prerequisite(s): basic rowing or permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): successful completion of PHYE 9H or equivalent skills.",
+        "courses": [
+            [
+                "P    PHYE 9H"
+            ]
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full. Prerequisite 9H",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

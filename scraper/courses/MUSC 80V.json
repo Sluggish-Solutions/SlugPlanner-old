@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80V",
+    "title": "The Music of the Beatles",
+    "description": "The most significant group in the history of popular music, the Beatles spanned the gamut of styles from hard-edged R & B to sophisticated art-rock. This course explores their work in detail, in its own terms, and in the historical/cultural/technological contexts. Students cannot receive credit for both this course and MUSC 180V in the same quarter. MUSC 11C is recommended but not required as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 385,
+            "filled seats": 380,
+            "priority": "high"
+        }
+    }
+}

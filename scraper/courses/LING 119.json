@@ -1,0 +1,34 @@
+{
+    "name": "LING 119",
+    "title": "Narrative Structure: The linguistics of storytelling",
+    "description": "Course about narratives, the complex stories that people build and tell each other. Examines these linguistically: What is a story from a linguistic point of view? What are its components? How can we understand traditional concepts like perspective-taking, chronology, transport, and the narrator within modern linguistic frameworks? Topics may include quotation, tense and aspect, textual cohesion, and discourse relations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 53.",
+        "courses": [
+            [
+                "P LING 53"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

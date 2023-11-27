@@ -1,0 +1,32 @@
+{
+    "name": "MATH 213A",
+    "title": "Partial Differential Equations I",
+    "description": "First of the two PDE courses covering basically Part I in Evans' book;Partial Differential Equations;which includes transport equations; Laplace equations; heat equations; wave equations; characteristics of nonlinear first-order PDE; Hamilton-Jacobi equations; conservation laws; some methods for solving equations in closed form; and the Cauchy-Kovalevskaya theorem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "MATH 106 and MATH 107 are recommended as preparation.  Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

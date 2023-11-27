@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 177",
+    "title": "Environmental Archaeology",
+    "description": "Introduces students to methods and theories in the study of past human-environment interactions. Examines the use of archaeological environmental data (geological, botanical, faunal, chemical) and explores topics, such as megafaunal extinctions, domestication, and human impacts on environments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 72,
+            "priority": "high"
+        }
+    }
+}

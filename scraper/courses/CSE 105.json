@@ -1,0 +1,36 @@
+{
+    "name": "CSE 105",
+    "title": "Modern Algorithmic Toolbox",
+    "description": "Undergraduate course on the modern algorithmic toolbox, meant for undergraduate students with a strong mathematical background. Students need familiarity with discrete math, analysis of algorithms, basic analysis, probability theory, and graph theory. Class is aimed at students who want to learn more about the central ideas and algorithmic techniques that are used in modern data science applications. Class focuses on the theoretical underpinnings of these algorithms as well as their practical applications and implementation details.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 102 or equivalent or instructor consent. Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory, and overall mathematical maturity.",
+        "courses": [
+            [
+                "P CSE 102",
+                "S"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 36,
+            "priority": "low"
+        }
+    }
+}

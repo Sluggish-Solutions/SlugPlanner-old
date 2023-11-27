@@ -1,0 +1,32 @@
+{
+    "name": "GRAD 201",
+    "title": "Oral Communication for Graduate Students",
+    "description": "Focuses on understanding and being understood in seminar style classroom environments, including academic conversation techniques, pronunciation as needed, and using/identifying evidence in discussion. Introduces U.S. classroom approaches to presentation and student-centered teaching and learning.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in GRAD 200 and GRAD 202 is required. Enrollment is restricted to international graduate students in the Graduate Preparation Program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 43,
+            "priority": "unavailible"
+        }
+    }
+}

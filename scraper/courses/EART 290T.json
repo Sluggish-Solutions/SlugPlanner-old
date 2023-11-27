@@ -1,0 +1,32 @@
+{
+    "name": "EART 290T",
+    "title": "Current Research Topics in Paleoceanography and Paleoclimatology",
+    "description": "Students and instructor lead discussions of recent and significant problems in paleoceanography and paleoclimatology. Articles structured around current themes of interest are selected by the instructor. Emphasis on major climatic transitions or events which noticeably influenced evolution of biota. Course is designed for graduate students but available to qualified Earth sciences majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

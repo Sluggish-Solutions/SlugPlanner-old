@@ -1,0 +1,56 @@
+{
+    "name": "PHYS 6N",
+    "title": "Introductory Physics III Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 6C. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 6A and PHYS 6L or PHYS 5A and PHYS 5L; previous or concurrent enrollment in PHYS 6C; PHYS 6B and PHYS 6M are recommended.",
+        "courses": [
+            [
+                "P PHYS 6A"
+            ],
+            [
+                "PHYS 6L",
+                "PHYS 5A"
+            ],
+            [
+                "PHYS 5L"
+            ],
+            [
+                "PHYS 6C"
+            ],
+            [
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 6M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 110,
+            "filled seats": 106,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 66,
+            "filled seats": 66,
+            "priority": "high"
+        }
+    }
+}

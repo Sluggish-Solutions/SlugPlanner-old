@@ -1,0 +1,32 @@
+{
+    "name": "CSE 250A",
+    "title": "Computer Networks",
+    "description": "Issues resulting from organizing communication among autonomous computers. Includes network models and switching techniques; medium access control protocols and local area networks; error control and retransmission strategies; routing algorithms and protocols; congestion control mechanisms and end-to-end protocols; application-level protocols; and application of concepts to wireless and wireline networks, with emphasis on the Internet. (Formerly Computer Engineering 252A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "CSE 130",
+    "title": "Principles of Computer Systems Design",
+    "description": "Covers the principles governing computer-systems design and complexity; familiarity with memory, storage, and networking; concurrency and synchronization; layering (abstraction and modularity); naming; client-server and virtualized system models; and performance. Requires significant programming projects demonstrating mastery of these concepts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12; and CSE 101, or CSE 15 and CSE 15L; and knowledge of C programming language.",
+        "courses": [
+            [
+                "P CSE 12"
+            ],
+            [
+                "CSE 101",
+                "CSE 15"
+            ],
+            [
+                "CSE 15L"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Science BS and Computer Engineering BS majors during First Pass and Second Pass enrollment. Restrictions lifted after Second Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 300,
+            "filled seats": 262,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 325,
+            "filled seats": 325,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

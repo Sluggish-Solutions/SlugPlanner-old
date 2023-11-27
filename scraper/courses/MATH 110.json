@@ -1,0 +1,41 @@
+{
+    "name": "MATH 110",
+    "title": "Introduction to Number Theory",
+    "description": "Prime numbers, unique factorization, congruences with applications (e.g., to magic squares). Rational and irrational numbers. Continued fractions. Introduction to Diophantine equations. An introduction to some of the ideas and outstanding problems of modern mathematics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

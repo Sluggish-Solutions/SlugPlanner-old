@@ -1,0 +1,40 @@
+{
+    "name": "ENVS 130A",
+    "title": "Agroecology and Sustainable Agriculture",
+    "description": "Ecological concepts and principles are applied to the design and management of sustainable agroecosystems. Alternatives for agriculture are discussed in terms of ecosystem structure and function. A weekly three-hour lab is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in ENVS 130L and previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P C   ENVS 130L"
+            ],
+            [
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment required in ENVS 130L",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 70,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

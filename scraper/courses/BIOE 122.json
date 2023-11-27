@@ -1,0 +1,38 @@
+{
+    "name": "BIOE 122",
+    "title": "Invertebrate Zoology",
+    "description": "An examination of invertebrates and their habitats. Lecture format.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 122L.",
+        "courses": [
+            [
+                "P BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Concurrent Enrollment in BIOE 122L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 96,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

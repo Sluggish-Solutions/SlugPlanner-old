@@ -1,0 +1,32 @@
+{
+    "name": "THEA 251",
+    "title": "Graduate Student Production",
+    "description": "Participation by a graduate student in a departmental production of a play, dance concert, or other performance event under supervision of the Instructor-of-Record. Rehearsals culminate in public performance. Enrollment is restricted to graduate students and determined by audition with the instructor and in consultation with the Director of Graduate Studies.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 11,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

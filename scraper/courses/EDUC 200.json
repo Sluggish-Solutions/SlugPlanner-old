@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 200",
+    "title": "Beginning Student Teaching",
+    "description": "A required course that introduces students to the diverse cultural and linguistic settings of today's classrooms. Classroom practices, instructional strategies, and analysis are emphasized. First course in the student teaching placement series. Placements are used to examine and apply teaching methods while developing classroom management skills. Class meetings include discussion and demonstration of teaching methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "MS MAC students: Class begins September 6th 2022 in Summer Bridge. See Instructor for schedule.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 110,
+            "filled seats": 54,
+            "priority": "very low"
+        }
+    }
+}

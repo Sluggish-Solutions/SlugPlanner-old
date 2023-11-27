@@ -1,0 +1,52 @@
+{
+    "name": "BIOL 100",
+    "title": "Biochemistry",
+    "description": "Introduction to biochemistry including biochemical molecules, protein structure and function, membranes, bioenergetics, and regulation of biosynthesis. Provides students with basic essentials of modern biochemistry and the background needed for upper-division biology courses. Students who desire a more in-depth exposure to biochemistry should consider taking the BIOC 100A/BIOC 100B/BIOC 100C series as an alternative. Students cannot receive credit for this course after they have completed the BIOC 100A, BIOC 100B, and BIOC 100C sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B; and CHEM 8B.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "CHEM 8B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 140,
+            "filled seats": 139,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 234,
+            "filled seats": 180,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

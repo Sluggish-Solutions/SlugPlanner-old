@@ -1,0 +1,32 @@
+{
+    "name": "SOCD 203",
+    "title": "Documentary Research Methods and Social Science Representation",
+    "description": "Designed to acquaint students with how social science research represents social reality and how social documentarians represent social reality. Designed to encourage comparison among different modes of social science research and between social science and different modes of social documentation representations of social life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

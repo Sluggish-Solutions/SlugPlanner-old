@@ -1,0 +1,40 @@
+{
+    "name": "BIOE 136",
+    "title": "Environmental Physiology",
+    "description": "Explores how an organism's physiology interacts with its environment including molecular to whole organism-level processes. How do animals thrive in the most diverse regions of Earth and why are some more vulnerable to change than others?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 72,
+            "priority": "high"
+        }
+    }
+}

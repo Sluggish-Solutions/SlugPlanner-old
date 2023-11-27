@@ -1,0 +1,32 @@
+{
+    "name": "POLI 291",
+    "title": "Teaching Assistant Seminar",
+    "description": "Two-hour weekly seminar required of teaching assistants in which pedagogic and substantive issues will be considered. The experience of performing teaching assistant duties constitutes subject matter for discussion. Students submit petition to sponsoring agency. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

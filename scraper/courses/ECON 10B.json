@@ -1,0 +1,40 @@
+{
+    "name": "ECON 10B",
+    "title": "Economics of Accounting",
+    "description": "Foundation of accounting course providing students with the concepts, practices, and tools for analyzing, planning, and making managerial accounting decisions for the future with an emphasis on performance measurement using various data analysis tools. Key topics include product and service costing, management decision-making and analysis, planning and controlling processes, CVP analysis, budgeting, variance analysis, and segment reporting.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 10A.",
+        "courses": [
+            [
+                "P ECON 10A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 175,
+            "filled seats": 145,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 162,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

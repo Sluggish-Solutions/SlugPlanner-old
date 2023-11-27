@@ -1,0 +1,38 @@
+{
+    "name": "CSP 230",
+    "title": "Integrated Problem-Based Discussion",
+    "description": "Focusing on a series of case studies, this discussion section demonstrates means and values of integrating across the natural and social sciences and economics disciplines in developing solutions to coastal sustainability.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Concurrent enrollment in CSP 200, CSP 210, and CSP 220. Enrollment restricted to coastal science and policy graduate students.",
+        "courses": [
+            [
+                "P C   CSP 200 CSP 210"
+            ],
+            [
+                "CSP 220 E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

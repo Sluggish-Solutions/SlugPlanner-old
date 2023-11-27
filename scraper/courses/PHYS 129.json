@@ -1,0 +1,41 @@
+{
+    "name": "PHYS 129",
+    "title": "Particle Physics and Astrophysics",
+    "description": "The standard model of particle physics; physics beyond the standard model; neutrino physics; the early universe; dark matter and dark energy; selected topics in general relativistic cosmology and high-energy astrophysics. (Formerly Nuclear and Particle Astrophysics.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5D, PHYS 102, and MATH 23B; and PHYS 116A or MATH 21. Students with equivalent coursework may contact instructor for permission to enroll.",
+        "courses": [
+            [
+                "P PHYS 5D PHYS 102"
+            ],
+            [
+                "MATH 23B"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21 S"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

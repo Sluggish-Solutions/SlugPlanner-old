@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 280G",
+    "title": "Molecular Mechanisms of Behavioral Development and Evolution",
+    "description": "Weekly seminar and group discussion on current topics in the study of birdsong neurobiology and the development and evolution of the nervous system generally. Students present, review, and discuss relevant research pertaining but not limited to birdsong molecular and systems neurobiology, developmental gene regulatory mechanisms in the brain, and comparative neurobiology. In addition to presenting and discussing published research, students present their own independent research and receive feedback from the instructor and other students. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

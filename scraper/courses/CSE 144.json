@@ -1,0 +1,44 @@
+{
+    "name": "CSE 144",
+    "title": "Applied Machine Learning: Deep Learning",
+    "description": "Provides a practical and project-oriented introduction to deep learning techniques. Starts with a review of basic elements of machine learning: training and testing, loss function, gradient descent, linear regression, and logistic regression. Moves on to common deep learning models: feedforward networks, convolutional networks for image recognition, recurrent networks and LSTM for temporal and sequential data, attention models and transformers. Some practical concepts for deep learning, including how to find model parameters, how to train large scale models, techniques for regularization and avoid overfitting, are also covered. A very basic introduction to more complex techniques such as deep reinforcement learning, neural symbolic models and diffusion models is provided in week 9. Selected student teams present their course projects in the last week. (Formerly offered as Applied Machine Learning.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 40 or STAT 132; and CSE 101. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science and biomolecular engineering and bioinformatics majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 80,
+            "filled seats": 54,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 80,
+            "filled seats": 78,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

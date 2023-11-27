@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 80R",
+    "title": "Music in the Digital Age",
+    "description": "A survey of how the Internet has influenced how music is made, transmitted, and consumed. Students discuss the history and ethics of file sharing and open source software, telematics and methods of music-making via the Internet, virtual communities, and social media. Students explore these topics through research and creative projects. (Formerly Music and the World Wide Web.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 400,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

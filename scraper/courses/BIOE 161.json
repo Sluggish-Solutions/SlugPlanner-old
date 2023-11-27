@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 161",
+    "title": "Kelp Forest Ecology",
+    "description": "Study of organization of kelp forests as models for examining biological communities. The physical and biotic factors responsible for community organization of kelp forests are explored using original literature and data collected in BIOE 161L. Class meets one full morning each week. Prerequisite(s): by interview only; BIOL 20A, BIOE 20B, and BIOE 20C are required. Students must pass the University Research Diving Certification (contact the diving safety officer, Institute of Marine Sciences, for further information). Enrollment is restricted to seniors. BIOE 161L must be taken concurrently; BIOE 107, BIOE 120 and BIOE 120L, and BIOE 122 and BIOE 122L are recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 161L is required. Enrollment by permission code only, and permission granted to students who meet one of the following: 1) are currently an AAUS certified diver (Scientific diver certification) at UCSC 2) are currently an AAUS certified diver at some other institution or at UCSC but are not current with all requirements (e.g., equipment check). We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 3) Are in the Spring BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 4) Are in the Fall BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts Contact instructor, Pete Raimondi, for more information.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 26,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

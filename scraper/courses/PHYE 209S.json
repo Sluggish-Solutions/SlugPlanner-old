@@ -1,0 +1,32 @@
+{
+    "name": "PHYE 209S",
+    "title": "Boating: Grad Student Beginning Keelboat Sailing",
+    "description": "Coeducational. Combines hands-on rigging and docking practice in the harbor and sailing practice on Monterey Bay with instruction in sail-trimming, de-powering, powering-up, person-overboard recovery techniques, boating safety, weather, ocean conditions, sailing theory, rigging, navigation, and the maritime rules of the road. Twenty-seven foot, ultralight, displacement keelboats are used.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9C or PHYE 209C. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 11,
+            "priority": "high"
+        }
+    }
+}

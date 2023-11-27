@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 136A",
+    "title": "Advanced Astronomy Lab: Astrometry",
+    "description": "Students use the Nickel telescope at Lick Observatory to measure the astrometry, or position, of a solar system body across multiple nights. By measuring the body's motion, students determine its distance from the Earth using parallax. This course is part of the ASTR 136 collection of 2-credit advanced labs. Class meets in person over a three-week period and includes an overnight field trip to Lick Observatory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior physics-astrophysics majors, and juniors by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 133, and one of the following: ASTR 119, ASTR 19, or CSE 20. Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "ASTR 136A is a three week lab starting at the beginning of the quarter. Students may also enroll in ASTR 136G which will run the following three weeks and take place at the same time and location. ASTR 136A and ASTR 136G can be taken in the same quarter.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

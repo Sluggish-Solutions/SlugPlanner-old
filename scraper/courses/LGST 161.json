@@ -1,0 +1,32 @@
+{
+    "name": "LGST 161",
+    "title": "Intellectual Property",
+    "description": "Advanced study of the concepts, practices, and history of intellectual property. Topically, it is a study of how, when, and why you can own something like an idea, a story, a mathematical algorithm, a business process, or an arrangement of cells. Course is organized around different kinds of things one might own: artistic creation and representation (copyright), scientific discovery and invention (patents), and business processes and secrets (trademark and trade secrets). Studies different intellectual property regimes and the philosophical and moral issues underlying claims to intellectual property.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

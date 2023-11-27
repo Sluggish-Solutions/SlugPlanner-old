@@ -1,0 +1,32 @@
+{
+    "name": "AM 280A",
+    "title": "Seminar in Mathematical and Computational Biology",
+    "description": "Weekly seminar on mathematical and computational biology. Participants present research findings in organized and critical fashion, framed in context of current literature. Students present own research on a regular basis. (Formerly AMS 280A.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

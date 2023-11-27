@@ -1,0 +1,44 @@
+{
+    "name": "BIOE 20C",
+    "title": "Ecology and Evolution",
+    "description": "Introduction to ecology and evolution covering principles of evolution at the molecular, organismal, and population levels. Evolutionary topics include genetic and phenotypic variation, natural selection, adaptation, speciation, and macroevolution. Also covers behavioral, population, and community ecology including applied ecological issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 325,
+            "filled seats": 328,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 243,
+            "filled seats": 226,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 270,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

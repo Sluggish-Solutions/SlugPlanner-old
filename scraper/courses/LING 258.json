@@ -1,0 +1,32 @@
+{
+    "name": "LING 258",
+    "title": "Advanced Psycholinguistics",
+    "description": "Advanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. Graduate students have separate evaluation criteria. Students cannot receive credit for this course and course 258G.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 257. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        }
+    }
+}

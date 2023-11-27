@@ -1,0 +1,32 @@
+{
+    "name": "FILM 165E",
+    "title": "Chicana/o Cinema, Video",
+    "description": "Examines emergence of Chicana/o cinema and video from a place of social displacement, resistance, and affirmation. Looks at Chicana/o representation and spectatorship as it pertains to ethnicity, class, gender, and the beginning of a new Chicana/o film aesthetic.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A.  Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 59,
+            "priority": "high"
+        }
+    }
+}

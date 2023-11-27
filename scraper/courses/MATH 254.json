@@ -1,0 +1,32 @@
+{
+    "name": "MATH 254",
+    "title": "Geometric Analysis",
+    "description": "Introduction to some basics in geometric analysis through the discussions of two fundamental problems in geometry: the resolution of the Yamabe problem and the study of harmonic maps. The analytic aspects of these problems include Sobolev spaces, best constants in Sobolev inequalities, and regularity and a priori estimates of systems of elliptic PDE.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "MATH 204, MATH 205, MATH 209, MATH 212, and MATH 213A recommended as preparation. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

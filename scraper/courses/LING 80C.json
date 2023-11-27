@@ -1,0 +1,32 @@
+{
+    "name": "LING 80C",
+    "title": "Language, Society, and Culture",
+    "description": "The study of language from a sociological perspective. Multilingualism, language change and variation, pidgins and creoles, the origin and diversification of dialects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 180,
+            "priority": "unavailible"
+        }
+    }
+}

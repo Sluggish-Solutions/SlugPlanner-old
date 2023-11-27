@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 150",
+    "title": "Sociology of Death and Dying",
+    "description": "Explores contemporary, historical, cross-cultural and interdisciplinary perspectives on the social psychology of death and dying. Cultural norms and institutional contexts are studied, along with the individual experience, and the ways in which our perspectives on death and dying influence our experiences of life and living.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 62,
+            "priority": "unavailible"
+        }
+    }
+}

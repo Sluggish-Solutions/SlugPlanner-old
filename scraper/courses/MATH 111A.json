@@ -1,0 +1,45 @@
+{
+    "name": "MATH 111A",
+    "title": "Algebra",
+    "description": "Group theory including the Sylow theorem, the structure of abelian groups, and permutation groups. Students cannot receive credit for this course and MATH 111T.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 or AM 10 and either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "P MATH 21",
+                "AM 10"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 24,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

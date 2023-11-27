@@ -1,0 +1,32 @@
+{
+    "name": "THEA 61C",
+    "title": "The Birth of the Modern: Drama and Performance After the Renaissance",
+    "description": "Examines dramatic and theatrical works that sprang into being in the wake of the European Renaissance. Follows the ways modern artists have dramatized their questions, struggles, beliefs, and despair in the face of world wars, cultural fragmentation, unprecedented prosperity, and new technologies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 77,
+            "priority": "unavailible"
+        }
+    }
+}

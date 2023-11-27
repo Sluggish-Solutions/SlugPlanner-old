@@ -1,0 +1,32 @@
+{
+    "name": "LALS 55",
+    "title": "AIDS Across the Americas",
+    "description": "Compares the response to AIDS in the United States and Latin America, with special attention to migration, human rights, activism, stigma, gender, and sexuality. Students develop a conceptual foundation to conduct a people-centered approach and cultural analysis of AIDS.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Please contactlalsadvising@ucsc.eduwith enrollment questions.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 300,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

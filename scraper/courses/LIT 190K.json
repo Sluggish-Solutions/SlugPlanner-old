@@ -1,0 +1,38 @@
+{
+    "name": "LIT 190K",
+    "title": "Studies in U.S. Literature",
+    "description": "Intensive examination of issues in U.S. literature. Course topic changes; see the Class Search for current topic. Critical approach designations: Geographies, Histories. Distribution requirement: Senior Seminar. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Moby-Dick and its avatars",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 21,
+            "priority": "moderate"
+        }
+    }
+}

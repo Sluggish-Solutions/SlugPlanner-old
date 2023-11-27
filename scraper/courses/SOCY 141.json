@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 141",
+    "title": "Social Welfare",
+    "description": "Familiarizes students with the major social welfare programs and policies in the U.S., exploring changes in conceptualizations of social welfare, and offering a critical perspective on the present-day welfare state.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Two courses chosen from SOCY 1, SOCY 10, and SOCY 15. Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 36,
+            "priority": "unavailible"
+        }
+    }
+}

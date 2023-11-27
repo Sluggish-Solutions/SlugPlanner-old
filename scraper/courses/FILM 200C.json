@@ -1,0 +1,34 @@
+{
+    "name": "FILM 200C",
+    "title": "Theory and Praxis of Film and Digital Media 2",
+    "description": "Investigates methods for rhetorical production of written and visual/aural texts. Emphasizes interwoven practices of the artist/researcher/teacher, formal and expressive possibilities of \"hybridized\" research, and cultural issues raised by integrated methods of inquiry.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "UCDC 194A",
+    "title": "UCDC Core Seminar",
+    "description": "Seminar supplementing the UCDC internship experience taught by UCDC instructors, local Washington experts, and visiting UC professors. Students may choose the seminar that best suits their interests or internship. Seminars may have a topical focus, such as Congress, the Supreme Court, the media, the presidency, elections, and international relations, or may focus on the production of a research paper on a topic related to the student's internship. Required for, and enrollment is restricted to, students participating in the UCDC Program. (Formerly offered as UCDC Internship Research Seminar.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 22,
+            "filled seats": 20,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 22,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

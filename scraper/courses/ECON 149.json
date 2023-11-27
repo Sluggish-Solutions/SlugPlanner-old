@@ -1,0 +1,43 @@
+{
+    "name": "ECON 149",
+    "title": "The Economies of East and Southeast Asia",
+    "description": "Examines the pattern of international trade, investment, and industrial structure in Asia. Examines competing explanations of rapid growth of Japan, Korea, and Taiwan; presents an overview of economic developments in China, Hong Kong, and Taiwan. Concludes with an analysis of high technology trade and multinationals in Asia in 2000 and beyond.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 1 and ECON 2.",
+        "courses": [
+            [
+                "P ECON 1"
+            ],
+            [
+                "ECON 2"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 130,
+            "filled seats": 129,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 110,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

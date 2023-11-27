@@ -1,0 +1,32 @@
+{
+    "name": "LATN 1",
+    "title": "Elementary Latin",
+    "description": "Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "FILM 160",
+    "title": "Film Genres",
+    "description": "Concentrated study of films from one cinematic grouping with similar themes and narrative structures such as westerns, musicals, or science fiction, or a comparative study of different genres. History, theory, and criticism of the genre are covered. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 130, FILM 132A, FILM 132B, FILM 132C, FILM 134A or FILM 134B.",
+        "courses": [
+            [
+                "P FILM 130 FILM 132A FILM 132B FILM 132C FILM 134A",
+                "FILM 134B"
+            ]
+        ]
+    },
+    "class_notes": "Course Topic: FICTIONS OF EMPATHY & PATHOS IN THE AMERICAN SOCIAL PROBLEM FILM",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 80,
+            "filled seats": 75,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

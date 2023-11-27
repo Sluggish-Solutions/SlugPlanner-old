@@ -1,0 +1,45 @@
+{
+    "name": "AM 30",
+    "title": "Multivariate Calculus for Engineers",
+    "description": "Advanced multivariate calculus for engineering majors. Coordinate systems, parametric curves, and surfaces; partial derivatives, gradient, Taylor expansion, stationary points, constrained optimization; integrals in multiple dimensions; integrals over curves and surfaces. Applications to engineering form an integral part of the course. Students cannot receive credit for this course and for MATH 22 or MATH 23A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 10 or MATH 21; MATH 19B or MATH 20B.",
+        "courses": [
+            [
+                "P AM 10",
+                "MATH 21"
+            ],
+            [
+                "MATH 19B",
+                "MATH 20B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 88,
+            "filled seats": 76,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 66,
+            "priority": "high"
+        }
+    }
+}

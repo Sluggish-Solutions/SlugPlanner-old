@@ -1,0 +1,32 @@
+{
+    "name": "HIS 196S",
+    "title": "Special Topics in Ancient History",
+    "description": "Seminar focuses on different topics in ancient history. In addition to assigned readings, the student is expected to do additional research that culminates in a 20-page paper on a topic of the student's choice. General topics for the course will vary from year to year. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior history and classical studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100 (for history majors), and two additional two upper-division history courses; or permission of instructor. Enrollment is restricted to junior and senior history and classical studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Afterlives of Texts",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "ECON 274",
+    "title": "Macroeconomics Workshop",
+    "description": "For Ph.D. students in economics who are at the early stages of their research careers as well as for those who are engaged in dissertation work in macroeconomics and monetary economics. Students present original research in progress. (Formerly Workshop in Macroeconomics and Monetary Economics.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, 205C, and 211C, or by consent of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

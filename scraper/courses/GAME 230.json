@@ -1,0 +1,32 @@
+{
+    "name": "GAME 230",
+    "title": "Fundamentals of Game Engineering",
+    "description": "Deep introduction to technologies used in the construction of computer games. Principles of 2D game engine design, including architecture, object-oriented design patterns, collision detection, particle systems. Also examines artificial intelligence techniques including pathfinding, state machines, and behavior trees.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to games and playable media graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 18,
+            "filled seats": 15,
+            "priority": "moderate"
+        }
+    }
+}

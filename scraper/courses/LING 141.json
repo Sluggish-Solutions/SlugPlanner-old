@@ -1,0 +1,41 @@
+{
+    "name": "LING 141",
+    "title": "Ellipsis",
+    "description": "Introduction to and survey of the ellipsis in natural language, including the typology of ellipsis processes, cross-linguistic uniformity and variation in ellipsis, and theoretical approaches and issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 53 and LING 101; and LING 111 or LING 112.",
+        "courses": [
+            [
+                "P LING 53"
+            ],
+            [
+                "LING 101"
+            ],
+            [
+                "LING 111",
+                "LING 112"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

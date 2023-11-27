@@ -1,0 +1,32 @@
+{
+    "name": "LALS 79",
+    "title": "Hip Hop History/Historia Hip Hop",
+    "description": "Exploration of key themes in Latin American history through the medium of hip hop. Students analyze prevalent historical patterns that speak to shared experiences across the Americas. Course content is divided into weekly modules that move thematically through topics including struggles for social and political citizenship, structural mechanisms of exclusion, and anti-imperialist activisms. Also includes reading primary historical documents and engaging in textual analysis of both archival and contemporary texts. Readings equip students to critically interpret elements of hip-hop culture from contemporary Latin America and the Caribbean including MCing, graffiti, and hip hop as the production of knowledge.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 122,
+            "priority": "high"
+        }
+    }
+}

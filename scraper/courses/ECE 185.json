@@ -1,0 +1,32 @@
+{
+    "name": "ECE 185",
+    "title": "Introduction to the US Electricity Industry",
+    "description": "Teaches students about the U.S. electricity industry. Topics include power generation costs, electric grid, power flows, retail market and tariff design, regulation and market monitoring, locational marginal pricing, risk management, market power, and contemporary issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: PHYS 5C and PHYS 5N. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

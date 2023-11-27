@@ -1,0 +1,32 @@
+{
+    "name": "AM 112",
+    "title": "Introduction to Partial Differential Equations",
+    "description": "Focuses on analytical methods for partial differential equations (PDEs) of two variables, including: the method of characteristics for first-order PDEs; classification of second-order PDEs; separation of variables; Sturm-Liouville theory; and Green's functions. Illustrates each method using applications taken from examples in physics. Students cannot receive credit for this course and AM 212A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 100 or by permission of the instructor. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction with AM 212A.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

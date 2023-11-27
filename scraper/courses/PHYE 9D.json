@@ -1,0 +1,46 @@
+{
+    "name": "PHYE 9D",
+    "title": "Boating: Advanced Dinghy Sailing",
+    "description": "Coeducational. For students interested in high-performance dinghy sailing. Learn to sail solo in the Olympic-class Laser or fly the spinnaker on the RS Vision. Includes special techniques used in racing conditions. Wetsuits are required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9C or equivalent skills.",
+        "courses": [
+            [
+                "P PHYE 9C"
+            ]
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend first meeting even if online enrollment indicates that class is full. Prerequisite: PHYE 9C.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 10,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "EART 126",
+    "title": "Geomechanics",
+    "description": "An integration of rock mechanics, geophysics, fluid flow, and geology to quantify stress state in the subsurface. Covers a range of topics including: basic constitutive laws for stress and strain, tectonic stress fields, the effects of fluids on rock and fault strength, natural and human-induced hydrofracture, human-induced seismicity, fault, drilling techniques for determining subsurface physical rock properties, and fault zones drilling.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A or PHYS 6A, and EART 110B.",
+        "courses": [
+            [
+                "P PHYS 5A",
+                "PHYS 6A"
+            ],
+            [
+                "EART 110B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

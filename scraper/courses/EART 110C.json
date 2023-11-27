@@ -1,0 +1,49 @@
+{
+    "name": "EART 110C",
+    "title": "The Dynamic Earth",
+    "description": "Physical processes occurring in the interior of the earth, at its surface and in the oceans and atmospheres including plate tectonics, structural deformation of rocks, and material and heat transport.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and EART 5L or EART 10L or EART 20L; and MATH 11B or MATH 19B; and PHYS 6A or PHYS 5A.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "EART 5L",
+                "EART 10L",
+                "EART 20L"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B"
+            ],
+            [
+                "PHYS 6A",
+                "PHYS 5A"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART-110N required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 75,
+            "filled seats": 72,
+            "priority": "high"
+        }
+    }
+}

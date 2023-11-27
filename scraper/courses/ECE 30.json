@@ -1,0 +1,38 @@
+{
+    "name": "ECE 30",
+    "title": "Engineering Principles of Electronics",
+    "description": "Suitable for sophomores pursuing computer science and engineering careers. Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B. Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 129,
+            "filled seats": 121,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 130,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

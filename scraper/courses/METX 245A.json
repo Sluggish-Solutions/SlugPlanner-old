@@ -1,0 +1,32 @@
+{
+    "name": "METX 245A",
+    "title": "Scientific Communication in Microbiology and Environmental Toxicology A",
+    "description": "Introduces multiple forms of scientific presentation and communication to graduate students. Students learn to craft and deliver multiple types of written and visual communications, including formal and informal modes, on a topic developed as part of the class.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): METX 200. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

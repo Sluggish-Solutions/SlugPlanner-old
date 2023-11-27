@@ -1,0 +1,32 @@
+{
+    "name": "ECON 216",
+    "title": "Applied Econometric Analysis I",
+    "description": "The use of statistical techniques for the testing of economic hypotheses and the estimation of parameters, with emphasis on regression analysis.  Includes methods of dealing with serial correlation, errors in variables, multicollinearity, and heteroscedasticity. Experience with common statistical packages.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "M.S. APEF students will enroll in this course --both the primary lecture and secondary section--on the first day of instruction. Please contact the economics graduate programs coordinator for more information.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

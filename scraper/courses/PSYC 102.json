@@ -1,0 +1,37 @@
+{
+    "name": "PSYC 102",
+    "title": "Adolescent Development: Adolescence into Young Adulthood",
+    "description": "Focuses on individual and relational development from early adolescence into emergin adulthood. Emphasis on the mutual influences of family relationships and adolescent development, and on the interface of family, peer group, and school experience in cultural contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 10 and PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 10"
+            ],
+            [
+                "PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 89,
+            "priority": "unavailible"
+        }
+    }
+}

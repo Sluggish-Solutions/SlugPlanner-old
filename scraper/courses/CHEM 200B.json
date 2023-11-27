@@ -1,0 +1,32 @@
+{
+    "name": "CHEM 200B",
+    "title": "Advanced Biochemistry: Macromolecular Structure and Function",
+    "description": "A detailed discussion of nucleic acid and protein chemistry, ranging from the structure, thermodynamics, and folding to the relationship between structure and function, and encompassing the methods used to determine such information.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

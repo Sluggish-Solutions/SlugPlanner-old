@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 131",
+    "title": "Insect Ecology",
+    "description": "Advanced undergraduate course in insect ecology designed to appeal to both people with a deep appreciation for insects and those experiencing insect knowledge for the first time. The course covers major areas of ecology (e.g., populations, community ecology, species interactions, biodiversity conservation) as applied to terrestrial insects. The course also focuses on natural history of insects, the roles insects play in ecosystems, and the importance of insects for culture and society, agriculture, conservation, and public health. The course includes lectures, discussions, greenhouse and museum activities, field days, and a research project.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

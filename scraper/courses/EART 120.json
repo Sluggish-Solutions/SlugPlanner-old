@@ -1,0 +1,40 @@
+{
+    "name": "EART 120",
+    "title": "Sedimentology and Stratigraphy",
+    "description": "Stratigraphic principles used in classifying sedimentary rocks. Fundamentals of sedimentary mechanics. Analysis and interpretation of facies and depositional systems. Introduction to seismic facies and basin analysis. Course includes three Sunday field exercises.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and  EART 110A. EART 110B is recommended as preparation. May not be taken concurrently with EART 109.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 110A EART 110B     M      EART 109"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART-120L required. May not be taken concurrently with EART-109.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 18,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "MATH 22",
+    "title": "Introduction to Calculus of Several Variables",
+    "description": "Functions of several variables. Continuity and partial derivatives. The chain rule, gradient and directional derivative. Maxima and minima, including Lagrange multipliers. The double and triple integral and change of variables. Surface area and volumes. Applications from biology, chemistry, earth sciences, engineering, and physics. Students cannot receive credit for this course and MATH 23A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11B or MATH 19B or MATH 20B or AM 15B or AP calculus BC exam score of 4 or 5.",
+        "courses": [
+            [
+                "P MATH 11B",
+                "MATH 19B",
+                "MATH 20B",
+                "AM 15B",
+                "AP  BC    4",
+                "5"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

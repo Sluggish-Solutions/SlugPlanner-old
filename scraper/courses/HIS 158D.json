@@ -1,0 +1,32 @@
+{
+    "name": "HIS 158D",
+    "title": "The Atlantic Slave Trade, 1520-1866",
+    "description": "Examines the largest forced migration in human history. From the 16th to 19th centuries, slave traders forced more than 12 million African people aboard ships departing Africa to supply enslaved labor to locations throughout the Americas. Course uses quantitative and qualitative methods to investigate this inhuman human migration with an emphasis on the experiences of the captives, the motives and profits of the empires and traders, the importance of slavery to colonial projects, and the resistance of enslaved people and free abolitionists.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

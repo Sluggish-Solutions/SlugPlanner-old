@@ -1,0 +1,32 @@
+{
+    "name": "ART 158",
+    "title": "Advanced Photography",
+    "description": "Students produce a portfolio of photographs, read historical and theoretical works, and study photographs and other art works. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 156; and one course from ART 150, ART 152A, ART 152C, ART 153, ART 154A, ART 154B, ART 154C or ART 159. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

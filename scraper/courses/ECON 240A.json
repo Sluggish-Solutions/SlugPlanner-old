@@ -1,0 +1,37 @@
+{
+    "name": "ECON 240A",
+    "title": "International Trade I",
+    "description": "The theory of international trade and commercial policy. Both traditional analyses and recent developments are covered. Topics include both normative and positive theoretical analyses, as well as empirical testing of theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. ECON 204A, ECON 204B, and ECON 204C are strongly recommended as preparation.",
+        "courses": [
+            [
+                "ECON 204A ECON 204B"
+            ],
+            [
+                "ECON 204C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

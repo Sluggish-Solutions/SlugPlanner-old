@@ -1,0 +1,41 @@
+{
+    "name": "FILM 136D",
+    "title": "Documentary Film and Video",
+    "description": "Explores the category of nonfiction through a historical and theoretical study of documentary in film and video.  Addresses ethnographic film, Soviet and Griersonian documentary, cinema verite and/or other selected documentary texts and the issues of representation they raise.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 20A or FILM 20B.",
+        "courses": [
+            [
+                "P FILM 20A",
+                "FILM 20B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 90,
+            "filled seats": 87,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 198,
+            "priority": "high"
+        }
+    }
+}

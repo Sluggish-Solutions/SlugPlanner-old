@@ -1,0 +1,32 @@
+{
+    "name": "STEV 80H",
+    "title": "Rainbow Theater: An Introduction to Multicultural Theater",
+    "description": "Introduction to Asian American, Chicano/Latino, and African American plays through reading of major authors, discussion of social and historical context of their work, and development of a production of a one-act play from each cultural group. In-depth examination of key historical context of these three cultural groups. Video presentations followed by class discussion. Enrollment by audition. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 60,
+            "priority": "unavailible"
+        }
+    }
+}

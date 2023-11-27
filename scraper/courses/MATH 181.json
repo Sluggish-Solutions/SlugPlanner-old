@@ -1,0 +1,35 @@
+{
+    "name": "MATH 181",
+    "title": "History of Mathematics",
+    "description": "A survey from a historical point of view of various developments in mathematics. Specific topics and periods to vary yearly.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B or MATH 20B. MATH 100 is strongly recommended for preparation.",
+        "courses": [
+            [
+                "P MATH 19B",
+                "MATH 20B MATH 100"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

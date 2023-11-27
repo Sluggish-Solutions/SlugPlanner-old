@@ -1,0 +1,32 @@
+{
+    "name": "JRLC 92",
+    "title": "Social Justice Issues Colloquium",
+    "description": "Weekly colloquium on social justice issues with a different topical focus each quarter. Presentations by UCSC faculty and invited speakers. Students must attend class, read an assigned article or book chapter(s) on the week's topic, and write a one-page synopsis. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "1",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

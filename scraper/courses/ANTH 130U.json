@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 130U",
+    "title": "Central America",
+    "description": "Draws on political, economic, and anthropological perspectives to analyze the key role of transnationalism and neoliberalism in contemporary Central America. Key topics include: the aftermath of revolutions; labor and gender; indigenous movements and multiculturalism; and transnational migration and governance.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

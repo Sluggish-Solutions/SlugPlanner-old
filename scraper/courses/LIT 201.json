@@ -1,0 +1,32 @@
+{
+    "name": "LIT 201",
+    "title": "The Pedagogy of Literature",
+    "description": "Provides training for graduate students in university-level pedagogy in general and in the pedagogy of literature specifically. Coordinated by a graduate student who has had substantial experience as a teaching assistant, under the supervision of a faculty member. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

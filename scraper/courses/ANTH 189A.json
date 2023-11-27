@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 189A",
+    "title": "Archaeological Field Techniques",
+    "description": "Focuses on fundamental site identification, recording, and reporting efforts in archaeology?the daily grind in archaeological research and cultural resource management (CRM)?that take place before any ground disturbance happens (usually as part of excavation). Class discussions of relevant readings, independent and group work, and hands-on exercises in the field (on campus) provide students with a working knowledge of everyday archaeological techniques, as well as familiarity with some of the important tools archaeologists use to identify and produce a record of cultural sites. Prerequisite(s): ANTH 3. Enrollment is by permission of the instructor. Enrollment is restricted to anthropology majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 18,
+            "priority": "high"
+        }
+    }
+}

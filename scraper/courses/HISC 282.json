@@ -1,0 +1,32 @@
+{
+    "name": "HISC 282",
+    "title": "Art of Independence, Liberation and the Cold War",
+    "description": "Explores art movements that played a role in major struggles for independence and liberation from colonial regimes or reflected upon them subsequently. These art movements are examined though international art and media exhibitions. Case studies vary with each course offering. (Formerly HAVC 282.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "LING 212",
+    "title": "Phonology B",
+    "description": "Second part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 211. Enrollment is restricted to graduate students or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

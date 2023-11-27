@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 290A",
+    "title": "Topics in Computational Media",
+    "description": "Students learn about a current research area in computational media and make a contribution. Each course offering focuses on a different aspect of technical, creative, and/or interpretive work in the field.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to computational media graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Topic: Media Constellations Description: Media history is traditionally interested in continuity and evolution, tracking the development of older, \"primitive\" media into their more complex, present forms. In Media Constellations, we study the depth and breadth of media history, rather than its linear trajectory, treating old media as ?spaces of action? where we can generate new work. In addition to developing small, media-based projects, students will read and discuss theoretical and historical texts from the disciplines of media archaeology, platform/software studies, computer historiography, archival studies, and media philosophy. Our goal is to establish methodological and theoretical foundations in the practical, creative, and speculative study of media artifacts.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 8,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

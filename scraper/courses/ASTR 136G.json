@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 136G",
+    "title": "Advanced Astronomy Lab: Detectors",
+    "description": "Students use laboratory data to measure and calibrate data from a charged coupled device (CCD) detector in an imaging camera, characterize the detector dark current, the camera system flatfield response, and the readnoise. Students evaluate the impact of these detector parameters on the signal to noise of the measurement of flux from a point source and use them to make predictions for data quality. Course is part of the ASTR 136 collection of 2-credit advanced labs. Class meets in person over a three-week period. All data acquisition will be in the laboratory, there is no nighttime observing component to this lab.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior physics-astrophysics majors, and juniors by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 133, and one of the following: ASTR 119, ASTR 19, or CSE 20. Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This lab will take place on MW 01:20PM-03:45PM starting the 4th week of the quarter and will run for three weeks. It is meant to be taken after ASTR 136A. ASTR 136A and ASTR 136G can be taken in the same quarter.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "MATH 19B",
+    "title": "Calculus for Science, Engineering, and Mathematics",
+    "description": "The definite integral and the fundamental theorem of calculus. Areas, volumes. Integration by parts, trigonometric substitution, and partial fractions methods. Improper integrals. Sequences, series, absolute convergence and convergence tests. Power series, Taylor and Maclaurin series. Students cannot receive credit for both this course and MATH 11B, or AM 11B, or AM 15B, or ECON 11B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19A or MATH 20A or AP Calculus AB exam score of 4 or 5, or BC exam score of 3 or higher, or IB Mathematics Higher Level exam score of 5 of higher.",
+        "courses": [
+            [
+                "P MATH 19A",
+                "MATH 20A",
+                "AP C AB    4",
+                "5",
+                "BC    3",
+                "IB M H L    5"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 1329,
+            "filled seats": 314,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 360,
+            "filled seats": 356,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ART 210B",
+    "title": "Practice-Based Research Group: Systems",
+    "description": "The second in the required core course sequence taken by students in the first year of the environmental art and social practice M.F.A. The sequence offers students a graduated learning opportunity to engage in practice-based research in the field. The concept of practice-based research involves \"an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice.\" (Sydney) Students develop their research through the lens of systems and relationships.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ART 210A. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

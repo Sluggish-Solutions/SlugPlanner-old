@@ -1,0 +1,32 @@
+{
+    "name": "LIT 182K",
+    "title": "Textes et contextes",
+    "description": "Speaking, reading, and writing proficiency in French required. Examines implications of social and political change in terms of literary theory and practice. Places equal emphasis on literary and other kinds of cultural texts: historical, political, and cinematic. Course topic changes; please see the Class Search for current topic. Critical approach designations: Histories, Power and Subjectivities. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

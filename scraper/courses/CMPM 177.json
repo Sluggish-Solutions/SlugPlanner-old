@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 177",
+    "title": "Creative Strategies for Designing Interactive Media",
+    "description": "Surveys tactical, structural, contextual, and other methods to enhance creativity and innovation in the design of games and other interactive media. Investigates strategies for creativity and innovation drawn from diverse fields, including interactive affordances, narrative and poetics, biology, contextual inquiry, and design research. To innovate in a field of fixed genres is challenging: the allure of modeling exemplars is strong. Although imitation can be successful in the marketplace, the most creative action occurs on the leading edge of change. Innovation benefits from strategies and methods that are directly aimed at exploring new perspectives and structures to learn through the process of discovery.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

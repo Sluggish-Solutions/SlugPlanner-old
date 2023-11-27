@@ -1,0 +1,38 @@
+{
+    "name": "LGST 109",
+    "title": "Legal Theory",
+    "description": "Offers systematic exploration of alternative conceptions of the nature of law, including positivism, natural law, formalism, realism, pragmatism, and theories of justice. Additional focus on the nature of law; relation of law and morality, rights and other legal concepts; and philosophical debates such as critical legal studies and critical race theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors during  first and second pass enrollment only.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors during  first and second pass enrollment only.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 39,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 37,
+            "priority": "low"
+        }
+    }
+}

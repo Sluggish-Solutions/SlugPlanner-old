@@ -1,0 +1,32 @@
+{
+    "name": "LIT 186A",
+    "title": "Introduction to Latin Literature",
+    "description": "Reading proficiency in Latin required. Course topic changes; see Class Search for the current topic. Critical approach designations: Canons, Histories. Distribution requirement: Pre-1750. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "While the first century BCE poet Catullus is primarily known for his love poems to a woman called Lesbia, political figures (Julius Caesar), ancient Roman society, and myth also appear in his work. We will read selected carmina Catulli in the original Latin with attention to the poet?s use of grammar and syntax, meter, and rhetorical figures, as well as to sexuality and gender in ancient Rome, Catullus? significance in Latin literary history and his influence on lyric poetry composed in English. This course is the third in a three-course sequence and is intended for students who have taken both Latin 1 and Latin 2 or the equivalent with the instructor?s approval",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 32,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

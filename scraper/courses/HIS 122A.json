@@ -1,0 +1,32 @@
+{
+    "name": "HIS 122A",
+    "title": "Jazz and United States Cultural History, 1900-1945",
+    "description": "Explores the meaning of jazz in United States society and as a  U.S.-based art form in other societies. Examines the social and cultural forces that have produced different jazz styles and the various ways that social conflicts and ideals have been displaced onto the music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 57,
+            "priority": "unavailible"
+        }
+    }
+}

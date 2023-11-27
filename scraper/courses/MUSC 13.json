@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 13",
+    "title": "Beginning Theory & Musicianship I",
+    "description": "Fundamentals of sound production notation in music. Emphasis on the development of the ear and rhythmic skills. Course involves significant participation through in-class performance.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 41,
+            "priority": "high"
+        }
+    }
+}

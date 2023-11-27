@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 179E",
+    "title": "Psychology of Emotion",
+    "description": "Our emotions influence nearly everything we do?from how we perceive the world to how we connect with other people. The scientific study of emotion, or affective science, investigates how emotions shape our lives. What purpose do emotions serve? How do we regulate them? How do they color cognitive processes like memory? Course considers emotions from several levels of analysis, including their evolutionary basis, their associated physiological responses, and the behaviors they motivate. Students gain a scientifically informed understanding of daily emotions and insight into how scientists study them. Satisfies seminar requirement. Satisfies senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior cognitive science and psychology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior cognitive science and psychology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

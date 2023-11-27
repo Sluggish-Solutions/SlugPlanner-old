@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 80F",
+    "title": "Introduction to Agroecology and Sustainable Food Systems",
+    "description": "Our current food system is unsustainable for the environment and unjust for the farmers, farmworkers, and consumers who depend on it. Course provides an interdisciplinary, experiential, and systems-focused introduction to agroecology and other approaches to advancing a more just and ecologically sustainable food system. Students will come to understand agroecology as a science for understanding agricultural ecosystems, as a farming practice, and as a social movement to change the way we produce and distribute/access food. Course examines many topics?including biological fertility and pest management, seeds, livestock raising, and aquaculture?from the perspective of both the natural and social sciences, leaving students with a perspective that transcends any particular academic discipline. Students gain hands-on experience with farming research, production, and food distribution happening across the UCSC campus farm and food system.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "You are required to attend 1 section per week. Sections occur on campus, across the Center for Agroecology facilities, Farm, Gardens, Pop-Up Pantries, Kitchens. Students are assigned locations the week classes begin.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 170,
+            "filled seats": 158,
+            "priority": "high"
+        }
+    }
+}

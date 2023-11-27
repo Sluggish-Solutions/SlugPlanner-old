@@ -1,0 +1,34 @@
+{
+    "name": "ENVS 163L",
+    "title": "Plant Disease Ecology Lab",
+    "description": "Hands-on introduction to important techniques used to study plant diseases. Teaches methods for detection, isolation, cultivation, and identification of important groups of plant pathogens, including fungi, oomycetes, and bacteria. Through genuine research projects, students complete Koch's proof of pathogenicity, develop skills for disease assessment, complete experiments to answer questions about the evolutionary ecology of plant diseases, and develop familiarity with basic tools in plant disease epidemiology. Class activities are held in both in the lab and in the field.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in ENVS 163 is required.",
+        "courses": [
+            [
+                "P    ENVS 163"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

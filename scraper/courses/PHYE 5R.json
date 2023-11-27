@@ -1,0 +1,32 @@
+{
+    "name": "PHYE 5R",
+    "title": "Aquatics: Basic Scuba Diving",
+    "description": "Coeducational. Sections geared toward the successful completion of NAUI Scuba Diver Certification. The course is divided into three parts: lecture, pool lab, and open water experience. Four open water training dives are offered. Emphasis is on training for open water scuba diving, using the beach as a base of operation. Prerequisite(s): pass swimming skills tests and medical clearance. It is strongly recommended that students enroll in PHYE 5S.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

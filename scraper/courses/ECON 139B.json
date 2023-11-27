@@ -1,0 +1,35 @@
+{
+    "name": "ECON 139B",
+    "title": "E-Commerce Strategy",
+    "description": "Review of economic principles and trends in e-commerce, including online retailing of physical products, digital products and services, financial services, business-to-business transactions, e-business, and e-marketing. Business-to-business and business-to-consumer business models are explored both in terms of strategy and implementation. Topics include how and why successful companies deploy e-business strategies and how these evolve in fast-changing technological and business environments..",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 139A or ECON 161A.",
+        "courses": [
+            [
+                "P ECON 139A",
+                "ECON 161A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

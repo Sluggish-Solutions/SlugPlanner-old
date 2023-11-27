@@ -1,0 +1,32 @@
+{
+    "name": "THEA 161M",
+    "title": "Sexuality, Gender, Drama, and Performance",
+    "description": "Exploration and analysis of the interrelationships between gender, sexuality, and performance on stage and on the page. Topics include gender and homosexuality in the history of performance and dramatic literature, drag, queer Shakespeare, closet drama, same-sex performance conditions (e.g., Greece) vs. dual-gendered (e.g., Restoration England). Combines study of theoretical texts and script with analysis and practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 23,
+            "priority": "unavailible"
+        }
+    }
+}

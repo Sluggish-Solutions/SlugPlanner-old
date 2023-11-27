@@ -1,0 +1,34 @@
+{
+    "name": "LGST 160B",
+    "title": "International Law",
+    "description": "Origins and development of international law: international law is examined both as a reflection of the present world order and as a basis for transformation. Topics include state and non-state actors and sovereignty, treaties, the use of force, and human rights.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as POLI 160B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 100,
+            "priority": "low"
+        }
+    }
+}

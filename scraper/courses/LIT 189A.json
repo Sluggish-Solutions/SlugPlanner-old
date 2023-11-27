@@ -1,0 +1,32 @@
+{
+    "name": "LIT 189A",
+    "title": "De la conquista a Sor Juana",
+    "description": "Speaking, reading, and writing proficiency in Spanish required. A study of Hispanic American and Peninsular literatures from the chronicles of the conquest through the 17th century. Readings deal with transformations in both the idea of empire and the rights of the conquered. Includes the works of Colon, Cortes, El Inca Garcilaso de la Vega, Sor Juana Ines de la Cruz, and others. Critical approach designations: Canons, Histories. Distribution requirements: Global, Pre-1750.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 32,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

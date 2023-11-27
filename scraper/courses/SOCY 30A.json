@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 30A",
+    "title": "Introduction to Global Information and Social Enterprise Studies",
+    "description": "The first class in a three-quarter sequence that prepares students for designing social justice and sustainability projects using social-enterprise methodologies to transfer information and communications technologies (ICT) to community and non-governmental organizations. Tuesday's class topics include globalization, info-exclusion, social justice, information revolution, global civil-society networks, social entrepreneurship, and organizational assessment. Thursday's technical laboratory teaches students to develop practical ICT skills for working solidarity with community organizations in areas such as web design, graphic design, and digital networking.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 77,
+            "filled seats": 40,
+            "priority": "low"
+        }
+    }
+}

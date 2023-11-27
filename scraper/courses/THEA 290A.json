@@ -1,0 +1,32 @@
+{
+    "name": "THEA 290A",
+    "title": "Research Methods for Performance and Practice",
+    "description": "Introduces the emergent professional artist-scholar into the discipline of what is called practice-as/practice-based/practice-led research in performance and new media. Explores the rationales, conceptual frameworks, and perils that underpin research based on the researcher's own creative endeavors, and that enable the researcher to place their own practice within larger artistic and theoretical paradigms in a written document. (Formerly offered as Text Analysis.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students in theater arts.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

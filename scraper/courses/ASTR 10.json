@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 10",
+    "title": "From the Big Bang to Planet Earth",
+    "description": "Broad scientific overview of the universe, from the Big Bang to planet Earth. Origin and content: Big Bang, dark matter, dark energy, galaxies, black holes, star systems, exoplanets. Solar system and properties of Earth in relation to other planets. Physics of planetary atmospheres and impact of human activity on Earth's climate. Possibility of terraforming and of life beyond the solar system. Fate of Earth, the solar system, and the universe. Active learning class with continuous assessment. Intended for non-science majors. No previous college-level math, physics, or astronomy required.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 191,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "SPAN 1",
+    "title": "First-Year Spanish",
+    "description": "The first-year program is aimed at developing proficiency in Spanish. Listening, speaking, reading, and writing are addressed through classroom practice and supplemented by language laboratory work. Classes are taught entirely in Spanish and are held three days a week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Placement into Spanish 1 via the online Spanish Placement Examination.",
+        "courses": [
+            [
+                "P P  S 1    S P E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 32,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 23,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 52,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

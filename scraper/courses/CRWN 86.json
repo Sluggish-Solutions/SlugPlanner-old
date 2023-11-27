@@ -1,0 +1,32 @@
+{
+    "name": "CRWN 86",
+    "title": "Storytelling in a Digital Age",
+    "description": "Explores theories and practices of narrative form, subjectivity, political and social engagement, and identity. Students engage with a variety of methods and approaches to communicating effectively and reaching audiences in the modern digital arena. Students develop, produce, and share several digital stories using film, photo, audio, and mixed media methods. (Formerly offered as Professional Communication in a Digital Age.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholars Students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

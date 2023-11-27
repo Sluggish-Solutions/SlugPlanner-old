@@ -1,0 +1,44 @@
+{
+    "name": "MUSC 3",
+    "title": "Large Jazz Ensemble",
+    "description": "Instruction in performance in large jazz ensembles with written arrangements. Prepares a specific repertory for public performance. Admission by audition with conductor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 15,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 21,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

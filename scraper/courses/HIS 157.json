@@ -1,0 +1,32 @@
+{
+    "name": "HIS 157",
+    "title": "The Ottoman Empire",
+    "description": "Explores the history of the Ottoman Empire with emphasis on its Arabic-speaking provinces. In addition to critically considering the political trajectory of the empire, we interrogate a wide range of topics relating to community organization, economic networks, international affairs, and the significance of religion within the Ottoman realm.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

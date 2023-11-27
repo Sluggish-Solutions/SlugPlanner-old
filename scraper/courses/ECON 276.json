@@ -1,0 +1,44 @@
+{
+    "name": "ECON 276",
+    "title": "Behavioral, Experimental, and Theoretical Economics Workshop",
+    "description": "For economics doctoral students who are at early stages of their research careers as well as those engaged in dissertation research in behavioral, experimental and theoretical economics using laboratory experiments and related techniques. Students present original research in progress. (Formerly offered as Workshop in Experimental Economics.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, ECON 205C, and ECON 211C, or by consent of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 12,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

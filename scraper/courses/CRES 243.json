@@ -1,0 +1,32 @@
+{
+    "name": "CRES 243",
+    "title": "Feminism, Race, and the Politics of Knowledge",
+    "description": "Course takes as its central topic the institutional politics of feminist and critical race knowledges in the post-1960s United States university. Considers these fields' complex and contradictory relation to disciplinarity, the university's primary or default mode of arranging and legitimizing knowledge formations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PSYC 20",
+    "title": "Cognition: Fundamental Theories",
+    "description": "Introduces basic concepts in cognitive psychology with a focus on theoretical explanations of cognitive functioning. Topics include perception, attention, memory, concepts, language, visual cognition, executive functions, and reasoning processes. (Formerly course 20A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Optional sections.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 238,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 202,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 215,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

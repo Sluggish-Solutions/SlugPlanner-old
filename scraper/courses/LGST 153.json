@@ -1,0 +1,32 @@
+{
+    "name": "LGST 153",
+    "title": "Immigration, Citizenship, and Law",
+    "description": "Explores U.S. laws and policies regarding immigration and citizenship from historical and contemporary perspectives. Includes studying landmark court cases, key statues and regulations governing immigration and citizenship, and scholarly treatments in order to critically examine historical developments and contemporary debates.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 54,
+            "priority": "high"
+        }
+    }
+}

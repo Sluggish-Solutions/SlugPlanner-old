@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 135K",
+    "title": "Art and Science in Europe 1500-1900",
+    "description": "Examines a select number of case studies from 1500-1900 to see how thinkers and makers relied upon science and art to help them understand the world, asking how have scientists and natural philosophers used art to make their claims more convincing, how have artists relied on scientific research to do the same, and what practices do they have in common.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

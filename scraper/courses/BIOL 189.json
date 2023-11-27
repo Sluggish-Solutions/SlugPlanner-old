@@ -1,0 +1,44 @@
+{
+    "name": "BIOL 189",
+    "title": "Health Sciences Internship",
+    "description": "Structured off-campus learning experience providing experience and pre-professional mentoring in a variety of health-related settings. Interns are trained and supervised by a professional at their placement and receive academic guidance from their faculty sponsor. Students spend 8 hours per week at their placement, participate in required class meetings on campus, and keep a reflective journal. Enrollment is by application. Students interview with health sciences internship coordinator; applications are due one quarter in advance to the Health Sciences Internship Office. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to global and community health B.S. and human biology majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Concurrent enrollment with BIOL 189W",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 18,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 36,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 270B",
+    "title": "Current Directions in Archaeological Theory",
+    "description": "Provides an in-depth understanding of current trends in archaeological thought, and enables students to place issues of archaeological interpretation into broader historical and theoretical frameworks. This course is a follow-up to ANTH 270, but not a substitute.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 270A. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 4,
+            "priority": "unavailible"
+        }
+    }
+}

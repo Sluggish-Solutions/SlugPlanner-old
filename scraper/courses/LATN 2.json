@@ -1,0 +1,34 @@
+{
+    "name": "LATN 2",
+    "title": "Elementary Latin",
+    "description": "Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LATN 1.",
+        "courses": [
+            [
+                "P LATN 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

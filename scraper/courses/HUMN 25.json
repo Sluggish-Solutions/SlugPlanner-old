@@ -1,0 +1,32 @@
+{
+    "name": "HUMN 25",
+    "title": "Humans and Machines: A History",
+    "description": "Students learn how humans and machines have interacted, become intertwined, and opposed one another throughout history, from the paleolithic era to the present. By examining a variety of texts (theory, philosophy, theater, visual art, instruction manuals, films, advertisements, podcasts), students explore how machines can enable, inhibit, and control their users in a variety of contexts. Students also apply historically grounded knowledge to propose technological solutions to contemporary problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This course counts towards the Humanizing Technology Certificate Program and satisfies the Textual Analysis GE requirement.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 34,
+            "filled seats": 34,
+            "priority": "high"
+        }
+    }
+}

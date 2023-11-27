@@ -1,0 +1,38 @@
+{
+    "name": "POLI 17",
+    "title": "U.S. and the World Economy",
+    "description": "Explores intellectual and empirical trends shaping the U.S. relationship with the global economy. Traces debates about liberalism and interventionism, surveys post-war American foreign economic policy and discusses varieties of capitalism emerging around the world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 46,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 74,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "EART 8",
+    "title": "Planetary Discovery",
+    "description": "A sweeping tour of planets, satellites, and small bodies in and out of the solar system. Focuses on major scientific results from telescopes and spacecraft missions. Topics include planetary system architecture, planetary atmosphere, surface and interior, planetary formation and evolution, astrobiology, extra-solar planets. Open to all students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 144,
+            "filled seats": 115,
+            "priority": "moderate"
+        }
+    }
+}

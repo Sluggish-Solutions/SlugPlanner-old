@@ -1,0 +1,37 @@
+{
+    "name": "ECE 180J",
+    "title": "Advanced Renewable Energy Sources, Storage, and Smart Grids",
+    "description": "Provides a comprehensive overview of renewable energy, storage, and smart grids. Fundamental energy-conversion limits based on physics and existing material properties are discussed. Various sources and facilities, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Solar- and wind-site assessment, electric vehicles, as well as sustainable microgrids are also discussed. Finally, the latest research on smart grids and smart cities is introduced. Taught in conjunction with course 80J. (Formerly EE 180J.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 3 or AM 3 or AM 5 or AM 7.",
+        "courses": [
+            [
+                "P MATH 3",
+                "AM 3",
+                "AM 5",
+                "AM 7"
+            ]
+        ]
+    },
+    "class_notes": "Please note that this is Professor Yu Zhang. His email address iszhangy@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 145,
+            "filled seats": 43,
+            "priority": "very low"
+        }
+    }
+}

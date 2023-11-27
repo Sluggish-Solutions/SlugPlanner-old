@@ -1,0 +1,32 @@
+{
+    "name": "COWL 184A",
+    "title": "Leadership and Institution Building",
+    "description": "Through lectures by senior administrators and student consensus-and-recommendation teams, students learn how leaders work with constituent groups, build cooperation, and develop implementation plans in an institution such as the University of California, specifically, UC Santa Cruz. Enrollment is restricted to undergraduates accepted in the Chancellor's Undergraduate Internship Program. Students submit applications winter quarter for the following academic year.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 55,
+            "priority": "unavailible"
+        }
+    }
+}

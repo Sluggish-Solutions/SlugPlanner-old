@@ -1,0 +1,47 @@
+{
+    "name": "PHYS 105",
+    "title": "Mechanics",
+    "description": "Particle dynamics in one, two, and three dimensions. Conservation laws. Small oscillations, Fourier series and Fourier integral solutions. Phase diagrams and nonlinear motions, Lagrange's equations, and Hamiltonian dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A and PHYS 5L; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20; and ASTR 119 or CSE 20. Concurrent enrollment in PHYS 116C or MATH 107 is required.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ],
+            [
+                "PHYS 5L"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21  MATH 24",
+                "AM 10  AM 20"
+            ],
+            [
+                "ASTR 119",
+                "CSE 20 C   PHYS 116C",
+                "MATH 107"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 99,
+            "priority": "high"
+        }
+    }
+}

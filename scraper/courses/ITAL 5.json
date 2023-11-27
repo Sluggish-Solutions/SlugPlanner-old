@@ -1,0 +1,34 @@
+{
+    "name": "ITAL 5",
+    "title": "Second-Year Italian",
+    "description": "Reading of Italian short stories and a play are used as basis for further study and refinement of oral and written skills at the intermediate level. Particular emphasis is placed on oral/written discussion of abstract ideas and topics, and on the study of different language registers/contexts. Laboratory work is regularly assigned. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting and take the placement examination.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ITAL 4 or placement by examination.",
+        "courses": [
+            [
+                "P ITAL 4"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "ASTR 112",
+    "title": "Physics of Stars",
+    "description": "The leading observational facts about stars as interpreted by current theories of stellar structure and evolution. Spectroscopy, abundances of the elements, nucleosynthesis, stellar atmospheres, stellar populations. Final stages of evolution, including white dwarfs, neutron stars, supernovae.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 102"
+            ]
+        ]
+    },
+    "class_notes": "The secondary discussion section is optional.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 55,
+            "filled seats": 53,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CRES 100",
+    "title": "Comparative Theories of Race and Ethnicity",
+    "description": "Examines race and ethnicity as categories of lived identity intersecting with gender, sexuality, class, and culture; historical discourses of difference underwriting social inequalities and movements to redress those inequalities; and concepts critical to the understanding and reshaping of power and privilege.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CRES 10 and satisfaction of the Entry Level and Composition requirements.",
+        "courses": [
+            [
+                "P CRES 10"
+            ],
+            [
+                "E L"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

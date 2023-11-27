@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 3B",
+    "title": "Statistical Methods",
+    "description": "Introduces basic quantitative data analysis found in sociological research and policy reports. Topics include: inferential statistics, such as probability distributions, sampling, and testing; and descriptive statistics, such as measures of association, bivariate, and multivariate analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. In-person and remote lab options are available",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "LALS 100",
+    "title": "Concepts and Theories in Latin American and Latina/o Studies",
+    "description": "Interdisciplinary exploration of transnational migrations; social inequalities; collective action and social movements; and cultural productions, products, or imaginaries. Examines how transnational migration and hemispheric integration are transforming Latin American studies and Chicana/o-Latina/o studies. Explores the influence of neoliberalism and globalization, especially the intersection of critical analysis and social-justice praxis. Completion of LALS 1 highly recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 108,
+            "filled seats": 108,
+            "priority": "high"
+        }
+    }
+}

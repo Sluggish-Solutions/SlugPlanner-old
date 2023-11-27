@@ -1,0 +1,32 @@
+{
+    "name": "THEA 121",
+    "title": "Acting Studio II: Shakespeare",
+    "description": "This acting studio centers around Shakespeare and specific techniques used in performing his plays. Continues concentrated work on basic acting skills and textual analysis through scene study. Courses 21 and 23 are recommended as preparation. Admission is by audition at the first class meeting (see the department office or theater.ucsc.edu for more information). (Formerly Acting Studio II.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is admission-by-audition at the first class meeting: Come prepared to deliver a Shakespeare monologue, 1 to 2 minutes in length (does not need to be memorized). Questions may be addressed to the Theater Arts Academic Advisor:theater-ugradadv@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

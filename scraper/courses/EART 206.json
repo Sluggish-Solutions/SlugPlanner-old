@@ -1,0 +1,32 @@
+{
+    "name": "EART 206",
+    "title": "Great Papers in the Earth Sciences",
+    "description": "Exposure to the most important ideas in the Earth sciences through exploration of the primary literature. Seminal papers in different subdisciplines of the Earth sciences are read and analyzed to provide breadth and improve students' ability to think critically.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to Earth sciences graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

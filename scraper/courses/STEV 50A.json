@@ -1,0 +1,32 @@
+{
+    "name": "STEV 50A",
+    "title": "Stevenson Alumni Careers in Law",
+    "description": "Connecting Stevenson students with alumni who provide practical advice for careers in law. Topics covered include the variety of career possibilities in law, preparing for law school, internships, networking, applying for jobs, and interviewing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
+        }
+    }
+}

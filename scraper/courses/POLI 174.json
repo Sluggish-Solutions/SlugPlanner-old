@@ -1,0 +1,32 @@
+{
+    "name": "POLI 174",
+    "title": "Global Political Ecology",
+    "description": "Explores the global dimensions of complex environmental issues such as climate change, biodiversity, deforestation, and fisheries: how they are produced, how they manifest, and how they are governed in response.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

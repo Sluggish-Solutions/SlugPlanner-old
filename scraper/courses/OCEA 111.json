@@ -1,0 +1,41 @@
+{
+    "name": "OCEA 111",
+    "title": "Climate Dynamics",
+    "description": "Applies fundamental physical principles to the atmosphere, cryosphere, and land surface to interpret their observed properties. Interactions between the different components of the climate system, and their role in shaping Earth's climate, are also examined.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 11B or equivalent; PHYS 6B; and ESCI 100A or EART 110A.",
+        "courses": [
+            [
+                "P MATH 11B"
+            ],
+            [
+                "PHYS 6B"
+            ],
+            [
+                "ESCI 100A",
+                "EART 110A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
+        }
+    }
+}

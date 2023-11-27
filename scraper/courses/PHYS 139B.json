@@ -1,0 +1,48 @@
+{
+    "name": "PHYS 139B",
+    "title": "Quantum Mechanics II",
+    "description": "Approximation methods in nonrelativistic quantum mechanics: time-independent perturbation theory (non-degenerate and degenerate) and addition of angular momenta; variational methods; the WKB approximation; time-dependent perturbation theory and radiation theory; scattering theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107; and PHYS 139A.",
+        "courses": [
+            [
+                "P PHYS 102"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ],
+            [
+                "PHYS 116C",
+                "MATH 107"
+            ],
+            [
+                "PHYS 139A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

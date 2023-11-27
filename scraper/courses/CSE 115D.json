@@ -1,0 +1,34 @@
+{
+    "name": "CSE 115D",
+    "title": "Software Design Project - Accelerated",
+    "description": "Accelerated version of CSE 115B and 115C. Students work in teams to develop, test, document and deploy a substantial software project. Each team gives a formal presentation and demonstration of their project. Students cannot receive credit for both CSE 115D and any part of the 115B-115C sequence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 115A.",
+        "courses": [
+            [
+                "P CSE 115A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 65,
+            "filled seats": 56,
+            "priority": "high"
+        }
+    }
+}

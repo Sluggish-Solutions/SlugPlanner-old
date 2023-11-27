@@ -1,0 +1,35 @@
+{
+    "name": "SPAN 105",
+    "title": "Introduccion a Spanish Studies",
+    "description": "Speaking, reading, and writing proficiency in Spanish is required. Explores the social, cultural, economic, and political changes that connect Latin America, Spain, and the United States Latina/o communities. Critical approach designations: Geographies, Power and Subjectivities. Distribution requirement: Global.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 6 or SPHS 6 or permission of instructor.",
+        "courses": [
+            [
+                "P SPAN 6",
+                "SPHS 6"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 43,
+            "priority": "low"
+        }
+    }
+}

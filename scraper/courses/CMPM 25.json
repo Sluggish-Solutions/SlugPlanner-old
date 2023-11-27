@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 25",
+    "title": "Introduction to 3D Modeling",
+    "description": "Introduces theory and techniques of 3D computer graphics. Topics include: capabilities of modern graphics hardware; 3D coordinate spaces; modeling with polygons; NURBS and subdivision surfaces; applying textures and materials; lighting; and simple effects. Students develop proficiency in 3D modeling via lectures and assignments focused on the use of a 3D modeling tool.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 200,
+            "filled seats": 196,
+            "priority": "high"
+        }
+    }
+}

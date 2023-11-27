@@ -1,0 +1,35 @@
+{
+    "name": "BIOE 112",
+    "title": "Ornithology",
+    "description": "Introduction to the evolution, ecology, behavior, and natural history of birds, using exemplary case histories to illustrate key concepts in evolution, ecology, and behavior.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOE 107, BIOE 109, or BIOE 140. Concurrent enrollment in BIOE 112L is required.",
+        "courses": [
+            [
+                "P BIOE 107 BIOE 109",
+                "BIOE 140 C   BIOE 112L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 112L required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

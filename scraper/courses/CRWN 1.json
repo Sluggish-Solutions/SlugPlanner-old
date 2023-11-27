@@ -1,0 +1,44 @@
+{
+    "name": "CRWN 1",
+    "title": "Academic Literacy and Ethos: Ethical and Societal Implications of Emerging Technologies",
+    "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Examines how technological revolutions happen, how they transform societies, and how these changes generate new ideological narratives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year college members.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 456,
+            "filled seats": 453,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

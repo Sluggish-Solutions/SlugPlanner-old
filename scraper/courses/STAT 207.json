@@ -1,0 +1,38 @@
+{
+    "name": "STAT 207",
+    "title": "Intermediate Bayesian Statistical Modeling",
+    "description": "Hierarchical modeling, linear models (regression and analysis of variance) from the Bayesian point of view, intermediate Markov chain Monte Carlo methods, generalized linear models, multivariate models, mixture models, hidden Markov models. (Formerly AMS 207.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): STAT 206 or STAT 206B; enrollment is restricted to graduate students or by permission of instructor.",
+        "courses": [
+            [
+                "P STAT 206",
+                "STAT 206B"
+            ],
+            [
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

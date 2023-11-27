@@ -1,0 +1,38 @@
+{
+    "name": "BME 281P",
+    "title": "Seminar on Nanotechnology and Biosensors",
+    "description": "Weekly seminar covering topics of research in the development of new tools and technologies to detect and study genes and proteins. Latest research work and literature in these areas are discussed. Students lead some discussions and participate in all meetings. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 2,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 1,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

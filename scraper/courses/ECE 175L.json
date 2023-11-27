@@ -1,0 +1,34 @@
+{
+    "name": "ECE 175L",
+    "title": "Energy Generation and Control Laboratory",
+    "description": "Computer analysis and simulation of energy generation, components, power-flow analysis, systems, and control covering topics from course 195. Weekly computer simulations reinforce the concepts introduced in course 175. (Formerly EE 175L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175 is required.",
+        "courses": [
+            [
+                "P ECE 101 C   ECE 175"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 175 is required. Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

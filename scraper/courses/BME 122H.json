@@ -1,0 +1,38 @@
+{
+    "name": "BME 122H",
+    "title": "Extreme Environmental Virology",
+    "description": "Examines life in extreme environments with an emphasis on the viruses that live there. Integrates aspects of virology, molecular biology, and computational biology. Students investigate a high-salt, extreme environment at the Don Edwards National Wildlife Refuge, and use DNA extraction methods to find molecular evidence of the organisms that live there and describe the genetic content of viruses and the community living in those high-salt ponds.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to College Scholar Students, and or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 25,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 11,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

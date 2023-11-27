@@ -1,0 +1,32 @@
+{
+    "name": "PHYE 209C",
+    "title": "Boating: Graduate Intermediate Dinghy Sailing",
+    "description": "Coeducational. Course includes a review of basic sailing with an emphasis on the further development and refinement of small-boat sailing techniques. Fifteen-foot sailboats are used with two students per boat.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9B or PHYE 209B, or equivalent skills; and swimming ability. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

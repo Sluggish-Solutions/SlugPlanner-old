@@ -1,0 +1,32 @@
+{
+    "name": "ECON 241B",
+    "title": "Advanced International Finance II",
+    "description": "Covers major topics in international finance and open economy macroeconomics, focusing on contemporary theoretical and empirical analysis. Topics include: international capital flows, financial crises, exchange rate economics, financial policy intervention, and fiscal and monetary policies in open economies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 204C, ECON 205C, and ECON 211C. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

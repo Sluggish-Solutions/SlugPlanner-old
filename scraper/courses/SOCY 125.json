@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 125",
+    "title": "Society and Nature",
+    "description": "A healthy society requires a stable and sustainable relationship between society and nature. Covering past, present, and future, the course covers environmental history of the U.S., the variety and extent of environmental problems today, and explores their likely development in our lifetimes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and enterprise, and  Latin American studies/sociology combined.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and enterprise, and  Latin American studies/sociology combined.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 39,
+            "priority": "unavailible"
+        }
+    }
+}

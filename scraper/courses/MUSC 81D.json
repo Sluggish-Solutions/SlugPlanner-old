@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 81D",
+    "title": "Music and Empire",
+    "description": "Examines the roles music played in empire building across geographical regions and timeframes. Focuses both on how colonizers employed music to further the colonial project and how local communities used music and cultural practices to preserve their identities and resist colonization.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 300,
+            "filled seats": 275,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 214",
+    "title": "Contemporary Issues in Education",
+    "description": "Addresses current issues in California's educational landscape. Potential topics include the teaching of LGBTQ curricula, understanding youth gang participation, the initiation of ethnic studies courses, school funding and school district budgets, and new technologies for student assessment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to MA/Credential graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 61,
+            "filled seats": 52,
+            "priority": "high"
+        }
+    }
+}

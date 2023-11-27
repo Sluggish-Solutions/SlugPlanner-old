@@ -1,0 +1,34 @@
+{
+    "name": "ANTH 176F",
+    "title": "California Archaeology",
+    "description": "Introduces the Native peoples of California from an archaeological perspective. Covering the past 13,000 years, a variety of geographic and temporal settings are examined as well as current research in California archaeology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 3.",
+        "courses": [
+            [
+                "P ANTH 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 68,
+            "priority": "unavailible"
+        }
+    }
+}

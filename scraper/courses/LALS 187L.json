@@ -1,0 +1,32 @@
+{
+    "name": "LALS 187L",
+    "title": "Human Rights Investigations Lab",
+    "description": "Weekly seminar with an applied lab where students are trained in the fundamentals of social media literacy skills and analysis, gain an understanding of the context for socio-political conflicts in the Americas region, and the consider the ethics of engaging in human rights media research using open source. Students will learn how to locate, verify, and analyze digital media for human rights cases using open source investigation tools. Various assignments focus on the region of the Americas. Students prepare and produce human rights social media reports. Enrollment is by permission of the instructor.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

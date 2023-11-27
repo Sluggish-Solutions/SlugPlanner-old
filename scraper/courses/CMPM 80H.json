@@ -1,0 +1,32 @@
+{
+    "name": "CMPM 80H",
+    "title": "Human-Centered AI",
+    "description": "As AI technologies start to integrate and permeate our everyday lives, we become aware of how they impact our lives and the biases inherent in these systems. Course introduces Human-Centered AI, investigating humanistic values and issues of a variety of current AI systems, including those in your car, on your phone (e.g., Siri), on public streets (delivery robots), and at different vendors. Introduces various societal, economic, and humanistic issues such as bias, trust, and accountability, and delves into methods that can be used to design more human-centered AI systems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 38,
+            "filled seats": 38,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "MERR 60",
+    "title": "Fake News: Its History and Why We Need Critical Media Literacy",
+    "description": "Teaches students how to take skillful possession of their power as citizens by participating in community focused news literacy service learning projects. Recently, debates about fake news in entertainment, politics, and news media have centered on the threat American citizens' waning news literacy skills pose to the democratic process. Course develops those skills, focusing on critical thinking, the history of fake news and journalism, differences between journalism and fake news, news and propaganda, news and opinion, bias and fairness, assertion and verification, and evidence and inference. Integrates coursework into collaborative community engagement projects that seek to advance the community's news literacy skills.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to the College Scholars Program (CSP) students.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 29,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

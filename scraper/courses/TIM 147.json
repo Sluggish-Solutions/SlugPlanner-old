@@ -1,0 +1,60 @@
+{
+    "name": "TIM 147",
+    "title": "Introduction to Data Mining for Business",
+    "description": "Introduces concepts, approaches, tools, methods for extracting useful knowledge and business value from data for business applications. Covers predictive models, descriptive models, model fitting, model overfitting, complexity, visualization, text mining, association mining, analytical thinking. Other topics may include social network mining, data science and business strategy. Students cannot receive credit for this course and CSE 145.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 20 and CSE 30; and CSE 16; and MATH 22 or MATH 23A or AM 30; and STAT 5, or STAT 7 and 7L; and AM 10 or MATH 21; and AM 20 or MATH 24.",
+        "courses": [
+            [
+                "P CSE 20"
+            ],
+            [
+                "CSE 30"
+            ],
+            [
+                "CSE 16"
+            ],
+            [
+                "MATH 22",
+                "MATH 23A",
+                "AM 30"
+            ],
+            [
+                "STAT 5",
+                "STAT 7"
+            ],
+            [
+                "7L"
+            ],
+            [
+                "AM 10",
+                "MATH 21"
+            ],
+            [
+                "AM 20",
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 18,
+            "priority": "low"
+        }
+    }
+}

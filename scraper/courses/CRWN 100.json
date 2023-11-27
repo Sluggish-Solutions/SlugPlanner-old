@@ -1,0 +1,38 @@
+{
+    "name": "CRWN 100",
+    "title": "Fundamentals of Starting and Scaling an Organization",
+    "description": "Touches on the main operational facets of starting and scaling an organization. Students from all disciplines are welcome and encouraged to approach this class within the framework of their own career and business goals. For those who wish to start and scale companies, or those who desire to work in fast-paced and high-growth industries, this course hopes to illustrate the fundamental systems and practices that underpin the creation of new organizations, products and services. Satisfies the Core requirement of the planned Innovation and Entrepreneurship Certificate.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 24,
+            "filled seats": 19,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

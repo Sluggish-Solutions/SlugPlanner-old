@@ -1,0 +1,48 @@
+{
+    "name": "PHYS 6L",
+    "title": "Introductory Physics I Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in PHYS 6A. One three-hour laboratory session per week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.",
+        "courses": [
+            [
+                "P P",
+                "PHYS 6A",
+                "PHYS 7A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 23,
+            "filled seats": 244,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 242,
+            "filled seats": 232,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 322,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

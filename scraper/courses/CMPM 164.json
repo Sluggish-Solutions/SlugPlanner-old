@@ -1,0 +1,34 @@
+{
+    "name": "CMPM 164",
+    "title": "Game Engines",
+    "description": "Covers the graphic elements in computer games. Topics include modifying, optimizing, adding components, and building a game engine. Course evaluation based on exams and several programming projects, including a game built using the student's game engine.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 160. Concurrent enrollment in CMPM 164L is required.",
+        "courses": [
+            [
+                "P CSE 160 C   CMPM 164L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in CMPM 164L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

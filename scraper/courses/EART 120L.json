@@ -1,0 +1,34 @@
+{
+    "name": "EART 120L",
+    "title": "Sedimentology and Stratigraphy Laboratory",
+    "description": "Laboratory sequence illustrating topics in course 120, including sedimentary petrology, sedimentary structures, sequence stratigraphy, and geohistory analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): concurrent enrollment in EART 120.",
+        "courses": [
+            [
+                "P    EART 120"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in EART-120 required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

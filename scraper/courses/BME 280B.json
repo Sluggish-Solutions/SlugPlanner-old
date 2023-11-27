@@ -1,0 +1,44 @@
+{
+    "name": "BME 280B",
+    "title": "Seminar on Bioinformatics and Bioengineering",
+    "description": "Weekly seminar series covering topics of current research in computational biology, and bioinformatics. Current research work and literature in these areas are discussed. Short papers reflecting on presentations required. Available for Satisfactory/Unsatisfactory (or Pass/No Pass) grading only.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 45,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 46,
+            "filled seats": 38,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

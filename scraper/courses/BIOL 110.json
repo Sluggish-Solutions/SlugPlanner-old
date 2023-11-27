@@ -1,0 +1,61 @@
+{
+    "name": "BIOL 110",
+    "title": "Cell Biology",
+    "description": "Covers the structure, organization, and function of eukaryotic cells. Topics include biological membranes, organelles, protein and vesicular trafficking, cellular interactions, the cytoskeleton, and signal transduction. Requires a good understanding of basic biochemistry and molecular biology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "declared Biochemistry and Molecular Biology; Biology B.S.; Global and Community Health B.S. (Biomedical concentration); Molecular, Cell and Developmental Biology, Human Biology, and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 100 and BIOL 101, or BIOC 100A and BIOC 100B; and BIOL 105; and BIOL 101L or BIOL 102L or BIOL 20L. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Global and Community Health B.S. (Biomedical concentration); Molecular, Cell and Developmental Biology, Human Biology, and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
+        "courses": [
+            [
+                "S"
+            ],
+            [
+                "G"
+            ],
+            [
+                "C H BS B"
+            ],
+            [
+                "M C"
+            ],
+            [
+                "D B H B"
+            ],
+            [
+                "N BS  O"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 216,
+            "filled seats": 216,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 81,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

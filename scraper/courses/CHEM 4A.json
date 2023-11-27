@@ -1,0 +1,37 @@
+{
+    "name": "CHEM 4A",
+    "title": "Advanced General Chemistry: Molecular Structure and Reactivity",
+    "description": "The first course of the two-quarter accelerated general chemistry series intended for students with a strong high school chemistry background. Coverage includes atomic structure and periodicity, general concepts of chemical bonding, covalent bonding, chemical equilibria and acid-base equilibria. Students cannot enroll in CHEM 4A after receiving credit with a 'C' or better in any of the following classes: CHEM 1A, CHEM 1B, or CHEM 1C.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Completion of CHEM 4 Prep ALEKS module. Previous or concurrent enrollment in MATH 3 (or equivalent/higher) or a math placement score of 300 or higher. Concurrent enrollment in CHEM 4AL. Strong high-school-level chemistry is highly recommended.",
+        "courses": [
+            [
+                "P C  CHEM 4 P ALEKS  P",
+                "MATH 3",
+                "300",
+                "C   CHEM 4AL S"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary discussion section. Completion of this Canvas course/CHEM 4 Prep ALEKS module is required: https://canvas.ucsc.edu/enroll/FDNAFX",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 51,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

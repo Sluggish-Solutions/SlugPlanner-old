@@ -1,0 +1,32 @@
+{
+    "name": "LALS 54",
+    "title": "Racism, Science, and Health: Colonial and Carceral Legacies",
+    "description": "Examines histories and contemporary manifestations of systemic racism, colonialism, and carcerality in the development and practice of science and medicine in the Western world, with an emphasis on how this has impacted Latinx and Latin American communities. Course draws on texts from a wide range of disciplines in the social sciences and humanities, including history of science and medicine, medical anthropology, ethnic studies, and science and technology studies. Students explore the impact of racialized bias and a lack of diversity in science and ways in which to address these deficiencies. Students also learn about efforts to integrate social justice, anti-racist, anti-colonial, and abolitionist principles and practices into the fields of science and medicine.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 100,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "OCEA 220",
+    "title": "Chemical Oceanography",
+    "description": "A chemical description of the sea; emphasis on the chemical interactions of the oceans with the biosphere, atmosphere, and lithosphere. Topics include biogeochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Course designed for graduate students; available to upper-division science majors. Students may not receive credit for this course and OCEA 122.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 142M",
+    "title": "Museum Exhibitions",
+    "description": "Students work in collaborative teams to create an exhibition prospectus. Students take the roles of museum departments, in the process learning about how a museum works. The impact exhibitions make in culture and society is examined throughout each step of the process.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 88,
+            "filled seats": 87,
+            "priority": "high"
+        }
+    }
+}

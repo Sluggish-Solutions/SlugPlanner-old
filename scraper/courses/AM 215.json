@@ -1,0 +1,32 @@
+{
+    "name": "AM 215",
+    "title": "Stochastic Modeling in Biology",
+    "description": "Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and course 115. (Formerly AMS 215.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

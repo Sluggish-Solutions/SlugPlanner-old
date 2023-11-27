@@ -1,0 +1,47 @@
+{
+    "name": "SPAN 3",
+    "title": "First-Year Spanish",
+    "description": "The first-year program is aimed at developing proficiency in Spanish. Listening, speaking, reading, and writing are addressed through classroom practice and supplemented by language laboratory work. Classes are taught entirely in Spanish and are held three days a week.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SPAN 2 or placement into SPAN 3 via the online Spanish Placement Examination.",
+        "courses": [
+            [
+                "P SPAN 2",
+                "SPAN 3    S P E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 60,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 81,
+            "filled seats": 56,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

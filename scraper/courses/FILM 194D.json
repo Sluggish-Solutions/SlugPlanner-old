@@ -1,0 +1,40 @@
+{
+    "name": "FILM 194D",
+    "title": "Film History Seminar",
+    "description": "In-depth study of film history investigating developments in cinematic style, technological innovation, and industrial practice against the broad canvas of cultural history. Students will acquire the basic tools necessary to conduct informed film historical research.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FILM 120; and FILM 130 or FILM 134A or FILM 134B. Enrollment restricted to senior film and digital media majors.",
+        "courses": [
+            [
+                "P FILM 120"
+            ],
+            [
+                "FILM 130",
+                "FILM 134A",
+                "FILM 134B E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

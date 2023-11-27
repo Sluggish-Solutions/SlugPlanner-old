@@ -1,0 +1,50 @@
+{
+    "name": "ECON 136",
+    "title": "Business Strategy",
+    "description": "The strategic management process, techniques for analyzing single-business and diversified companies, implementing strategy, organization, business planning, financial strategy, competitive analysis, entrepreneurial skills.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 10A; and ECON 100A or ECON 100M.",
+        "courses": [
+            [
+                "P ECON 10A"
+            ],
+            [
+                "ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 130,
+            "filled seats": 123,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 63,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 65,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

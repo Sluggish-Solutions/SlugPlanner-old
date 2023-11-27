@@ -1,0 +1,44 @@
+{
+    "name": "BME 281H",
+    "title": "Live Cell Biotechnology Seminar",
+    "description": "Weekly seminar series covering topics of current computational and experimental research in live cell biotechnology. Current research work and literature in this area are discussed. Students lead some discussions and participate in all meetings. (Formerly offered as Seminar in Comparative Genomics.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 9,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 6,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 3,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

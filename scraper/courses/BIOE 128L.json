@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 128L",
+    "title": "Large Marine Vertebrates Field Course",
+    "description": "Lectures combined on fieldwork with large marine vertebrates in the laboratory and lectures with large marine vertebrates in the field (Monterey Bay, Ano Nuevo). Fieldwork familiarizes students with research methods, study design, and statistical approaches for research on large marine vertebrates (seals, birds, fish, and sharks). Research includes: animal tracking; physiology; behavior; foraging ecology; and energetics. Students are billed a materials fee of $100. Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C, and satisfaction of the Entry Level Writing and Composition requirements.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by application: https://docs.google.com/forms/d/e/1FAIpQLScpPzG-SYKJm8MEiW7P7XCdlFATqkLljz-spNvoJpSLwsymIw/viewform?usp=send_form",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "7",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 14,
+            "filled seats": 14,
+            "priority": "high"
+        }
+    }
+}

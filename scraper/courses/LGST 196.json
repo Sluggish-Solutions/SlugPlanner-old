@@ -1,0 +1,44 @@
+{
+    "name": "LGST 196",
+    "title": "Senior Capstone",
+    "description": "Examines related legal topics from an interdisciplinary perspective. Each focuses broadly on the relationship between law as a distinct system and law as an attempt to achieve justice, which requires that law remain open to claims of political morality generally. To what extent are legal norms internal to a separate system called \"law\" and to what extent are claims of political right in general relevant to question of what law is?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior legal studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior legal studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 43,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 46,
+            "filled seats": 47,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

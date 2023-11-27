@@ -1,0 +1,32 @@
+{
+    "name": "SCIC 201D",
+    "title": "Policy and Investigative Reporting",
+    "description": "Rigorous examination of techniques for reporting topics where science and technology  meet public policy and society. Covers essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, and writing about ethical and legal issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 9,
+            "priority": "high"
+        }
+    }
+}

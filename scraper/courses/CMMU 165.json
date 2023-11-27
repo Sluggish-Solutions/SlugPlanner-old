@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 165",
+    "title": "Community Analysis for Global Health",
+    "description": "Practical, skill-building course that starts from the premise that while all communities value health, different communities develop distinctive understandings of what health means to them and how best to achieve it given their specific environments and economies. Course focuses on health justice from a political economy perspective, analyzing how health is shaped by the interaction of multiple societal forces, including who holds power and what steps marginalized groups have taken to achieve more just distributions of resources. By studying community health, across multiple communities in a variety of locations, students learn how to be effective agents of global health equity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 107D",
+    "title": "Methods and Research in Biological Anthropology?Computational Population Genetics",
+    "description": "Practical introduction to computational population genetics. Covers the basic principles of population and evolutionary genetics, and explores those with a range of computational methods for the analysis of genetic diversity, population structure, and admixture. Enrollment is by instructor consent.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 13,
+            "priority": "high"
+        }
+    }
+}

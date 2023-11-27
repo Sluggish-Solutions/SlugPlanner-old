@@ -1,0 +1,46 @@
+{
+    "name": "PHYE 9S",
+    "title": "Boating: Beginning Keelboat Sailing",
+    "description": "Coeducational. Combines hands-on rigging and docking practice in the harbor and sailing practice on Monterey Bay with instruction in sail-trimming, de-powering, powering-up, person-overboard recovery techniques, boating safety, weather, ocean conditions, sailing theory, rigging, navigation, and the maritime rules of the road. Twenty-seven foot, ultralight, displacement keelboats are used.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYE 9C or equivalent skills.",
+        "courses": [
+            [
+                "P PHYE 9C"
+            ]
+        ]
+    },
+    "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend first meeting even if online enrollment indicates the class is full. Prerequisite 9C.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 36,
+            "filled seats": 21,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 24,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

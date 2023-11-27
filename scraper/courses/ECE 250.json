@@ -1,0 +1,32 @@
+{
+    "name": "ECE 250",
+    "title": "Digital Signal Processing",
+    "description": "In-depth study of signal processing techniques, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, filter design techniques. Students cannot receive credit for this course and course 153.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ECE 153",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 16,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "FILM 80A",
+    "title": "The Film Experience",
+    "description": "Students learn to understand how films reach the public through a collaborative, industrial, and artistic practice; how films \"work\" in a narrative sense; how they construct meanings for viewers; and how their formal techniques construct different possibilities for meaning and interpretation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 400,
+            "filled seats": 400,
+            "priority": "high"
+        }
+    }
+}

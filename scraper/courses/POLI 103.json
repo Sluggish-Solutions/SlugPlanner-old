@@ -1,0 +1,32 @@
+{
+    "name": "POLI 103",
+    "title": "Feminist Interventions",
+    "description": "Situates ongoing debates around feminist theory and practice within the context of political theory, the role of the state, and the position of women in contemporary (predominantly Western) society. Engages with classical political theory, second wave feminism, and the role of the state on matters pertaining to pornography and prostitution.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "politics, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to politics, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

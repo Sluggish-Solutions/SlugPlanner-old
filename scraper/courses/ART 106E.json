@@ -1,0 +1,32 @@
+{
+    "name": "ART 106E",
+    "title": "3D Modeling and Animation",
+    "description": "Independent and collaborative creative projects using advanced computer methods. May include networking projects, virtual representations, interactive multimedia, installation, performance, 3D modeling and animation, or robotics. Emphasis on advanced critical and experimental approaches to computers as a unique art medium, and contemporary research issues. Students are required to enroll in scheduled lab section. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26; or by permission of instructor. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

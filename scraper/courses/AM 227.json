@@ -1,0 +1,37 @@
+{
+    "name": "AM 227",
+    "title": "Waves, Instabilities, and Turbulence in Fluids",
+    "description": "Advanced fluid dynamics course introducing various types waves and instabilities that commonly arise in geophysical and astrophysical systems, as well as turbulence. Topics covered include, but are not limited to: pressure waves, gravity waves, convection, shear instabilities, and turbulence. Advanced mathematical methods are used to study each topic. Undergraduates are encouraged to take this course with permission of the instructor. (Formerly Waves and Instabilities in Fluids.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): AM 212A and AM 217.",
+        "courses": [
+            [
+                "P AM 212A"
+            ],
+            [
+                "AM 217"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 5,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

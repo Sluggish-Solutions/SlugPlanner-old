@@ -1,0 +1,32 @@
+{
+    "name": "CSE 290L",
+    "title": "Topics in Crowdsourcing and Collaboration",
+    "description": "Explores the foundations of crowdsourcing and computer-mediated collaboration. Covers the algorithmic and statistical foundations of crowdsourcing, introducing and analyzing algorithms, and experimenting with concrete systems. Also, provides an introduction to computational systems for mediating user interaction and collaboration. (Formerly Computer Science 290L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 23,
+            "priority": "moderate"
+        }
+    }
+}

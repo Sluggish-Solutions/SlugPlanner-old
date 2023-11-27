@@ -1,0 +1,34 @@
+{
+    "name": "OAKS 167",
+    "title": "Food Systems: Culture, Social Justice, Sustainability",
+    "description": "Examines the complexities of food systems with special attention to labor practices, food access, and food production. Students consider the nature of culture in advancing problematic notions of food options and sustainability. A service-learning project is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to sophomore, junior, and senior Oakes students. Non-Oakes affiliated students may email instructor for a permission code.",
+        "courses": [
+            [
+                "NO"
+            ]
+        ]
+    },
+    "class_notes": "For questions about the course or to inquire about enrollment please email Professor Baker atmbaker@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 22,
+            "priority": "unavailible"
+        }
+    }
+}

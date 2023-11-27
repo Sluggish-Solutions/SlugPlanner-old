@@ -1,0 +1,38 @@
+{
+    "name": "FILM 172",
+    "title": "Narrative Video Workshop",
+    "description": "Intermediate workshop in film and video production concentrating on narrative production, development of critical standards, and technical methods. Topics include cinematography, sound, and non-linear digital editing techniques. Each student is responsible for the completion of short narratives from assignments. Students are billed a course materials fee of $292. Prerequisite(s): FILM 170B. Admission by application; application materials available during the last three weeks of preceding quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Applications and instructions can be found at this link: https://slugfilm2.ucsc.edu/secure/production_applications/ . Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

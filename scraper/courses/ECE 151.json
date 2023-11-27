@@ -1,0 +1,32 @@
+{
+    "name": "ECE 151",
+    "title": "Communications Systems",
+    "description": "An introduction to communication systems. Analysis and design of communication systems based on radio, transmission lines, and fiber optics. Topics include fundamentals of analog and digital signal transmission in the context of baseband communications, including concepts such as modulation and demodulation techniques, multiplexing and multiple access, channel loss, distortion, bandwidth, signal-to-noise ratios and error control. Digital communication concepts include an introduction to sampling and quantization, transmission coding and error control.  (Formerly EE 151.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "School of Engineering and Physical and Biological Sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 103, ECE 101, and ECE 101L; and CSE 107 or STAT 131 or probability theory and random variables background. Enrollment is restricted to School of Engineering and Physical and Biological Sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

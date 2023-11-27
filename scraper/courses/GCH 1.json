@@ -1,0 +1,32 @@
+{
+    "name": "GCH 1",
+    "title": "Foundations for Global and Community Health",
+    "description": "Interdisciplinary introduction to global and community health. It provides students with the foundational knowledge, vocabulary, and analytical tools to enter global health. It emphasizes the wide-ranging community meanings and contextual conditions shaping health from local to global scales. Co-taught by faculty from the natural sciences and social sciences, the course also introduces students to global and community health, highlighting opportunities for learning that involve collaboration and conversation between natural scientists and social scientists. (Formerly offered as POLI/ANTH/BIOL 89).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 220,
+            "filled seats": 218,
+            "priority": "high"
+        }
+    }
+}

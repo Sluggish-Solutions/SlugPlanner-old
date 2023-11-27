@@ -1,0 +1,34 @@
+{
+    "name": "GERM 120",
+    "title": "Advanced German Conversation and Composition",
+    "description": "This third-year language course is designed for students who are comfortable speaking and writing German at the GERM 5 level or above. Using a variety of German texts, including print- and visual media, students practice advanced conversation and composition skills. Taught in German.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GERM 5.",
+        "courses": [
+            [
+                "P GERM 5"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "GERM 3",
+    "title": "First-Year German",
+    "description": "GERM 3 is designed for students who have successfully completed GERM 2 (or its equivalent; e.g., 2-3 years of high school German). Students continue to develop competence in speaking, reading, writing, and understanding real-life German.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GERM 2 or placement by examination.",
+        "courses": [
+            [
+                "P GERM 2"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

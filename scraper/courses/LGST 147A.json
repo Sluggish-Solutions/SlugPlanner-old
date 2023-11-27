@@ -1,0 +1,32 @@
+{
+    "name": "LGST 147A",
+    "title": "Psychology and Law",
+    "description": "Current and future relationships between law and psychology, paying special attention to gaps between legal fictions and psychological realities in the legal system. Topics include an introduction to social science and law, the nature of legal and criminal responsibility, the relationship between the social and legal concepts of discrimination, and the nature of legal punishment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology, pre-psychology, cognitive science, and legal studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100; and PSYC 40 is highly recommended prior to taking this course. Enrollment is restricted to psychology, pre-psychology, cognitive science, and legal studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

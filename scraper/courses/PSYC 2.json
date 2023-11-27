@@ -1,0 +1,55 @@
+{
+    "name": "PSYC 2",
+    "title": "Introduction to Psychological Statistics",
+    "description": "An introduction to elementary statistical principles and techniques relevant to psychological research. Topics covered include basic parametric and nonparametric statistics, analysis of variance, and simple factorial designs. This course is prerequisite to PSYC 181.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 1 or PSYC 20; and AM 3 or AM 6 or MATH 3 or MATH 4 or MATH 11A or satisfactory placement score on math placement exam or CEEB Advanced Placement Calculus AB exam.",
+        "courses": [
+            [
+                "P PSYC 1",
+                "PSYC 20"
+            ],
+            [
+                "AM 3",
+                "AM 6",
+                "MATH 3",
+                "MATH 4",
+                "MATH 11A",
+                "CEEB A P C AB"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 99,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 148,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

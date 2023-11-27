@@ -1,0 +1,43 @@
+{
+    "name": "ENVS 104A",
+    "title": "Introduction to Environmental Field Methods",
+    "description": "A course in the process of field research and monitoring, with emphasis on use of the scientific method; experimental design, data handling, statistical analysis and presentation; and basic field methodologies. Application of basic field skills, including habitat description; methods for sampling plants, animals, soils, water, and microclimate; and observational and manipulative techniques to address ecological, conservation, and management questions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; concurrent enrollment in ENVS 104L and previous or concurrent enrollment in ENVS 100 \nand ENVS 100L is required, or by permission of instructor.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "ENVS 104L"
+            ],
+            [
+                "ENVS 100  ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 24,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

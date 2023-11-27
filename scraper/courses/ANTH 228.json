@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 228",
+    "title": "Grant Writing",
+    "description": "Devoted entirely to writing grant proposals. Students either work on their graduate education fellowships or their doctoral dissertation grants or both. Reading materials consist of granting agency documents plus examples of successful applications. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to anthropology graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

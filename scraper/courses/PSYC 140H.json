@@ -1,0 +1,40 @@
+{
+    "name": "PSYC 140H",
+    "title": "Sexual Identity and Society",
+    "description": "Addresses sexual and gender identity diversity in social, historical, and political context. Highlights current social justice issues and cultural ideologies related to sexual and gender identity diversity. Discusses social and scientific activism for sexual liberation; gay and lesbian identities and communities; sexuality beyond binaries and categories (e.g., bisexuality, pansexuality); asexuality; kink/fetish; transgender identities and sexualities; sexual fluidity and heteroflexibility; and queer sexual ethics and politics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 179,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

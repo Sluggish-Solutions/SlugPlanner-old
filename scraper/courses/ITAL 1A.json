@@ -1,0 +1,32 @@
+{
+    "name": "ITAL 1A",
+    "title": "Accelerated Italian",
+    "description": "The first quarter of accelerated instruction in elementary Italian language. The accelerated pace allows a rapid mastery of grammar and vocabulary, giving students a basic knowledge of Italian in only two quarters. Completion of the sequence is equivalent to the completion of the 1-2-3 sequence. This sequence starts once a year in the winter quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

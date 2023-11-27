@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 107",
+    "title": "Analysis of Field Materials",
+    "description": "A seminar for students who have completed a full-time field study. Devoted to the systematic analysis of field materials, integrating appropriate concepts and relevant literature, as well as utilizing the experience of other students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "community studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, CMMU 105A, CMMU 105B, and CMMU 105C. Enrollment is restricted to community studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

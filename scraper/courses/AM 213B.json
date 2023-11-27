@@ -1,0 +1,32 @@
+{
+    "name": "AM 213B",
+    "title": "Numerical Methods for the Solution of Differential Equations",
+    "description": "Introduces the numerical solutions of ordinary and partial differential equations (ODEs and PDEs). Focuses on the derivation of discrete solution methods for a variety of differential equations, and their stability and convergence. Also provides hands-on experience in implementing such numerical algorithms for the solution of engineering and scientific problems using MATLAB software. The  class consists of lectures and hands-on programming sections. Basic mathematical knowledge of ODEs and PDEs is assumed, and a basic working knowledge of programming in MATLAB is expected. (Formerly AMS  213B.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

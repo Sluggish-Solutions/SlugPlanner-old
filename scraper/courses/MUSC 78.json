@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 78",
+    "title": "Popular and Raga-Based Songs of South Asia",
+    "description": "Songs have long been a tool used by humans to capture the essence of certain life?s experiences. They therefore have aided in forming a belief system within a community, passing along to future generations insights of a system of beliefs and codes of conduct. Course involves studying and learning to sing a select group of songs that have been a staple of the people of South Asia along with trying to understand the context and the sentiments behind their creation and cultural popularity.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

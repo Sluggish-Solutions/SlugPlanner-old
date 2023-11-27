@@ -1,0 +1,46 @@
+{
+    "name": "EART 110B",
+    "title": "Earth as a Chemical System",
+    "description": "The chemical properties of Earth materials and the chemical processes by which the planet has evolved to its present state. Specific topics covered include properties of minerals; the genesis of igneous, metamorphic, and sedimentary rocks; and the linkage between the solid Earth and the hydrosphere. Enrollment is permitted by permission code with equivalent or exceptional background, or if enrolled concurrently in CHEM 1B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20; and EART 5L or EART 10L or EART 20L; and CHEM 1B or CHEM 3A or CHEM 4A.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "EART 5L",
+                "EART 10L",
+                "EART 20L"
+            ],
+            [
+                "CHEM 1B",
+                "CHEM 3A",
+                "CHEM 4A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 84,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

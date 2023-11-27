@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 131",
+    "title": "3D Game Art Production",
+    "description": "Studio course in which students learn the highly technical and fundamental skills in the production of 3D art assets for video games. Covers the essential steps in the 3D art pipeline, starting with basic 3D modeling, UV unwrapping, the creation of texture maps, and finally, game engine implementation. Focuses on developing an understanding of the processes and creative thinking necessary to produce industry-level artwork rather than specific software. Students provided with video lectures and demos, and students can expect to produce weekly assignments to practice basic skills and concepts covered. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 82,
+            "priority": "high"
+        }
+    }
+}

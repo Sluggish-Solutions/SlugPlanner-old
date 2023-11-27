@@ -1,0 +1,44 @@
+{
+    "name": "CSE 185S",
+    "title": "Technical Writing for Computer Science and Engineering",
+    "description": "Writing by engineers and computer scientists to technical audiences. Writing exercises include: cover letter and resume for job application, tutorial writing, grant proposal, document specification, literature review, and a final technical report. Two oral presentations are also required, an in-class presentation and a poster presentation. Students also receive instruction in the use of UC library and journal database resources, and in the writing of a statement of purpose for graduate school application. Also offered as CSE 185S. (Formerly Computer Engineering 185, Technical Writing for Computer Engineers.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "computer science majors, or by permission of the instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101, one additional upper-division CSE course, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to computer science majors, or by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as CSE 185E.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 142,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 147,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

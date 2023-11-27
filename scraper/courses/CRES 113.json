@@ -1,0 +1,32 @@
+{
+    "name": "CRES 113",
+    "title": "Music and Performance",
+    "description": "Considers issues of race, place, gender, power, and identities through the converging fields of Black studies and performance studies. Emphasizes global diasporic histories of broad music production and performance from the 14th century onward with an emphasis on the making and performance of global Black social life. Primarily creative in nature, the course allows students to practice creative processes and allows opportunities to produce music and generate performance art.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "THEA 80L",
+    "title": "Muppet Magic: Jim Henson's Art",
+    "description": "The artistic and social impact of the Muppets on American puppetry, children's television, and Hollywood film is explored through viewings, guest lectures, and analysis. Henson's legacy in artistic innovation, mainstreaming of puppet theater for adult audiences, and establishment of puppetry in media and marketing are also explored.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 202,
+            "priority": "unavailible"
+        }
+    }
+}

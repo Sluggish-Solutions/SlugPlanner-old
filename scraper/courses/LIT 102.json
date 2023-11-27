@@ -1,0 +1,35 @@
+{
+    "name": "LIT 102",
+    "title": "Translation Theory",
+    "description": "Promotes the understanding of translation and its role in redefining meanings across epochs and cultures, in establishing common norms, and in advancing mutual intelligibility; but also providing encounters with absolute alterity. Actual translations are used as case studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): one year of college-level, non-English language study or the equivalent reading ability in a non-English language.",
+        "courses": [
+            [
+                "P     E",
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 128,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

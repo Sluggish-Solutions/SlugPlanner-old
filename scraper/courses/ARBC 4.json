@@ -1,0 +1,34 @@
+{
+    "name": "ARBC 4",
+    "title": "Second-Year Arabic",
+    "description": "Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 3 or possess equivalent proficiency.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARBC 3 or proficient equivalency.",
+        "courses": [
+            [
+                "P ARBC 3"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

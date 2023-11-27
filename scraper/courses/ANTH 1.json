@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 1",
+    "title": "Introduction to Biological Anthropology",
+    "description": "Study of evolution illustrated by Pleistocene hominid fossils and variation in living human groups. Behavior and evolution of primates examined as they contribute to the understanding of human evolution. Required for all anthropology majors. (Formerly Introduction to Human Evolution.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 250,
+            "priority": "unavailible"
+        }
+    }
+}

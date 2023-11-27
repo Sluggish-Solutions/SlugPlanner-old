@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 195B",
+    "title": "Senior Thesis Research",
+    "description": "Students conduct the research projects they proposed in ANTH 195A. Students have weekly group meetings with the research supervisor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 195A. Enrollment is restricted to senior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

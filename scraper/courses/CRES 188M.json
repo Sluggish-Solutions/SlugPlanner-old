@@ -1,0 +1,32 @@
+{
+    "name": "CRES 188M",
+    "title": "Topics in Critical Migration Studies",
+    "description": "Focuses on a particular topic in migrant and migration studies. Topics vary with each offering but might include examining the intersections of race, gender, and citizenship through a variety of disciplinary and interdisciplinary perspectives, intellectual histories, and political movements as they relate to labor and capital, imperialism and neoliberalism, the racialized criminalization of movement, detention and deportation, and violence against migrant workers.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "LALS 122",
+    "title": "Media and Nationalism",
+    "description": "Evaluates the links between media and the production of national identities in Latin America. Focuses on theories of nationalism, media, and globalization to examine the production of national histories and representations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 23,
+            "priority": "very low"
+        }
+    }
+}

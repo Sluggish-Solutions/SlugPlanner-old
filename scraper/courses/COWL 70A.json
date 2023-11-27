@@ -1,0 +1,32 @@
+{
+    "name": "COWL 70A",
+    "title": "Introduction to Book Arts",
+    "description": "Students learn techniques of bookbinding, construction, and design, and fundamentals of letterpress printing. Enrollment is by permission of instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 8,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

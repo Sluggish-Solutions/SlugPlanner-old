@@ -1,0 +1,34 @@
+{
+    "name": "LGST 111A",
+    "title": "Constitutional Law",
+    "description": "An introduction to constitutional law, emphasizing equal protection and fundamental rights as defined by common law decisions interpreting the 14th Amendment, and also exploring issues of federalism and separation of powers. Readings are primarily court decisions; special attention given to teaching how to interpret, understand, and write about common law.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 100,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "FREN 130",
+    "title": "French for Professions",
+    "description": "Students better understand administrative organization in France through preparation of their own professional dossier in French, and preparation to look for professional opportunities in France. Taught in French.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FREN 6, or equivalent proficiency in French, or by permission of the instructor.",
+        "courses": [
+            [
+                "P FREN 6",
+                "F"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

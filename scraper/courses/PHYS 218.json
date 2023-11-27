@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 218",
+    "title": "Quantum Field Theory II",
+    "description": "Path integral approach to quantum field theory. Theory of renormalization and the renormalization group, introduction to gauge theories and spontaneously broken field theories. Applications to the standard model of strong, weak, and electromagnetic interactions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 217. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

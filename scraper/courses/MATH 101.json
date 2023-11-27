@@ -1,0 +1,37 @@
+{
+    "name": "MATH 101",
+    "title": "Mathematical Problem Solving",
+    "description": "Students learn the strategies, tactics, skills and tools that mathematicians use when faced with a novel (new) problem. These include generalization, specialization, the optimization, invariance, symmetry, Dirichlet's box principle among others in the context of solving problems from number theory, geometry, calculus, combinatorics, probability, algebra, analysis, and graph theory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 21 and MATH 100.",
+        "courses": [
+            [
+                "P MATH 21"
+            ],
+            [
+                "MATH 100"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

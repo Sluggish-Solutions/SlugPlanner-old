@@ -1,0 +1,32 @@
+{
+    "name": "EART 290R",
+    "title": "Topics in the Chemistry and Physics of the Earth",
+    "description": "Explores problems and current research developments in the application of physics and chemistry to planetary interiors. Topics differ from year to year and include, but are not limited to, research related to the accretion, differentiation, evolution, and structure of the terrestrial planets. Course is designed for graduate students but available to qualified Earth sciences majors. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

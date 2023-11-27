@@ -1,0 +1,38 @@
+{
+    "name": "ART 257",
+    "title": "Immersive Arts Field Research",
+    "description": "Immersive site-specific field research over the span of a four-day (24 hours/overnight) field trip utilizing public lands of California, via the UC Natural Reserve System. Students engage and relate to a specific place while exploring concepts of site-specificity and develop their own new inquiries about a place by experiencing it physically and by learning about contemporary art concepts through topics of land use. Students also reflect upon the multiple factors that constitute a ''site'' and how they present possibilities for creative engagement, learn research method skills and approaches that are unique to each site historically, politically, culturally, and environmentally. Due to the rigor of the course, students must submit an application demonstrating the commitment and preparation necessary for successful completion of the class. Enrollment is restricted to graduate students.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Arts field research Sweeney Granite Mountains Desert Research Center: Mojave trip dates: depart morning November 9th - return evening of Monday November 13. Four Friday morning (9-11am) zoom meetings will also be held as part of the course; specific dates to be announced by the instructors at the start of the quarter. Enrollment by permission of instructor. Please contact instructor for enrollment information. Taught in conjunction with Art 157.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 6,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 8,
+            "filled seats": 5,
+            "priority": "low"
+        }
+    }
+}

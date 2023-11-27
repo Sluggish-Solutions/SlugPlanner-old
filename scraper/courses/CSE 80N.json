@@ -1,0 +1,44 @@
+{
+    "name": "CSE 80N",
+    "title": "Introduction to Networking and the Internet",
+    "description": "Introduction to the evolution, technological basis, and services of the Internet, with descriptions of its underlying communications structure, routing algorithms, peer-to-peer hierarchy, reliability, and packet switching. Network security, mail, multimedia and data compression issues, HTML, and digital images. Students who have completed course 150 cannot receive credit for this course. (Formerly Computer Engineering 80N.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 147,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 54,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

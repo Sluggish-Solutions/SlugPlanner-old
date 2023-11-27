@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 289",
+    "title": "Practice of Science",
+    "description": "Examination of ethical and practical scientific issues, including the collection and treatment of data, attribution of credit, plagiarism, fraud, and peer review. Career issues, including how to apply for grants and positions in industry or academia, will be discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 200A, BIOL 200B, and BIOL 200C or permission of instructor. Enrollment is restricted to graduate students; undergraduates may enroll with permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

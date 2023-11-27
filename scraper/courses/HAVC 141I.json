@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 141I",
+    "title": "Be Here Now: Art, Land, Space",
+    "description": "From the \"happenings\" of the late 1950s to contemporary ecological art, this course will examine temporary, site-specific projects of the U.S and Western Europe. Students will be introduced to theories of public art and the social production of space, and invited to explore practices that change the role of the audience, remake museum spaces, situate art in nature, or transform urban life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 80A",
+    "title": "Female Physiology and Gynecology",
+    "description": "Biochemical, medical, social, and clinical aspects of the female body. Emphasis will be on biological-chemical interactions in the female organs. Topics include female anatomy, cell physiology, endocrine functions, sexuality and intimacy, sexually transmitted diseases, puberty, pregnancy, menopause, birth control, abortion, immunity, cancer.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 250,
+            "filled seats": 246,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "CSE 272",
+    "title": "Information Retrieval",
+    "description": "Course covers major topics of information retrieval including: characteristics and representation of text, several important retrieval and ranking models, content recommendation and classification; distributed or federated search, AI semantics and dialog for information access; human factors and interfaces; and evaluation, and domain-specific applications. A research project is required. (Formerly TIM 260.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

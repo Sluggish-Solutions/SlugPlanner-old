@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 216",
+    "title": "Advanced Topics in Non-Relativistic Quantum Mechanics",
+    "description": "Approximate methods: time-independent perturbation theory, variational principle, time-dependent perturbation theory; three-dimensional scattering theory; identical particles; permutation symmetry and exchange degeneracy, anti-symmetric and symmetric states; many-body systems and self-consistent fields: variational calculations; second quantized formalism, including Fock spaces/number representation, field operators and Green functions; applications: electron gas; quantization of the electromagnetic field and interaction of radiation with matter: absorption, emission, scattering, photoelectric effect, and lifetimes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 215. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

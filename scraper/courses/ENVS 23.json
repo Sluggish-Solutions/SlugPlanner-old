@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 23",
+    "title": "The Physical and Chemical Environment",
+    "description": "Provides an overview of the physical and chemical environment of planet Earth. Fundamental chemistry and physics is introduced in the process of learning about Earth in a holistic way. The influence of human societies on the global environment is one focus of discussion. Earth's many \"spheres\" are explored first: the lithosphere; the atmosphere; the hydrosphere, and the ecosphere. Then global cycles of carbon, nitrogen, and several other elements are studied in the context of basic sciences and societal issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 180,
+            "filled seats": 128,
+            "priority": "low"
+        }
+    }
+}

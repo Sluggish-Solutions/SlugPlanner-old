@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 80",
+    "title": "Colonial Histories and Legacies: Africa, Oceania, and the Indigenous Americas",
+    "description": "The arts and visual cultures of selected cultures that developed outside the spheres of influence of major European and Asian civilizations, with an emphasis on the history and influence of colonialism in creating current ethnic and racial categories.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 176,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

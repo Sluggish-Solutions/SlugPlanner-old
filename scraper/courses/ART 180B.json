@@ -1,0 +1,38 @@
+{
+    "name": "ART 180B",
+    "title": "Sculpture II",
+    "description": "More advanced fabrication techniques in sculpture using wood, metal, industrial, and other materials. Techniques include carpentry and woodshop skills, and an introduction to sculptural forms, processes, and ideas. Demonstrations, slide lectures, and critical discussion of work help develop technical and conceptual skills. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course from ART 20H, ART 120, ART 121, ART 122, ART 124, ART 125, ART 129, ART 172, ART 183, ART 188, or ART 189; and two non-sculpture/intermedia/public art lower-division studios from ART 15, ART 20G, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

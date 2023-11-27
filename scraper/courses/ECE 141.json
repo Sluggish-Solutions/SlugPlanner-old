@@ -1,0 +1,46 @@
+{
+    "name": "ECE 141",
+    "title": "Feedback Control Systems",
+    "description": "Analysis and design of continuous linear feedback control systems. Essential principles and advantages of feedback. Design by root locus, frequency response, and state space methods and comparisons of these techniques. Applications. (Formerly CMPE 141 and EE 153.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 103, and majors in the School of Engineering and Division of Physical and Biological Sciences programs, with the exception of physics majors. Prerequisites for physics majors: PHYS 116A, PHYS 116C, and PHYS 133.",
+        "courses": [
+            [
+                "P ECE 103"
+            ],
+            [
+                "S  E"
+            ],
+            [
+                "D  P"
+            ],
+            [
+                "B S        P    PHYS 116A PHYS 116C"
+            ],
+            [
+                "PHYS 133"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 70,
+            "filled seats": 58,
+            "priority": "moderate"
+        }
+    }
+}

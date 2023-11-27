@@ -1,0 +1,35 @@
+{
+    "name": "ECON 115",
+    "title": "Introduction to Management Sciences",
+    "description": "The scientific study of management decision making. Topics include linear, integer, and non-linear programming. Special emphasis on a wide variety of practical applications, including production scheduling, optimal transportation assignments, and optimal inventory policy.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 100A or ECON 100M.",
+        "courses": [
+            [
+                "P ECON 100A",
+                "ECON 100M"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 58,
+            "priority": "high"
+        }
+    }
+}

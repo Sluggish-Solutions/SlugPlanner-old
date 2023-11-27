@@ -1,0 +1,32 @@
+{
+    "name": "ECON 221A",
+    "title": "Advanced Methods in Macroeconomics I",
+    "description": "Covers major issues in monetary economics, focusing on the core theoretical models employed in monetary economics. Topics include: money in general equilibrium; money-in-the-utility function approaches; cash-in-advance models; search-based models; welfare costs of inflation; optimal inflation tax; informational frictions in monetary economies; financial and credit frictions; nominal price and wage frictions; time-dependent and state-dependent models of price adjustment; and money in new Keynesian models. (Formerly Advanced Monetary Economics I.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 205A, ECON 205B, and ECON 205C, or by permission of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 5,
+            "filled seats": 4,
+            "priority": "moderate"
+        }
+    }
+}

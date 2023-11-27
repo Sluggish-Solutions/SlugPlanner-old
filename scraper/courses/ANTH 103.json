@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 103",
+    "title": "Forensic Anthropology",
+    "description": "Covers the basic analysis of human skeletal remains for the medicolegal profession. Assessment of age, sex, ancestry, and general physical characteristics, trauma, and disease are discussed. Addresses the legal responsibilities of the anthropologist. Online lectures with in-class discussion sections, quizzes, and exams. Students cannot receive credit for this course and ANTH 103I.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 102A. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 19,
+            "priority": "high"
+        }
+    }
+}

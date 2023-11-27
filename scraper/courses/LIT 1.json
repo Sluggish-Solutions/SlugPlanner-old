@@ -1,0 +1,38 @@
+{
+    "name": "LIT 1",
+    "title": "Literary Interpretation",
+    "description": "Close reading and analysis of literary texts, including representative examples of several different genres and periods. An introduction to practical criticism required of all literature majors; should be completed prior to upper-division work in literature.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "first-year students and sophomores, or literature and proposed literature majors and literature minors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to first-year students and sophomores, or literature and proposed literature majors and literature minors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 32,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 78,
+            "filled seats": 55,
+            "priority": "low"
+        }
+    }
+}

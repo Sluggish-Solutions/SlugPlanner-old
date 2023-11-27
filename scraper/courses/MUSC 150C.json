@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 150C",
+    "title": "Special Topics in Music Theory: Tonal Counterpoint",
+    "description": "Tonal counterpoint modeled on the music of J.S. Bach. Imitative and non-imitative forms including binary dance, invention, canon, and fugue. Discussion and analytical application of generalized intervallic and harmonic models. Development of related keyboard, singing, and aural skills, including dictation in two and three voices.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 130.",
+        "courses": [
+            [
+                "P MUSC 130"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

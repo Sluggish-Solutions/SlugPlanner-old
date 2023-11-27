@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 211A",
+    "title": "Proseminar: Social Justice and the Individual",
+    "description": "Provides an introduction to social psychology, focusing on various individual-level social justice topics, including the self, social comparison, individual and collective identity, social historical and social structural determinants of behavior and various policy and social change-related issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to psychology graduate students; undergraduates planning graduate work in social psychology may enroll with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 8,
+            "priority": "moderate"
+        }
+    }
+}

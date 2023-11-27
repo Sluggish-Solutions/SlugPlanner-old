@@ -1,0 +1,38 @@
+{
+    "name": "MUSC 159A",
+    "title": "Opera Workshop",
+    "description": "A workshop for singers, accompanists, and directors, the course develops a wide variety of skills related to opera through scenework. Attention will be given to movement, acting, coaching, and operatic stage-directing technique. Instruction culminates in studio productions of scenes from operas and musicals. Admission by permission of vocal instructor, or by audition with instructor prior to first class meeting. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 14,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

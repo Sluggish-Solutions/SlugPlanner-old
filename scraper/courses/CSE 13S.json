@@ -1,0 +1,47 @@
+{
+    "name": "CSE 13S",
+    "title": "Computer Systems and C Programming",
+    "description": "Focuses on C programming, command line, shell programming, editors, debuggers, source code control, and other tools. Examines basic computer systems, algorithm design, and development, data types, and program structures. Develops understanding of process model, compile-link-execute build cycle, language-machine interface, memory, and data representation. Students cannot receive credit for both CSE 13S and CSE 13E. Course is 7 credits with integrated laboratory.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12 or BME 160.",
+        "courses": [
+            [
+                "P CSE 12",
+                "BME 160"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 588,
+            "filled seats": 592,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 440,
+            "filled seats": 417,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 535,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

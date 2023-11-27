@@ -1,0 +1,49 @@
+{
+    "name": "MATH 23A",
+    "title": "Vector Calculus",
+    "description": "Vectors in n-dimensional Euclidean space. The inner and cross products. The derivative of functions from n-dimensional to m-dimensional Euclidean space is studied as a linear transformation having matrix representation. Paths in 3-dimensions, arc length, vector differential calculus, Taylor's theorem in several variables, extrema of real-valued functions, constrained extrema and Lagrange multipliers, the implicit function theorem, some applications. Students cannot receive credit for this course and MATH 22.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B or MATH 20B or AP calculus BC exam score of 4 or 5.",
+        "courses": [
+            [
+                "P MATH 19B",
+                "MATH 20B",
+                "AP  BC    4",
+                "5"
+            ]
+        ]
+    },
+    "class_notes": "This class will be offered online with asynchronous instruction. Online sections are available for all students. Attendance at any sections of your choice is encouraged, but not mandatory. Thus, enrollment in a section is not required. Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 320,
+            "filled seats": 273,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 375,
+            "filled seats": 367,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

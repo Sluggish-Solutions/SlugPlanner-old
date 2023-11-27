@@ -1,0 +1,46 @@
+{
+    "name": "CSE 100",
+    "title": "Logic Design",
+    "description": "Boolean algebra, logic minimization, finite-state machine design, sequential circuits, common logic elements, programmable logic devices, and an introduction to system level design. The electrical behavior of circuits including three state outputs, propagation delay, logic levels, and fanout.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 12.",
+        "courses": [
+            [
+                "P CSE 12"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Engineering, Electrical Engineering, and Robotics Engineering majors during First Pass and Second Pass enrollment. Restrictions lifted after Second Pass enrollment",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 70,
+            "filled seats": 103,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 74,
+            "filled seats": 104,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

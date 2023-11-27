@@ -1,0 +1,46 @@
+{
+    "name": "EART 110A",
+    "title": "Evolution of the Earth",
+    "description": "Investigation of the processes and mechanisms that have produced the present Earth system, with an emphasis on the temporal evolution of the earth from the Archean to the present. Specific topics covered include cyclicity in Earth processes and the evolution of, and interplay between the planet's crust, atmosphere, hydrosphere, and biosphere.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and EART 5L or EART 10L or EART 20L, and MATH 11A or MATH 19A or AM 15A.",
+        "courses": [
+            [
+                "P EART 5",
+                "EART 10",
+                "EART 20"
+            ],
+            [
+                "EART 5L",
+                "EART 10L",
+                "EART 20L"
+            ],
+            [
+                "MATH 11A",
+                "MATH 19A",
+                "AM 15A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 90,
+            "filled seats": 79,
+            "priority": "high"
+        }
+    }
+}

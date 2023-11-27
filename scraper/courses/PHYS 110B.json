@@ -1,0 +1,38 @@
+{
+    "name": "PHYS 110B",
+    "title": "Electricity, Magnetism, and Optics",
+    "description": "Examines electromagnetic waves, including absorption and dispersion, reflection and transmission, and wave guides; conservation laws and gauge invariance; time-dependent vector and scalar potentials and application to radiation of charges and antennae; and electrodynamics and relativity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 110A; and PHYS 116C or MATH 107.",
+        "courses": [
+            [
+                "P PHYS 110A"
+            ],
+            [
+                "PHYS 116C",
+                "MATH 107"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

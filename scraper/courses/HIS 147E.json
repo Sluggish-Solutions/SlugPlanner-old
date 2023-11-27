@@ -1,0 +1,32 @@
+{
+    "name": "HIS 147E",
+    "title": "Imperial Sport: Cricket in South Asia, 1800s to the Present",
+    "description": "Examines cricket's history as an imperial sport for princes and merchants of South Asia and its use to socialize with and eventually compete with British colonial officials. Also studies its emergence among middle and lower classes and how religion, ethnicity, and cultural identities played an important role in the composition of cricket teams, and how these identities contributed to and were shaped by political movements, including the partitioning of South Asia. Also studies how cricketers and administrators were embroiled in the underground economy of betting and match fixing.Examines cricket's history as an imperial sport for princes and merchants of South Asia and its use to socialize with and eventually compete with British colonial officials. Also studies its emergence among middle and lower classes and how religion, ethnicity, and cultural identities played an important role in the composition of cricket teams, and how these identities contributed to and were shaped by political movements, including the partitioning of South Asia. Also studies how cricketers and administrators were embroiled in the underground economy of betting and match fixing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 60,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

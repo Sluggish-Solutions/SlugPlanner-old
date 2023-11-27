@@ -1,0 +1,34 @@
+{
+    "name": "MATH 152",
+    "title": "Programming for Mathematics",
+    "description": "Introduces programming in Python with applications to advanced mathematics. Students apply data structures and algorithms to topics such as numerical approximation, number theory, linear algebra, and combinatorics. No programming experience is necessary, but a strong mathematics background is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 100.",
+        "courses": [
+            [
+                "P MATH 100"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

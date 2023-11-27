@@ -1,0 +1,32 @@
+{
+    "name": "GAME 200",
+    "title": "Game Design Systems",
+    "description": "Analyzes how games aggregate mechanics to create dynamic, interactive systems. Students analyze and design systems by general categories (e.g., movement, economy, conflict) to better understand their histories, relationships, and implementations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 33,
+            "priority": "moderate"
+        }
+    }
+}

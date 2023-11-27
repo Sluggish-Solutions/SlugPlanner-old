@@ -1,0 +1,40 @@
+{
+    "name": "PSYC 133",
+    "title": "Bilingualism from a Cognitive Perspective",
+    "description": "Provides in-depth discussion of bilingualism from a cognitive perspective. Psycholinguistic researchers who study bilingualism are interested in questions such as how to measure bilingualism, how the brain acquires more than one language, how bilinguals organize and manage two (or more) languages in one brain, and the consequences of the bilingual experience on cognition. Students are introduced to current research that investigates these topics as well as current controversies in the literature that are yet unresolved.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 100.",
+        "courses": [
+            [
+                "P PSYC 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 65,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 64,
+            "priority": "unavailible"
+        }
+    }
+}

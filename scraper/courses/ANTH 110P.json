@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 110P",
+    "title": "India and Indian Diaspora through Film",
+    "description": "Explores several themes of relevance in contemporary India and Indian diaspora, concentrating on anthropological research and various documentary and popular Bollywood films. Through films and ethnographies, students analyze the nature of anthropological contributions to the study of Indian societies. (Formerly ANTH 80P.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

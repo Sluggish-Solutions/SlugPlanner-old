@@ -1,0 +1,38 @@
+{
+    "name": "WRIT 169",
+    "title": "Theory and Practice of Tutoring Writing",
+    "description": "An introduction to theory and research on the composing process and practical strategies for teaching writing, especially in tutorial situations. Recommended for writing assistants. Prerequisite(s): C requirement and enrollment by permission of the instructor",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

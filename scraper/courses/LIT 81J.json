@@ -1,0 +1,32 @@
+{
+    "name": "LIT 81J",
+    "title": "The 1001 Nights",
+    "description": "An exploration of the great story tradition of the Arabian Nights, or, closer to its Arabic title, The 1001 Nights. Course traces the tales' origins and diffusion through world literature, focusing on its cultural contexts and powerful exploration of folk, mythical, and psychological themes of fate, gender, jealousy, and the act of telling stories.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 36,
+            "filled seats": 36,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "ASTR 111",
+    "title": "Order-of-Magnitude Astrophysics",
+    "description": "Examines the most basic and direct connection between physics and astrophysics in order to derive a better understanding of astrophysical phenomena from first principles to the extent possible.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A; PHYS 5B or PHYS 6B; and previous or concurrent enrollment in PHYS 102.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "PHYS 102"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 26,
+            "priority": "low"
+        }
+    }
+}

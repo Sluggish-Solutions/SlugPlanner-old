@@ -1,0 +1,32 @@
+{
+    "name": "HISC 133",
+    "title": "What Freedom is to Me",
+    "description": "Offers an opportunity to study with established artist and Distinguished Professor Sir Isaac Julien and gain insight into production and the critical reception of moving image, video art, and installation work by examining historical and contemporary art practice from the 1960s to the present, focusing on artists and curators working in the field of film art.  Julien?s film installations are the result of research that combines insights from many different disciplines with the recurring question of freedom present and treated throughout his work. His poetic artworks question the established preconceptions around the understanding of history and the Western aesthetics and encourage liberation in face of political injustices and artistic constraints.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "EART 190",
+    "title": "Earth Sciences Mentorship",
+    "description": "Faculty research activity, analytic facilities, and career counseling in three separate Earth sciences laboratories are offered with varied formats including field trips, discussions, and equipment demonstrations. Three different faculty participate in each offering. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "Earth sciences, Earth sciences/anthropology, and environmental studies/Earth sciences majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to Earth sciences, Earth sciences/anthropology, and environmental studies/Earth sciences majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 13,
+            "priority": "very low"
+        }
+    }
+}

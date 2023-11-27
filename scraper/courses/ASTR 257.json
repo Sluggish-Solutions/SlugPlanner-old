@@ -1,0 +1,35 @@
+{
+    "name": "ASTR 257",
+    "title": "Observational Astronomy",
+    "description": "Introduction to observational astronomy, with a multi-day field trip to Lick Observatory. Students learn the fundamentals of: (1) planning and executing observational projects; (2) manipulating and interpreting raw astronomical data with standard tools and algorithms; (3) presenting their observations in a standard written format that is appropriate for publication; and (4) observatory operations and career-paths. Enrollment is restricted to astronomy graduate students. Non-astronomy graduate students may petition the instructor for enrollment approval.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Designed for graduate students; available to qualified undergraduate astrophysics majors by instructor permission.",
+        "courses": [
+            [
+                "D"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

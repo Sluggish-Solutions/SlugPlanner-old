@@ -1,0 +1,44 @@
+{
+    "name": "CSE 3",
+    "title": "Computing Technology in a Changing Society",
+    "description": "Introduction to computer hardware, software, and networking, with an emphasis on how these technologies impact society. Students learn key technical concepts and terminology and learn to modify and create programming code through making webpages and simple games. Students also gain hands-on experience using emerging technological tools such as 3D printing, laser-cutting, or 3D modeling software in virtual reality headsets. Course covers the history of computing, the early days of the internet, hardware fundamentals, accessibility tools, professional programming practices, open-source software, intellectual property concerns, networking, digital privacy, and cybersecurity. Designed for students with only basic, user-level computer experience. (Formerly offered as Personal Computer Concepts: Software and Hardware.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 300,
+            "filled seats": 234,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 400,
+            "filled seats": 369,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

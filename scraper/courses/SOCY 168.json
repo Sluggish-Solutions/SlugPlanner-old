@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 168",
+    "title": "Social Justice",
+    "description": "Explores sociological approaches to the quest for--and the realization of--social justice. Examines a range of approaches to such ongoing challenges as racism, sexism, gendered discrimination, classism, poverty, violence, militarism, environmental devastation, ableism, and ageism using non-fiction literature and biographical anthologies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15. Enrollment is restricted to sophomores, juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "ASTR 21",
+    "title": "The Diverse Universe: Stars, Planets, and Galaxies",
+    "description": "Introductory course for students pursuing the astrophysics major (or who have a similar physics/math background). Course introduces students to current topics and research in a astronomy and astrophysics, and gives students the background necessary for success in the 100-level Astrophysics laboratory classes (PHYS 135 or ASTR 136). Class focuses on three central types of objects in modern astronomy: stars, planets, and galaxies, building off of our nearest examples, the Sun, solar system planets, and the Milky Way. The class differs from GE classes like ASTR 2 in that a higher level of math and physics experience is assumed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 5A.",
+        "courses": [
+            [
+                "P PHYS 5A"
+            ]
+        ]
+    },
+    "class_notes": "The secondary Discussion Section is optional.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "KRSG 3",
+    "title": "Campus Natural History Practicum",
+    "description": "Develop practical skills and knowledge in naturalist observation. Acquire an overview of the field of natural history, particularly applied to the UCSC campus. Document an evolving and multidimensional personal experience of natural spaces, including, but not limited to, wilderness. (Formerly KRSG 18.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

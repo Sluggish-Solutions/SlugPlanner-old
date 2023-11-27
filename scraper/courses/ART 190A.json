@@ -1,0 +1,32 @@
+{
+    "name": "ART 190A",
+    "title": "Writing for Artists",
+    "description": "Provides practice in using writing as a tool to support creative work--to generate ideas, to critically analyze and interpret artworks, and to communicate clearly with others about one's own work. Lectures, discussions, and visiting artist talks introduce and explore contemporary art contexts, ideas, discourses, artworks, artists, and practices to build students' capacities to place their work in the world. Readings introduce and unfold ideas for discussion, and provide examples of writing formats and purposes as they relate to art practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 125,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

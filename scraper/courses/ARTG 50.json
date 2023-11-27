@@ -1,0 +1,36 @@
+{
+    "name": "ARTG 50",
+    "title": "Play as a Radical Endeavor",
+    "description": "Foundational course in game design. Re-introduces students to play as an expressive form that extends across many mediums of cultural expression and communication. Students study, experience, and design playful performance and interactive experiments, culminating in a final Playfaire, where, as a collective, they practice community organizing and reciprocity with the needs of individuals to create space for cross-disciplinary play. Course continues the long tradition of play using figures such as the jester and the clown to call into question social norms and power structures. Students also engage in critiques which may involve difficult conversations, but result in more powerful artworks. (Formerly offered as ARTG 80I, Foundations of Play.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed or declared majors in art and design: games and playable media",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to proposed or declared majors in art and design: games and playable media",
+        "courses": [
+            [
+                "E"
+            ],
+            [],
+            []
+        ]
+    },
+    "class_notes": "Enroll in studio and associated secondary studio",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 73,
+            "priority": "unavailible"
+        }
+    }
+}

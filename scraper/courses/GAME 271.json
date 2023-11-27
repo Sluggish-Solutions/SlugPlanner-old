@@ -1,0 +1,32 @@
+{
+    "name": "GAME 271",
+    "title": "Games and Playable Media Studio II",
+    "description": "The second course in a three-course sequence in which students work in teams to develop an innovative computer game. Coursework involves multiple aspects of game production, including agile methodology; game and level design; development of code to implement game behavior; art direction; and audio design. Students receive frequent critiques on emerging game projects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): GAME 270. Enrollment is restricted to games and playable media graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 32,
+            "filled seats": 32,
+            "priority": "high"
+        }
+    }
+}

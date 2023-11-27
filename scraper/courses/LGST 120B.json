@@ -1,0 +1,40 @@
+{
+    "name": "LGST 120B",
+    "title": "Society and Democracy in American Political Development",
+    "description": "Examines the role of social forces in the development of the American democratic processes and in the changing relationship between citizen and state. Course materials address the ideas, the social tensions, and the economic pressures bearing on social movements, interest groups, and political parties.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion sectionAlso offered as POLI-120B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 98,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 98,
+            "priority": "high"
+        }
+    }
+}

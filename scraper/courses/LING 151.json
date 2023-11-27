@@ -1,0 +1,34 @@
+{
+    "name": "LING 151",
+    "title": "Phonetics II",
+    "description": "Hands-on introduction to instrumental phonetic analysis, phonetic analysis using experimental methods. Emphasis is on the acoustics and perception of speech. (Formerly Phonetic Analysis.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 100.",
+        "courses": [
+            [
+                "P LING 100"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 35,
+            "priority": "unavailible"
+        }
+    }
+}

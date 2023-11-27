@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 124",
+    "title": "Intermediate Electronic Sound Synthesis",
+    "description": "Composition with the use of small computers in the electronic music studio. Techniques covered include hybrid synthesis, digital synthesis, and MIDI-controlled systems. No programming is involved, but basic computer literacy is helpful.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 123.",
+        "courses": [
+            [
+                "P MUSC 123"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

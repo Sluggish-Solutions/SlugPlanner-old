@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 24",
+    "title": "Southeast Asia Visual Culture",
+    "description": "Introduces the visual cultures of Southeast  Asia. Topics include indigenous megalithic art, textiles, and jewelry, as well as Hindu and Buddhist art and architecture. Also considers shadow play and dance performance as alternative lenses to looking at ritual and visual narratives rendered on stone temples.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 123,
+            "priority": "unavailible"
+        }
+    }
+}

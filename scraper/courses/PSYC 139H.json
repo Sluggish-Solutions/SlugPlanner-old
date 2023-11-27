@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 139H",
+    "title": "Weird Science",
+    "description": "Explores the relationship between science and pseudoscience from a cognitive psychological perspective, including discussion of collection and selection of data, statistical assessment of data, cognitive illusions, memory distortions, reasoning, and decision-making. Also highlights the dissemination of scientific knowledge. Satisfies seminar requirement. Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements and PSYC 100. Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 19,
+            "priority": "unavailible"
+        }
+    }
+}

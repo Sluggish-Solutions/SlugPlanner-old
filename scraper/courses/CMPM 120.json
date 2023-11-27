@@ -1,0 +1,53 @@
+{
+    "name": "CMPM 120",
+    "title": "Game Development Experience",
+    "description": "Teaches the concrete programming and collaboration skills associated with making a digital game from start to finish, including but not limited to: establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 80K; and FILM 80V; and CSE 30 or CMPM 35.",
+        "courses": [
+            [
+                "P CMPM 80K"
+            ],
+            [
+                "FILM 80V"
+            ],
+            [
+                "CSE 30",
+                "CMPM 35"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 56,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 246,
+            "filled seats": 226,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

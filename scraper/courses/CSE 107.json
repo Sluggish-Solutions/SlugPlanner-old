@@ -1,0 +1,51 @@
+{
+    "name": "CSE 107",
+    "title": "Probability and Statistics for Engineers",
+    "description": "Introduction to fundamental tools of stochastic analysis. Probability, conditional probability; Bayes Theorem; random variables and transforms; independence; Bernnoulli trials. Statistics, inference from limited data; outcomes of repeated experiments; applications to design; assessment of relative frequency and probability; law of large numbers; precision of measurements. Elements of stochastic processes, Poisson processes; Markov chains. Students cannot receive credit for this course and STAT 131. (Formerly CMPE 107.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 16; and AM 30 or MATH 22 or MATH 23A.",
+        "courses": [
+            [
+                "P CSE 16"
+            ],
+            [
+                "AM 30",
+                "MATH 22",
+                "MATH 23A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 239,
+            "filled seats": 218,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 102,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

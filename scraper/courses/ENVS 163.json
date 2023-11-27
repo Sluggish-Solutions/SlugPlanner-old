@@ -1,0 +1,38 @@
+{
+    "name": "ENVS 163",
+    "title": "Plant Disease Ecology",
+    "description": "Plant diseases do more than just harm plants we grow for food; they drive the evolution, population dynamics, ecosystem functioning, and diversity of plants in wild communities. This class looks at the biology of plant-microbe symbioses and the impacts of plant pathogens through the integrating lens of evolutionary ecology. Students explore the ecological basis for disease spread and management in agricultural, forest, and wild systems, and consider special challenges from emerging pathogens and climate change. Students focus on the diversity of voices and approaches to understanding plant diseases. Students cannot receive credit for this course and ENVS 263.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+        "courses": [
+            [
+                "P P",
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

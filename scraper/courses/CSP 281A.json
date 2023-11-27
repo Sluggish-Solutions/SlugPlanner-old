@@ -1,0 +1,32 @@
+{
+    "name": "CSP 281A",
+    "title": "Hacking for Oceans?Lean Design Methods",
+    "description": "One-quarter graduate-level class in which multidisciplinary student teams of four address problem or challenges provided by real-world sponsors or identified by student groups. Teams learn how to apply the Lean Launchpad and Lean Startup methodologies to discover and validate customer needs and to continually build prototypes to test whether they understood the problem and solution. Weekly assignments involve working outside of class on steps or skills in the design process and then sharing it for peer-review in class. Involves reading and a substantial assignment each week before the next week's session on that topic. Course is held concurrently with an undergraduate course. Graduate students are required to submit an additional culminating report such as a funding proposal to support next steps in their team's solution, a critical analysis of the Lean Design Method, or a policy analysis regarding scalable adoption of the solution. Enrollment is by instructor consent. Application and interview in winter quarter for spring quarter course is required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

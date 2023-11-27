@@ -1,0 +1,32 @@
+{
+    "name": "THEA 12",
+    "title": "Stage Management",
+    "description": "Designed to acquaint students with the complexities of staging productions from the audition process to final performance. Directing, lighting, scenic production, sound, cueing, and personnel management are aspects that will be touched upon in class.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

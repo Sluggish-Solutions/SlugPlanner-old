@@ -1,0 +1,32 @@
+{
+    "name": "EART 273",
+    "title": "Earthquake Physics",
+    "description": "Why do earthquakes happen? Topics include friction, fracture, earthquake triggering, stress in the crust, observed source scalings, and seismicity statistics. Emphasis on observations and current research topics. (Formerly course 290J, Topics in Earthquake Physics.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students and advanced undergraduates.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

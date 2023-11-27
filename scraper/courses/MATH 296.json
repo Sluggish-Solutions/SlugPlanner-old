@@ -1,0 +1,38 @@
+{
+    "name": "MATH 296",
+    "title": "Special Student Seminar",
+    "description": "Students and staff studying in an area where there is no specific course offering at that time.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

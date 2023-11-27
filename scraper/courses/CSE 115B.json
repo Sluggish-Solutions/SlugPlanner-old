@@ -1,0 +1,34 @@
+{
+    "name": "CSE 115B",
+    "title": "Software Design Project",
+    "description": "Students in teams specify, design, construct, test, and document a complete software system in a specialized application domain. Class time is spent in technical discussions and ongoing design reviews. A formal presentation and demonstration of each project is required. An organizational meeting will be held during the preceding quarter. Projects may be drawn from industry and campus research groups. (Formerly Computer Science 116.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 115A.",
+        "courses": [
+            [
+                "P CSE 115A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

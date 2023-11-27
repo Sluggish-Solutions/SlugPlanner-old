@@ -1,0 +1,63 @@
+{
+    "name": "ECON 113",
+    "title": "Introduction to Econometrics",
+    "description": "Practical methods for organizing and analyzing economic data, testing economic hypotheses, and measuring economic relationships. Regression analysis is the main empirical method, and basic statistical and probability theory is included. Students gain hands-on computer experience with an econometric software package.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 1 and ECON 2; STAT 17 and STAT 17L; and one of the following: AM 11B or ECON 11B, or MATH 22, or MATH 23A, or AM 30. ECON 100A or ECON 100B strongly recommended as preparation.",
+        "courses": [
+            [
+                "P ECON 1"
+            ],
+            [
+                "ECON 2"
+            ],
+            [
+                "STAT 17"
+            ],
+            [
+                "STAT 17L"
+            ],
+            [
+                "AM 11B",
+                "ECON 11B",
+                "MATH 22",
+                "MATH 23A",
+                "AM 30 ECON 100A",
+                "ECON 100B"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. The economics family of majors & TIM majors who completed and passed the former statistics prereq, STAT 7/7L, and all other course prerequisites should contactecon_ugrad_coor@ucsc.eduto request permission code with the subject \"Fall ECON 113-01 Code\".",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 155,
+            "filled seats": 122,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 190,
+            "filled seats": 178,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 180,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "COWL 168",
+    "title": "Social Change",
+    "description": "How do you change the world, working alone and in concert with others? To find out students spend the quarter learning about how one non-profit organization of their choosing creates change in their community. Students research an agency, focusing on who is served, how funding works and how real change is created. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 45,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 48,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 200,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

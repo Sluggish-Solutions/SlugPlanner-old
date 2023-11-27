@@ -1,0 +1,44 @@
+{
+    "name": "PHYS 292",
+    "title": "Seminar",
+    "description": "Weekly seminar attended by faculty and graduate students. Directed at all physics graduate students who have not taken and passed the qualifying examination for the Ph.D. program.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 65,
+            "filled seats": 19,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 65,
+            "filled seats": 0,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 80,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

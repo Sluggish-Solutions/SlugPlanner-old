@@ -1,0 +1,32 @@
+{
+    "name": "CSP 281B",
+    "title": "Fisheries Ecology",
+    "description": "Provides overview of current topics in fisheries ecology and fisheries management. Students learn about basic ecological concepts as they apply to fisheries management systems. Specific topics include: fisheries systems, alternative management controls, history of fisheries management, whether fisheries are sustainable, fisheries-induced evolution, fisheries bioeconomics, population structure and portfolio effects, and ecosystem-based fisheries management. The course aims to provide students with an overview of topics in fisheries ecology through a combination of lectures,  current literature, and case studies. Students explore controversies and hot topics in fisheries science through discussion and review of relevant literature. Enrollment is by permission of the instructor. Enrollment is intended for juniors, seniors, and graduate students in the programs of Coastal Science and Policy, Environmental Studies, Ecology and Evolutionary Biology, Ocean Sciences, and Science Communication. There are no formal prerequisites, but undergraduate students are strongly encouraged to contact the instructor regarding prior coursework.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

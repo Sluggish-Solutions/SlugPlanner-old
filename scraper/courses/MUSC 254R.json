@@ -1,0 +1,32 @@
+{
+    "name": "MUSC 254R",
+    "title": "Research Design and Grant Writing for Music Scholars",
+    "description": "Dissertation research grant applications and their attenuating dissertation proposals represent the first time most graduate students think through the theoretical issues and strategic planning of a major project and convince others within and outside their field of its academic validity. This seminar (primarily for Ph.D. and D.M.A. students in their 2nd, 3rd, or 4th year who are applying for grants to support doctoral research) provides guidance on topics about dissertation research, professional development, and grant applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 8,
+            "filled seats": 5,
+            "priority": "low"
+        }
+    }
+}

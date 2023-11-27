@@ -1,0 +1,44 @@
+{
+    "name": "ENVS 290",
+    "title": "Interdisciplinary Research Seminar",
+    "description": "Research seminars presented weekly throughout the year by environmental studies and affiliated faculty, by visiting scholars, and by graduate students. Students discuss the content and methodology of research presented following each seminar. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with ENVS 189",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 20,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 17,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

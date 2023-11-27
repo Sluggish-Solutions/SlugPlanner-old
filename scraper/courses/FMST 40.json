@@ -1,0 +1,32 @@
+{
+    "name": "FMST 40",
+    "title": "Sexuality and Globalization",
+    "description": "Examines the relationship between sexuality and the contemporary term \"globalization\" as a dense entanglement of processes that emerges from a history of U.S. empire. Sexuality cannot be separated from power struggles over the classification of bodies, territories, and questions of temporality. Examines how sexualized contact zones produce new knowledge, commerce, inequalities, possibilities, and identities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

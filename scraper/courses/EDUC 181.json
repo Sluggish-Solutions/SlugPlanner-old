@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 181",
+    "title": "Race, Class, and Culture in Education",
+    "description": "Examines the schooling experience and educational attainment of racial/ethnic minority students in the U.S. Focuses primarily on domestic minorities. Addresses issues of variability between and within minority groups and the role of cultural, structural, and psychological factors in the educational attainment of these students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 45,
+            "filled seats": 45,
+            "priority": "high"
+        }
+    }
+}

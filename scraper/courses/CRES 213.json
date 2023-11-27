@@ -1,0 +1,32 @@
+{
+    "name": "CRES 213",
+    "title": "Colonialism, Racial Capitalism and Surveillance",
+    "description": "Course asks students to consider surveillance technologies beyond the history of modernity and the rise of bureaucratic governance as well as the framework of liberal understandings of the right to privacy. Instead, students examine the ways colonialism and racial capitalism are structured within surveillance technologies, or violent modes of ''seeing'' that contribute to the brutal genocide, dehumanization, containment, extraction, and enslavement of bodies and land.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 16,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

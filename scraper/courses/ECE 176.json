@@ -1,0 +1,37 @@
+{
+    "name": "ECE 176",
+    "title": "Energy Conservation and Control",
+    "description": "AC/DC electric-machine drives for speed/position control. Integrated discussion of electric machines, power electronics, and control systems. Computer simulations. Applications in electric transportation, hybrid-car technology, robotics, process control, and energy conservation. (Formerly EE 176.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in ECE 176L is required.",
+        "courses": [
+            [
+                "P ECE 103"
+            ],
+            [
+                "ECE 171 C   ECE 176L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 176L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "CMMU 133",
+    "title": "Making California: Landscapes, People, Politics, Economy",
+    "description": "Examines key moments in the development of California to provide understanding of the challenges and opportunities facing California today. Particular focus is given to abiding tensions around wealth and poverty, opportunity and exclusion, and progressive and conservative politics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 44,
+            "filled seats": 42,
+            "priority": "high"
+        }
+    }
+}

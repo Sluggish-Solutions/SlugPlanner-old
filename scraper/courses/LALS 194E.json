@@ -1,0 +1,32 @@
+{
+    "name": "LALS 194E",
+    "title": "Unfree Migrations",
+    "description": "Examines forced migrations to and within the Americas prior to the 20th century, with a focus on African and indigenous slave trades, indentured servitude, convict labor, and contract labor. Students address the implications and memories of those migrations today.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior Latin American and Latino studies majors and combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "LALS 100, and LALS 100A, and previous or concurrent enrollment in LALS 100B. Enrollment is restricted to junior and senior Latin American and Latino studies majors and combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in associated lab: LALS 194L",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

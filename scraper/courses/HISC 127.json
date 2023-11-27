@@ -1,0 +1,32 @@
+{
+    "name": "HISC 127",
+    "title": "What is Modernity?",
+    "description": "Is modernity a Western concept? Are there plural modernities? How many modernities? Is the concept of modernity a polemical concept? Modernity was born as a new epoch in opposition to the dark age, as a new beginning in opposition to old traditions, as a tabula rasa in opposition to previous forms of knowledge. This course investigates the concept of modernity, its philosophical and political categories, and the underlying notion of time and history. The course proposes to inquire into the concept of modernity and its critics in texts by Descartes, Thomas Hobbes, Immanuel Kant, G.W.F. Hegel, Walter Benjamin, Simone Weil, Dipesh Chakrabarty, Sylvia Wynter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

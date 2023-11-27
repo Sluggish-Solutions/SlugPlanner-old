@@ -1,0 +1,37 @@
+{
+    "name": "TIM 172A",
+    "title": "Introduction to Management of Technology I",
+    "description": "Addresses strategic, engineering, marketing, and financial processes and tools for the management, development, and commercialization of high-tech products. Declared TIM majors must concurrently enroll in TIM 172P to fulfill the capstone series. (Formerly CSE 171A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19B or MATH 11B or AM 11B or ECON 11B.",
+        "courses": [
+            [
+                "P MATH 19B",
+                "MATH 11B",
+                "AM 11B",
+                "ECON 11B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 135,
+            "filled seats": 133,
+            "priority": "high"
+        }
+    }
+}

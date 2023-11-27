@@ -1,0 +1,48 @@
+{
+    "name": "ECE 9",
+    "title": "Statics and Mechanics of Materials",
+    "description": "Theory and application of statics and mechanics of materials for mechanical and biomechanical systems. Covers statics of particles; equilibrium of rigid bodies; free-body diagrams; analysis of structure; friction; concepts of stress and strain; axial loading; torsion and bending; and failure criteria. (Formerly Introduction to Statics, Dynamics, and Biomechanics.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 19A; and PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and AM 10 or MATH 21.",
+        "courses": [
+            [
+                "P MATH 19A"
+            ],
+            [
+                "PHYS 5A"
+            ],
+            [
+                "PHYS 5L",
+                "PHYS 6A"
+            ],
+            [
+                "PHYS 6L"
+            ],
+            [
+                "AM 10",
+                "MATH 21"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "FILM 231",
+    "title": "Topics in Postcolonial Theories, Film, and Media",
+    "description": "Explores topics in postcolonial theories and film and media around themes such as colonialism, modernity, and institutions of cinema; colonial histories and national or transnational film and media; race, gender, sexuality and colonialism; the uneven implications, pitfalls, and possibilities of the term \"postcolonial\" in relation to film and media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

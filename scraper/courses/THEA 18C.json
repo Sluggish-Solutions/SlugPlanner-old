@@ -1,0 +1,32 @@
+{
+    "name": "THEA 18C",
+    "title": "Drafting-Computer Aided",
+    "description": "In-depth exploration of designing for theater using computer-aided drafting in the Vectorworks Design Suite and Renderworks. Topics include: the user interface, ground plan, section and detail views, paper space vs. working space, tool palettes, USITT drafting standards, layers, line weights, objects, classes, library annotations, importing rasters, and 3D modeling. Students required to do weekly projects such as ground plans, lighting plots, perspectives, and detail drawings, as well as turn in a major final project, and complete a mid-term, final, and quizzes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 24,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

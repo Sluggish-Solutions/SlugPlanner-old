@@ -1,0 +1,44 @@
+{
+    "name": "EART 101",
+    "title": "Invertebrate Paleobiology",
+    "description": "An introduction to paleobiology; the use of fossil evidence to pose and solve evolutionary and geologic questions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C or ANTH 1. Concurrent enrollment in EART 101L is required.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 5",
+                "EART 10",
+                "EART 20",
+                "BIOE 20C",
+                "ANTH 1 C   EART 101L"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 25,
+            "priority": "moderate"
+        }
+    }
+}

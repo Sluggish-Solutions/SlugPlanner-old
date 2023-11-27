@@ -1,0 +1,38 @@
+{
+    "name": "PRTR 2",
+    "title": "Reading Films for Truth",
+    "description": "Building on the foundational skills, habits of mind, and interpretive proficiencies developed in Academic Literacy and Ethos: Arts of Reading (PRTR 1), students will explore the ways in which feature-length narrative and documentary films have approached the representation of truth.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

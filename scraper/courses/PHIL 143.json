@@ -1,0 +1,32 @@
+{
+    "name": "PHIL 143",
+    "title": "Applied Ethics: Ethics Bowl",
+    "description": "Intensive application of ethics through Ethics Bowl-style debate. Cases change annually. Students develop oral advocacy skills and are given the opportunity to compete for a position on the extracurricular Ethics Bowl team. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 22,
+            "filled seats": 20,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "LING 137",
+    "title": "Queer Linguistics",
+    "description": "The study of queer linguistics is deeply multi-disciplinary, informed by linguistics, sociolinguistics, anthropology, women?s studies, post-colonialism, and queer theory. It has been insightful regarding the contribution of language to the construction of all identities: for our understanding of what identity categories are; their intersectional natures; and our agency, as speakers, when using language in non-standard ways. This course touches upon these issues; class format includes lectures, video-viewing, small group discussions, and class discussion. Focuses on language use across genders and sexualities, and on connections between groups of speakers and the theoretical developments which work on these communities set in motion.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 50 or LING 80C or LING 101 or LING 112.",
+        "courses": [
+            [
+                "P LING 50",
+                "LING 80C",
+                "LING 101",
+                "LING 112"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 58,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

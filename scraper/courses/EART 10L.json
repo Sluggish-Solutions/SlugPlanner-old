@@ -1,0 +1,38 @@
+{
+    "name": "EART 10L",
+    "title": "Geologic Principles Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 10, with particular emphasis on rock and mineral identification and map interpretation. Laboratory 3 hours. In-lab field trips.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "1",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 85,
+            "filled seats": 67,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 90,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

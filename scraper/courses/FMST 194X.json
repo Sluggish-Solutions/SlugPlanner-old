@@ -1,0 +1,32 @@
+{
+    "name": "FMST 194X",
+    "title": "Genders, Archives, Histories",
+    "description": "Explores the entanglements of histories, genders and archives across a number of intellectual and imperial contexts. Our inquiry approaches the concept of the archive to reflect on who counts as a historical and/or gendered subject and what are the ethics of representation that guide such archival formations. In approaching these questions, students draw on literature from the disciplines of philosophy, gender/sexuality studies, anthropology, history, and literary criticism. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior feminist studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FMST 1 and FMST 100, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 5,
+            "priority": "unavailible"
+        }
+    }
+}

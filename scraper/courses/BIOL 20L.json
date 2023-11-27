@@ -1,0 +1,50 @@
+{
+    "name": "BIOL 20L",
+    "title": "Experimental Biology Laboratory",
+    "description": "Provides biology majors with the theory and practice of experimental biology. A wide range of concepts and techniques used in the modern laboratory are included in the exercises. Designed to satisfy the introductory biology lab requirement of many medical and professional schools.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "proposed majors in biochemistry and molecular biology, biology B.S., human biology, MCD biology, neuroscience, global and community health B.S., and microbiology.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and previous or concurrent enrollment in BIOE 20B.Enrollment is restricted to proposed majors in biochemistry and molecular biology, biology B.S., human biology, MCD biology, neuroscience, global and community health B.S., and microbiology.",
+        "courses": [
+            [
+                "S   MCD"
+            ],
+            [
+                "BS"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab. Enrollment is restricted to proposed majors in biochemistry and molecular biology, biology (B.S.), global and community health (B.S), human biology, molecular cell & developmental biology, and neuroscience and microbiology , or human biology declared majors during First Pass enrollment. Enrollment is restricted to biochemistry and molecular biology, biology (B.S.), global and community health (B.S.), human biology, molecular cell & developmental biology, and neuroscience and microbiology proposed majors; and biology minors during Second Pass enrollment. Major restrictions lifted after Second Pass enrollment appointments.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 180,
+            "filled seats": 175,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 115,
+            "filled seats": 115,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 224,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

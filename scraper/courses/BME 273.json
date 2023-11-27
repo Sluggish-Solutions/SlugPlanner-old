@@ -1,0 +1,32 @@
+{
+    "name": "BME 273",
+    "title": "Stem Cell Epi/Genomics",
+    "description": "Course focuses on the application of epi/genomic technologies of stem cells. Topics include 'omics to interrogate pluripotency, cell lineages, hierarchies, trajectories, epigenomic reprogramming. Class includes hands-on computational analysis of epi/genomics data. For graduate/postdoctoral trainees engaged in stem cell research. Enrollment is restricted to graduate students and by permission of the instructor. Basic programming knowledge is recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

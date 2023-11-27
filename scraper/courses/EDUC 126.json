@@ -1,0 +1,37 @@
+{
+    "name": "EDUC 126",
+    "title": "Foundations of Literacy Learning: Contemporary Perspectives",
+    "description": "Offers an overview of historical and contemporary perspectives regarding literacy learning in America. Using a socio-cultural lens and research findings to analyze instructional practices, it provides foundational knowledge for potential teachers and policy makers regarding literary education.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EDUC 60 and EDUC 180.",
+        "courses": [
+            [
+                "P EDUC 60"
+            ],
+            [
+                "EDUC 180"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

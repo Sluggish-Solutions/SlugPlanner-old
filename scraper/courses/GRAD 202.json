@@ -1,0 +1,32 @@
+{
+    "name": "GRAD 202",
+    "title": "Reading and Research Skills for Graduate Students",
+    "description": "Introduces reading strategies and techniques, including skimming and scanning, note-taking, and text analysis to improve critical reading skills. Also introduces students to UCSC library resources as well as the basic research skills of gathering and analyzing evidence.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Concurrent enrollment in GRAD 200 and GRAD 201 is required. Enrollment is restricted to international graduate students in the Graduate Preparation Program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 43,
+            "priority": "unavailible"
+        }
+    }
+}

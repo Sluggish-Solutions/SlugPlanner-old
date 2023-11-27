@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 196O",
+    "title": "Gender and Politics",
+    "description": "Analyzes how gender defines those who participate in the public sphere and circumscribes their actions, with particular attention to individuals who identify as female and are engaged in political activities.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior anthropology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "THEA 50",
+    "title": "Fundamentals of Theater Production",
+    "description": "Work is on various aspects of theatrical production, including scenery, lighting, costumes, sound, stage management, and video documentation. Satisfies the department's technical experience requirement. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Mandatory first class meeting on Wednesday, October 4th 9:00 - 10:00 AM in the Theater Arts Mainstage. The enrollment process is described in the department undergraduate handbook here: https://tinyurl.com/THEA50. Contacttheater-ugradadv@ucsc.eduwith questions.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 38,
+            "filled seats": 43,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 36,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

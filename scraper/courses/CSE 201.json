@@ -1,0 +1,32 @@
+{
+    "name": "CSE 201",
+    "title": "Analysis of Algorithms",
+    "description": "Rigorous analysis of the time and space requirements of important algorithms, including worst case, average case, and amortized analysis. Techniques include order-notation, recurrence relations, information-theoretic lower bounds, adversary arguments. Analysis of the key data structures: trees, hash tables, balanced tree schemes, priority queues, Fibonacci and binomial heaps. Algorithmic paradigms such as divide and conquer, dynamic programming, union-find with path compression, augmenting paths. Selected advanced algorithms. Introduction to NP-completeness. (Formerly Computer Science 201.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduate students may enroll in this course if they have completed CSE 102 or CSE 106 and have the consent of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 77,
+            "filled seats": 72,
+            "priority": "high"
+        }
+    }
+}

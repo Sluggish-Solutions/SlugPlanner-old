@@ -1,0 +1,32 @@
+{
+    "name": "PSYC 204",
+    "title": "Quantitative Data Analysis",
+    "description": "Intermediate statistical methods widely used in psychology (e.g., ANOVA, ANCOVA, multiplecomparisons, repeated-measures) and corresponding SPSS or R programs.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

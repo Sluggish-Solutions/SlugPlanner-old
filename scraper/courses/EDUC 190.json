@@ -1,0 +1,44 @@
+{
+    "name": "EDUC 190",
+    "title": "Senior Seminar Capstone",
+    "description": "Senior seminars focus on advanced topics in education. The pedagogical goals vary by instructor but often emphasize at least one of the following: critical and analytical thinking, field research, advanced research methods (qualitative or quantitative), or advanced theory. Satisfies senior capstone requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "education, democracy and justice majors, or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): Entry Level Writing and Composition requirements. EDUC 10 and EDUC 60;  EDUC 110 or EDUC 180.  Enrollment is restricted to education, democracy and justice majors, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 27,
+            "priority": "moderate"
+        },
+        "spring": {
+            "total_seats": 34,
+            "filled seats": 34,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

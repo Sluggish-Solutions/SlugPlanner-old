@@ -1,0 +1,44 @@
+{
+    "name": "LGST 10",
+    "title": "Introduction to Legal Process",
+    "description": "Introduction to U.S. and comparative legal institutions and practices. Examines diverse areas of law from torts to civil rights to international human rights. Why is America portrayed as having an activist legal culture; why is law used to decide so many questions from presidential elections to auto accidents; can law resolve disputes that, historically, have led to war and violence; is the legal system fair and/or effective, and, if so, for whom and under what conditions?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 100,
+            "filled seats": 101,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 149,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 95,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

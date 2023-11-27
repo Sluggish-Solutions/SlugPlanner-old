@@ -1,0 +1,32 @@
+{
+    "name": "ART 188",
+    "title": "Intermediate to Advanced Sculpture (Foundry)",
+    "description": "This intermediate/advanced course provides the information and facilities necessary to express ideas through the indirect process of metal casting. The lost wax method is used to manifest ideas in sculpture. Lectures and demonstrations are combined with work time in class. Students generate sculpture forms in wax then gate, invest, weld, chase, patina, and present at least one finished piece. Students are billed a materials fee of$175. May be repeated for credit.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course from ART 20H, ART 120,ART 121, ART 122, ART 124, ART 125, ART 129, ART 172, ART 180B, ART 183, ART 189; and two non-sculpture/intermedia/public art lower-division studios from ART 15, ART 20G, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 17,
+            "filled seats": 17,
+            "priority": "high"
+        }
+    }
+}

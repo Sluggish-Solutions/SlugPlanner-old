@@ -1,0 +1,44 @@
+{
+    "name": "ASTR 171",
+    "title": "General Relativity, Black Holes, and Cosmology",
+    "description": "Special relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.",
+        "courses": [
+            [
+                "P PHYS 105 PHYS 110A"
+            ],
+            [
+                "PHYS 110B"
+            ],
+            [
+                "PHYS 116A",
+                "MATH 21"
+            ],
+            [
+                "MATH 24"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 30,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 110Q",
+    "title": "Queer Sexuality in Black Popular Culture",
+    "description": "From Janet Mock to Young M.A., queerness has become hypervisible in Black popular culture--but at what cost? Using music, television, and social media as central texts, students investigate the intersections of sexuality, gender, and race in public life.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 70,
+            "filled seats": 71,
+            "priority": "high"
+        }
+    }
+}

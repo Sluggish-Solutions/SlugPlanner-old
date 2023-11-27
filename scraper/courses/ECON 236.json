@@ -1,0 +1,38 @@
+{
+    "name": "ECON 236",
+    "title": "Financial Engineering",
+    "description": "This course surveys the financial risks faced by corporation, banks, and other financial institutions that arise from changes in interest rates, foreign exchange rates, commodity prices, and stock prices. It examines the characteristics, payoffs, and pricing of financial derivatives and other instruments for managing risk, including options, forwards, futures, swaps, structured notes, and asset-backed securities. Several cases will be used to illustrate how actual firms solve financial risk management problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 233. Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 9,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

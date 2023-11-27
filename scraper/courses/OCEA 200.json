@@ -1,0 +1,32 @@
+{
+    "name": "OCEA 200",
+    "title": "Physical Oceanography",
+    "description": "Introduces the physics of the ocean. Topics include physical properties of seawater, atmospheric forcing, Ekman dynamics, Sverdrup dynamics, the wind-driven ocean circulation, ocean mixing, water masses, the meridional overturning circulation, surface gravity waves, Rossby waves, Kelvin waves, and ocean tides. Designed for beginning graduate students in ocean sciences and upper-division science majors. Calculus and physics recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 10,
+            "priority": "low"
+        }
+    }
+}

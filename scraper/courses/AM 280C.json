@@ -1,0 +1,44 @@
+{
+    "name": "AM 280C",
+    "title": "Seminar in Geophysical and Astrophysical Fluid Dynamics",
+    "description": "Weekly seminar/discussion group on geophysical and astrophysical fluid dynamics covering both analytical and computational approaches. Participants present research progress and findings in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280C.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 9,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 3,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

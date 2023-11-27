@@ -1,0 +1,32 @@
+{
+    "name": "LIT 160K",
+    "title": "Race, Labor, and Migration",
+    "description": "Examines racialized labor from the mid-19th century to the present, including the racial protest novel as a cultural form. Investigates race, gender, and citizenship as technologies used to regulate labor and to circumscribe labor's power. Critical approach designations: Histories, Power and Subjectivities. Distribution requirement: Global.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 64,
+            "filled seats": 61,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "LING 232",
+    "title": "Semantics B",
+    "description": "Model-theoretic semantics for natural language. Truth-conditional, compositional semantics. Various logical ontologies and their application to natural language categories. Dynamic interpretation of discourse and anaphoric relations. Treatment of illocutionary force.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): LING 231. Enrollment is restricted to graduate students or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

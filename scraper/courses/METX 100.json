@@ -1,0 +1,47 @@
+{
+    "name": "METX 100",
+    "title": "Introduction to Microbiology",
+    "description": "Introduces the biology of microorganisms (bacteria, archaea, viruses, fungi, and unicellular eukaryotes), with an emphasis on bacteria. Topics include microbial cell structure and function, physiology, metabolism, genetics, and diversity. Also considers the role of microbes in human health, the environment, biotechnology, and food production. Students cannot receive credit for both this course and METX 119.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A or ESCI 30.",
+        "courses": [
+            [
+                "P BIOL 20A",
+                "ESCI 30"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 145,
+            "filled seats": 141,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 150,
+            "filled seats": 102,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

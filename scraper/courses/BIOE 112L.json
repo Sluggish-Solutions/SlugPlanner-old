@@ -1,0 +1,35 @@
+{
+    "name": "BIOE 112L",
+    "title": "Ornithology Field Studies",
+    "description": "Field trips introduce students to field identification skills and field investigation of census, foraging behavior, migration, social behavior, and communication. Examination of specimens in the laboratory will be used to highlight the diversity and taxonomy of birds. Some field trips may require students to provide their own transportation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOE 107, BIOE 109, or BIOE 140. Concurrent enrollment in BIOE 112 is required.",
+        "courses": [
+            [
+                "P BIOE 107 BIOE 109",
+                "BIOE 140 C   BIOE 112"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 112 required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

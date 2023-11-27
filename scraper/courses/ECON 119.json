@@ -1,0 +1,35 @@
+{
+    "name": "ECON 119",
+    "title": "Advanced Accounting",
+    "description": "Accounting for business organizations; partnerships; government and non-profit organization funds; branches, consolidations, and installment sales. Projects involving spreadsheet software required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 111A or ECON 111B.",
+        "courses": [
+            [
+                "P ECON 111A",
+                "ECON 111B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

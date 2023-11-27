@@ -1,0 +1,38 @@
+{
+    "name": "OCEA 172",
+    "title": "Geophysical Fluid Dynamics",
+    "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Taught in conjunction with EART 272. Students cannot receive credit for this course and EART 272.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHYS 107; MATH 22 or MATH 23B recommended.",
+        "courses": [
+            [
+                "P PHYS 107"
+            ],
+            [
+                "MATH 22",
+                "MATH 23B"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

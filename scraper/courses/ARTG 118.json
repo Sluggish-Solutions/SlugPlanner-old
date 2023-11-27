@@ -1,0 +1,44 @@
+{
+    "name": "ARTG 118",
+    "title": "Character Creation for Video Games",
+    "description": "This is a hands-on studio course, intended to give students an understanding of the techniques used to create characters for use in video games. Through this course, students will understand and develop the skills necessary to take a video game character design through all of the stages necessary to have a finished character for use in 2D or 3D video games. You will learn industry tools and techniques to be an effective game artist. (Formerly, Digital Drawing/Painting for Game Design.)\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior art and design: games and playable media  majors and proposed majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior art and design: games and playable media  majors and proposed majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 71,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 60,
+            "filled seats": 62,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

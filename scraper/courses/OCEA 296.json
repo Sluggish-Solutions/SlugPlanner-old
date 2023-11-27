@@ -1,0 +1,32 @@
+{
+    "name": "OCEA 296",
+    "title": "Teaching in Ocean Sciences",
+    "description": "For new and/or relatively inexperienced graduate students in pedagogy of ocean sciences. Role and responsibilities of teaching in ocean sciences described and developed. Includes discussions about effective teaching methods; hands-on issues for work in the laboratory; university expectations; and regulations regarding teaching, organizational strategies, time management, and working with instructors and staff.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): graduate standing or permission of instructor. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

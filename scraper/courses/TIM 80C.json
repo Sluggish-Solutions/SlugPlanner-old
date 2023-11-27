@@ -1,0 +1,32 @@
+{
+    "name": "TIM 80C",
+    "title": "Starting a New Technology Company",
+    "description": "Focuses on the creation and management of technology start-ups and small companies, using case studies and team projects as the basis for learning and applying the course materials. (Formerly CSE 80C.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

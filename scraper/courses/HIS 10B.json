@@ -1,0 +1,38 @@
+{
+    "name": "HIS 10B",
+    "title": "United States History, 1877 to 1977",
+    "description": "Surveys the political, social, and cultural history of the United States from 1877 to 1977. Focuses on national politics with emphasis on how class, race, ethnicity, and gender changed the nation's agenda.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 169,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 169,
+            "priority": "unavailible"
+        }
+    }
+}

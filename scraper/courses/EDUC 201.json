@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 201",
+    "title": "Intermediate Student Teaching",
+    "description": "Designed to provide students enrolled in the UCSC teacher education program a coherent, integrated, pre-professional experience in public school classrooms. Students assume part-time student teaching responsibilities totalling 14\u201316 hours per week under the direct supervision of an exemplary classroom teacher. Weekly seminars and ongoing supervision by department staff are required.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Prerequisite(s): EDUC 200. Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Additional 1 hour Breakout session. See instructor for schedule.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 69,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

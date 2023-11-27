@@ -1,0 +1,32 @@
+{
+    "name": "SCIC 201E",
+    "title": "Multimedia Science News",
+    "description": "Introduces web-media tools for reporting science stories and enhancing coverage for broad audiences, including video packages, narrated slideshows, podcasts, blogs, and still photography. Laboratory sections address skills for handling equipment and online editing.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

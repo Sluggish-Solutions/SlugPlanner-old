@@ -1,0 +1,32 @@
+{
+    "name": "HIS 65B",
+    "title": "Plagues, Peasants, and Pirates: Late Medieval Europe, 1000-1500",
+    "description": "Reviews major social, political, economic, and cultural developments in Europe from 1000 to 1500 and themes including gender, warfare, ethnicity and religion, through primary sources and secondary readings. Primary focus is Western Europe: England, France, the Iberian Peninsula, the Holy Roman Empire, the Low Countries, and Italy. (Formerly Europe, 1000-1500.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 120,
+            "priority": "high"
+        }
+    }
+}

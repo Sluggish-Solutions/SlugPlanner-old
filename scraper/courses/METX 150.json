@@ -1,0 +1,34 @@
+{
+    "name": "METX 150",
+    "title": "Applied and Environmental Microbiology",
+    "description": "Surveys both fundamental and applied topics relevant to understanding how microbes interact with their environments. The goal of the course is to gain a molecular, biological, and ecological understanding of microbial processes and methods relating to microbe-environment interactions. Although not required, completion of METX 100 is recommended to ensure success in this course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

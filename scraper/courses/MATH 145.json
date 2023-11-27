@@ -1,0 +1,42 @@
+{
+    "name": "MATH 145",
+    "title": "Introductory Chaos Theory",
+    "description": "The Lorenz and Rossler attractors, measures of chaos, attractor reconstruction, and applications from the sciences. Students cannot receive credit for this course and AM 114.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 22 or MATH 23A; MATH 21; MATH 100 or CSE 101. Concurrent enrollment in MATH 145L is required.",
+        "courses": [
+            [
+                "P MATH 22",
+                "MATH 23A"
+            ],
+            [
+                "MATH 21"
+            ],
+            [
+                "MATH 100",
+                "CSE 101 C   MATH 145L"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

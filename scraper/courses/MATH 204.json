@@ -1,0 +1,32 @@
+{
+    "name": "MATH 204",
+    "title": "Analysis I",
+    "description": "Completeness and compactness for real line; sequences and infinite series of functions; Fourier series; calculus on Euclidean space and the implicit function theorem; metric spaces and the contracting mapping theorem; the Arzela-Ascoli theorem; basics of general topological spaces; the Baire category theorem; Urysohn's lemma; and Tychonoff's theorem.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 105A and MATH 105B are recommended as preparation.Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

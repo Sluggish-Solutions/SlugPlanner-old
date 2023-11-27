@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 281T",
+    "title": "Species Interactions and Coevolution",
+    "description": "The genetics and ecological structure of species interactions, and the role of coevolution between species in shaping biodiversity. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

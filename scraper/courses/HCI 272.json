@@ -1,0 +1,32 @@
+{
+    "name": "HCI 272",
+    "title": "HCI Capstone 2",
+    "description": "The goal of this course is for students in the Professional Master's Degree in Human-Computer Interaction to produce successful capstone projects. The course is organized around iterative feedback from peers and project advisers (both academic and professional), and includes extensive workshopping, critique, and testing. The course culminates in an end-of-quarter showcase of student work, with all project advisers and project sponsors invited. Also includes professional development. (Formerly Capstone 2.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): HCI 271. Enrollment is restricted to human computer interaction graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "10",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

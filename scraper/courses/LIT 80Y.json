@@ -1,0 +1,32 @@
+{
+    "name": "LIT 80Y",
+    "title": "Harry Potter",
+    "description": "From The Sorcerer's Stone to The Deathly Hallows, this course approaches the Harry Potter books and films from a variety of critical angles, using the analytical tools of literary and cultural studies to shed new light on this dizzying phenomenon.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 400,
+            "filled seats": 387,
+            "priority": "high"
+        }
+    }
+}

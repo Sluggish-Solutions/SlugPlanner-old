@@ -1,0 +1,44 @@
+{
+    "name": "METX 102",
+    "title": "Cell and Molecular Toxicology",
+    "description": "Emphases of biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Designed for advanced undergraduates. Students cannot receive credit for this course and METX 202.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B or equivalent; BIOL 100 and BIOC 110 recommended. Enrollment restricted to juniors and seniors.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B"
+            ],
+            [
+                "BIOL 100"
+            ],
+            [
+                "BIOC 110  E"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

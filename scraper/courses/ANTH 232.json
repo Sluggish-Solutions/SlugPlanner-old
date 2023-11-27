@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 232",
+    "title": "Bodies, Knowledge, Practice",
+    "description": "Contemporary social theory and science both focus on bodies as critical sites of inquiry and the production of knowledge. Explores these theoretical intersections and constructions of the body with new ethnographic works. Questions how race, gender, and culture are inscribed through bodily practice, imagery, and phenomenology.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 7,
+            "priority": "unavailible"
+        }
+    }
+}

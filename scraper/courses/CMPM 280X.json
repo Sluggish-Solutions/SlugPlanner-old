@@ -1,0 +1,44 @@
+{
+    "name": "CMPM 280X",
+    "title": "Expressive AI",
+    "description": "Weekly seminar covering topics of current research in artificial intelligence applied to interactive art and entertainment, including computer games. Enrollment by permission of instructor.  Enrollment restricted to graduate students. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 6,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 9,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

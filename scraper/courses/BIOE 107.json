@@ -1,0 +1,55 @@
+{
+    "name": "BIOE 107",
+    "title": "Ecology",
+    "description": "Focuses on physiological, behavioral, and population ecology, and on linking ecological processes to evolution. It includes basic principles, experimental approaches, concepts of modeling, and applications to ecological problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A, BIOE 20B, and BIOE 20C.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 106,
+            "filled seats": 111,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 106,
+            "filled seats": 88,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 106,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

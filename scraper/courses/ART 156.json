@@ -1,0 +1,32 @@
+{
+    "name": "ART 156",
+    "title": "Project Development in Photography",
+    "description": "Concentrates on photographic project development, developing analytical skills designed to help direct students' own photographic ideas. Helps students create a conceptual theoretical framework through image-making in the field and studio, through critique and discussion, through readings, and by studying the work of artists. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): One course from ART 20I; and two non-photography lower-division art studios from ART 15, ART 20G, ART 20H, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

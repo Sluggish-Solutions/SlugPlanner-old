@@ -1,0 +1,46 @@
+{
+    "name": "CSE 114A",
+    "title": "Foundations of Programming Languages",
+    "description": "Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness. (Formerly CSE 116, Introduction to Functional Programming.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101.",
+        "courses": [
+            [
+                "P CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to Computer Science B.S. during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 151,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 140,
+            "filled seats": 140,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 150,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

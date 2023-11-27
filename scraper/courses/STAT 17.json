@@ -1,0 +1,52 @@
+{
+    "name": "STAT 17",
+    "title": "Statistical Methods for Business and Economics",
+    "description": "Introduction to statistical methods as practiced in business and economics. Topics include descriptive methods, probability, random variables, expected values, sampling, estimation, confidence intervals, hypothesis testing, one- and two-sample problems, power and sample size calculations, correlation, and simple linear regression. Prerequisite(s): concurrent enrollment in STAT 17L; and score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 11A or MATH 3 or MATH 11A. Completion of MATH 19A is strongly recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): A score of 300 or higher on the mathematics placement examination (MPE), or completion of AM 3 or AM 11A or ECON 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17L is required.",
+        "courses": [
+            [
+                "P A   300",
+                "AM 3",
+                "AM 11A",
+                "ECON 11A",
+                "MATH 3",
+                "MATH 11A",
+                "MATH 19A C   STAT 17L"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Concurrent enrollment in STAT 17L is required. Students must enroll into STAT 17L before they can enroll into STAT 17. If you are unable to get a seat in STAT 17L, you are ineligible to enroll or request enrollment into STAT 17 lecture. Permission codes will not be granted to override this concurrent enrollment or to increase the capacity of STAT 17L.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 165,
+            "filled seats": 161,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 120,
+            "filled seats": 126,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 225,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

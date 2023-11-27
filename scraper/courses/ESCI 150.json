@@ -1,0 +1,46 @@
+{
+    "name": "ESCI 150",
+    "title": "Field and Laboratory Methods in Coastal and Aquatic Science",
+    "description": "Students become familiar with some of the core measurement and sampling techniques routinely employed by working aquatic scientists. In keeping with the multi-disciplinary nature of aquatic science, these techniques and measurements include those taken from biology, geology, chemistry and physics. The overarching goal of is having students become deeply familiar with a field site and observing it over an extended period of time while working collaboratively to accomplish all the measurements. The field component of the work is conducted at UCSC's Younger Lagoon Research Reserve, located adjacent to the Long Marine Lab on the coastal campus. Taught in conjunction with OCEA 250; students cannot receive credit for this course and OCEA 250.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 1C, and PHYS 5B or PHYS 6B, and MATH 11B or MATH 19B, and ESCI 30 or BIOE 20C.",
+        "courses": [
+            [
+                "P CHEM 1C"
+            ],
+            [
+                "PHYS 5B",
+                "PHYS 6B"
+            ],
+            [
+                "MATH 11B",
+                "MATH 19B"
+            ],
+            [
+                "ESCI 30",
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 22,
+            "priority": "low"
+        }
+    }
+}

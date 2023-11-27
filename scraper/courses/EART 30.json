@@ -1,0 +1,32 @@
+{
+    "name": "EART 30",
+    "title": "Water in the Environment",
+    "description": "Broadly explores how components of the water cycle (precipitation, evapotranspiration, streamflow, groundwater) influence the structure of different environments as well as the communities, cultures, and people within these environments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 310,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

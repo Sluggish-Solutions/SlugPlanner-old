@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 169",
+    "title": "Creative Coding",
+    "description": "Surveys seminal and contemporary artworks and interactive installations that utilize and critically analyze new media, new technologies, and new algorithms. Students introduced to creative coding practices and encouraged to emulate existing digital arts techniques and to develop their own computational arts projects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

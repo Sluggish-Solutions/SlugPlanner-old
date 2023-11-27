@@ -1,0 +1,32 @@
+{
+    "name": "FMST 194L",
+    "title": "Comparative Settler Colonial Studies",
+    "description": "Discusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as Decoloniality, Feminism, and Science Studies.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior feminist studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 18,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

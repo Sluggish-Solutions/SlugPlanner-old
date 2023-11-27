@@ -1,0 +1,40 @@
+{
+    "name": "ECE 251",
+    "title": "Principles of Digital Communications",
+    "description": "A core course on digital communications theory. Provides an introduction to digital communication, including source coding, characterization of communication signals and systems, modulation and demodulation for the additive Gaussian channel, digital signaling, and over bandwidth constrained linear filter channels and over fading multipath channels. (Formerly EE 251.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 151 and  ECE 153 and CSE 107.",
+        "courses": [
+            [
+                "P ECE 151"
+            ],
+            [
+                "ECE 153"
+            ],
+            [
+                "CSE 107"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 2,
+            "priority": "very low"
+        }
+    }
+}

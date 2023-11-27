@@ -1,0 +1,32 @@
+{
+    "name": "HAVC 163",
+    "title": "The Native in Colonial Spanish America",
+    "description": "Indigenous contributions to colonial Spanish American visual culture including architecture, manuscripts, sculpture, painting, textiles, feather-work, and metallurgy. Focus on colonial Mexico, the Andes, and California.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 30,
+            "priority": "unavailible"
+        }
+    }
+}

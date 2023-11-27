@@ -1,0 +1,32 @@
+{
+    "name": "BME 180",
+    "title": "Professional Practice in Bioengineering",
+    "description": "Seminar course where students develop a research proposal and the collaborative skills needed for independent research projects. Includes professional practice development in collaboration skills, project management, proposal development, and funding.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

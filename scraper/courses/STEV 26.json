@@ -1,0 +1,32 @@
+{
+    "name": "STEV 26",
+    "title": "Navigating the Research University",
+    "description": "Explores critical engagement in education in the context of a research university. Introduces first-year issues and success strategies and ways to participate in the institution's academic life. Investigates strategies for clarifying education goals and devising a plan for success. Students cannot receive credit for this course and PRTR 26 or KRSG 26.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 45
+        },
+        "text": "Enrollment is restricted to first-year students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 90,
+            "filled seats": 27,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "GCH 10",
+    "title": "COVID, Culture and Community Health",
+    "description": "Takes as its topic the still-unfolding story of COVID-19, its historical precursors, evolving scientific and policy questions, and present global challenges. It invites students from across disciplines to examine the medical, cultural, and public health concepts necessary in a post-pandemic world, and to explore the vital importance of rhetoric, representation, and narrative in the cultural politics of COVID more generally. A project-based, collaborative approach guides hands-on investigations to help students become audiences and advocates for health initiatives worldwide.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

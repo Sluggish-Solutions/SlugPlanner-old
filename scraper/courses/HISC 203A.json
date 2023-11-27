@@ -1,0 +1,32 @@
+{
+    "name": "HISC 203A",
+    "title": "Approaches to History of Consciousness",
+    "description": "An introduction to history of consciousness required of all incoming students. The seminar concentrates on theory, methods, and research techniques. Major interpretive approaches drawn from cultural and political analysis are discussed in their application to specific problems in the history of consciousness. Prerequisite(s): first-year standing in the program. See the department office for more information.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

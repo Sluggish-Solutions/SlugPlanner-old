@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 128",
+    "title": "Immigrants and Education",
+    "description": "Research and theory on the education of immigrant students. Major topics include the Americanization movement and America's changing demography, identity maintenance and change, home-school relations, and educators' roles in meeting the needs of culturally and linguistically diverse student populations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

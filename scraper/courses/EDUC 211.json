@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 211",
+    "title": "Teaching Special Populations in the General Education Classroom",
+    "description": "Addresses the preparation of teachers for meeting needs of special populations within the general education setting. Covers basic knowledge, skills, and strategies. (Formerly Topics in Elementary Education: Teaching Special Populations.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 85,
+            "filled seats": 54,
+            "priority": "low"
+        }
+    }
+}

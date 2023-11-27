@@ -1,0 +1,32 @@
+{
+    "name": "CSE 235",
+    "title": "Cyber-Physical Systems Security",
+    "description": "Cyber-physical systems now permeate our lives; they include autonomous vehicles, the Internet of things, and modern control of our critical infrastructure such as the power grid. Learning about the threats against these systems and the possible defenses is essential for computer security practitioners. In this course, students read and analyze the latest published research in this area, and work on projects to address new problems.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 20,
+            "priority": "low"
+        }
+    }
+}

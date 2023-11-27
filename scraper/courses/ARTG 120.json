@@ -1,0 +1,32 @@
+{
+    "name": "ARTG 120",
+    "title": "Game Design Experience",
+    "description": "Teaches the concrete skills associated with making a digital game, from start to finish. Activities include establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ARTG 80I and FILM 80V, or CMPM 80K and CSE 30.Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "CSGD Students: Concurrent enrollment in CMPM 120-01 is required. Please enroll in the lecture and associated discussion section. AGPM Students: -If you have taken ARTG 80G then you will not need to enroll in CMPM 120-01. Only ARTG 120 and an associated discussion section. -Pre-Fall 2022 students if you haven't taken ARTG 80G and are planning on CMPM 35/ have taken CMPM 35. Concurrent enrollment in CMPM 120-01 is required. Please enroll in the lecture and associated discussion section.\" AGPM Students: Please emailagpmadv@ucsc.edufor questions on whether or not you need both courses. \"",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 250,
+            "filled seats": 306,
+            "priority": "high"
+        }
+    }
+}

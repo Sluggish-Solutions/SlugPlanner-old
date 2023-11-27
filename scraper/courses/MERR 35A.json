@@ -1,0 +1,32 @@
+{
+    "name": "MERR 35A",
+    "title": "Pathways to Graduate School Phase 1",
+    "description": "Guides students in utilizing relevant and timely information, tools, and strategies to embark on the path to graduate school exploration and preparation, including strategies for addressing challenges and opportunities related to diversity within graduate education. Students explore their values and motivations for pursuing graduate school, network with guest speakers (current graduate students, faculty members, graduate school admissions professionals); and prepare to continue their development as scholars and researchers in order to deliver outstanding graduate school application materials (personal statements, CV/resumes, letters of recommendation requests). Through these course activities, students cultivate their scholarly identity and sense of self-efficacy as future graduate students. Enrollment is restricted to sophomores and juniors in the Arts, Humanities, and Social Sciences divisions and by instructor permission. Students in the EOP program are given priority.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 23,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "EART 152",
+    "title": "Tectonics",
+    "description": "The processes, techniques, and interpretations involved in the study of active crustal movements; constraints from plate tectonics; horizontal and vertical motions and rates; geodesy, including GPS; stress measurement; image interpretation; fault system analysis; paleoseismicity; fluid effects. Examples from the circum-Pacific. Laboratory-3 hours. Students cannot receive credit for this course and course 207. Students are billed a materials fee.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): EART 10 or EART 5 or EART 20; and EART 10L or EART 5L or EART 20L; and PHYS 5A or PHYS 6A or equivalent per instructor permission.",
+        "courses": [
+            [
+                "P EART 10",
+                "EART 5",
+                "EART 20"
+            ],
+            [
+                "EART 10L",
+                "EART 5L",
+                "EART 20L"
+            ],
+            [
+                "PHYS 5A",
+                "PHYS 6A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

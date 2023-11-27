@@ -1,0 +1,32 @@
+{
+    "name": "CRES 116",
+    "title": "Race and the Pacific: U.S. and Japanese Empires in Comparative Perspective",
+    "description": "A lens on the U.S. and Japanese empires that moves beyond the limits of traditional area and ethnic studies by thinking comparatively about the racial logic of empire. Examines how the U.S. and Japanese empires as rival powers that from the early 20th century onward, have competed against and conspired with each other in Asia and the Pacific.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 35,
+            "priority": "high"
+        }
+    }
+}

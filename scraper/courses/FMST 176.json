@@ -1,0 +1,32 @@
+{
+    "name": "FMST 176",
+    "title": "Law, Prisons, and Popular Culture",
+    "description": "Examines the voluminous history of popular culture representing incarceration through new research in visual criminology, carceral aesthetics, and critical prison studies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "This class will be held at the UCSC Institute for the Arts and Sciences (third floor). 100 Panetta Avenue, Santa Cruz.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "ESCI 122",
+    "title": "Air Pollution",
+    "description": "Introduces students to the chemistry and physics of air pollution with primary emphasis on understanding the main types of air pollutants, from where they originate, how they are removed, how to control their sources, measurement techniques, and their health effects.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ESCI 100A or EART 110A.",
+        "courses": [
+            [
+                "P ESCI 100A",
+                "EART 110A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
+        }
+    }
+}

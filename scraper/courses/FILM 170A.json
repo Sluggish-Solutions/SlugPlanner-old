@@ -1,0 +1,36 @@
+{
+    "name": "FILM 170A",
+    "title": "Fundamentals of Digital Media Production",
+    "description": "Introduction to the conceptual and technical fundamentals of making digital media. Covers principles of digital image manipulation, basic web authoring, and interface design through projects that introduce production techniques and methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):FILM 20C or CSE 101 or CSE 111.",
+        "courses": [
+            [
+                "PFILM 20C",
+                "CSE 101",
+                "CSE 111"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 25,
+            "filled seats": 21,
+            "priority": "moderate"
+        }
+    }
+}

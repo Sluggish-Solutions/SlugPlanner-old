@@ -1,0 +1,32 @@
+{
+    "name": "LALS 168",
+    "title": "Inter-American Solidarities",
+    "description": "Examines the history of various forms of connection between people, governments, cultures, and social movements across the Americas. From military intervention to transnational anti-imperialist agendas to contemporary artistic collaboration, many forms of foreign relations have shaped the American hemisphere. (Formerly Inter-American Relations.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 48,
+            "filled seats": 28,
+            "priority": "low"
+        }
+    }
+}

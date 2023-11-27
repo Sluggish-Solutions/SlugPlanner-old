@@ -1,0 +1,41 @@
+{
+    "name": "APLX 101",
+    "title": "Second-Language Acquisition",
+    "description": "Introduces the field of second-language acquisition. Topics include contexts of acquisition, the impact of individual differences, and basic methods of data collection and analysis.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): APLX 80 or LING 50.",
+        "courses": [
+            [
+                "P APLX 80",
+                "LING 50"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 12,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

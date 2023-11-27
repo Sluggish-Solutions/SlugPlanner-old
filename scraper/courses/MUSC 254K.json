@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 254K",
+    "title": "Music, Gender, and Sexuality",
+    "description": "Seminar focuses on musicological and ethnomusicological work incorporating feminist and queer theories published since the late 1980s. Cross-cultural approach to the examination of music, gender, and sexuality, drawing examples from both Western and non-Western traditions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is  restricted to graduate students.",
+        "courses": [
+            [
+                "E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 6,
+            "filled seats": 8,
+            "priority": "high"
+        }
+    }
+}

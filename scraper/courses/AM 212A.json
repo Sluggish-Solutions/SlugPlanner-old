@@ -1,0 +1,32 @@
+{
+    "name": "AM 212A",
+    "title": "Applied Partial Differential Equations",
+    "description": "Focuses on analytical methods for partial differential equations (PDEs), including: the method of characteristics for first-order PDEs; canonical forms of linear second-order PDEs; separation of variables; Sturm-Liouville theory; Green's functions. Illustrates each method using applications taken from examples in physics. AM 211 or equivalent is strongly recommended as preparation. Students cannot receive credit for this course and AM 112. (Formerly AMS 211, Applied Mathematical Methods I.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students; undergraduates are encouraged to take this class with permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught in conjunction with AM 112. Enroll in lecture and associated discussion section.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

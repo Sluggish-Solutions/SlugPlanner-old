@@ -1,0 +1,39 @@
+{
+    "name": "MUSC 150D",
+    "title": "Special Topics in Theory: Southeast Asia",
+    "description": "Explores the relationship between music theory and culture as it introduces students to a range of musical styles throughout Southeast Asia, with a slight focus on the gamelan music of Indonesia. Students also learn about traditional and popular musics from Korea, China, India, and Vietnam, as well as examine the interconnections and relationships between music from different locations. Major themes include global music theory, cultural identity, authenticity, exoticism, fetishism, nationalism, class dynamics, and cultural exchange.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):  MUSC 30A and satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
+        "courses": [
+            [
+                "P",
+                [
+                    "MUSC 30A",
+                    "E L W"
+                ],
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

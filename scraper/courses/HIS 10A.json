@@ -1,0 +1,32 @@
+{
+    "name": "HIS 10A",
+    "title": "United States History to 1877",
+    "description": "Focuses on the building of British American colonies and the establishment, disintegration, and reconstruction of the nation with an emphasis on how class, race, ethnicity, and gender impacted colonial development and structured the nation's agenda and the definition of citizenship.NOTE: This course satisfies the American History and Institutions requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

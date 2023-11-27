@@ -1,0 +1,32 @@
+{
+    "name": "HIS 2A",
+    "title": "The World to 1500",
+    "description": "Surveys the rise of complex societies: the formation of classical civilizations in Afroeurasia and the Americas, post-classical empires and cross-cultural exchange, technology and environmental change, the Mongol Empire, and oceanic voyages and the origins of the modern world.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 120,
+            "priority": "high"
+        }
+    }
+}

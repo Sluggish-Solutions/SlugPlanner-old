@@ -1,0 +1,38 @@
+{
+    "name": "PSYC 138",
+    "title": "Computer Programming for the Cognitive Sciences",
+    "description": "Offers a practical introduction to computer programming for psychology and cognitive science students. Students learn simple and effective techniques for collecting, parsing, and analyzing behavioral data from behavioral experiments. Students create programs to present visual stimuli, collect keyboard responses, and then write response time and accuracy to datafiles on disk. Students then write new programs to extract information from the datafiles, perform statistical analysis, and present summaries of the findings. Students learn to use the Python programming language for cross-platform application development. No previous programming experience is necessary.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PSYC 1 or PSYC 20A or PSYC 20B, and PSYC 100. Enrollment is restricted to psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 43,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

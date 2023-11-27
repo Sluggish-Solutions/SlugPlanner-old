@@ -1,0 +1,34 @@
+{
+    "name": "CSE 151L",
+    "title": "Advanced Computer Networks Laboratory",
+    "description": "Laboratory illustrating the concepts covered in course 151: provides students with hands-on experience in computer networks. (Formerly Computer Engineering 151L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 150. Concurrent enrollment in CSE 151 is required.",
+        "courses": [
+            [
+                "P CSE 150 C   CSE 151"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lab and associated secondary lab. Concurrent enrollment in CSE 151 required",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 76,
+            "filled seats": 99,
+            "priority": "high"
+        }
+    }
+}

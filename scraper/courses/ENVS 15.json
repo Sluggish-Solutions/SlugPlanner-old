@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 15",
+    "title": "Natural History of the UCSC Campus",
+    "description": "Introduces students to the range of natural species  and communities occurring on the UCSC campus. All class time is spent outside, and each week a different area of campus is visited. Course 24 is recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 29,
+            "priority": "high"
+        }
+    }
+}

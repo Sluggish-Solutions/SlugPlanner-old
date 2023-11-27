@@ -1,0 +1,44 @@
+{
+    "name": "MATH 292",
+    "title": "Seminar",
+    "description": "A weekly seminar attended by faculty, graduate students, and upper-division undergraduate students. All graduate students are expected to attend.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "0",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 40,
+            "filled seats": 28,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 15,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

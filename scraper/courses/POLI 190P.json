@@ -1,0 +1,32 @@
+{
+    "name": "POLI 190P",
+    "title": "Race: History of a Concept",
+    "description": "Examines how we came, by the late 19th century, to classify humanity into racial categories. In an effort to trace emergence of this very modern phenomenon, explores historical shifts that informed Europe's representation of cultural difference from the writings of ancient Greeks to the social Darwinism of 19th-century Britain.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior politics and Latin American and Latino studies/politics combined majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 20,
+            "filled seats": 18,
+            "priority": "high"
+        }
+    }
+}

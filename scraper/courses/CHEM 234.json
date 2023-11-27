@@ -1,0 +1,39 @@
+{
+    "name": "CHEM 234",
+    "title": "Bioinorganic Chemistry",
+    "description": "The role played by transition metals in biological systems  is discussed through application of the principles of coordination chemistry and inorganic spectroscopy. Topics include metalloproteins involved in oxygen binding, iron storage, biological redox reactions, and nitrogen fixation, as well as metal complexes of nucleic acids. Lecture: 4 hours.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CHEM 151A, CHEM 151L, CHEM 163A, and BIOC 100A; or graduate students.",
+        "courses": [
+            [
+                "P",
+                [
+                    "CHEM 151A CHEM 151L CHEM 163A",
+                    "BIOC 100A"
+                ],
+                ""
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

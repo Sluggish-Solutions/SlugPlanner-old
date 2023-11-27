@@ -1,0 +1,46 @@
+{
+    "name": "ECE 171",
+    "title": "Analog Electronics",
+    "description": "Introduction to (semiconductor) electronic devices. Conduction of electric currents in semiconductors, the semiconductor p-n junction, the transistor. Analysis and synthesis of linear and nonlinear electronic circuits containing diodes and transistors. Biasing, small signal models, frequency response, and feedback. Operational amplifiers and integrated circuits. (Formerly EE 171.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECE 101 and ECE 101L; previous or concurrent enrollment in ECE 171L is required.",
+        "courses": [
+            [
+                "P ECE 101"
+            ],
+            [
+                "ECE 101L"
+            ],
+            [
+                "ECE 171L"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 171L is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 27,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 71,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "MATH 105A",
+    "title": "Real Analysis",
+    "description": "The basic concepts of one-variable calculus are treated rigorously. Set theory, the real number system, numerical sequences and series, continuity, differentiation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s):MATH 22 or MATH 23B and either MATH 100 or CSE 101.",
+        "courses": [
+            [
+                "PMATH 22",
+                "MATH 23B"
+            ],
+            [
+                "MATH 100",
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Sections begin Wed., Oct 4th for Fall 2023.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 44,
+            "filled seats": 40,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

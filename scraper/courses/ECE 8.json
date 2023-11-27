@@ -1,0 +1,35 @@
+{
+    "name": "ECE 8",
+    "title": "Robot Automation: Intelligence through Feedback Control",
+    "description": "Introduction to dynamical systems, feedback control, and robotics. Fundamental concepts in dynamical systems, modeling, stability analysis, robustness to uncertainty, feedback as it occurs naturally, and the design of feedback-control laws to engineer desirable static and dynamic response. Course includes an introduction to MATLAB and programming in MATLAB.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Priority enrollment restricted to first-year students and sophomores.",
+        "courses": [
+            [
+                "P"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 50,
+            "filled seats": 50,
+            "priority": "high"
+        }
+    }
+}

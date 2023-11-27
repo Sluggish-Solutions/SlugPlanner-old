@@ -1,0 +1,34 @@
+{
+    "name": "ECE 236",
+    "title": "Optics and Microscopy",
+    "description": "Covers the basic principles of optics and microscopy. Topics include geometrical optics, simple ray tracing, diffraction, Fourier optics, image formation in the human eye, the photographic camera, and different types of microscopes. Hands-on experience is provided in laboratories. Requires basic mathematics. (Formerly EE 266.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.",
+        "courses": [
+            [
+                "U"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

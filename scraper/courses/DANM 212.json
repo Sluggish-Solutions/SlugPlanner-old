@@ -1,0 +1,32 @@
+{
+    "name": "DANM 212",
+    "title": "Thesis Proposal",
+    "description": "First-year digital art and new media graduate students work on the development and completion of their thesis-project proposal and abstract under the supervision of the program chair and their thesis committees.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 200,
+            "upper_credits_limit": 5
+        },
+        "text": "Enrollment is restricted to DANM students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Contact instructor to arrange individual meeting time during quarter.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "0",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 10,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

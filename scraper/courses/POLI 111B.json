@@ -1,0 +1,38 @@
+{
+    "name": "POLI 111B",
+    "title": "Civil Liberties",
+    "description": "Explores the status of American civil liberties as provided by the Bill of Rights. Particular attention will be given to issues of concern relating to the aftermath of 9/11, including issues relating to detainees, freedom of information requests, wiretapping authority, watch lists, profiling, and creation of a domestic intelligence agency.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies and politics majors during first- and second-pass enrollment only.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies and politics majors during first- and second-pass enrollment only.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. Also offered as LGST 111B.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 150,
+            "filled seats": 143,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

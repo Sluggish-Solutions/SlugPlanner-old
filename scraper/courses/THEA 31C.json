@@ -1,0 +1,40 @@
+{
+    "name": "THEA 31C",
+    "title": "Dance Studio I: Contemporary Dance Theory and Technique",
+    "description": "Intensive instruction in contemporary dance technique. Combining movement theory and practice, students will develop basic knowledge of anatomical function (somatics) and a foundational embodiment of contemporary dance technique. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): THEA 30.",
+        "courses": [
+            [
+                "P THEA 30"
+            ]
+        ]
+    },
+    "class_notes": "ENROLLMENT NOTE: The prerequisite course for this class has been waived for the Fall 2023 quarter. Any student may enroll as space in the class permits. DESCRIPTION DETAILS: In this beginner-friendly practice course, students will be introduced to the fundamentals of two Afro-Latin social dances: Samba and Salsa. Emphasis will be given to the styles of Samba de Roda and Samba Reggae (from the state of Bahia, Brazil) as well as Rueda de Casino (from Cuba).",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 25,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 28,
+            "priority": "unavailible"
+        }
+    }
+}

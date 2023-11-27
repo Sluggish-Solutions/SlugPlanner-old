@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 102L",
+    "title": "Toxic RNA Lab II",
+    "description": "Introduces hypothesis-driven laboratory research. Students create models of a unique uncharacterized disease causing mutation and determine how it impacts the process of pre-mRNA splicing. An understanding of introductory molecular biology and genetics is required. Students are billed a materials fee. Prerequisite(s): BIOL 20A; and BIOL 20L or BIOL 102J. Enrollment is restricted to sophomore, junior, and senior biological sciences and affiliated majors. Enrollment is by application and permission of the instructor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

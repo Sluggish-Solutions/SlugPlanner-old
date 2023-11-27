@@ -1,0 +1,40 @@
+{
+    "name": "METX 133",
+    "title": "Medical Microbiology",
+    "description": "Covers the biology and experimental characterization of and diseases caused by important microbial pathogens, including bacteria, viruses, fungi, and parasites. Introduces basic microbiological characteristics, and then discusses diseases by organ systems, and includes pathogenesis, immunity, host response, transmission, treatments, and prevention. Students will watch two lectures per week in advance of the Monday and Wednesday course meetings, then participate in active learning activities to go over the lecture material. During the Friday class meeting students either carry out lab exercises, or a topic discussion. The Friday class will be scheduled in conjunction with a required section to create a two-hour time block.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 40,
+            "filled seats": 45,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 40,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

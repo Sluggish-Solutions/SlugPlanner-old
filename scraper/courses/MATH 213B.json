@@ -1,0 +1,32 @@
+{
+    "name": "MATH 213B",
+    "title": "Partial Differential Equations II",
+    "description": "Second course of the PDE series covering basically most of Part II in Evans' book and some topics in nonlinear PDE including Sobolev spaces, Sobolev inequalities, existence, regularity and a priori estimates of solutions to second order elliptic PDE, parabolic equations, hyperbolic equations and systems of conservation laws, and calculus of variations and its applications to PDE.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 106, MATH 107, and MATH 213A are recommended as preparation.  Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "SOCY 121",
+    "title": "Sociology of Health and Medicine",
+    "description": "Analysis of the current health care crises and exploration of the social relationships and formal organizations which constitute the medical institution. Study of the political, economic, and cultural factors which affect the recognition, distribution, and response to illness.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior majors and minors in biochemistry; biological sciences; community studies; critical race and ethnic studies; sociology; the Latin American studies/sociology combined majors; proposed and declared biotechnology majors and proposed sociology majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior majors and minors in biochemistry; biological sciences; community studies; critical race and ethnic studies; sociology; the Latin American studies/sociology combined majors; proposed and declared biotechnology majors and proposed sociology majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 32,
+            "priority": "unavailible"
+        }
+    }
+}

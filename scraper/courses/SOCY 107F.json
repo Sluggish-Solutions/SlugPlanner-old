@@ -1,0 +1,44 @@
+{
+    "name": "SOCY 107F",
+    "title": "Digital Social Enterprise and Project Management",
+    "description": "Provides Everett Program Fellows with hands-on experience, working in teams, running a digital social enterprise and managing technology-linked projects implemented with student teams. Fellows work closely with faculty and staff of the Everett Program for Technology and Social change, managing and implementing all aspects of the program, including fundraising and financial administration, project planning and development, maintaining communication with community partners, and mentoring younger students in the project in their own technology learning and project implementation activities. Prerequisite(s): SOCY 30A, SOCY 107A, and SOCY 107B. Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        },
+        "spring": {
+            "total_seats": 30,
+            "filled seats": 14,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

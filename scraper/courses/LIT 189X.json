@@ -1,0 +1,32 @@
+{
+    "name": "LIT 189X",
+    "title": "Estudios mediaticos",
+    "description": "Investigates film, radio, video games, new media, and other newly emergent forms of cultural production in the Spanish-speaking world. Topics may include the historical study of media, media-focused analysis of literary texts, and new media translation. The course topic changes; see the Class Search for the current topic. Critical approach designations: Genres, Media. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 32,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BIOE 20F",
+    "title": "Field Biology in Practice",
+    "description": "Introduction to the practice of field biology. Includes implementing the scientific process from formulating and testing hypotheses, sampling, data collection, analysis, interpretation, and presentation. Grounded in the natural ecosystems surrounding the UC Santa Cruz campus, this course incorporates field and laboratory techniques, natural history of flora and fauna, and both observational and experimental biology. Enrollment is by instructor permission.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment by application: https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_3F2Ql8iB9xu4fHM. Enrollment priority to 1st and 2nd year students.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 65,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 47,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 66,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

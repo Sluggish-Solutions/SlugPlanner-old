@@ -1,0 +1,34 @@
+{
+    "name": "NLP 255",
+    "title": "Topics in Applied Natural Language Processing",
+    "description": "Gives students a solid foundation in a specific application area of natural language processing, by learning about the theories, methods, tools, and techniques typically used in this area. The application area varies each quarter, with expected topics to include Information Extraction, Question Answering, Natural Language Generation, Sentiment Analysis, and others. Students learn about the state of the art and open challenges, and have the opportunity to explore and experiment with both standard algorithms and new emerging approaches.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): NLP 201 and NLP 202 and NLP 220 and NLP 244 and either NLP 243 or CSE 244B. Enrollment is restricted to natural language processing graduate students and computer science and engineering Ph.D. students, or by permission of the instructor.",
+        "courses": [
+            [
+                "D"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 6,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 215B",
+    "title": "Intermediate Geographic Information Systems",
+    "description": "Evaluates advanced technologies of processing spatial data, spatial theory, and application to unique geographic problems, data manipulation and analysis, and reporting and interpretation. Emphasizes GIS as a decision-support system for environmental and social problem solving, using basic model building, experimental design, and database management. Taught in conjunction with ENVS 115B. Students cannot receive credit for this course and ENVS 115B.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 215A. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

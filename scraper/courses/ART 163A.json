@@ -1,0 +1,32 @@
+{
+    "name": "ART 163A",
+    "title": "Lithography I",
+    "description": "Introduction to drawing, processing, and printing of lithographs from stone. Emphasis on discovery of tonal, textural, and expressive potential from the surface of the stone, while establishing individual directions in imagery. Condensed history of the medium, technical theory, and critique in lecture and demonstrations. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "BME 201",
+    "title": "Scientific Writing",
+    "description": "Covers effective writing styles for scientific communication for bio-science and engineering graduate students. Covers instruction for writing grant applications, scientific manuscripts, and thesis proposals. Students practice by preparing, editing, and evaluating each of these documents.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "3",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 8,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

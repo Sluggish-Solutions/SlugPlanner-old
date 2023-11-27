@@ -1,0 +1,32 @@
+{
+    "name": "MATH 206",
+    "title": "Analysis III",
+    "description": "Banach spaces, Hahn-Banach theorem, uniform boundedness theorem, the open mapping and closed graph theorems, weak and weak* topology, the Banach-Alaoglu theorem, Hilbert spaces, self-adjoint operators, compact operators, spectral theory, Fredholm operators, spaces of distributions and the Fourier transform, and Sobolev spaces.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 204 and MATH 205 recommended as preparation. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

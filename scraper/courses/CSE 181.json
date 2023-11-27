@@ -1,0 +1,37 @@
+{
+    "name": "CSE 181",
+    "title": "Database Systems II",
+    "description": "Introduction to the architecture and implementation of database systems. Topics covered include data storage, tree and hash indexes, storage management, query evaluation and optimization, transaction management, concurrency control, recovery, and XML data management.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 180 and CSE 130.",
+        "courses": [
+            [
+                "P CSE 180"
+            ],
+            [
+                "CSE 130"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

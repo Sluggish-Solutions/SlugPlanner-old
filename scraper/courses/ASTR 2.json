@@ -1,0 +1,32 @@
+{
+    "name": "ASTR 2",
+    "title": "Overview of the Universe",
+    "description": "An overview of the main ideas in our current view of the universe, and how they originated. Galaxies, quasars, stars, pulsars, and planets. Intended primarily for nonscience majors interested in a one-quarter survey of classical and modern astronomy. Students cannot receive credit for for ASTR 1 after receiving credit for ASTR 2.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

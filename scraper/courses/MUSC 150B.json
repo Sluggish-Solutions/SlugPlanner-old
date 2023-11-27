@@ -1,0 +1,34 @@
+{
+    "name": "MUSC 150B",
+    "title": "Music Analysis and Composition",
+    "description": "A course designed to synthesize the analysis and the composition of musical works. Tonal and post-tonal music compositions analyzed, including harmonic, rhythmic, and formal structure analysis. Works discussed include J.S. Bach (and related music by Johannes Brahms, John Adams, Benjamin Britten, Krzysztof Penderecki); Claude Debussy and Bela Bartok; Arnold Schoenberg (and Anton Webern); Olivier Messiaen (and Karlheinz Stockhausen, Pierre Boulez, Elliot Carter).",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MUSC 120.",
+        "courses": [
+            [
+                "P MUSC 120"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

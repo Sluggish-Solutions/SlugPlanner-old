@@ -1,0 +1,38 @@
+{
+    "name": "MUSC 70",
+    "title": "Hip Hop's Global Inclusiveness & African Roots",
+    "description": "Hip Hop is an umbrella term for art, music, dance, literature, identity, style, and politics. Course examines the movements and politics that inspired the birth of Hip Hop as a form of art and music, the art and aesthetics of Hip Hop, and the musical styles that made Hip Hop music possible. The ways it speaks to youth and speaks about oppression, violence, identity, culture, and power are also considered, and Hip Hop as a form of cultural politics and activism toward social justice is explored. Students create art or music toward Hip Hop-inspired social justice. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 11,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

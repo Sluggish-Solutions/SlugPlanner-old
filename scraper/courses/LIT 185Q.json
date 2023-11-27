@@ -1,0 +1,32 @@
+{
+    "name": "LIT 185Q",
+    "title": "Dante: \"Divina Commedia\"",
+    "description": "Speaking, reading, and writing proficiency in Italian required. Reading of the \"Inferno,\" the \"Purgatorio,\" and selected canti of the \"Paradiso,\" along with selections from Dante's lyrics and from medieval Italian and French poetry. Critical approach designations: Canons, Histories. Distribution requirements: Poetry, Pre-1750.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. This course is also offered as LIT 114C.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 96,
+            "filled seats": 93,
+            "priority": "high"
+        }
+    }
+}

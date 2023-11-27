@@ -1,0 +1,38 @@
+{
+    "name": "CMPM 148",
+    "title": "Interactive Storytelling",
+    "description": "Covers a range of design approaches and technologies including storytelling in games, interactive fiction, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, students explore the theoretical positions, debates, and technical and design issues arising from these approaches.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CSE 101 or CMPM 35. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 75,
+            "filled seats": 75,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

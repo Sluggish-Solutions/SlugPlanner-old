@@ -1,0 +1,43 @@
+{
+    "name": "CSP 231A",
+    "title": "CSP Year 1 Capstone Planning & Design Fall",
+    "description": "Students learn and apply methods for designing scalable solutions to complex problems, focusing on sustainability challenges and opportunities in coastal areas. Sessions primarily involve peer-review and feedback on student progress in planning their individual Coastal Science and Policy (CSP) capstone project. The capstone project must engage with a real-world partner(s) on a scalable opportunity for solving a critical problem in coastal areas (from land to sea). Faculty lead mini-lectures as needed. Course stresses learning-by-doing: weekly assignments have students work outside of class on steps or skills in the design process and then the student shares their work in the following class to gain peer insights. Students should expect to do the reading and a substantial assignment each week BEFORE the class session meets.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment restricted to Coastal Science and Policy M.S. students; and to Ph.D. students who have declared the Coastal Science and Policy Designated Emphasis by permission.",
+        "courses": [
+            [
+                "E   C S"
+            ],
+            [
+                "P MS"
+            ],
+            [
+                "PD      C S"
+            ],
+            [
+                "P D E"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 10,
+            "filled seats": 11,
+            "priority": "high"
+        }
+    }
+}

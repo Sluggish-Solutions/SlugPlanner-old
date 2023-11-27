@@ -1,0 +1,32 @@
+{
+    "name": "ECON 217",
+    "title": "Applied Econometric Analysis II",
+    "description": "Covers discrete and limited dependent variable models, nonparametric estimation methods, resampling methods, as well as statistical (machine) learning methods commonly used in industry. Students learn the theoretical foundations behind the methods and also how to apply them in practice.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to applied economics and finance graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enrollment in and attendance of secondary sections is strongly encouraged for student success in this course.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

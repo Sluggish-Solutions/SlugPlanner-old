@@ -1,0 +1,32 @@
+{
+    "name": "POLI 133",
+    "title": "Law of Democracy",
+    "description": "Explores the role of law in both enabling and constraining the actions of elected politicians in the U.S. Among issues examined are voting rights, redistricting, and campaign finance. Course asks how the law shapes and limits our ability to choose our elected leaders, and in turn, how the law is shaped by political forces.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 53,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

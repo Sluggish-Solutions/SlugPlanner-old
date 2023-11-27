@@ -1,0 +1,32 @@
+{
+    "name": "LGST 130",
+    "title": "Inequality and Law",
+    "description": "Explores the complex relationship between race and the law in American society. Included subjects are critical race theory, civil rights and voting rights law, issues of the criminal justice system, intersections with issues of class and gender, and the social construction of race through law and legal decisions. (Formerly Race and the Law.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 31,
+            "priority": "low"
+        }
+    }
+}

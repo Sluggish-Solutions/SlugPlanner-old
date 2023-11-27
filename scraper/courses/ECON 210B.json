@@ -1,0 +1,32 @@
+{
+    "name": "ECON 210B",
+    "title": "Mathematical Methods for Economic Analysis",
+    "description": "A course in introductory mathematical economics which covers standard optimization problems, difference and differential equations, optimal control theory, decisions under uncertainty, game theory, and stochastic calculus. Course 210A or equivalent is strongly recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Course is taught in an accelerated manner (9/5-9/22/2023) for incoming economics Ph.D. students. Please contact the economics graduate programs coordinator (econ_grad_coor@ucsc.edu) for course scheduling details.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 13,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

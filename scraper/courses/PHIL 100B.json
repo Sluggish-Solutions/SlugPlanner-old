@@ -1,0 +1,46 @@
+{
+    "name": "PHIL 100B",
+    "title": "The Rationalists",
+    "description": "A study of the historical background and the present relevance of Descartes, Spinoza, and Leibniz.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): PHIL 8 or PHIL 9; one course from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "P PHIL 8",
+                "PHIL 9"
+            ],
+            [
+                "PHIL 11",
+                "PHIL 22",
+                "PHIL 23",
+                "PHIL 24",
+                "PHIL 80E",
+                "BME 80GPHIL 80G",
+                "PHIL 80M",
+                "PHIL 80S"
+            ],
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 75,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

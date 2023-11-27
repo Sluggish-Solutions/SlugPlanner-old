@@ -1,0 +1,32 @@
+{
+    "name": "CSE 80A",
+    "title": "Universal Access: Disability, Technology, and Society",
+    "description": "Overview of human-centered technology and of its potential for increasing the quality of life and independence of disabled individuals. A substantial portion of the course is devoted to studying physical, psychological, and psychosocial aspects of disability. Topics include: diversity and integration, legislation, accessibility, and universal design. (Formerly Computer Engineering 80A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 140,
+            "filled seats": 79,
+            "priority": "low"
+        }
+    }
+}

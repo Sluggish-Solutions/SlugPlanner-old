@@ -1,0 +1,32 @@
+{
+    "name": "ECON 259B",
+    "title": "Public Policy Analysis",
+    "description": "Applications of welfare and microeconomic theory and methodology to the public expenditure question: cost-benefit. Effects of the taxes discussed in ECON 259A and sophisticated tools used in the face of these and other distortions with regard to measurement of benefits, costs, and the discount rate. ECON 200 strongly recommended as preparation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

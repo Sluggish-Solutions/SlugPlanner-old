@@ -1,0 +1,32 @@
+{
+    "name": "MATH 225B",
+    "title": "Infinite Dimensional Lie Algebras",
+    "description": "Finite dimensional semi-simple Lie algebras: PBW theorem, generators and relations, highest weight representations, Weyl character formula. Infinite dimensional Lie algebras: Heisenberg algebras, Virasoro algebras, loop algebras, affine Kac-Moody algebras, vertex operator representations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 225A. Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

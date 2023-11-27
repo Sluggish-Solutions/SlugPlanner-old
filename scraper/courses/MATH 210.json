@@ -1,0 +1,32 @@
+{
+    "name": "MATH 210",
+    "title": "Manifolds III",
+    "description": "The fundamental group, covering space theory and van Kampen's theorem (with a discussion of free and amalgamated products of groups), CW complexes, higher homotopy groups, cellular and singular cohomology, the Eilenberg-Steenrod axioms, computational tools including Mayer-Vietoris, cup products, Poincar\u00e9 duality, the Lefschetz fixed point theorem, the exact homotopy sequence of a fibration and the Hurewicz isomorphism theorem, and remarks on characteristic classes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): MATH 208 and MATH 209 recommended as preparation.  Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

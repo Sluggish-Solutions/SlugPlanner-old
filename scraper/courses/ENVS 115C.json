@@ -1,0 +1,32 @@
+{
+    "name": "ENVS 115C",
+    "title": "Advanced Geographic Information Systems",
+    "description": "Explores more advanced training in spatial theory and methods and their application to unique geographic problems. Emphasis given to advanced aspects of spatial data analysis and building custom GIS solutions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ENVS 115A and ENVS 115B. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 34,
+            "priority": "high"
+        }
+    }
+}

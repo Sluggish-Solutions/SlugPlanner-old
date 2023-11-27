@@ -1,0 +1,32 @@
+{
+    "name": "APLX 112",
+    "title": "Language and Gender",
+    "description": "Examines the relationship between language and gender. Topics include: gender differences in speech; linguistic gender norms and stereotypes; gender and the construction of identity in discourse; sexuality and language; sexism in language; social, educational, and political implications. (Formerly Languages 112.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

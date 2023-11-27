@@ -1,0 +1,32 @@
+{
+    "name": "FMST 10",
+    "title": "Feminisms of/and the Global South",
+    "description": "Explores feminist theories from domestic U.S. and global contexts in order to ask how interventions of women of color in the U.S. and of radical feminist movements in non-U.S. locations radically re-imagine feminist politics. Rather than focusing on feminist movements that represent different regions of the world, course examines feminist theory through multiple histories of colonialism, post-colonialism, and globalization.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 112,
+            "priority": "unavailible"
+        }
+    }
+}

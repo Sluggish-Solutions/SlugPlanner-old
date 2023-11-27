@@ -1,0 +1,41 @@
+{
+    "name": "METX 135L",
+    "title": "Functional Anatomy Lab",
+    "description": "Complements lecture course 135. Emphasizes nomenclature and recognition; includes the embryology and histology of bones, muscles, and internal organs, and the interactions between the systems of the body.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 20A and BIOE 20B.  The class is geared toward students in the biological sciences majors and affiliated majors and biology minors, but open to other majors. Concurrent enrollment in METX 135 is required.",
+        "courses": [
+            [
+                "P BIOL 20A"
+            ],
+            [
+                "BIOE 20B  T"
+            ],
+            [],
+            [
+                "C   METX 135"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "3",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 100,
+            "filled seats": 99,
+            "priority": "high"
+        }
+    }
+}

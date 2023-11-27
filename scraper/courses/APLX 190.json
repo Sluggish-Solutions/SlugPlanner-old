@@ -1,0 +1,32 @@
+{
+    "name": "APLX 190",
+    "title": "Research Seminar in Applied Linguistics",
+    "description": "Prepares students to conduct research in applied linguistics. Students evaluate published studies that represent both quantitative and qualitative methods.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 135,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): APLX 80 and APLX 101; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

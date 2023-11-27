@@ -1,0 +1,32 @@
+{
+    "name": "ANTH 113",
+    "title": "Tutoring Writing in Anthropology",
+    "description": "Trains students to tutor writing in undergraduate anthropology courses; supports and guides them during the quarter they are tutoring. Enrollment by interview only. Prerequisite(s): satisfaction of the Composition requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

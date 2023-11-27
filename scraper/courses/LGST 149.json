@@ -1,0 +1,38 @@
+{
+    "name": "LGST 149",
+    "title": "Environmental Law and Policy",
+    "description": "Surveys a wide range of topics in environmental law, including state and federal jurisdiction, administrative law, separation of powers, state and local land use regulation, public land and resource management, pollution control, and private rights and remedies. Students read a large number of judicial cases and other legal documents.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior legal studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to junior and senior legal studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 50,
+            "filled seats": 41,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

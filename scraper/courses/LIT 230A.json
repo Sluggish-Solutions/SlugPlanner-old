@@ -1,0 +1,44 @@
+{
+    "name": "LIT 230A",
+    "title": "Topics in Theory",
+    "description": "Explores issues arising in both the modern practice of criticism and in writings on the theory of criticism. Course topic changes; please see the Class Search for current topic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "**** Topic: The Premodern Requirement **** This course will approach the topic of the Premodern Requirement and the value found in studying premodern literature. This course will address the problem of periodization, special issues that arise when working with ancient sources, and how both those things can complicate our relationship to modern literature.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 30,
+            "filled seats": 16,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

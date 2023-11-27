@@ -1,0 +1,32 @@
+{
+    "name": "BIOL 200F",
+    "title": "Logic and Approaches to Scientific Discovery",
+    "description": "Multidisciplinary course with an emphasis on discussion of approaches and methods involved in the study of biological questions. Lectures focus on current gaps in our knowledge of topics and approaches to test models and hypotheses. Course focuses on current topics in RNA and DNA molecular biology, cell biology, developmental biology, stem cells, neurobiology, and genomics. Lectures coupled with small group discussions and written assignments.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BIOL 200A or METX 200 or CHEM 200A or BME 205.  Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

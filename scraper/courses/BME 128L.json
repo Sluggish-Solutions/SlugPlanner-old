@@ -1,0 +1,32 @@
+{
+    "name": "BME 128L",
+    "title": "Protein Engineering Laboratory",
+    "description": "Students address a current scientific question about protein stability using structure-guided protein engineering. Specifically, Students use recombinant DNA technology to produce an engineered protein that is predicted to have enhanced stability. Students then assess its stability with differential scanning fluorimetry. Students are billed a materials fee of $140.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "junior and senior bioengineering, biomolecular engineering, and bioinformatics majors; other majors by permission of instructor.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): BME 128; and BIOL 101L, or BIOL 20L, or BME 21L. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering, and bioinformatics majors; other majors by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 37,
+            "priority": "high"
+        }
+    }
+}

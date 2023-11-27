@@ -1,0 +1,41 @@
+{
+    "name": "BIOE 114",
+    "title": "Herpetology",
+    "description": "Lectures introduce students to evolution, development, physiology, behavior, ecology, and life history of reptiles and amphibians. The materials integrate with conceptual and theoretical issues of ecology, evolution, physiology, and behavior.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOE 107, BIOE 109, or BIOE 140. Concurrent enrollment in BIOE 114L is required.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOE 107 BIOE 109",
+                "BIOE 140 C   BIOE 114L"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment by application: https://forms.gle/EXUSXAwXichBsaT47",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 21,
+            "priority": "unavailible"
+        }
+    }
+}

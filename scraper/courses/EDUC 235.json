@@ -1,0 +1,32 @@
+{
+    "name": "EDUC 235",
+    "title": "Introduction to Educational Inquiry",
+    "description": "Addresses foundational knowledge needed to understand and conduct educational inquiry and research. Topics include epistemology in the human sciences, philosophical foundations of modern research strategies, and general classes of research investigations in education.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 15,
+            "filled seats": 5,
+            "priority": "very low"
+        }
+    }
+}

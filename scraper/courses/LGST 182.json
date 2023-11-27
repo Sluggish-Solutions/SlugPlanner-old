@@ -1,0 +1,32 @@
+{
+    "name": "LGST 182",
+    "title": "The Power to Punish",
+    "description": "Interrogates the presuppositions of punishment as legitimate state power. Decentering crime as punishment's conceptual predicate, wider analysis of the penal state's social-scientific, jurisprudential, and philosophical foundations force us to ask: What is punishment? Why punish? How, and whom, to punish?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 53,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

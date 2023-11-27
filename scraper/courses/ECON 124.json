@@ -1,0 +1,38 @@
+{
+    "name": "ECON 124",
+    "title": "Machine Learning for Economists",
+    "description": "Introduction to machine learning from the perspective of economics. Students introduced to modern estimation methods for high-dimensional data, which is illustrated through applications to causal inference and prediction problems in economics, business, and related fields. Students gain experience working with these methods through programming assignments. Course focuses on methodology and its practical application and culminates in an empirical project in which students apply course concepts to real-world data.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the applied mathematics and finance program.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): ECON 113 or ECON 216. Enrollment is restricted to undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the applied mathematics and finance program.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 44,
+            "filled seats": 41,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CMPM 125",
+    "title": "Game Technologies",
+    "description": "Introduction to construction of games using game engine technology, using a specific game engine as a focus. Covers major game engine features: input, collision, animation, model import, lighting, camera, rendering, textures, particle systems. Introduction to a specific game scripting language, custom game logic, game programming patterns. (Formerly offered as CMPM 121.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): CMPM 120.",
+        "courses": [
+            [
+                "P CMPM 120"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 102,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 120,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

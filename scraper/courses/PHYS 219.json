@@ -1,0 +1,32 @@
+{
+    "name": "PHYS 219",
+    "title": "Statistical Physics",
+    "description": "The basic laws of thermodynamics, entropy, thermodynamic potentials, kinetic theory of gases, quantum and classical statistical mechanics, virial expansion, linear response theory. Applications in condensed matter physics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 180,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisites: PHYS 210. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 12,
+            "priority": "moderate"
+        }
+    }
+}

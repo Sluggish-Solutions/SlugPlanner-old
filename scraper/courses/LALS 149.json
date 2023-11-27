@@ -1,0 +1,32 @@
+{
+    "name": "LALS 149",
+    "title": "Whiteness in Latin America",
+    "description": "Challenges the racial hierarchy of knowledge production by making whiteness into a central object of study and scrutinizing the power that stems from its alleged invisibility. Studies whiteness in three specific Latin American countries and vis-a-vis their respective dominant national discourses: Mexico and its narratives of mestizaje, Brazil and the myth of racial democracy, and Argentina and its discourses of Europeanness. Also examines how whiteness and its ''Others'' (I.e. blackness, indigeneity, and Asianness) have been imagined, embodied, avoided, and embraced in these three Latin American countries.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 48,
+            "filled seats": 48,
+            "priority": "high"
+        }
+    }
+}

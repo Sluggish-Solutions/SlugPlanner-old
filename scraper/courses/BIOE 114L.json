@@ -1,0 +1,41 @@
+{
+    "name": "BIOE 114L",
+    "title": "Field Methods in Herpetological Research",
+    "description": "Field trips introduce students to natural history, censusing techniques, physiological ecology, and behavioral analysis of reptiles and amphibians. Laboratories introduce students to techniques for analyzing behavior and physiology. Field studies culminate with a group project in a natural setting. Some field trips may be held on weekends due to weather considerations. Some field trips may require students to provide their own transportation, some transportation will be provided by UCSC. Students are billed a materials fee of $435.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOE 107, BIOE 109, or BIOE 140. Concurrent enrollment in BIOE 114 is required.",
+        "courses": [
+            [
+                "P    E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "BIOE 107 BIOE 109",
+                "BIOE 140 C   BIOE 114"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in BIOE 114 is required.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 21,
+            "priority": "unavailible"
+        }
+    }
+}
