@@ -1,0 +1,32 @@
+{
+    "name": "BIOE 281V",
+    "title": "Topics in Behavioral Ecology",
+    "description": "A discussion of current topics in behavioral ecology including social information use, conceptual advances in understanding the evolution of animal signaling, and using a mechanistic approach to infer ecological processes from soundscapes.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

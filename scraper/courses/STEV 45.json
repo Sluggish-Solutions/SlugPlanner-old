@@ -1,0 +1,32 @@
+{
+    "name": "STEV 45",
+    "title": "Creation and its Discontents: From Human to Posthuman",
+    "description": "Considers the trajectory of creation, from the birth of humankind to the advent of the posthuman. Beginning with depictions of God's creation of humans in the Garden of Eden, course also examines Frankenstein's creation of the \"human\" at the advent of modern science, and technology's creation of the posthuman in the modern age. Broad and varied selection of readings consider the following questions: What does it mean to be human? How do we define the human and draw the boundary between it and the nonhuman? How does the nonhuman help us to understand ourselves? What is the relationship between creator and created? What obligations does the creator have to that which they create?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 6,
+            "priority": "unavailible"
+        }
+    }
+}

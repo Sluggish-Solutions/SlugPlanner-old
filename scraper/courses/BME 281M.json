@@ -1,0 +1,32 @@
+{
+    "name": "BME 281M",
+    "title": "Seminar on Chromosome Biology and Function",
+    "description": "Weekly seminar series covering experimental research in chromosome structure and repeat biology. Current research work and literature in this area is discussed. Students lead some discussions and participate in all meetings. Available for Satisfactory/Unsatisfactory or Pass/No Pass grading only.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students. Qualified undergraduates may enroll with permission of instructor.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

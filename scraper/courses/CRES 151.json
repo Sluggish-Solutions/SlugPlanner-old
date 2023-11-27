@@ -1,0 +1,32 @@
+{
+    "name": "CRES 151",
+    "title": "After Man: Race, Gender and Technology",
+    "description": "As Sylvia Wynter and many of the other authors to be read this quarter point out, the definition of the human has historically excluded racialized peoples, gender non-conforming people, indigenous people, disabled people, and even at times cisgender women. This class examines the intersection of science and justice to understand how the border of the human is used to reinforce anti-blackness, xenophobia, transphobia and many other forms of social oppression.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 35,
+            "filled seats": 23,
+            "priority": "low"
+        }
+    }
+}

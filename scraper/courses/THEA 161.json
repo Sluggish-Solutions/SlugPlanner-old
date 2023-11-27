@@ -1,0 +1,36 @@
+{
+    "name": "THEA 161",
+    "title": "Advanced Dramaturgy",
+    "description": "Teaches the art and science of dramaturgy. Dramaturgy refers to the accumulated techniques that all theatrical artists employ to determine the aesthetic architecture of a piece of dramatic literature; discover everything needed to transform the inert script into a living performance; and apply that knowledge in a way that makes sense to an audience. Prerequisite THEA 160 may be used to satisfy a theater arts minor requirement. THEA 160 is typically taken in junior year but may be taken earlier if a student feels ready and wants to be able to take THEA 161 earlier. Taking both classes best prepares students to undertake dramaturgical work on theatrical productions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): THEA 160.",
+        "courses": [
+            [
+                "THEA 160"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}
