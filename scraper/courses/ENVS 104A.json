@@ -7,21 +7,20 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; concurrent enrollment in ENVS 104L and previous or concurrent enrollment in ENVS 100 \nand ENVS 100L is required, or by permission of instructor.",
+        "text": "Prerequisite(s): ENVS 100 and ENVS 100L; exceptions by permission of instructor. Concurrent enrollment in ENVS 104L is required.",
         "courses": [
             [
-                "P    E L W"
+                "ENVS 100"
             ],
             [
-                "C"
+                "ENVS 100L"
             ],
             [
-                "ENVS 104L"
-            ],
-            [
-                "ENVS 100  ENVS 100L"
+                "C   ENVS 104L"
             ]
         ]
     },

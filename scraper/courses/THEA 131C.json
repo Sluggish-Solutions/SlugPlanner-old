@@ -7,16 +7,18 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): THEA 31C or permission of instructor.",
         "courses": [
             [
-                "P THEA 31C"
+                "THEA 31C"
             ]
         ]
     },
-    "class_notes": "NULL",
+    "class_notes": "Winter 2024 topic: Intermediate-level practice course in the Afro-Latin social dances Samba and Salsa. Questions may be addressed to the instructor: Marina Magalh?es,mmagalhe@ucsc.edu.",
     "career": "Undergraduate",
     "gen_ed_code": "NULL",
     "type": "Studio",
@@ -27,7 +29,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
+            "filled seats": 1,
             "priority": "very low"
         }
     }

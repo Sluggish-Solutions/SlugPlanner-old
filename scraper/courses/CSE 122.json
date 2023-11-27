@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 100, CSE 100L, ECE 101, and ECE 101L.",
         "courses": [
             [
-                "P CSE 100 CSE 100L ECE 101"
+                "CSE 100 CSE 100L ECE 101"
             ],
             [
                 "ECE 101L"
@@ -36,8 +38,8 @@
         },
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 26,
+            "priority": "low"
         }
     }
 }

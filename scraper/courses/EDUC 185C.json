@@ -4,15 +4,15 @@
     "description": "An introduction to the principles and practices for teaching science in secondary classrooms. Course examines theoretical and practical approaches to teaching science, provides an introduction to national and state standards and an overview of science curricula and current issues in science teaching.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

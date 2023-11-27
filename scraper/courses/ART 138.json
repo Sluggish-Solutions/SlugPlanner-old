@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): One from ART  20J, ART 130, ART 133, ART 137, ART 139; and two non-painting lower-division studios from ART 15, ART 20G, ART 20H, ART 20I, ART 20K, ART 20L, ART 26. Enrollment is  restricted to art majors.",
         "courses": [
             [
-                "P O  ART  20J ART 130 ART 133 ART 137 ART 139"
+                "O  ART  20J ART 130 ART 133 ART 137 ART 139"
             ],
             [
                 "ART 15 ART 20G ART 20H ART 20I ART 20K ART 20L ART 26 E"

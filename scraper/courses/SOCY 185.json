@@ -4,15 +4,15 @@
     "description": "Modern society not only assaults nature, it does so in ways that reproduce existing social inequalities. This course reviews three types of contemporary environmental inequality (environmental racism, displacement, and privilege), and the processes that produced them, with a focus on industrialization, urbanization, and the rise of capitalism in Europe and the United States.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, community studies, global information and social enterprise, environmental studies, and Latin American studies/sociology combined.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, community studies, global information and social enterprise, environmental studies, and Latin American studies/sociology combined.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -30,9 +30,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 37,
+            "filled seats": 23,
+            "priority": "low"
         }
     }
 }

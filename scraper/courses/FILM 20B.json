@@ -4,17 +4,15 @@
     "description": "Introduction to the basic forms of televisual presentation, including differing narrative structure from movies and situation comedies to soap opera, plus modes of direct discourse in news, advertising, sports, music, television, and other genres. Alternative forms and modes in electronic media, such as independent video art and documentary, public television, cable, and electronic networks are explored, with their potential for expressing cultural diversity set in relation to social, cultural, and political conditions. If space allows, restrictions may be lifted after priority enrollment.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
-        "courses": [
-            [
-                "S"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated discussion section",
     "career": "Undergraduate",

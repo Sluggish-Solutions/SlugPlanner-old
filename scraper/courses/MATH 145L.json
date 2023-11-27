@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Concurrent enrollment in MATH 145 is required.",
-        "courses": [
-            [
-                "C   MATH 145"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Sections begin Tuesday, Jan. 16th for Winter 2024.",
     "career": "Undergraduate",
@@ -26,9 +24,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 20,
+            "filled seats": 3,
+            "priority": "very low"
         }
     }
 }

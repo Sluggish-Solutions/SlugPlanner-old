@@ -7,7 +7,9 @@
             "restricted_to_majors": "biochemistry and molecular biology; biology B.S.; microbiology; molecular, cell, and developmental biology; and neuroscience majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s):  BIOL 20L or BIOL 102J or BIOL 107J; and previous or concurrent enrollment in BIOL 101; or BIOC 100A and BIOC 100B is required. Students cannot receive credit for this course and BIOL 102L or BIOL 107L. Enrollment is restricted to biochemistry and molecular biology; biology B.S.; microbiology; molecular, cell, and developmental biology; and neuroscience majors.",
         "courses": [
@@ -43,7 +45,7 @@
         },
         "winter": {
             "total_seats": 180,
-            "filled seats": 0,
+            "filled seats": 50,
             "priority": "very low"
         }
     }

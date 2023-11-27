@@ -7,16 +7,18 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): CSE 101 and MATH 21 or AM 10. Enrollment restricted to computer science majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+        "text": "Prerequisite(s): CSE 101 and MATH 21 or AM 10.",
         "courses": [
             [
-                "P CSE 101"
+                "CSE 101"
             ],
             [
                 "MATH 21",
-                "AM 10 E       F P  M    F P"
+                "AM 10"
             ]
         ]
     },
@@ -37,7 +39,7 @@
         },
         "winter": {
             "total_seats": 115,
-            "filled seats": 0,
+            "filled seats": 46,
             "priority": "very low"
         }
     }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SPAN 6 or SPHS 6 or permission of instructor.",
         "courses": [
             [
-                "P SPAN 6",
+                "SPAN 6",
                 "SPHS 6"
             ]
         ]

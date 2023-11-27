@@ -6,15 +6,15 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to College Nine members during priority enrollment only.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
-    "class_notes": "NULL",
+    "class_notes": "Enrollment restriction to College Nine members during priority enrollment only has been lifted for Winter 24. Students of any College affiliation may enroll.",
     "career": "Undergraduate",
     "gen_ed_code": "PR-E",
     "type": "Seminar",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 88,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 79,
+            "priority": "high"
         }
     }
 }

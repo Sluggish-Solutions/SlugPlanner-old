@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C; concurrent enrollment in BIOE 135.",
         "courses": [
             [
-                "P BIOL 20A"
+                "BIOL 20A"
             ],
             [
                 "BIOE 20B"

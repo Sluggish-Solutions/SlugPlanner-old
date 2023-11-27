@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 1B and CHEM 1C, or CHEM 3C, or CHEM 4B; and PHYS 5A and 5C, or PHYS 6A and 6C; and previous or concurrent enrollment in PHYS 5B or PHYS 6B.",
         "courses": [
             [
-                "P CHEM 1B"
+                "CHEM 1B"
             ],
             [
                 "CHEM 1C",
@@ -46,8 +48,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 75,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 38,
+            "priority": "low"
         }
     }
 }

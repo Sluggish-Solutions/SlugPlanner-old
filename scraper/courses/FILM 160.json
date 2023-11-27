@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FILM 130, FILM 132A, FILM 132B, FILM 132C, FILM 134A or FILM 134B.",
         "courses": [
             [
-                "P FILM 130 FILM 132A FILM 132B FILM 132C FILM 134A",
+                "FILM 130 FILM 132A FILM 132B FILM 132C FILM 134A",
                 "FILM 134B"
             ]
         ]
@@ -34,7 +36,7 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
+            "filled seats": 28,
             "priority": "very low"
         }
     }

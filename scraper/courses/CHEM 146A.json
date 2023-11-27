@@ -7,7 +7,9 @@
             "restricted_to_majors": "chemistry majors. Minors by permission of instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 110 and CHEM 110L; satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors. Minors by permission of instructor.",
         "courses": [

@@ -7,7 +7,9 @@
             "restricted_to_majors": "chemistry, biochemistry, and biomolecular engineering and bioinformatics majors, and chemistry minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 8B; and BIOL 20A. Enrollment is restricted to chemistry, biochemistry, and biomolecular engineering and bioinformatics majors, and chemistry minors.",
         "courses": [

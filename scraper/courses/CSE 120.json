@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 12; and CSE 13E, or CSE 13S, or ECE 13, or CSE 15 and CSE 15L. CSE 16 recommended.",
         "courses": [
             [
-                "P CSE 12"
+                "CSE 12"
             ],
             [
                 "CSE 13E",
@@ -48,8 +50,8 @@
         },
         "winter": {
             "total_seats": 294,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 234,
+            "priority": "moderate"
         }
     }
 }

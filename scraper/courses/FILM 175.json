@@ -7,14 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
-    "class_notes": "Enrollment is by application and instructor permission only. Applications and instructions can be found at this link: https://slugfilm2.ucsc.edu/secure/production_applications/ . Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course.",
+    "class_notes": "Enrollment is by application and instructor permission only. Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course. Applications and instructions can be found at this link: https://docs.google.com/document/d/1NgQf-2VAAMH3IsCWHYjvBG1oB602mD2Qe6V5ki8yors/edit?usp=sharing",
     "career": "Undergraduate",
     "gen_ed_code": "NULL",
     "type": "Studio",

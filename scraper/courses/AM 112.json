@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): AM 100 or by permission of the instructor. Enrollment is restricted to juniors and seniors.",
         "courses": [
@@ -24,8 +26,8 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 50,
-            "filled seats": 0,
+            "total_seats": 75,
+            "filled seats": 27,
             "priority": "very low"
         }
     }

@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Concurrent enrollment in BIOE 161L is required. Enrollment by permission code only, and permission granted to students who meet one of the following: 1) are currently an AAUS certified diver (Scientific diver certification) at UCSC 2) are currently an AAUS certified diver at some other institution or at UCSC but are not current with all requirements (e.g., equipment check). We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 3) Are in the Spring BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts 4) Are in the Fall BIOE 75 class. We will give you a permission code but you will need to become a \"current\" AAUS / UCSC diver before class starts Contact instructor, Pete Raimondi, for more information.",
     "career": "Undergraduate",

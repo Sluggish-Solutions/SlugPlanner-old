@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 1 or PSYC 20; and AM 3 or AM 6 or MATH 3 or MATH 4 or MATH 11A or satisfactory placement score on math placement exam or CEEB Advanced Placement Calculus AB exam.",
         "courses": [
             [
-                "P PSYC 1",
+                "PSYC 1",
                 "PSYC 20"
             ],
             [
@@ -48,8 +50,8 @@
         },
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 90,
+            "priority": "high"
         }
     }
 }

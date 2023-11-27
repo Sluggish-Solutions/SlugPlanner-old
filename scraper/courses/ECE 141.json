@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 103, and majors in the School of Engineering and Division of Physical and Biological Sciences programs, with the exception of physics majors. Prerequisites for physics majors: PHYS 116A, PHYS 116C, and PHYS 133.",
         "courses": [
             [
-                "P ECE 103"
+                "ECE 103"
             ],
             [
                 "S  E"

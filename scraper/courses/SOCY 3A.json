@@ -4,15 +4,15 @@
     "description": "Introduces students to major types of date and data analysis used in sociology. Designed to give students a foundation in understanding social science research articles, reports, and media reports used in political and policy debates. Topics include: general principles of research design, measurement, inductive and deductive modes of reasoning, experimental design, field work and ethnographic design, and reading and understanding basic quantitative forms of data and analysis.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated discussion section",
     "career": "Undergraduate",

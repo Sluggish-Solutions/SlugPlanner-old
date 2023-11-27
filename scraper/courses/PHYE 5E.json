@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "You will be evaluated on a 300 yard swim, treading water, diving to a depth of 10' and retrieving object (timed). All class dates will be weekend/late afternoon. Must be present at first class meeting. Meeting times are as follows: Saturday, October 7: 10am-12pm (prerequisite) Sunday, October 8: 10am-4pm Sunday, October 29: 10am-4pm Saturday, November 11: 10am-4pm Sunday, November 12 : 10am-4pm",
     "career": "Undergraduate",

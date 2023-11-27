@@ -7,7 +7,9 @@
             "restricted_to_majors": "Technology and Information (TIM) majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): concurrent enrollment in TIM 172A. Enrollment is restricted to Technology and Information (TIM) majors.",
         "courses": [

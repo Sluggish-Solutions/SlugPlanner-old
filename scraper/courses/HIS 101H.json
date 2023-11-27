@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated discussion sectionAll discussion sections for HIS 101H (F 10:40 ? 11:45 AM / TH 7:10 ? 8:15 PM) will be taught via remote synchronous instruction.",
     "career": "Undergraduate",

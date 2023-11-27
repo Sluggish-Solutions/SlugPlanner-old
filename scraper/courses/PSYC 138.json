@@ -7,7 +7,9 @@
             "restricted_to_majors": "psychology and cognitive science majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 1 or PSYC 20A or PSYC 20B, and PSYC 100. Enrollment is restricted to psychology and cognitive science majors.",
         "courses": [

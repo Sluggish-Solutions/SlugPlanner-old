@@ -7,7 +7,9 @@
             "restricted_to_majors": "environmental sciences majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 11B or MATH 19B or equivalent. Enrollment is restricted to environmental sciences majors.",
         "courses": [

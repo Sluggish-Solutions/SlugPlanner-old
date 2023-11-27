@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5A, PHYS 5L, PHYS 5B, PHYS 5M, PHYS 5C, PHYS 5N and PHYS 5D; or PHYS 6A, PHYS 6L, PHYS 6B, PHYS 6M, PHYS 6C, PHYS 6N, and PHYS 5D; or equivalent.",
         "courses": [
             [
-                "P",
                 [
                     "PHYS 5A PHYS 5L PHYS 5B PHYS 5M PHYS 5C PHYS 5N",
                     "PHYS 5D"
@@ -42,8 +43,8 @@
         },
         "winter": {
             "total_seats": 80,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 45,
+            "priority": "low"
         }
     }
 }

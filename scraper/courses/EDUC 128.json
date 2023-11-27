@@ -4,15 +4,15 @@
     "description": "Research and theory on the education of immigrant students. Major topics include the Americanization movement and America's changing demography, identity maintenance and change, home-school relations, and educators' roles in meeting the needs of culturally and linguistically diverse student populations.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 60,
+            "priority": "high"
         }
     }
 }

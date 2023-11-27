@@ -4,15 +4,15 @@
     "description": "Examines key issues in international trade, including  the distribution of gains, fair trading practices, and preferential trade agreements. Focuses on the political dimensions of trade, the rules of the international trade system, and conflicts within countries that international trade generates.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "politics, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to politics, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Also offered as LGST 167",
     "career": "Undergraduate",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 53,
-            "filled seats": 47,
+            "filled seats": 46,
             "priority": "high"
         }
     }

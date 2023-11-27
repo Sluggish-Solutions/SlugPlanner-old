@@ -7,15 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): CHEM 3A and previous or concurrent enrollment of CHEM 3B.",
+        "text": "Prerequisite(s): CHEM 3A",
         "courses": [
             [
-                "P CHEM 3A"
-            ],
-            [
-                "CHEM 3B"
+                "CHEM 3A"
             ]
         ]
     },
@@ -30,8 +29,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 600,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 544,
+            "priority": "high"
         }
     }
 }

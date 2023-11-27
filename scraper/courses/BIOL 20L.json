@@ -7,7 +7,9 @@
             "restricted_to_majors": "proposed majors in biochemistry and molecular biology, biology B.S., human biology, MCD biology, neuroscience, global and community health B.S., and microbiology.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A and previous or concurrent enrollment in BIOE 20B.Enrollment is restricted to proposed majors in biochemistry and molecular biology, biology B.S., human biology, MCD biology, neuroscience, global and community health B.S., and microbiology.",
         "courses": [
@@ -42,9 +44,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 224,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 135,
+            "filled seats": 135,
+            "priority": "high"
         }
     }
 }

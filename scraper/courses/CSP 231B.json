@@ -7,23 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment restricted to Coastal Science and Policy M.S. students; and to Ph.D. students who have declared the Coastal Science and Policy Designated Emphasis by permission.",
-        "courses": [
-            [
-                "E   C S"
-            ],
-            [
-                "P MS"
-            ],
-            [
-                "PD      C S"
-            ],
-            [
-                "P D E"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",
@@ -36,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 11,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 7,
+            "priority": "low"
         }
     }
 }

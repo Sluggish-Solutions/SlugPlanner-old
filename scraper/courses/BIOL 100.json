@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A and BIOE 20B; and CHEM 8B.",
         "courses": [
             [
-                "P BIOL 20A"
+                "BIOL 20A"
             ],
             [
                 "BIOE 20B"
@@ -44,9 +46,9 @@
             "priority": "moderate"
         },
         "winter": {
-            "total_seats": 300,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 60,
+            "filled seats": 57,
+            "priority": "high"
         }
     }
 }

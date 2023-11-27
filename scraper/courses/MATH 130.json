@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19A and 19B; and MATH 23A or PHYS 5A or PHYS 6A; MATH 21 and MATH 24 strongly recommended.",
         "courses": [
             [
-                "P MATH 19A"
+                "MATH 19A"
             ],
             [
                 "19B"
@@ -41,7 +43,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
+            "filled seats": 6,
             "priority": "very low"
         }
     }

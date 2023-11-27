@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: either MATH 19A and MATH 19B, or MATH 20A and MATH 20B; and MATH 21; and CSE 20; or by permission of the instructor.",
         "courses": [
             [
-                "P",
                 [
                     "MATH 19A",
                     "MATH 19B"

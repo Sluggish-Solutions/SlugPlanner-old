@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: A score of 300 or higher on (MPE), or completion of AM 3 or AM 11A or ECON 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17 is required. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17, should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.",
         "courses": [
             [
-                "P A   300",
+                "A   300",
                 "AM 3",
                 "AM 11A",
                 "ECON 11A",
@@ -48,8 +50,8 @@
         },
         "winter": {
             "total_seats": 226,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 156,
+            "priority": "low"
         }
     }
 }

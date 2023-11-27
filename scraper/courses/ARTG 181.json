@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Satisfaction of Entry Level Writing and Composition requirements, and completion of ARTG 10, ARTG 20, and one upper-division ARTG course. Seniors majoring in Art & Design: Games + Playable Media may enroll without course prerequisites.",
         "courses": [
             [
-                "P S  E L W"
+                "S  E L W"
             ],
             [
                 "C"
@@ -36,8 +38,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

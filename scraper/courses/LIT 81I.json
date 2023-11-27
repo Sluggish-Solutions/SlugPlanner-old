@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated discussion sectionPlease note: The primary lecture component of LIT 81I is offered as an asynchronous online course. Enrolling in a synchronous discussion section is required. The majority of the discussion sections are offered as online synchronous with the exception of sections LIT 81I-01O and LIT 81I-01P which will be offered as in-person discussion sections.",
     "career": "Undergraduate",

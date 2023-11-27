@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment restricted to students in the College Scholars Program.",
-        "courses": [
-            [
-                "E      C S P"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

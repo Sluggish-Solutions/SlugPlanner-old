@@ -4,15 +4,15 @@
     "description": "Comparative study of revolutionary transformations of East European, Soviet, and former Soviet nations to post-Communist political orders. Focus on reemergence of political society, social and economic problems of transition, and maintenance of many cultural norms and authority patterns associated with previous regime.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

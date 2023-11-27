@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FILM 20C.",
         "courses": [
             [
-                "P FILM 20C"
+                "FILM 20C"
             ]
         ]
     },
@@ -27,8 +29,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 45,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 28,
+            "priority": "low"
         }
     }
 }

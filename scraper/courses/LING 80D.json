@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 250,
-            "filled seats": 0,
+            "filled seats": 41,
             "priority": "very low"
         }
     }

@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -26,9 +26,9 @@
     ],
     "quarterly_info": {
         "fall": {
-            "total_seats": 50,
-            "filled seats": 25,
-            "priority": "very low"
+            "total_seats": 25,
+            "filled seats": 24,
+            "priority": "high"
         },
         "spring": {
             "total_seats": 20,
@@ -37,8 +37,8 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 16,
+            "priority": "low"
         }
     }
 }

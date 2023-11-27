@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and GE Composition requirements and LING 100.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "GE C"
@@ -38,9 +40,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 29,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 39,
+            "filled seats": 35,
+            "priority": "high"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to juniors (with instructor approval), and seniors.",
         "courses": [

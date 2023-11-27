@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior art majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior art majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 125,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 86,
+            "priority": "low"
         }
     }
 }

@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",
@@ -21,7 +21,8 @@
     "credits": "2",
     "quarters_offered": [
         "fall",
-        "spring"
+        "spring",
+        "winter"
     ],
     "quarterly_info": {
         "fall": {
@@ -32,6 +33,11 @@
         "spring": {
             "total_seats": 95,
             "filled seats": 28,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 110,
+            "filled seats": 9,
             "priority": "very low"
         }
     }

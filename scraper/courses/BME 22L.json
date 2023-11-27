@@ -7,7 +7,9 @@
             "restricted_to_majors": "bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BME 21L. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 44,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 26,
+            "priority": "low"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYE 9B or PHYE 209B, or equivalent skills; and swimming ability. Enrollment is restricted to graduate students.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 9,
+            "priority": "low"
         }
     }
 }

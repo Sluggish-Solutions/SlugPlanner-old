@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CMPM 201, or by permission of the instructor. Enrollment is restricted to graduate students.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
+            "filled seats": 11,
             "priority": "very low"
         }
     }

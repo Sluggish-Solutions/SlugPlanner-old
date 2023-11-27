@@ -7,7 +7,9 @@
             "restricted_to_majors": "declared and proposed psychology majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 100. Enrollment is restricted to declared and proposed psychology majors.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 60,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 50,
+            "filled seats": 50,
+            "priority": "high"
         }
     }
 }

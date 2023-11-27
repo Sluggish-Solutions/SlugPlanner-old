@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EART 5 or EART 10 or EART 20.",
         "courses": [
             [
-                "P EART 5",
+                "EART 5",
                 "EART 10",
                 "EART 20"
             ]
@@ -29,8 +31,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

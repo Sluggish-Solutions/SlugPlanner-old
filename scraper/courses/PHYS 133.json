@@ -7,7 +7,9 @@
             "restricted_to_majors": "physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J, or CSE 14, or CSE 20, or ASTR 119, or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
         "courses": [

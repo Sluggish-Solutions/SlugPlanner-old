@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 11B or MATH 19B or MATH 20B or AM 15B or AP calculus BC exam score of 4 or 5.",
         "courses": [
             [
-                "P MATH 11B",
+                "MATH 11B",
                 "MATH 19B",
                 "MATH 20B",
                 "AM 15B",
@@ -31,9 +33,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 60,
+            "filled seats": 48,
+            "priority": "moderate"
         }
     }
 }

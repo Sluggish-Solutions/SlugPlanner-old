@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "TOPIC: Feminism, Human rights, and the Carceral State. This course applies an intersectional feminist approach to analyzing human rights abuses in relation to the carceral state. Students will examine how systematic racism, white privilege, and colorism subject people of color, especially people who are Black, to heightened incarceration rates in the United States.",
     "career": "Undergraduate",
@@ -37,8 +37,8 @@
         },
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 24,
+            "priority": "low"
         }
     }
 }

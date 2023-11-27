@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 1C, CHEM 3C, or CHEM 4B; and PHYS 6A or PHYS 5A; and MATH 22 or MATH 23B.",
         "courses": [
             [
-                "P CHEM 1C CHEM 3C",
+                "CHEM 1C CHEM 3C",
                 "CHEM 4B"
             ],
             [
@@ -36,8 +38,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 75,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 49,
+            "priority": "low"
         }
     }
 }

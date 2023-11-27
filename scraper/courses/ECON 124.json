@@ -7,7 +7,9 @@
             "restricted_to_majors": "undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the applied mathematics and finance program.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 113 or ECON 216. Enrollment is restricted to undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the applied mathematics and finance program.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 45,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 30,
+            "priority": "low"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 135,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: ECE 177 or equivalent or instructor approval. Enrollment is restricted to seniors.",
         "courses": [

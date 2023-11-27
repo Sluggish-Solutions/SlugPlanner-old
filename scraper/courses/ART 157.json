@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Arts field research Sweeney Granite Mountains Desert Research Center: Mojave trip dates: depart morning November 9th - return evening of Monday November 13. Four Friday morning (9-11am) zoom meetings will also be held as part of the course; specific dates to be announced by the instructors at the start of the quarter. Enrollment by permission of instructor via application process. Please contact instructor for information on the application process.",
     "career": "Undergraduate",

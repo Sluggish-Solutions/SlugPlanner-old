@@ -6,15 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to economics Ph.D. students or by permission of the instructor.",
-        "courses": [
-            [
-                "D"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Economics Ph.D. students will enroll in this course on the first day of instruction. Please contact the economics graduate programs coordinator for more information.",
     "career": "Graduate",

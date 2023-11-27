@@ -7,7 +7,9 @@
             "restricted_to_majors": "School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 135 and ECE 135L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
         "courses": [

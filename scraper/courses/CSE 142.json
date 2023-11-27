@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 40 or STAT 132; and CSE 101; and AM 30, or MATH 22, or MATH 23A; and STAT 131 or CSE 107.",
         "courses": [
             [
-                "P CSE 40",
+                "CSE 40",
                 "STAT 132"
             ],
             [
@@ -46,7 +48,7 @@
         },
         "winter": {
             "total_seats": 80,
-            "filled seats": 0,
+            "filled seats": 40,
             "priority": "very low"
         }
     }

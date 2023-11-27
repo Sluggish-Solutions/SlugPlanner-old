@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A, BIOE 20B, and BIOE 20C; BIOE 107 or BIOE 140 recommended. Enrollment is restricted to juniors and seniors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 85,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 85,
+            "priority": "high"
         }
     }
 }

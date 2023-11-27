@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
         "courses": [
             [
-                "P PHIL 9"
+                "PHIL 9"
             ],
             [
                 "PHIL 11",
@@ -42,7 +44,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
+            "filled seats": 12,
             "priority": "very low"
         }
     }

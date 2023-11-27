@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior Spanish studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SPAN 114 or SPHS 115.  Enrollment is restricted to senior Spanish studies majors.",
         "courses": [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: CSE 150 and CSE 101. Concurrent enrollment in CSE 156 is required.",
         "courses": [
             [
-                "P CSE 150"
+                "CSE 150"
             ],
             [
                 "CSE 101 C   CSE 156"
@@ -30,8 +32,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 50,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 50,
+            "priority": "high"
         }
     }
 }

@@ -4,15 +4,15 @@
     "description": "Explores the intersection between language, diversity, and education to examine the education of youth who have been historically underserved by schools. Topics include dialect and register variation; language policy; and sociocultural perspectives on learning/teaching of language.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

@@ -7,7 +7,9 @@
             "restricted_to_majors": "art majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): One course from ART 15, ART 20G, ART 20J, ART 20L, ART 110, ART 111, ART 112; and two from  ART 20H, ART 20I, ART 20K, ART 26; or by permission of instructor. Enrollment is restricted to art majors.",
         "courses": [
@@ -31,7 +33,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 12,
             "priority": "very low"
         }
     }

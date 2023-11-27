@@ -4,15 +4,15 @@
     "description": "Engages with crosscutting ideas and concepts central to the major including constructions of community in social-change efforts and the institutionalization of social movements in third-sector organizations. Deepens students' understanding of the opportunities and obstacles embedded in various avenues of social action.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "sophomore, junior, and senior community studies majors and proposed majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to sophomore, junior, and senior community studies majors and proposed majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
+            "filled seats": 20,
             "priority": "very low"
         }
     }

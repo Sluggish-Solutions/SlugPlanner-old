@@ -7,7 +7,9 @@
             "restricted_to_majors": "psychology, pre-psychology, cognitive science, and legal studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 100; and PSYC 40 is highly recommended prior to taking this course. Enrollment is restricted to psychology, pre-psychology, cognitive science, and legal studies majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 240,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 211,
+            "priority": "high"
         }
     }
 }

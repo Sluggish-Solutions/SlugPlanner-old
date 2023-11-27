@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 45
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to first-year college members.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -31,7 +31,7 @@
         },
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
+            "filled seats": 8,
             "priority": "very low"
         }
     }

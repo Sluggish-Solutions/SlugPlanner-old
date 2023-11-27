@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "While the first century BCE poet Catullus is primarily known for his love poems to a woman called Lesbia, political figures (Julius Caesar), ancient Roman society, and myth also appear in his work. We will read selected carmina Catulli in the original Latin with attention to the poet?s use of grammar and syntax, meter, and rhetorical figures, as well as to sexuality and gender in ancient Rome, Catullus? significance in Latin literary history and his influence on lyric poetry composed in English. This course is the third in a three-course sequence and is intended for students who have taken both Latin 1 and Latin 2 or the equivalent with the instructor?s approval",
     "career": "Undergraduate",

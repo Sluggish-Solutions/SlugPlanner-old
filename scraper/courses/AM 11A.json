@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Students who have already taken MATH 11A or MATH 19A should not take this course. Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6, or MATH 3.",
         "courses": [
             [
-                "MPE 300",
+                "300",
                 "AM 3",
                 "AM 6",
                 "MATH 3"
@@ -42,8 +44,8 @@
         },
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 65,
+            "priority": "low"
         }
     }
 }

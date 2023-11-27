@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): POLI 105B or POLI 105C.",
         "courses": [
             [
-                "P POLI 105B",
+                "POLI 105B",
                 "POLI 105C"
             ]
         ]
@@ -34,8 +36,8 @@
         },
         "winter": {
             "total_seats": 50,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 50,
+            "priority": "high"
         }
     }
 }

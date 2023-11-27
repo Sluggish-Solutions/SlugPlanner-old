@@ -7,7 +7,9 @@
             "restricted_to_majors": "human biology majors and global community health B.A. and B.S. majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SPAN 4; or SPHS 4, or SPHS 5, or SPHS 6; or placement into SPAN 5 or SPHS 4 via the online Spanish Placement Examination. Enrollment is restricted to human biology majors and global community health B.A. and B.S. majors.",
         "courses": [
@@ -42,8 +44,8 @@
         },
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 25,
+            "priority": "moderate"
         }
     }
 }

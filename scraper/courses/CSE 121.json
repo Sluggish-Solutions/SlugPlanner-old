@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 12, CSE 100, CSE 100L; and CSE 13E or CSE 13S or ECE 13 or CSE 15 and CSE 15L; and ECE 101, ECE 101L, PHYS 5C and PHYS 5N.",
         "courses": [
             [
-                "P CSE 12 CSE 100 CSE 100L"
+                "CSE 12 CSE 100 CSE 100L"
             ],
             [
                 "CSE 13E",

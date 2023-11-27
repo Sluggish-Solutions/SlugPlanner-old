@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Topic: Affect Studies. Across the disciplines, scholarly interest in feelings, emotion, and affect has soared over the last two+ decades. Affect scholars take up a diversity of topics and deploy a variety of vocabularies, but all are interested in the role of feelings in public life",
     "career": "Graduate",

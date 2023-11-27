@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 1C and MATH 11B or MATH 19B. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
         "courses": [
             [
-                "P CHEM 1C"
+                "CHEM 1C"
             ],
             [
                 "MATH 11B",
@@ -31,8 +33,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 90,
+            "priority": "high"
         }
     }
 }

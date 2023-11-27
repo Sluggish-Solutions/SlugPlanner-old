@@ -7,7 +7,9 @@
             "restricted_to_majors": "juniors and seniors majoring in Spanish studies, language studies or linguistics.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SPAN 6 or SPHS 6; and SPAN 150.  Enrollment is restricted to juniors and seniors majoring in Spanish studies, language studies or linguistics.",
         "courses": [

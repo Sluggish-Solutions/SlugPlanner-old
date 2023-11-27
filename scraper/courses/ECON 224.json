@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 211A, ECON 211B and ECON 211C, or ECON 216 and ECON 217. Recommended prerequisites: M.S. APEF students should have A?s in the econometrics sequence and be comfortable with linear algebra. Experience with R, MATLAB, Python, or related programming language is very strongly recommended, as the course will not teach basic programming.",
         "courses": [
             [
-                "P ECON 211A ECON 211B"
+                "ECON 211A ECON 211B"
             ],
             [
                 "ECON 211C",

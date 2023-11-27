@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Previous or concurrent enrollment in ENVS 115L and ENVS 100 and ENVS 100L, or permission of instructor. Course in computer science, Earth science, math, or geography recommended.",
         "courses": [
             [
-                "P P",
+                "P",
                 "ENVS 115L"
             ],
             [

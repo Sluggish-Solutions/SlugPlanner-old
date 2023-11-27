@@ -4,13 +4,17 @@
     "description": "This is a hands-on studio course, intended to give students an understanding of the techniques used to create characters for use in video games. Through this course, students will understand and develop the skills necessary to take a video game character design through all of the stages necessary to have a finished character for use in 2D or 3D video games. You will learn industry tools and techniques to be an effective game artist. (Formerly, Digital Drawing/Painting for Game Design.)\n May be repeated for credit.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior art and design: games and playable media  majors and proposed majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior art and design: games and playable media  majors and proposed majors.",
         "courses": [
+            [],
+            [],
             []
         ]
     },
@@ -37,8 +41,8 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 60,
+            "priority": "high"
         }
     }
 }

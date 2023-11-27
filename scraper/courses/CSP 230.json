@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Concurrent enrollment in CSP 200, CSP 210, and CSP 220. Enrollment restricted to coastal science and policy graduate students.",
         "courses": [
             [
-                "P C   CSP 200 CSP 210"
+                "C   CSP 200 CSP 210"
             ],
             [
                 "CSP 220 E"

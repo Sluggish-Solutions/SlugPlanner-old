@@ -6,15 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students. Undergraduates admitted with permission of the instructor.",
-        "courses": [
-            [
-                "U"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Please note that the instructor for this course is Professor Yu Zhang. His email address iszhangy@ucsc.edu",
     "career": "Graduate",
@@ -27,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
+            "filled seats": 5,
             "priority": "very low"
         }
     }

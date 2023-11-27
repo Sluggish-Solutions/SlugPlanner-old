@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 100 or CSE 101. Enrollment is restricted to sophomores juniors, and seniors. Familiarity with basic group theory is recommended.",
         "courses": [

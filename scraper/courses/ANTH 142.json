@@ -4,15 +4,15 @@
     "description": "An ethnographically informed consideration of law, dispute management, and social control in a range of societies including the contemporary U.S. Topics include conflict management processes, theories of justice, legal discourse, and relations among local, national, and transnational legal systems.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "anthropology and legal studies majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to anthropology and legal studies majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -31,7 +31,7 @@
         },
         "winter": {
             "total_seats": 50,
-            "filled seats": 0,
+            "filled seats": 20,
             "priority": "very low"
         }
     }

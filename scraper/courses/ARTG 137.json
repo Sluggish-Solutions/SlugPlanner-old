@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ARTG 80G and ARTG 80I; or ARTG 10 and (ARTG 20 or ARTG 30) and (ARTG 40 or ARTG 50).",
         "courses": [
             [
-                "P",
                 [
                     "ARTG 80G",
                     "ARTG 80I"

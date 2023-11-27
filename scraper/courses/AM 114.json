@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): AM 20; or MATH 21 and MATH 24; or PHYS 116A. Enrollment is restricted to sophomores, juniors and seniors.",
         "courses": [

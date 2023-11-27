@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "upper_credits_limit": 5,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EDUC 200. Enrollment is restricted to MA/credential students.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 69,
-            "filled seats": 0,
+            "filled seats": 11,
             "priority": "very low"
         }
     }

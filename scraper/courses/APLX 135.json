@@ -4,20 +4,15 @@
     "description": "Introduces the theories of second-language acquisition and their connection to second-language teaching. Students develop cutting-edge teaching and testing materials, and engage with current scholarship on language instruction. Recommend at least one year of college-level study of a foreign language, or its equivalent. Enrollment is restricted to applied linguistics and multiculturalism, linguistics, and language studies majors, or by permission of instructor. Students cannot receive credit for this course and APLX 235.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "applied linguistics and multilinguialism, linguistics, and language studies majors, or by permission of instructor. Students cannot receive credit for this course and APLX 235.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to applied linguistics and multilinguialism, linguistics, and language studies majors, or by permission of instructor. Students cannot receive credit for this course and APLX 235.",
-        "courses": [
-            [
-                "S"
-            ],
-            [
-                "APLX 235"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): GERM 1 or GERM 1A or placement by examination.",
         "courses": [
             [
-                "P GERM 1",
+                "GERM 1",
                 "GERM 1A"
             ]
         ]
@@ -28,7 +30,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 50,
-            "filled seats": 0,
+            "filled seats": 22,
             "priority": "very low"
         }
     }

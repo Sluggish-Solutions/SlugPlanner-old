@@ -47,8 +47,8 @@ def get_courses(quarter, result_dict):
 
     class_id_links = []
 
-    # while True:
-    for i in range(1):
+    while True:
+    # for i in range(1):
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 

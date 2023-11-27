@@ -7,7 +7,9 @@
             "restricted_to_majors": "biology B.S.; human biology; neuroscience; and molecular, cell, and developmental biology majors. Other students may enroll with instructor permission.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): STAT 5, or STAT 7 and STAT 7L; BIOL 105 or BME 105; and BIOL 101 or BIOL 115. Enrollment is restricted to biology B.S.; human biology; neuroscience; and molecular, cell, and developmental biology majors. Other students may enroll with instructor permission.",
         "courses": [
@@ -32,9 +34,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 76,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

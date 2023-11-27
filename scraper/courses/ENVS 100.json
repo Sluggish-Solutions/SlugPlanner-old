@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ENVS 23 or CHEM 1A, CHEM 3B, or CHEM 4B; ENVS 24 or BIOE 20C; ENVS 25; and STAT 7/L or STAT 17/L or ECON 113 or OCEA 90; and one from: ANTH 2, SOCY 1,10,15, PHIL 21,22,24,28, or 80G. Concurrent enrollment in 100L required.",
         "courses": [
             [
-                "P ENVS 23",
+                "ENVS 23",
                 "CHEM 1A CHEM 3B",
                 "CHEM 4B"
             ],
@@ -52,8 +54,8 @@
         },
         "winter": {
             "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 132,
+            "priority": "high"
         }
     }
 }

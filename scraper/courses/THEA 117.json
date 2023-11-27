@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This course is an introductory Costume Design course; it is intended to give an understanding of the principles and elements of the Costume Design process. From the research and interdisciplinary collaboration to the role of the costume designer during construction and beyond. This class will walk you through critical thinking exercises, hands-on activities, and lectures that will review the role of a Costume Designer in a performance.",
     "career": "Undergraduate",

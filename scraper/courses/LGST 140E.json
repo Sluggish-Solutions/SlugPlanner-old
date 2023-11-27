@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): LGST 10, and either of LGST 111A or LGST 111B.",
         "courses": [
             [
-                "P LGST 10"
+                "LGST 10"
             ],
             [
                 "LGST 111A",

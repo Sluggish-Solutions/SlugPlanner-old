@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior psychology majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and PSYC 100. Enrollment is restricted to senior psychology majors.",
         "courses": [

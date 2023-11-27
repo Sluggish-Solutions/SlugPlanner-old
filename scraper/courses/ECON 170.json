@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 100A or ECON 100M; and ECON 113.",
         "courses": [
             [
-                "P ECON 100A",
+                "ECON 100A",
                 "ECON 100M"
             ],
             [
@@ -30,9 +32,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 45,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 44,
+            "filled seats": 30,
+            "priority": "low"
         }
     }
 }

@@ -6,13 +6,15 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160; and CSE 107 or STAT 131; and concurrent enrollment in BIOC 100A.",
         "courses": [
             [
-                "U     BME 160"
+                "BME 160"
             ],
             [
                 "CSE 107",

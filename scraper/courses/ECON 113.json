@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 1 and ECON 2; STAT 17 and STAT 17L; and one of the following: AM 11B or ECON 11B, or MATH 22, or MATH 23A, or AM 30. ECON 100A or ECON 100B strongly recommended as preparation.",
         "courses": [
             [
-                "P ECON 1"
+                "ECON 1"
             ],
             [
                 "ECON 2"
@@ -56,8 +58,8 @@
         },
         "winter": {
             "total_seats": 180,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 116,
+            "priority": "low"
         }
     }
 }

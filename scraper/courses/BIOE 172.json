@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": true,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A, BIOE 20B, BIOE 20C, and BIOL 105, and satisfaction of the Entry Level Writing and Composition requirements.",
         "courses": [
             [
-                "P BIOL 20A BIOE 20B BIOE 20C"
+                "BIOL 20A BIOE 20B BIOE 20C"
             ],
             [
                 "BIOL 105"
@@ -31,8 +33,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 30,
+            "priority": "high"
         }
     }
 }

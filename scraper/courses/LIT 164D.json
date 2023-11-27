@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This course examines poems, novels, memoirs, and short stories by Jewish writers who have worked in or on a wide variety of urban and cosmopolitan settings over the course of the last century. It underscores the diversity of Jewish life and literature during this period, while placing each writer within the context of a particular Jewish community. A basic premise of the course is that the study of literary texts benefits from exploration of their historical contexts: starting with the writer's biography and the history of the place(s) in which that writer sets his or her work. Authors include Emma Lazarus and Anzia Yezierska (New York), Isaac Bashevis Singer (Warsaw), Franz Kakfa (Prague), Bernard Malamud (Kiev), Isaac Babel (Odessa), Edmund de Waal (Vienna), Lucette Lagnado (Cairo), Andre Aciman (Alexandria), and Amos Oz (Jerusalem).",
     "career": "Undergraduate",

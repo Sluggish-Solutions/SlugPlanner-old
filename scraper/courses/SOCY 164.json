@@ -4,15 +4,15 @@
     "description": "Through comparative analysis of texts by several social theorists, explores the rise and consequences of capitalism. How has capitalism affected how humans understand and act in the world? How do oppressions along the lines of race, gender, sexuality, and nations intersect with capitalism? Is resistance desirable and/or possible?",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior sociology, global information and enterprise, and combined Latin American and Latin Studies/sociology majors, proposed majors, and minors, or by instructor permission.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior sociology, global information and enterprise, and combined Latin American and Latin Studies/sociology majors, proposed majors, and minors, or by instructor permission.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -24,9 +24,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 37,
+            "filled seats": 34,
+            "priority": "high"
         }
     }
 }

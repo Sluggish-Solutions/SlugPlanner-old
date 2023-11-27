@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to College Scholar Students, and or by permission of the instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lab and associated secondary lab",
     "career": "Undergraduate",
@@ -31,8 +31,8 @@
         },
         "winter": {
             "total_seats": 11,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 11,
+            "priority": "high"
         }
     }
 }

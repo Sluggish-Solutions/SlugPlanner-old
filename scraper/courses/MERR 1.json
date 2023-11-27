@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 45
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to first-year college members.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "All incoming Merrill frosh must take Merrill 1 in the fall of their 1st year at UC Santa Cruz.",
     "career": "Undergraduate",
@@ -31,7 +31,7 @@
         },
         "winter": {
             "total_seats": 28,
-            "filled seats": 0,
+            "filled seats": 13,
             "priority": "very low"
         }
     }

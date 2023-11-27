@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: Students should have an understanding of Feedback Controls and Programming (Python preferred). It is recommended but not required that students have a background in Sensors, Microcontrollers, Kalman Filtering, and Estimation. Enrollment is restricted to graduate students.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

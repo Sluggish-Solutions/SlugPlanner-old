@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This course provides an overview on 20th century modern dance in the United States and India. We will examine the work of selected modern dance artists through the lenses of Orientalism, gender, sexuality, race, nationalism, and transnationalism. This is a hybrid theory/practice course, whereby we engage critically with course material through analytical writing/discussion and artistic interventions.",
     "career": "Undergraduate",

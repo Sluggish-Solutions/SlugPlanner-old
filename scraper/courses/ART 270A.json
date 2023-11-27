@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ART 210A, ART 210B, ART 210C, and ART 220.",
         "courses": [
             [
-                "P ART 210A ART 210B ART 210C"
+                "ART 210A ART 210B ART 210C"
             ],
             [
                 "ART 220"

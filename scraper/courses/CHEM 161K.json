@@ -7,11 +7,15 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
+        "text": "Prerequisite(s): CHEM 161J.",
         "courses": [
-            []
+            [
+                "CHEM 161J"
+            ]
         ]
     },
     "class_notes": "NULL",
@@ -24,9 +28,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 0,
+            "total_seats": 16,
             "filled seats": 0,
-            "priority": "unavailible"
+            "priority": "very low"
         }
     }
 }

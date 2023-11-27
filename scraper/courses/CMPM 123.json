@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: CSE 101 or CMPM 35.",
         "courses": [
             [
-                "P CSE 101",
+                "CSE 101",
                 "CMPM 35"
             ]
         ]
@@ -34,7 +36,7 @@
         },
         "winter": {
             "total_seats": 120,
-            "filled seats": 0,
+            "filled seats": 32,
             "priority": "very low"
         }
     }

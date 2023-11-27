@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 1, ECON 2, and ECON 113.",
         "courses": [
             [
-                "P ECON 1 ECON 2"
+                "ECON 1 ECON 2"
             ],
             [
                 "ECON 113"
@@ -29,9 +31,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 47,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 50,
+            "filled seats": 44,
+            "priority": "high"
         }
     }
 }

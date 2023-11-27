@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19B or MATH 20B, and AM 10 or MATH 21.",
         "courses": [
@@ -38,8 +40,8 @@
         },
         "winter": {
             "total_seats": 180,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 180,
+            "priority": "high"
         }
     }
 }

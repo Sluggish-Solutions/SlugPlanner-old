@@ -7,7 +7,9 @@
             "restricted_to_majors": "psychology and cognitive science majors and minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 10 and PSYC 100.  Enrollment is restricted to psychology and cognitive science majors and minors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 0,
-            "filled seats": 123,
+            "filled seats": 122,
             "priority": "unavailible"
         }
     }

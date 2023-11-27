@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 102 or equivalent or instructor consent. Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory, and overall mathematical maturity.",
         "courses": [
             [
-                "P CSE 102",
+                "CSE 102",
                 "S"
             ],
             []

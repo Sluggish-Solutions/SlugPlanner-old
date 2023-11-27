@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ART 20G and two courses from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment restricted to art majors.",
         "courses": [
             [
-                "P ART 20G"
+                "ART 20G"
             ],
             [
                 "ART 15 ART 20H ART 20I ART 20J ART 20K ART 20L ART 26 E"

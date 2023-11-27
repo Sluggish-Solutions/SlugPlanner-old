@@ -7,15 +7,37 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in ENVS 100 is required.",
+        "text": "Prerequisite(s): ENVS 23 or CHEM 1A; ENVS 24 or BIOE 20C; ENVS 25; and AM 7 and AM 7L or ECON 113 or OCEA 90; and one from: ANTH 2, SOCY 1, SOCY 10, SOCY 15, PHIL 21, PHIL 22, PHIL 24, PHIL 28, or PHIL 80G.  Satisfaction of the Entry Level Writing and Composition requirements.",
         "courses": [
             [
-                "P S   E L W"
+                "ENVS 23",
+                "CHEM 1A"
             ],
             [
-                "C  C   ENVS 100"
+                "ENVS 24",
+                "BIOE 20C"
+            ],
+            [
+                "ENVS 25"
+            ],
+            [
+                "AM 7"
+            ],
+            [
+                "AM 7L",
+                "ECON 113",
+                "OCEA 90"
+            ],
+            [
+                "ANTH 2 SOCY 1 SOCY 10 SOCY 15 PHIL 21 PHIL 22 PHIL 24 PHIL 28",
+                "PHIL 80G  S   E L W"
+            ],
+            [
+                "C"
             ]
         ]
     },
@@ -35,9 +57,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 160,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 140,
+            "filled seats": 132,
+            "priority": "high"
         }
     }
 }

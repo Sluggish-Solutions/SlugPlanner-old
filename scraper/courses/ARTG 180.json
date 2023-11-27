@@ -7,7 +7,9 @@
             "restricted_to_majors": "seniors majoring in art and design: games and playable media.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors majoring in art and design: games and playable media.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
         }
     }
 }

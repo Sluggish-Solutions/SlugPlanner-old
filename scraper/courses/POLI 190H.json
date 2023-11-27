@@ -4,15 +4,15 @@
     "description": "What is democracy? How can we identify it? How do we understand and identify political participation? What are the factors behind it? What role does protest have in democratic politics? These and similar questions are addressed in this course that focuses on topics of democratic politics in the United States and abroad.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "senior politics and combined politics/Latin American and Latino studies majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to senior politics and combined politics/Latin American and Latino studies majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

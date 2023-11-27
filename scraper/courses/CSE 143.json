@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 101, and CSE 107 or STAT 131. Python competence equivalent to CSE 30 is highly recommended.",
         "courses": [
             [
-                "P CSE 101"
+                "CSE 101"
             ],
             [
                 "CSE 107",

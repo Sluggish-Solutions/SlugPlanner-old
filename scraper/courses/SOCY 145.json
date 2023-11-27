@@ -4,15 +4,15 @@
     "description": "Examines conflicting views on the development and state of modern masculinity as adaptation, transitional phase, or pathology. Did men lose the \"gender war\"? Do boys need rescuing? What are common and divergent social experiences of men within race, class, gender, culture, era? An introductory sociology course recommended.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": " junior and senior majors, proposed majors, and minors in sociology, psychology, global information and social enterprise, and Latin American studies/sociology combined majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to  junior and senior majors, proposed majors, and minors in sociology, psychology, global information and social enterprise, and Latin American studies/sociology combined majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

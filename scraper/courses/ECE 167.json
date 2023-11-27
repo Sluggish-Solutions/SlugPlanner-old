@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 13E or ECE 13; and ECE 103 and ECE 103L.",
         "courses": [
             [
-                "P CSE 13E",
+                "CSE 13E",
                 "ECE 13"
             ],
             [
@@ -40,8 +42,8 @@
         },
         "winter": {
             "total_seats": 70,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 62,
+            "priority": "high"
         }
     }
 }

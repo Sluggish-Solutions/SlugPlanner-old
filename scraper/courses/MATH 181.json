@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19B or MATH 20B. MATH 100 is strongly recommended for preparation.",
         "courses": [
             [
-                "P MATH 19B",
+                "MATH 19B",
                 "MATH 20B MATH 100"
             ]
         ]
@@ -27,9 +29,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 50,
+            "filled seats": 15,
+            "priority": "very low"
         }
     }
 }

@@ -4,15 +4,15 @@
     "description": "Situates ongoing debates around feminist theory and practice within the context of political theory, the role of the state, and the position of women in contemporary (predominantly Western) society. Engages with classical political theory, second wave feminism, and the role of the state on matters pertaining to pornography and prostitution.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "politics, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to politics, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

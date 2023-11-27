@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19A or MATH 11A or MATH 20A and EART 5 or EART 10 or EART 20.",
         "courses": [
             [
-                "P MATH 19A",
+                "MATH 19A",
                 "MATH 11A",
                 "MATH 20A"
             ],

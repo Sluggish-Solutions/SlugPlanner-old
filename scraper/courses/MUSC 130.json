@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MUSC 30C and Piano Proficiency Exam.",
         "courses": [
             [
-                "P MUSC 30C"
+                "MUSC 30C"
             ],
             [
                 "P P E"
@@ -36,7 +38,7 @@
         },
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
+            "filled seats": 2,
             "priority": "very low"
         }
     }

@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Prerequisite(s): MERR 35A. Enrollment is restricted to juniors and seniors in the Arts, Humanities, and Social Sciences, and by instructor permission. Students in the EOP program are given priority.",
     "career": "Undergraduate",

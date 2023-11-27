@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This hybrid course features both in-person and asynchronous components. Weekly lectures are pre-recorded and available on Canvas, and students are required to watch them before they attend class on Thursdays to engage in interactive learning activities.",
     "career": "Undergraduate",

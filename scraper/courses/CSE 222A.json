@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 122 or equivalent.",
         "courses": [
             [
-                "P CSE 122"
+                "CSE 122"
             ]
         ]
     },
@@ -33,8 +35,8 @@
         },
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 26,
+            "priority": "low"
         }
     }
 }

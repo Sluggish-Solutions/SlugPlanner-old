@@ -42,7 +42,7 @@ class Course:
         self.quarters_offered = self.get_quarters_offered()
         self.quarterly_info = self.get_quarterly_info()
         
-        self.folder_path = "scraper/courses/test"
+        self.folder_path = "scraper/courses"
         
     def get_quarters_offered(self):
         quarters = set()

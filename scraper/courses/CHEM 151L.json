@@ -7,18 +7,20 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s):CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151A is required.",
+        "text": "Prerequisite(s):CHEM 8B and CHEM 8M and CHEM 163A.",
         "courses": [
             [
-                "PCHEM 8B"
+                "CHEM 8B"
             ],
             [
                 "CHEM 8M"
             ],
             [
-                "CHEM 163A C   CHEM 151A"
+                "CHEM 163A"
             ]
         ]
     },
@@ -33,8 +35,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 75,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 43,
+            "priority": "low"
         }
     }
 }

@@ -4,15 +4,15 @@
     "description": "Examines revolt, rebellion, and revolution as ideas in political theory, and as prisms through which we can analyze historical events. Introduces works of political theory (historical and contemporary), and looks at historical events considered to be revolts and/or revolutions.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to politics and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

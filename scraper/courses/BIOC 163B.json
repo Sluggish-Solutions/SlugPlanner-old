@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 1B and CHEM 1C; PHYS 6A or PHYS 5A; and previous or concurrent enrollment in BIOC 100A. \n.",
         "courses": [
             [
-                "P CHEM 1B"
+                "CHEM 1B"
             ],
             [
                 "CHEM 1C"

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Corequisite(s): CSP 290A, CSP 290B, or CSP 290C. Enrollment is restricted to coastal science and policy graduate students.",
         "courses": [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 102 and PHYS 105; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107, or equivalent. Basic programming experience in Python or similar language.",
         "courses": [
             [
-                "P PHYS 102"
+                "PHYS 102"
             ],
             [
                 "PHYS 105"

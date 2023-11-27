@@ -4,15 +4,15 @@
     "description": "Explores social and cultural aspects of human sexuality and reproduction, including how and why meanings and behaviors are contested. Analyzes sexuality and reproduction as forms of social and political control as well as cultural expression and self-determination.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior sociology, critical race and ethnic studies, feminist studies, Latin American/sociology combined, and global information and social enterprise majors, proposed majors, and minors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior sociology, critical race and ethnic studies, feminist studies, Latin American/sociology combined, and global information and social enterprise majors, proposed majors, and minors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

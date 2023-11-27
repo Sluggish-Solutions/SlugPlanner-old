@@ -7,7 +7,9 @@
             "restricted_to_majors": "proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and global information and social enterprise studies minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: SOCY 1 or SOCY 10 or SOCY 15 or LGST 10 or by permission of the instructor. Enrollment is restricted to proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and global information and social enterprise studies minors.",
         "courses": [

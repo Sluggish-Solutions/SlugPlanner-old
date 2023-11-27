@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: PHYS 5C and PHYS 5N. Enrollment is restricted to juniors and seniors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
+            "filled seats": 6,
             "priority": "very low"
         }
     }

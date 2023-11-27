@@ -7,17 +7,23 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157 is required.",
+        "text": "Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174.",
         "courses": [
             [
-                "P",
-                [
-                    "ECE 101",
-                    "ECE 101L ECE 103"
-                ],
-                "C   ECE 157"
+                "ECE 101"
+            ],
+            [
+                "ECE 101L ECE 103"
+            ],
+            [
+                "ECE 171"
+            ],
+            [
+                "ECE 174"
             ]
         ]
     },
@@ -38,7 +44,7 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
+            "filled seats": 11,
             "priority": "very low"
         }
     }

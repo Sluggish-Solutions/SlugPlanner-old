@@ -7,7 +7,9 @@
             "restricted_to_majors": "majors and minors in Earth sciences and the combined majors with anthropology and environmental studies.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EART 5, or EART 10, or EART 20; and satisfaction of the Entry Level Writing and Composition requirements. EART 110B is recommended. Enrollment is restricted to majors and minors in Earth sciences and the combined majors with anthropology and environmental studies.",
         "courses": [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5A and MATH 19B or MATH 20B; concurrent enrollment in PHYS 5M is required.",
         "courses": [
             [
-                "P PHYS 5A"
+                "PHYS 5A"
             ],
             [
                 "MATH 19B",

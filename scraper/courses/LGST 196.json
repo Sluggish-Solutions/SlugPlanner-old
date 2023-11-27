@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior legal studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior legal studies majors.",
         "courses": [
@@ -37,8 +39,8 @@
         },
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 37,
+            "priority": "high"
         }
     }
 }

@@ -4,15 +4,15 @@
     "description": "Examination of selected issues, controversies, and theories relevant to \"security\" between and among nations. Topics vary, but may include: war, peace, nuclear proliferation, arms control, military and foreign policies, alternative conceptions of security.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "senior politics and Latin American and Latino studies/politics combined majors .",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors .",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 20,
+            "priority": "high"
         }
     }
 }

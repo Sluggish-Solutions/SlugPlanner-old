@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 1A, CHEM 3A, or CHEM 4A.",
         "courses": [
             [
-                "P CHEM 1A CHEM 3A",
+                "CHEM 1A CHEM 3A",
                 "CHEM 4A"
             ]
         ]
@@ -39,9 +41,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 300,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 200,
+            "filled seats": 183,
+            "priority": "high"
         }
     }
 }

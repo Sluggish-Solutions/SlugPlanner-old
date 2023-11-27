@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): HEBR 1 or by consent of instructor.",
         "courses": [
             [
-                "P HEBR 1"
+                "HEBR 1"
             ]
         ]
     },
@@ -27,7 +29,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 5,
             "priority": "very low"
         }
     }

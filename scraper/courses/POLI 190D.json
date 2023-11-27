@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior politics majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): two of the following: POLI 103, POLI 105A, POLI 105B, POLI 105C, POLI 105D, POLI 109, or POLI 115; or by permission of instructor. Enrollment is restricted to senior politics majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 15,
+            "priority": "low"
         }
     }
 }

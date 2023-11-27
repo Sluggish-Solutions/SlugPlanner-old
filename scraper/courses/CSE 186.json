@@ -7,7 +7,9 @@
             "restricted_to_majors": "juniors and seniors majoring in computer engineering, computer science, and computer game design.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 15 and CSE 15L, or CSE 30, or CSE 101. Enrollment is restricted to juniors and seniors majoring in computer engineering, computer science, and computer game design.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 76,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 100,
+            "filled seats": 100,
+            "priority": "high"
         }
     }
 }

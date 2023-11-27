@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 1 and ECON 2; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30.",
         "courses": [
             [
-                "P ECON 1"
+                "ECON 1"
             ],
             [
                 "ECON 2"
@@ -49,8 +51,8 @@
         },
         "winter": {
             "total_seats": 240,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 155,
+            "priority": "low"
         }
     }
 }

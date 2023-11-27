@@ -7,7 +7,9 @@
             "restricted_to_majors": "declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology and Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 109L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, BIOL 186L, and METX 119L.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 100 and BIOL 101; or BIOC 100A and BIOC 100B; and BIOL 101L or BIOL 102L or BIOL 107L; and BIOL 105. Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology and Neuroscience B.S. majors.  Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 109L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, BIOL 186L, and METX 119L.",
         "courses": [

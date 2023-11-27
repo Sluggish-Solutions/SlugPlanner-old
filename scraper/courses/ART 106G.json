@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Art 80T, plus three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26; or by permission of instructor. Enrollment restricted to sophomores, juniors, and seniors.",
         "courses": [
             [
-                "P",
                 "A 80T",
                 "ART 15 ART 20G ART 20H ART 20I ART 20J ART 20K ART 20L ART 26",
                 [
@@ -33,7 +34,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 6,
             "priority": "very low"
         }
     }

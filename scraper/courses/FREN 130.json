@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FREN 6, or equivalent proficiency in French, or by permission of the instructor.",
         "courses": [
             [
-                "P FREN 6",
+                "FREN 6",
                 "F"
             ]
         ]

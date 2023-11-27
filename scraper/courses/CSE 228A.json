@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): equivalent experience in at least two of the following three areas: logic design (Verilog/VHDL e.g. CSE 100/CSE 100L or CSE 125/CSE 125L), computer architecture (CSE 120/CSE 220), advanced programming (functional, object oriented, etc.). Enrollment is restricted to graduate students; open to advanced undergraduates with instructor consent.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 19,
+            "priority": "low"
         }
     }
 }

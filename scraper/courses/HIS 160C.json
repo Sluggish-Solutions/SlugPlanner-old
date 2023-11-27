@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Topic: Women and Gender in the Ancient Greek World. Course description: At the public funeral for the Athenian war dead in 430 BCE, the statesman Perikles addressed the widows in the crowd: ?Glory is awarded to the women of whom there is the least to report among men, either praise or blame.? If?as his words imply?the ideal Greek woman was essentially invisible, how can modern historians hope to learn about the experiences of women in 5 th century BCE Athens?or any part of the ancient Greek world? To begin, we can recognize that women were present at this event, commanding the attention of the leader. The project of reconstructing the lives of women in Greek antiquity requires the critical analysis of diverse lines of evidence, including ancient texts, inscriptions, iconography, and archaeological remains. In this course, we will examine such sources to uncover women?s complex narratives from birth to death, their roles at home and in religious and civic life, as well as their legacy in the modern period.Enroll in lecture and associated discussion section",
     "career": "Undergraduate",

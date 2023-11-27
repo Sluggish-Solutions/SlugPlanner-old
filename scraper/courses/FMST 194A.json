@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior feminist studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 18,
-            "filled seats": 0,
+            "filled seats": 7,
             "priority": "very low"
         }
     }

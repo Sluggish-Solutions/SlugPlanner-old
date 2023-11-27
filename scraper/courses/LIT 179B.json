@@ -4,15 +4,15 @@
     "description": "Intensive work in writing poetry. Critical approach designation: Genres. May be repeated for credit.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "creative writing literature majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to creative writing literature majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Topic: Political Poetry, Poetic Vision II",
     "career": "Undergraduate",
@@ -37,8 +37,8 @@
         },
         "winter": {
             "total_seats": 22,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 12,
+            "priority": "low"
         }
     }
 }

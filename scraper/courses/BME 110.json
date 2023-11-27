@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BME 105, or BIOL 100, or BIOL 105, or BIOC 100A, or CHEM 103, or  bioinformatics majors, or biomolecular engineering and bioinformatics majors.",
         "courses": [
             [
-                "P BME 105",
+                "BME 105",
                 "BIOL 100",
                 "BIOL 105",
                 "BIOC 100A",
@@ -45,8 +47,8 @@
         },
         "winter": {
             "total_seats": 73,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 56,
+            "priority": "moderate"
         }
     }
 }

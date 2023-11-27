@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prereq(s): ELWR; and EART 5, 10 or 20; and MATH 11A, 19A or 20A; and PHYS 6A/6L or PHYS 5A/5L; and CHEM 1A, or instructor permission. Enrollment restricted to majors and minors in EART, the combined majors with ANTH and ENVS, and ESCI.",
         "courses": [
             [
-                "P ELWR"
+                "ELWR"
             ],
             [
                 "EART 5 10",

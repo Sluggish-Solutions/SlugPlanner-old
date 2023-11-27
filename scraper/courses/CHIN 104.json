@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHIN 103 or CHIN 105 or CHIN 107 or CHIN 108; or by consent of instructor.",
         "courses": [
             [
-                "P",
                 "CHIN 103",
                 "CHIN 105",
                 "CHIN 107",
@@ -32,8 +33,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 15,
+            "priority": "low"
         }
     }
 }

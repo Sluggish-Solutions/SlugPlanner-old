@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 21 or AM 10; and either MATH 24 or AM 20; and either MATH 100 or CSE 101.",
         "courses": [
             [
-                "P MATH 21",
+                "MATH 21",
                 "AM 10"
             ],
             [
@@ -36,7 +38,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
+            "filled seats": 4,
             "priority": "very low"
         }
     }

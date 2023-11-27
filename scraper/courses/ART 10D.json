@@ -4,15 +4,15 @@
     "description": "Introduces students to the fundamental principles of two-dimensional art and design and focuses on analyzing the concepts of line, color shape, value, space, form, unity, balance, scale, proportion, texture, and emphasis to be used to express complex ideas. This course is a hybrid studio/lecture.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "art majors and proposed art majors during first-pass enrollment; restrictions lifted after first pass.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to art majors and proposed art majors during first-pass enrollment; restrictions lifted after first pass.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated secondary studio.Enrollment restricted during first past to proposed and declared art majors; all restrictions lifted after first pass.",
     "career": "Undergraduate",

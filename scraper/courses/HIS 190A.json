@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior history majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and HIS 100, and two upper-division history courses; or permission of instructor. Enrollment is restricted to junior and senior history majors.",
         "courses": [

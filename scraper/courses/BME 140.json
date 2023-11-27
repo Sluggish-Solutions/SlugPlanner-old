@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BME 5; or BME 51A and BME 51B; or EE 101 and EE 101L; or BIOL 100; or BIOC 100A.",
         "courses": [
             [
-                "P",
                 "BME 5",
                 [
                     "BME 51A",

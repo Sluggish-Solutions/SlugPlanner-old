@@ -4,15 +4,15 @@
     "description": "Enhances students' marketability, strengthens verbal and written communication skills, teaches appropriate business etiquette, improves networking skills, and helps students determine how to become an integral part of an organization's intellectual capacity. Business professionals provide guest presentations.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "sophomores, juniors, and seniors economics, business management economics, global economics majors and combined majors with mathematics and environmental studies.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to sophomores, juniors, and seniors economics, business management economics, global economics majors and combined majors with mathematics and environmental studies.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

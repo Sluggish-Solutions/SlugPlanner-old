@@ -7,7 +7,9 @@
             "restricted_to_majors": "Biology B.S.; Global and Community Health B.S.; Human Biology B.S.; Molecular, Cell, and Developmental Biology B.S.; and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s):  BIOL 100. Enrollment is restricted to Biology B.S.; Global and Community Health B.S.; Human Biology B.S.; Molecular, Cell, and Developmental Biology B.S.; and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
         "courses": [

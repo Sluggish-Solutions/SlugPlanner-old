@@ -7,13 +7,13 @@
             "restricted_to_majors": "",
             "erlw": true,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
         "courses": [
-            [
-                "P"
-            ]
+            []
         ]
     },
     "class_notes": "Enroll in lecture and associated discussion section. Also offered as POLI 160B.",

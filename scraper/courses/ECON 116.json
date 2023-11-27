@@ -7,7 +7,9 @@
             "restricted_to_majors": "economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 111A and ECON 111B. Enrollment is restricted to economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
         "courses": [

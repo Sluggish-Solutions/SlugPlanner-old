@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): NLP 201 and NLP 202 and NLP 220 and NLP 244 and either NLP 243 or CSE 244B. Enrollment is restricted to natural language processing graduate students and computer science and engineering Ph.D. students, or by permission of the instructor.",
         "courses": [

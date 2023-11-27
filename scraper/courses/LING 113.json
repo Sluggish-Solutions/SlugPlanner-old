@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): LING 53, and LING 111 or LING 112.",
         "courses": [
             [
-                "P LING 53"
+                "LING 53"
             ],
             [
                 "LING 111",
@@ -36,9 +38,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 38,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 39,
+            "filled seats": 21,
+            "priority": "low"
         }
     }
 }

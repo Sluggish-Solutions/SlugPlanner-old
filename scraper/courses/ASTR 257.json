@@ -7,15 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Designed for graduate students; available to qualified undergraduate astrophysics majors by instructor permission.",
-        "courses": [
-            [
-                "D"
-            ],
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",

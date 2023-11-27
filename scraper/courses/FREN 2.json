@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FREN 1 or placement by interview.",
         "courses": [
             [
-                "P FREN 1"
+                "FREN 1"
             ]
         ]
     },
@@ -33,7 +35,7 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
+            "filled seats": 15,
             "priority": "very low"
         }
     }

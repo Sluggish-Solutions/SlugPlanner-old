@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Concurrent enrollment in ENVS 130A is required.",
-        "courses": [
-            [
-                "C   ENVS 130A"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

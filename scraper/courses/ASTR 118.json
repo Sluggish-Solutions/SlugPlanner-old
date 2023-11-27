@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 22 or MATH 23A; and PHYS 5B or PHYS 6B.",
         "courses": [
             [
-                "P MATH 22",
+                "MATH 22",
                 "MATH 23A"
             ],
             [
@@ -32,8 +34,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 21,
+            "priority": "low"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): STAT 131 or STAT 203, or by permission of the instructor. Enrollment is restricted to graduate students.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 90,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 120,
+            "filled seats": 66,
+            "priority": "low"
         }
     }
 }

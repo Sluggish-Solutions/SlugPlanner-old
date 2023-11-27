@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Topic: Autoethnography. This experiential course focuses on the history and practice of autoethnography. As a methodology, autoethnography situates the personal experiences of a researcher in structural and collective terms. We devote particular attention to legacies of autoethnography in critical sociology, critical geography, and interdisciplinary Black feminist thought, among other traditions. With a focus on reading and crafting autoethnography, this seminar considers its possibilities and critiques. By engaging with emerging forms of autoethnography - including arts-based and somatic approaches - we will address still broader questions about ways of knowing or epistemologies, the philosophy of (Western) science, and the politics of research.",
     "career": "Graduate",

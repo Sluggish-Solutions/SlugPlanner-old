@@ -4,14 +4,21 @@
     "description": "What do immersion and interactivity look like outside of virtual worlds? How can we activate social dynamics and public space for the purpose of play? How might we evoke feelings of purpose, or even magic, for players and spectators alike? Students will study and create immersive experiences designed to play out in real life. Drawing inspiration from performance studies, activism, art history, and more, we will transform the everyday into the extraordinary.\n May be repeated for credit.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "senior Art and Design: Games and Playable Media majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to senior Art and Design: Games and Playable Media majors.",
         "courses": [
-            []
+            [
+                "G"
+            ],
+            [
+                "P M"
+            ]
         ]
     },
     "class_notes": "NULL",
@@ -24,9 +31,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 39,
+            "filled seats": 33,
+            "priority": "moderate"
         }
     }
 }

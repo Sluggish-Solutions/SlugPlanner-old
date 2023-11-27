@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): AM 10 or MATH 21. Knowledge of differential equations (AM 20 or  MATH 24) is recommended.",
         "courses": [
             [
-                "P AM 10",
+                "AM 10",
                 "MATH 21 K    AM 20",
                 "MATH 24"
             ]
@@ -29,8 +31,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 147,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 88,
+            "priority": "low"
         }
     }
 }

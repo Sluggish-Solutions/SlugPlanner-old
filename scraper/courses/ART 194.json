@@ -4,17 +4,15 @@
     "description": "A non-media specific class introducing a range of contemporary visual practices, contexts, issues, forms, and UCSC resources of use to artists, emphasizing relationships between material, form, meaning and between private expression, public communication, and systems of exchange.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior art majors. Strongly recommended for junior transfer art majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior art majors. Strongly recommended for junior transfer art majors.",
-        "courses": [
-            [
-                "S"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -33,7 +31,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 12,
             "priority": "very low"
         }
     }

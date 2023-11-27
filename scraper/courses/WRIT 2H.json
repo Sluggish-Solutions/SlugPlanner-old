@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "upper_credits_limit": 5,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): College 1 and satisfaction of the Entry Level Writing Requirement. Enrollment is restricted to College Scholars or by instructor permission.",
         "courses": [
@@ -30,9 +32,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 40,
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

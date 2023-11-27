@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.",
         "courses": [
             [
-                "P P",
+                "P",
                 "PHYS 6A",
                 "PHYS 7A"
             ]
@@ -40,9 +42,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 322,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 291,
+            "filled seats": 288,
+            "priority": "high"
         }
     }
 }

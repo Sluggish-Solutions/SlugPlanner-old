@@ -7,7 +7,9 @@
             "restricted_to_majors": "environmental sciences and Earth sciences majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ESCI 100A, and MATH 11B or MATH 19B, and CHEM 1C, and PHYS 6B or PHYS 5B.  Enrollment is restricted to environmental sciences and Earth sciences majors.",
         "courses": [

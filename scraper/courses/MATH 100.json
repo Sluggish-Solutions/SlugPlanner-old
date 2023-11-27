@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; MATH 11A or MATH 19A or MATH 20A; and MATH 21 or AM 10 or AMS 10A.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "C"
@@ -51,9 +53,9 @@
             "priority": "low"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 50,
+            "filled seats": 25,
+            "priority": "very low"
         }
     }
 }

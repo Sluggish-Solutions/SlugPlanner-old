@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 45
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to first-year college members.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "All incoming Rachel Carson frosh must take CRSN 1 in the fall of their 1st year at UC Santa Cruz.",
     "career": "Undergraduate",

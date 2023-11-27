@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): APLX 80; enrollment restricted to applied linguistics and multiculturalism, language studies, and linguistics majors.",
         "courses": [
             [
-                "P APLX 80"
+                "APLX 80"
             ],
             [],
             [],

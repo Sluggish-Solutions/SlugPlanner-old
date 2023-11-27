@@ -4,15 +4,15 @@
     "description": "A healthy society requires a stable and sustainable relationship between society and nature. Covering past, present, and future, the course covers environmental history of the U.S., the variety and extent of environmental problems today, and explores their likely development in our lifetimes.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and enterprise, and  Latin American studies/sociology combined.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and enterprise, and  Latin American studies/sociology combined.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

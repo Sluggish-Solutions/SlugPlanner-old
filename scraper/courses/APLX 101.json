@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): APLX 80 or LING 50.",
         "courses": [
             [
-                "P APLX 80",
+                "APLX 80",
                 "LING 50"
             ]
         ]
@@ -34,7 +36,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 11,
             "priority": "very low"
         }
     }

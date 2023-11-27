@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior psychology or feminist studies majors or permission of instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Entry Level Writing and Composition requirements; and PSYC 100.  Enrollment is restricted to senior psychology or feminist studies majors or permission of instructor.",
         "courses": [
@@ -31,7 +33,7 @@
         },
         "winter": {
             "total_seats": 0,
-            "filled seats": 0,
+            "filled seats": 26,
             "priority": "unavailible"
         }
     }

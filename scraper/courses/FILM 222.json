@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment restricted to graduate students.",
-        "courses": [
-            [
-                "E"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Preparation course for Ph.D. qualifying exams. Will support doctoral students who are in their exam year as well as those who are entering year 2 and working on their directed readings in preparation for qualifying exams the following year. Students will focus on writing annotations and/or sample short synthesis papers based on their evolving bibliographies, methods and strategies for synthesis of art practice and text, plus support for improving writing skills.",
     "career": "Graduate",

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): STAT 5, STAT 7, STAT 17 or ECON 113; and AM 11B or ECON 11B, or MATH 11B, MATH 19B, STAT 131 or CSE 107. Enrollment is restricted to juniors and seniors.",
         "courses": [
@@ -31,7 +33,7 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
+            "filled seats": 25,
             "priority": "very low"
         }
     }

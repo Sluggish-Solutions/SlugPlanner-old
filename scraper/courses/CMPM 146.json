@@ -7,14 +7,16 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 101 or equivalent; familiarity with python a plus, though not required. Enrollment is restricted to sophomores, juniors, seniors, and graduate students.",
         "courses": [
             []
         ]
     },
-    "class_notes": "Enroll in lecture and associated discussion section",
+    "class_notes": "Enroll in lecture and associated discussion sectionMost lectures are asynchronous, with five synchronous lectures (MWF 4:00-5:05 pm) during the entire quarter.",
     "career": "Undergraduate",
     "gen_ed_code": "NULL",
     "type": "Lecture",
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 80,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 80,
+            "priority": "high"
         }
     }
 }

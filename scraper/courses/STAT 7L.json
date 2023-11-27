@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6 or AM 11A  or AM 15A or MATH 3 or MATH 11A or MATH 19A.  Concurrent enrollment in STAT 7 is required.",
         "courses": [
             [
-                "P   300",
+                "300",
                 "AM 3",
                 "AM 6",
                 "AM 11A",
@@ -46,8 +48,8 @@
         },
         "winter": {
             "total_seats": 300,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 285,
+            "priority": "high"
         }
     }
 }

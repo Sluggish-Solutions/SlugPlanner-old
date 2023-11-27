@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to juniors and seniors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in associated lab that meets Tues/Thurs at 11:45am: LALS 194L-02",
     "career": "Undergraduate",

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 1; and AM 3, or AM 6, or MATH 3 or a higher level Mathematics course (MATH 4, MATH 11A, or MATH 19A), or mathematics placement (MP) score of 300 or higher, or AP Calculus AB exam score of 3 or higher; and PSYC 2 or STAT 5 or STAT 7 and STAT 7L.",
         "courses": [
             [
-                "P PSYC 1"
+                "PSYC 1"
             ],
             [
                 "AM 3",
@@ -56,8 +58,8 @@
         },
         "winter": {
             "total_seats": 170,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 170,
+            "priority": "high"
         }
     }
 }

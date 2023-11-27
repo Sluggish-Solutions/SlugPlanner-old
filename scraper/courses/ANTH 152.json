@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ANTH 2 and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to anthropology majors.",
         "courses": [
             [
-                "P ANTH 2"
+                "ANTH 2"
             ],
             [
                 "E L W"
@@ -34,7 +36,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
+            "filled seats": 32,
             "priority": "very low"
         }
     }

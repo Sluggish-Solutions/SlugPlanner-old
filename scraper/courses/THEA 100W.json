@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "THEA 100W is being cancelled. The instructor has requested to teach the lower division THEA 80A Introduction to African American Theater instead. These classes fulfill different requirements. Questions about requirements may be addressed to the Theater Arts Academic Advisor:theater-ugradadv@ucsc.edu",
     "career": "Undergraduate",

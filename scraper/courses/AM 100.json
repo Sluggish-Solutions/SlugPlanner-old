@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): AM 20 or MATH 24, and AM 30 or MATH 23B, or by permission of instructor.",
         "courses": [
             [
-                "P AM 20",
+                "AM 20",
                 "MATH 24"
             ],
             [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYE 9C or equivalent skills.",
         "courses": [
             [
-                "P PHYE 9C"
+                "PHYE 9C"
             ]
         ]
     },
@@ -39,7 +41,7 @@
         },
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
+            "filled seats": 2,
             "priority": "very low"
         }
     }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
+            "filled seats": 19,
             "priority": "very low"
         }
     }

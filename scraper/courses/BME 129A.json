@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A; BME 23L; BIOL 100 or BIOC 100A; and previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
         "courses": [

@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "\"Hope, Agency, and the Intersectionality of the Climate Crisis\" In this course, students will learn how to find active hope within the evolving climate crisis and how to build a unified movement with an intersectional context across race, gender, class, and more. The course offers guest speakers who are actively engaged in the climate justice movement and who will share ideas and lessons we can use in our everyday lives. This course is part of the Education for Sustainable Living Program (ESLP) Spring Series.",
     "career": "Undergraduate",

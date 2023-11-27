@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 20 and CSE 30; and CSE 16; and MATH 22 or MATH 23A or AM 30; and STAT 5, or STAT 7 and 7L; and AM 10 or MATH 21; and AM 20 or MATH 24.",
         "courses": [
             [
-                "P CSE 20"
+                "CSE 20"
             ],
             [
                 "CSE 30"

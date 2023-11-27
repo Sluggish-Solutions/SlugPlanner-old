@@ -7,10 +7,18 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Concurrent enrollment in ENVS 104A is required.",
+        "text": "Prerequisite(s): ENVS 100 and ENVS 100L; exceptions by permission of instructor. Concurrent enrollment in ENVS 104A is required.",
         "courses": [
+            [
+                "ENVS 100"
+            ],
+            [
+                "ENVS 100L"
+            ],
             [
                 "C   ENVS 104A"
             ]

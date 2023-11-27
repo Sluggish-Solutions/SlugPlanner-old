@@ -7,7 +7,9 @@
             "restricted_to_majors": "art and design: games and playable media, and critical race and ethnic studies majors and proposed majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ARTG 120; or ARTG 20 and ARTG 30. Enrollment is restricted to art and design: games and playable media, and critical race and ethnic studies majors and proposed majors.",
         "courses": [

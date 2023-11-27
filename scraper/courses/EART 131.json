@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and MATH 11A or MATH 19A or MATH 20A, and PHYS 5A or PHYS 6A.",
         "courses": [
             [
-                "P EART 5",
+                "EART 5",
                 "EART 10",
                 "EART 20"
             ],
@@ -44,8 +46,8 @@
         },
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 30,
+            "priority": "high"
         }
     }
 }

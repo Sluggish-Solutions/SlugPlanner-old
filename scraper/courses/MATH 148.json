@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 22 or MATH 23A; and MATH 21 or AM 10; and MATH 24 or AM 20; and MATH 103A or  MATH 105A or MATH 152 or AM 147 or CSE 101. Concurrent enrollment in MATH 148L is required.",
         "courses": [
             [
-                "P MATH 22",
+                "MATH 22",
                 "MATH 23A"
             ],
             [

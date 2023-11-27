@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted graduate students.",
         "courses": [
             [
-                "P",
                 "GAME 230",
                 [
                     "GAME 235",
@@ -32,8 +33,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 20,
+            "priority": "high"
         }
     }
 }

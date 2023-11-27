@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements.",
         "courses": [
             [
-                "P S   E L W"
+                "S   E L W"
             ],
             [
                 "C"
@@ -30,8 +32,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 94,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 97,
+            "priority": "high"
         }
     }
 }

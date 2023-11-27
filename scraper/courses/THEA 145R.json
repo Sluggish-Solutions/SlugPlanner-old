@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This class will focus on the power of rhythm and rhyming texts in the hands of a unified and committed company of actors and performers. We will physically engage in the performance of Shakespeare's and Lin-Manuel Miranda's texts, creating rhythmic and musical platforms to support and empower the meaning and the images of the texts. Working together in small creative in person ensembles, you'll rely on each others' inspiration and encouragement.",
     "career": "Undergraduate",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 19,
+            "priority": "high"
         }
     }
 }

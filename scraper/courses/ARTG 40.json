@@ -4,26 +4,15 @@
     "description": "Builds skills in setting experiential goals and in defining and building mechanical and dynamic elements to support those goals. Through an iterative and reflective process, explores how we evaluate success as designers and artists, and the responsibilities we have to ourselves and to our audience. In this class, students will rapidly prototype interactive experiences in a number of forms and practice the presentation/positioning of their work to an audience.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "proposed and declared majors in Art and Design Games and Playable Media BA",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to proposed and declared majors in Art and Design Games and Playable Media BA",
-        "courses": [
-            [
-                "E"
-            ],
-            [
-                "A"
-            ],
-            [
-                "D G"
-            ],
-            [
-                "P M BA"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in studio and associated secondary studio",
     "career": "Undergraduate",
@@ -41,9 +30,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 38,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 37,
+            "filled seats": 37,
+            "priority": "high"
         }
     }
 }

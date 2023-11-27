@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 100A or ECON 100M;  and ECON 113, and Entry Level Writing and Composition requirements.",
         "courses": [
             [
-                "P ECON 100A",
+                "ECON 100A",
                 "ECON 100M"
             ],
             [
@@ -48,9 +50,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 62,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 76,
+            "filled seats": 61,
+            "priority": "moderate"
         }
     }
 }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L, or BIOL 101L, or BIOL 102L; and previous or concurrent enrollment in METX 100 or METX 119. First pass enrollment is restricted to declared Microbiology majors. Second pass enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors; Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, and BIOL 186L.",
         "courses": [
             [
-                "P S  E L W"
+                "S  E L W"
             ],
             [
                 "C"
@@ -72,8 +74,8 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
+            "total_seats": 35,
+            "filled seats": 4,
             "priority": "very low"
         }
     }

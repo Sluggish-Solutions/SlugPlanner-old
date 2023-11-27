@@ -7,7 +7,9 @@
             "restricted_to_majors": "declared Biochemistry and Molecular Biology; Biology B.S.; Global and Community Health B.S. (Biomedical concentration); Molecular, Cell and Developmental Biology, Human Biology, and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 100 and BIOL 101, or BIOC 100A and BIOC 100B; and BIOL 105; and BIOL 101L or BIOL 102L or BIOL 20L. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Global and Community Health B.S. (Biomedical concentration); Molecular, Cell and Developmental Biology, Human Biology, and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
         "courses": [
@@ -54,8 +56,8 @@
         },
         "winter": {
             "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 112,
+            "priority": "low"
         }
     }
 }

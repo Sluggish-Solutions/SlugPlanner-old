@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5A and PHYS 5L; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20; and ASTR 119 or CSE 20. Concurrent enrollment in PHYS 116C or MATH 107 is required.",
         "courses": [
             [
-                "P PHYS 5A"
+                "PHYS 5A"
             ],
             [
                 "PHYS 5L"

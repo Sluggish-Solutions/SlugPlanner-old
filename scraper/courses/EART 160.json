@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MATH 11B or MATH 19B or AM 15B; and PHYS 5A or PHYS 6A.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "C"

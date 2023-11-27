@@ -4,15 +4,15 @@
     "description": "Addresses the changing but continuing patterns of unequal expectations, opportunities, and treatment throughout the educational system for all students, female and male, who do not match a standard model of gender performance.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 45,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 45,
+            "priority": "high"
         }
     }
 }

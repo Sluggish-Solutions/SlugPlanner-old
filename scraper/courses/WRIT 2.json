@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 45,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): College 1 and satisfaction of the Entry Level Writing; or College 80A, 80D, or 80F and satisfaction of the C1 requirement. Enrollment is restricted to frosh, sophomore and junior students.",
         "courses": [
@@ -27,7 +29,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 0,
-            "filled seats": 1598,
+            "filled seats": 1596,
             "priority": "unavailible"
         },
         "spring": {
@@ -36,9 +38,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 24,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 96,
+            "filled seats": 96,
+            "priority": "high"
         }
     }
 }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): LING 50; and SPAN 6 or SPHS 6 or equivalent Spanish proficiency.",
         "courses": [
             [
-                "P LING 50"
+                "LING 50"
             ],
             [
                 "SPAN 6",
@@ -32,8 +34,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 25,
+            "priority": "high"
         }
     }
 }

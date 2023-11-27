@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 11A, or AM 11A, or MATH 11A, or MATH 19A.",
         "courses": [
             [
-                "P ECON 11A",
+                "ECON 11A",
                 "AM 11A",
                 "MATH 11A",
                 "MATH 19A"
@@ -42,8 +44,8 @@
         },
         "winter": {
             "total_seats": 190,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 98,
+            "priority": "low"
         }
     }
 }

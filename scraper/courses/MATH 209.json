@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 208. MATH 201 is recommended as preparation. Enrollment is restricted to graduate students.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 0,
+            "total_seats": 20,
             "filled seats": 0,
-            "priority": "unavailible"
+            "priority": "very low"
         }
     }
 }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5B and PHYS 5C, or PHYS 6B and PHYS 6C; concurrent enrollment in ECE 130L.",
         "courses": [
             [
-                "P PHYS 5B"
+                "PHYS 5B"
             ],
             [
                 "PHYS 5C",

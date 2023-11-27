@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15. Enrollment is restricted to sophomores, juniors, and seniors.",
         "courses": [
@@ -31,7 +33,7 @@
         },
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
+            "filled seats": 5,
             "priority": "very low"
         }
     }

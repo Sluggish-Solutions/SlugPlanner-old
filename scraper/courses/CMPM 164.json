@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 160. Concurrent enrollment in CMPM 164L is required.",
         "courses": [
             [
-                "P CSE 160 C   CMPM 164L"
+                "CSE 160 C   CMPM 164L"
             ]
         ]
     },

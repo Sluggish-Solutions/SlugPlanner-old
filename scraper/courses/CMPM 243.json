@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): A background in either mathematical proofs or user-centered design and programming. Enrollment is restricted to graduate students; undergraduates may enroll by permission.of the instructor.",
         "courses": [

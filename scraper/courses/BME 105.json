@@ -7,7 +7,9 @@
             "restricted_to_majors": "bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A. Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.",
         "courses": [

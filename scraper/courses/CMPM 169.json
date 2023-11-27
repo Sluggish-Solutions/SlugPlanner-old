@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 60,
+            "priority": "high"
         }
     }
 }

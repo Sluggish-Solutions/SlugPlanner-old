@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): TIM 50.",
         "courses": [
             [
-                "P TIM 50"
+                "TIM 50"
             ]
         ]
     },
@@ -27,8 +29,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 126,
+            "priority": "moderate"
         }
     }
 }

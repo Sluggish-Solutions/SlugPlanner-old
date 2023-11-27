@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 151 and  ECE 153 and CSE 107.",
         "courses": [
             [
-                "P ECE 151"
+                "ECE 151"
             ],
             [
                 "ECE 153"

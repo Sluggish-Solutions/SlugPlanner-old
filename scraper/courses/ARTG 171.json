@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior art and design: games and playable media majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ARTG 170. Enrollment is restricted to senior art and design: games and playable media majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 119,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 119,
+            "priority": "high"
         }
     }
 }

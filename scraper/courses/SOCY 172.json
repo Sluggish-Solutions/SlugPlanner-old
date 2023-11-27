@@ -4,15 +4,15 @@
     "description": "Through readings on social movements that span the 20th century, course examines the causes of popular mobilizations, their potential for rapid social change, and the theories developed to understand and explain their role in modern social life.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Class meets in-person on Thursdays. Tuesdays are remote/asynchronous.",
     "career": "Undergraduate",
@@ -24,9 +24,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 35,
+            "filled seats": 26,
+            "priority": "low"
         }
     }
 }

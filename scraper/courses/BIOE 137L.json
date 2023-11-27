@@ -5,24 +5,27 @@
     "pre_req_data": {
         "conditions": {
             "restricted_to_majors": "",
-            "erlw": false,
+            "erlw": true,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): BIOE 20B and BIOE 20C and BIOL 20A and BIOL105. Concurrent enrollment in BIOE 137 is required.",
+        "text": "Prerequisite(s): courses 20B and 20C and BIOL 20A and BIOL105, and satisfaction of the Entry Level Writing and Composition requirements.",
         "courses": [
             [
-                "P BIOE 20B"
+                "20B"
             ],
             [
-                "BIOE 20C"
+                "20C"
             ],
             [
                 "BIOL 20A"
             ],
             [
-                "BIOL105 C   BIOE 137"
-            ]
+                "BIOL105"
+            ],
+            []
         ]
     },
     "class_notes": "Concurrent enrollment in BIOE 137 required.",
@@ -36,8 +39,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 30,
+            "priority": "high"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 201 or equivalent or instructor consent. Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory, and overall mathematical maturity. Enrollment is restricted to graduate students.",
         "courses": [

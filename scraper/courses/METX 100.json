@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 20A or ESCI 30.",
         "courses": [
             [
-                "P BIOL 20A",
+                "BIOL 20A",
                 "ESCI 30"
             ]
         ]
@@ -39,9 +41,9 @@
             "priority": "low"
         },
         "winter": {
-            "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 135,
+            "filled seats": 81,
+            "priority": "low"
         }
     }
 }

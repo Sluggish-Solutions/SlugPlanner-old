@@ -7,7 +7,9 @@
             "restricted_to_majors": "physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
         "courses": [

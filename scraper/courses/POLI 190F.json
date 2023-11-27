@@ -4,15 +4,15 @@
     "description": "Cities are at the frontlines of complex global issues including climate change, international terrorism, and transnational migration. Course situates cities in the dynamics of world politics, and explores the possibilities and prospects of global urban/urban global governance in the 21st Century.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "senior politics and Latin American and Latino studies/politics combined majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

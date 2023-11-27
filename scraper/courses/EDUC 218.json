@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to MA/credential students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Class will meet on Friday October 14th & October 28th from 8:00 am - 3:45 pm in McHenry 1253. Final exam on December 9th 3:30pm-6:00pm.",
     "career": "Graduate",

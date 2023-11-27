@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Topic: Shakespeare and Film. *** Enroll in lecture and associated discussion section *** In this course, we will read three of Shakespeare?s greatest plays?Macbeth, Hamlet, and King Lear?and watch films that took those plays as their inspiration. We will divide our time between close study of the original play and its language with how modern filmmakers have adapted and interpreted the plays using the visual language of film. Films will include both English-language productions and foreign adaptations, with settings ranging from Samurai Japan to the criminal underworld of Mumbai. *** Note: there will only be three Monday night screenings, and class will not meet the remaining Monday nights. ***",
     "career": "Undergraduate",
@@ -31,7 +31,7 @@
         },
         "winter": {
             "total_seats": 96,
-            "filled seats": 0,
+            "filled seats": 39,
             "priority": "very low"
         }
     }

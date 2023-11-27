@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): one year of college-level, non-English language study or the equivalent reading ability in a non-English language.",
         "courses": [
             [
-                "P     E",
+                "E",
                 "E"
             ]
         ]
@@ -27,9 +29,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 128,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 110,
+            "filled seats": 100,
+            "priority": "high"
         }
     }
 }

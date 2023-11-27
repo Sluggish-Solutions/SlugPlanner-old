@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior history majors and East Asian studies minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements,  HIS 100 (for history majors), two additional upper-division history courses, or permission of the instructor. Enrollment is restricted to junior and senior history majors and East Asian studies minors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

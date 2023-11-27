@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 12; and CSE 101, or CSE 15 and CSE 15L; and knowledge of C programming language.",
         "courses": [
             [
-                "P CSE 12"
+                "CSE 12"
             ],
             [
                 "CSE 101",
@@ -39,7 +41,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 300,
-            "filled seats": 262,
+            "filled seats": 261,
             "priority": "high"
         },
         "spring": {
@@ -49,8 +51,8 @@
         },
         "winter": {
             "total_seats": 300,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 191,
+            "priority": "low"
         }
     }
 }

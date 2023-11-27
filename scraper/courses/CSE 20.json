@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to frosh, sophomores, or Computer Science, Computer Engineering, Computer Game Design, Bioinformatics, Biomolecular Engineering and Bioinformatics, Electrical Engineering, Network and Digital Technology, Robotics Engineering, and Technology and Information Management majors and Computer Science proposed majors during First Pass enrollment. Restrictions lifted after First Pass enrollment.",
     "career": "Undergraduate",
@@ -27,7 +27,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 964,
-            "filled seats": 950,
+            "filled seats": 949,
             "priority": "high"
         },
         "spring": {
@@ -37,8 +37,8 @@
         },
         "winter": {
             "total_seats": 641,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 377,
+            "priority": "low"
         }
     }
 }

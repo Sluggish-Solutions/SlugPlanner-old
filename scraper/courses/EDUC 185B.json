@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 11A and MATH 11B, or MATH 19A and MATH 19B; or MATH 20A and MATH 20B; or AM 11A and AM 11B; or ECON 11A and ECON 11B; or equivalent courses (by instructor approval); or by permission of the instructor.",
         "courses": [
             [
-                "P",
                 [
                     "MATH 11A",
                     "MATH 11B"
@@ -49,7 +50,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 45,
-            "filled seats": 0,
+            "filled seats": 6,
             "priority": "very low"
         }
     }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CMPM 120 and CMPM 80K.",
         "courses": [
             [
-                "P CMPM 120"
+                "CMPM 120"
             ],
             [
                 "CMPM 80K"

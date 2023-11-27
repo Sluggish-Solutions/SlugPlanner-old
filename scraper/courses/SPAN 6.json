@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SPAN 5 or SPAN 5M or placement into SPAN 6 via the online Spanish Placement Examination.",
         "courses": [
             [
-                "P SPAN 5",
+                "SPAN 5",
                 "SPAN 5M",
                 "SPAN 6    S P E"
             ]
@@ -41,7 +43,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 12,
             "priority": "very low"
         }
     }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECON 233. Enrollment is restricted to applied economics and finance graduate students.",
         "courses": [
@@ -31,7 +33,7 @@
         },
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
+            "filled seats": 3,
             "priority": "very low"
         }
     }

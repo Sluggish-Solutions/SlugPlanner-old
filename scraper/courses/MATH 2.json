@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): mathematics placement (MP) score of 100 or higher. Students may not enroll in or receive credit for MATH 2 after receiving credit with a 'C' or better in AM 3, MATH 3, AM 11A, MATH 11A, MATH 19A, MATH 20A or equivalents.",
         "courses": [
             [
-                "P   MP   100",
+                "MP   100",
                 "S",
                 "MATH 2      C",
                 "AM 3 MATH 3 AM 11A MATH 11A MATH 19A MATH 20A"
@@ -35,9 +37,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 60,
+            "filled seats": 60,
+            "priority": "high"
         }
     }
 }

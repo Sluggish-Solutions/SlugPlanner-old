@@ -4,15 +4,15 @@
     "description": "Focuses on urban schooling through critical readings, fieldwork, group projects, and extensive writing. Students explore how socialization, marginalization, and assimilation impede or support academic success, how class intersects with race, and how culture affects one's orientation to education.NOTE: This course satisfies the American History and Institutions requirement.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; critical race and ethnic studies majors; and STEM, EDUC and Black studies minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; critical race and ethnic studies majors; and STEM, EDUC and Black studies minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

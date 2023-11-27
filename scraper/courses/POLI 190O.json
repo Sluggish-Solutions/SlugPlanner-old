@@ -4,15 +4,15 @@
     "description": "Explores how civic groups and social movements have confronted and shaped constitutional rights, equality, and power. Examines a range of U.S. movements from the 18th Century to the 21st Century-era of Marriage Equality, Tea Party, and Dreamer movements. (Formerly Constitutional Meanings and Movements: Exploring the Ideas, Laws, and Politics in Social Change.)",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "senior politics majors and Latin American and Latino studies/politics combined majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to senior politics majors and Latin American and Latino studies/politics combined majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

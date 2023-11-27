@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and MATH 23A and MATH 23B.",
         "courses": [
             [
-                "P PHYS 116A",
+                "PHYS 116A",
                 "MATH 21"
             ],
             [
@@ -43,8 +45,8 @@
         },
         "winter": {
             "total_seats": 50,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 31,
+            "priority": "low"
         }
     }
 }

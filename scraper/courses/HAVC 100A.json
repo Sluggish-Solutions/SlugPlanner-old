@@ -7,7 +7,9 @@
             "restricted_to_majors": "sophomore, junior, and senior History of Art and Visual Culture majors and minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore, junior, and senior History of Art and Visual Culture majors and minors.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 38,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 36,
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

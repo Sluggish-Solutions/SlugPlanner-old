@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior creative writing literature majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior creative writing literature majors.",
         "courses": [

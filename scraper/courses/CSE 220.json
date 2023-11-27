@@ -6,15 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students; undergraduates may enroll if they have completed CSE 120 and with consent of instructor. A basic knowledge of computer architecture, similar to the content of CSE 120, is recommended.",
-        "courses": [
-            [
-                "A           CSE 120"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",

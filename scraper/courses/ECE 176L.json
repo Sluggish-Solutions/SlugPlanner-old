@@ -7,15 +7,17 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in course 176 is required.",
+        "text": "Prerequisite(s): ECE 103 and ECE 171.",
         "courses": [
             [
-                "P ECE 103"
+                "ECE 103"
             ],
             [
-                "ECE 171 C    176"
+                "ECE 171"
             ]
         ]
     },
@@ -30,7 +32,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
+            "filled seats": 7,
             "priority": "very low"
         }
     }

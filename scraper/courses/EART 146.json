@@ -7,7 +7,9 @@
             "restricted_to_majors": "majors and minors in Earth sciences, the combined majors with anthropology and environmental studies, and the environmental sciences major. Concurrent enrollment in EART 146L is required.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and EART 5 or EART 10 or EART 20; and MATH 11A or MATH 19A or MATH 20A; and PHYS 6A and PHYS 6L or PHYS 5A and PHYS 5L (PHYS 6B and PHYS 6M recommended); and CHEM 1A, or by permission of the instructor. Enrollment is restricted to majors and minors in Earth sciences, the combined majors with anthropology and environmental studies, and the environmental sciences major. Concurrent enrollment in EART 146L is required.",
         "courses": [

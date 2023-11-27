@@ -7,12 +7,20 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): Concurrent enrollment in EART 140 is required.",
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 110A.",
         "courses": [
             [
-                "P C   EART 140"
+                "E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 110A"
             ]
         ]
     },
@@ -27,8 +35,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 19,
+            "priority": "low"
         }
     }
 }

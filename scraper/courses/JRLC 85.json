@@ -6,15 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to John R. Lewis College members during priority enrollment only.",
-        "courses": [
-            [
-                "L C"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -27,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 96,
-            "filled seats": 0,
+            "filled seats": 4,
             "priority": "very low"
         }
     }

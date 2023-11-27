@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.",
         "courses": [
             [
-                "P CHEM 8A"
+                "CHEM 8A"
             ],
             [
                 "CHEM 8L"
@@ -39,8 +41,8 @@
         },
         "winter": {
             "total_seats": 224,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 166,
+            "priority": "low"
         }
     }
 }

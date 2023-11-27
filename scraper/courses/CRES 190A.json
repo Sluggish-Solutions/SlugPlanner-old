@@ -7,7 +7,9 @@
             "restricted_to_majors": "critical race and ethnic studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CRES 10 and CRES 100; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to critical race and ethnic studies majors.",
         "courses": [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and BIOE 107, BIOE 108, or BIOE109; and an undergraduate research contract on file with the department.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "C"
@@ -47,8 +49,8 @@
         },
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 10,
+            "priority": "low"
         }
     }
 }

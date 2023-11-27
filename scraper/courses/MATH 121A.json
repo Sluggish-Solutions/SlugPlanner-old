@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH  21 and MATH 23B and either MATH 100 or CSE 101. MATH 105A strongly recommended.",
         "courses": [
             [
-                "P MATH  21"
+                "MATH  21"
             ],
             [
                 "MATH 23B"
@@ -40,8 +42,8 @@
         },
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 12,
+            "priority": "low"
         }
     }
 }

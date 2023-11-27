@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): score of 400 or higher on the  mathematics placement examination (MPE)  or MATH 3.",
         "courses": [
             [
-                "MPE 400",
+                "400",
                 "MATH 3"
             ]
         ]
@@ -40,8 +42,8 @@
         },
         "winter": {
             "total_seats": 240,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 240,
+            "priority": "high"
         }
     }
 }

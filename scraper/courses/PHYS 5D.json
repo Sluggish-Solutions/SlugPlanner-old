@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5A and PHYS 5L, or PHYS 6A and PHYS 6L; and PHYS 5B or PHYS 6B; and MATH 19B or MATH 20B.",
         "courses": [
             [
-                "P PHYS 5A"
+                "PHYS 5A"
             ],
             [
                 "PHYS 5L",

@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SOCY 1, or SOCY 10 or SOCY 15 or CRES 10 or LGST 10; or by permission of the instructor.",
         "courses": [
             [
-                "P",
                 "SOCY 1",
                 "SOCY 10",
                 "SOCY 15",

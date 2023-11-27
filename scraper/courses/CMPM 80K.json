@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated secondary lab. Please note that the primary lecture is offered with asynchronous online instruction and secondary lab sections are taught in person.",
     "career": "Undergraduate",
@@ -37,7 +37,7 @@
         },
         "winter": {
             "total_seats": 294,
-            "filled seats": 0,
+            "filled seats": 131,
             "priority": "very low"
         }
     }

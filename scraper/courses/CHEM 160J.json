@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 8L and completion of or enrollment in BIOC 100A, BIOL 100, or CHEM 103.",
         "courses": [
             [
-                "P CHEM 8L"
+                "CHEM 8L"
             ],
             [
                 "BIOC 100A BIOL 100",

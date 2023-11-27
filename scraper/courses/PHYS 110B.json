@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 110A; and PHYS 116C or MATH 107.",
         "courses": [
             [
-                "P PHYS 110A"
+                "PHYS 110A"
             ],
             [
                 "PHYS 116C",
@@ -30,9 +32,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 80,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 90,
+            "filled seats": 79,
+            "priority": "high"
         }
     }
 }

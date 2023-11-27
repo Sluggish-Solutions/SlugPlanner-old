@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior Latin American and Latino studies majors and combined majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Concurrent enrollment in one of the LALS 194 series. Enrollment is restricted to senior Latin American and Latino studies majors and combined majors.",
         "courses": [
@@ -37,8 +39,8 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 23,
+            "priority": "high"
         }
     }
 }

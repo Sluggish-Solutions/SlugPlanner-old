@@ -7,14 +7,16 @@
             "restricted_to_majors": "art majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L. Enrollment is restricted to art majors.",
         "courses": [
             []
         ]
     },
-    "class_notes": "NULL",
+    "class_notes": "This course is not repeatable for credit.",
     "career": "Undergraduate",
     "gen_ed_code": "NULL",
     "type": "Studio",
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 20,
+            "priority": "high"
         }
     }
 }

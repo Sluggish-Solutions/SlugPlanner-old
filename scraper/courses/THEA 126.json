@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "ENROLLMENT - two options: 1) Students who have passed THEA 20 or THEA 21 will not be required to audition. 2) Admission-by-audition on the first day of class. Please prepare one 45 - 90 second monologue or movement piece of your choice. All students admitted to the class will be given an enrollment permission number by the instructor during the first week of the class. Questions can be addressed to the instructor:nluce@ucsc.edu. CLASS TOPIC for Fall 2023: \"Foundations in Intimacy\" - Intimacy Choreography. This class will focus on how we create consent-based and trauma-informed practice in rehearsal spaces and thoughtfully construct intimacy in performance. The class will examine the power of boundary practice, choreographic language, and how we can serve the most vulnerable person in the room through our artistry. Artists of all disciplines are welcome to partake in this course. Each student will have the opportunity to perform, choreograph, and direct in this class.",
     "career": "Undergraduate",
@@ -30,9 +30,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 20,
+            "total_seats": 0,
             "filled seats": 0,
-            "priority": "very low"
+            "priority": "unavailible"
         }
     }
 }

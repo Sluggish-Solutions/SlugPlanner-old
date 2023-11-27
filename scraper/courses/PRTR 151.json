@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to College Scholars Program (CSP) students during first pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "This year?s course will feature climate journalist Elizabeth Kolbert?s nonfiction, specifically The Sixth Extinction and Under a White Sky, in conversation with other climate narrative genres, from film and comics to realist and dystopian fiction, to consider the limits and possibilities of various narrative forms and to understand the role they play in raising awareness about climate change and promoting climate justice.",
     "career": "Undergraduate",

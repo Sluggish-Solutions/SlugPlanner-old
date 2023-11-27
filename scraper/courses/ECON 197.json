@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s):Entry Level Writing & Composition requirement; one of the following: ECON 100A,ECON 100M, ECON 100B, ECON 100N, or ECON 113. Restricted to sophomore, junior, and senior economics, business-management economics, global economics and combined economics/math majors.",
         "courses": [
             [
-                "PE L W  C"
+                "E L W  C"
             ],
             [
                 "ECON 100AECON 100M ECON 100B ECON 100N",
@@ -35,7 +37,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 35,
-            "filled seats": 35,
+            "filled seats": 36,
             "priority": "high"
         },
         "spring": {
@@ -44,9 +46,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 56,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 67,
+            "filled seats": 66,
+            "priority": "high"
         }
     }
 }

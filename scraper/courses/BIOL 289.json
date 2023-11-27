@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 200A, BIOL 200B, and BIOL 200C or permission of instructor. Enrollment is restricted to graduate students; undergraduates may enroll with permission of the instructor.",
         "courses": [
@@ -24,8 +26,8 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 25,
-            "filled seats": 0,
+            "total_seats": 30,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

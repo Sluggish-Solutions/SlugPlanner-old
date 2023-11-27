@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 3A with a grade of C or better, and previous or concurrent enrollment in CHEM 3BL. Students cannot enroll in CHEM 3B after receiving a 'C' or better in CHEM 1A.",
         "courses": [
             [
-                "P CHEM 3A     C"
+                "CHEM 3A     C"
             ],
             [
                 "CHEM 3BL S    CHEM 3B    C",
@@ -31,8 +33,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 600,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 529,
+            "priority": "high"
         }
     }
 }

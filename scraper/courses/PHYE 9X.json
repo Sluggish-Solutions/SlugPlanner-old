@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enrollment by permission only. Prerequisite 9T. Contact instructor if interested.",
     "career": "Undergraduate",
@@ -36,7 +36,7 @@
             "priority": "very low"
         },
         "winter": {
-            "total_seats": 10,
+            "total_seats": 4,
             "filled seats": 0,
             "priority": "very low"
         }

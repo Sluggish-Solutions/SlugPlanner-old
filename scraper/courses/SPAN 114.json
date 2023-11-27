@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements; SPAN 6, or SPHS 6, or by instructor consent.",
         "courses": [
             [
-                "P   E L W"
+                "E L W"
             ],
             [
                 "C"
@@ -45,9 +47,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 15,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 22,
+            "filled seats": 21,
+            "priority": "high"
         }
     }
 }

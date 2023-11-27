@@ -7,7 +7,9 @@
             "restricted_to_majors": "computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19B. Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 130,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 130,
+            "priority": "high"
         }
     }
 }

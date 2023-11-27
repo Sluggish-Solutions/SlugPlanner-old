@@ -6,15 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
-        "courses": [
-            [
-                "U"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",
@@ -39,7 +37,7 @@
         },
         "winter": {
             "total_seats": 2,
-            "filled seats": 0,
+            "filled seats": 1,
             "priority": "very low"
         }
     }

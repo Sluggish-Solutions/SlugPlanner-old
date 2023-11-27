@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
+            "filled seats": 9,
             "priority": "very low"
         }
     }

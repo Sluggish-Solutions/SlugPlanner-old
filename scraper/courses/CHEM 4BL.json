@@ -7,13 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): Prior or concurrent enrollment in CHEM 4B.",
+        "text": "Prerequisite: CHEM 4A",
         "courses": [
             [
-                "P P",
-                "CHEM 4B"
+                "CHEM 4A"
             ]
         ]
     },
@@ -28,8 +29,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 54,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 39,
+            "priority": "low"
         }
     }
 }

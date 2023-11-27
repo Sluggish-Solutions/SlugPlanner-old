@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ANTH 2 or GCH 1; ANTH 2 strongly recommended.",
         "courses": [
             [
-                "P ANTH 2",
+                "ANTH 2",
                 "GCH 1"
             ],
             [

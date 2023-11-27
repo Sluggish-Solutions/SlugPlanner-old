@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SOCY 105A and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined.",
         "courses": [
@@ -30,9 +32,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 110,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 115,
+            "filled seats": 75,
+            "priority": "low"
         }
     }
 }

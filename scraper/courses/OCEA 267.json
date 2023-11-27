@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Students are expected to know R, Matlab or Python and have statistics background. Please contact the instructor before enrolling if you are unsure.Enrollment is restricted to graduate students.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 20,
+            "priority": "low"
         }
     }
 }

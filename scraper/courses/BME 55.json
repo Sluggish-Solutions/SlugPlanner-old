@@ -4,15 +4,15 @@
     "description": "Course intended to assist second-year biomolecular engineering and bioinformatics undergraduates find research labs that they might join. Students sit in on different lab group meetings, read papers recommended by the lab groups, and report back to other students in the class both verbally and in writing. Course is offered for pass/no pass only.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "sophomore and junior proposed biomolecular engineering and bioinformatics majors, or by permission of the instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to sophomore and junior proposed biomolecular engineering and bioinformatics majors, or by permission of the instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

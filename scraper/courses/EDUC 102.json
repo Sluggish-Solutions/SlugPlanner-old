@@ -4,15 +4,15 @@
     "description": "Focusing on ways the media (both news and the entertainment industry) portrays schools, teachers, and students to the public, investigates the way society views education, the way education is presented in the media, and the way education is influenced by society.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors; science education majors; STEM education minors; and education minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; STEM education minors; and education minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and associated discussion section",
     "career": "Undergraduate",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 60,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 48,
+            "priority": "moderate"
         }
     }
 }

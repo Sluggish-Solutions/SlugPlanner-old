@@ -4,15 +4,15 @@
     "description": "Interrogates the presuppositions of punishment as legitimate state power. Decentering crime as punishment's conceptual predicate, wider analysis of the penal state's social-scientific, jurisprudential, and philosophical foundations force us to ask: What is punishment? Why punish? How, and whom, to punish?",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

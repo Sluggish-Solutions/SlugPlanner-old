@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 16 or BME 160; CSE 15 and CSE 15L or CSE 13E or CSE 13S or ECE 13. Course intended for non-majors; computer science majors should enroll in CSE 180.",
         "courses": [
             [
-                "P CSE 16",
+                "CSE 16",
                 "BME 160"
             ],
             [

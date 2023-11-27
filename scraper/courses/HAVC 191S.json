@@ -7,14 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
-    "class_notes": "NULL",
+    "class_notes": "This advanced seminar will focus on U.S. artists, mostly modern and contemporary, who consider the concept of freedom. What is freedom? What is un-freedom? How has it been depicted? Thematic topics will focus on different media including painting, sculpture, photography, installation art, and public art.",
     "career": "Undergraduate",
     "gen_ed_code": "IM",
     "type": "Seminar",
@@ -25,8 +25,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 20,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 20,
+            "priority": "high"
         }
     }
 }

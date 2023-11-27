@@ -7,7 +7,9 @@
             "restricted_to_majors": "first-year students and sophomores, or literature and proposed literature majors and literature minors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to first-year students and sophomores, or literature and proposed literature majors and literature minors.",
         "courses": [

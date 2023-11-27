@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ENVS 115A, ENVS 100, and ENVS 100L. A previous course in computer science, Earth science, mathematics, or geography is recommended.",
         "courses": [
             [
-                "P ENVS 115A ENVS 100"
+                "ENVS 115A ENVS 100"
             ],
             [
                 "ENVS 100L A      E"
@@ -30,8 +32,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 35,
+            "priority": "high"
         }
     }
 }

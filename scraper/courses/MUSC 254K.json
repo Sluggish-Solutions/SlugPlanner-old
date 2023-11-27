@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is  restricted to graduate students.",
-        "courses": [
-            [
-                "E"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",

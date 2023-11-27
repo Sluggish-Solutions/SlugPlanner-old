@@ -7,7 +7,9 @@
             "restricted_to_majors": "neuroscience majors and proposed majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 125. Enrollment is restricted to neuroscience majors and proposed majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 70,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 49,
+            "priority": "low"
         }
     }
 }

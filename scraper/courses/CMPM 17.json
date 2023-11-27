@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in lab and associated discussion section. Please contact the instructor for permission to enroll.",
     "career": "Undergraduate",
@@ -27,7 +27,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 0,
-            "filled seats": 34,
+            "filled seats": 35,
             "priority": "unavailible"
         },
         "spring": {
@@ -36,9 +36,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 27,
+            "filled seats": 29,
+            "priority": "high"
         }
     }
 }

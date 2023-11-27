@@ -4,15 +4,15 @@
     "description": "Expands 3D art and design principles, methodologies, process, and skills via structured projects using 3D printers and modeling. The metal-fabrication shop and the woodshop allow students to prototype and experiment with construction methods and materials used to develop assignments. The course is structured around assignments that develop critical thinking, individual industry, research skills, creative expressiveness, and class participation. Students are billed a materials fee of $120. (Formerly 3D Art and Design: Printing and Prototyping.)\n May be repeated for credit.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "art majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "One course from ART 20H, ART 20K, ART 101, ART 102, ART 103, ART 106E, ART 108, ART 180B, ART 183, ART 184, ART 188; and two courses from ART 15, ART 20G, ART 20I, ART 20J, ART 20L, ART 26. Enrollment is restricted to art majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

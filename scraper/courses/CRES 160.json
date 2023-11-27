@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CRES 10.",
         "courses": [
             [
-                "P CRES 10"
+                "CRES 10"
             ]
         ]
     },
@@ -33,7 +35,7 @@
         },
         "winter": {
             "total_seats": 35,
-            "filled seats": 0,
+            "filled seats": 6,
             "priority": "very low"
         }
     }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EART 110B. Concurrent enrollment in EART 130L is required.",
         "courses": [
             [
-                "P EART 110B C   EART 130L"
+                "EART 110B C   EART 130L"
             ]
         ]
     },

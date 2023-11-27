@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "We will read Plato?s Apology of Socrates in the original ancient Greek with attention to grammar, syntax, and rhetorical figures. The historical context (the Peloponnesian War, the Sophists and the ?New Learning?), the Athenian court system, and the afterlife of the Apology (e.g., in Martin Luther King Jr.?s ?Letter from Birmingham Jail?) will be explored. This course is the third in a three-course sequence and is intended for students who have taken both Greek 1 and Greek 2 or the equivalent with the instructor?s approval",
     "career": "Undergraduate",

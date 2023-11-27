@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19B or MATH 11B or AM 11B or ECON 11B.",
         "courses": [
             [
-                "P MATH 19B",
+                "MATH 19B",
                 "MATH 11B",
                 "AM 11B",
                 "ECON 11B"

@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "SPRING 2023 TOPIC - - The Heroic Epic: Milton and the Ancients - - In this class, we will be reading John Milton's epic poem, Paradise Lost, and using it as a lens through which to study the genre of epic. Milton's role as an author, reader, and critic of the epic form offers a unique vantage point from which to study classical epic as a genre. Paradise Lost is a poem that simultaneously acts as the canonical English epic while defining itself in relation to the epic tradition that came before it. We will be challenging the idea of what makes an epic \"heroic\" and investigating Milton?s intervention into the legacy of the epic genre. We will read almost the entirety of Paradise Lost together as a class. We will also be reading selections from classical epics, including Homer's Iliad and Odyssey, and Virgil?s Aeneid.",
     "career": "Undergraduate",

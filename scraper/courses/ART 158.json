@@ -7,7 +7,9 @@
             "restricted_to_majors": "art majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ART 156; and one course from ART 150, ART 152A, ART 152C, ART 153, ART 154A, ART 154B, ART 154C or ART 159. Enrollment is restricted to art majors.",
         "courses": [

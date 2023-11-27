@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "This section of ECE 183/293 is titled \"Brain-Inspired Machine Learning\". Students will learn how neuroscience can be harnessed to build ultra-efficient machine learning models in both software and hardware. Topics include the neural code, deep learning, spiking neural networks, and AI hardware accelerators. Students will become proficient in PyTorch, snnTorch, and Verilog. Taught in conjunction with ECE 183-01.",
     "career": "Graduate",

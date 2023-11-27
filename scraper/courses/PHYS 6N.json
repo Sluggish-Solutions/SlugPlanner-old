@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 6A and PHYS 6L or PHYS 5A and PHYS 5L; previous or concurrent enrollment in PHYS 6C; PHYS 6B and PHYS 6M are recommended.",
         "courses": [
             [
-                "P PHYS 6A"
+                "PHYS 6A"
             ],
             [
                 "PHYS 6L",

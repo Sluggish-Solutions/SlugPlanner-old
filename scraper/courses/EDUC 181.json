@@ -4,15 +4,15 @@
     "description": "Examines the schooling experience and educational attainment of racial/ethnic minority students in the U.S. Focuses primarily on domestic minorities. Addresses issues of variability between and within minority groups and the role of cultural, structural, and psychological factors in the educational attainment of these students.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

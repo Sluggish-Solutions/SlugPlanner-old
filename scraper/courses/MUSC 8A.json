@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -27,7 +27,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 40,
-            "filled seats": 7,
+            "filled seats": 8,
             "priority": "very low"
         },
         "spring": {

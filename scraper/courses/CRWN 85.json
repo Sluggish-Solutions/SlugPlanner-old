@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to College Scholars Program students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "OPEN TO ALL this Fall 2023 - This class is open to ALL students (including all non-CSP students) for Fall 2023.",
     "career": "Undergraduate",

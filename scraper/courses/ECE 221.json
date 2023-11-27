@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): course ECE 171 or equivalent; ECE 178 or equivalent recommended.",
         "courses": [
             [
-                "P  ECE 171"
+                "ECE 171"
             ],
             [
                 "ECE 178"

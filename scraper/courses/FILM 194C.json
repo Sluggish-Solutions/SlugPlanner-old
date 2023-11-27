@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior film and digital media majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): FILM 120. Enrollment is restricted to senior film and digital media majors.",
         "courses": [

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 12; previous or concurrent enrollment in CSE 100 is required.",
         "courses": [
             [
-                "P CSE 12"
+                "CSE 12"
             ],
             [
                 "CSE 100"
@@ -37,13 +39,13 @@
         },
         "spring": {
             "total_seats": 0,
-            "filled seats": 104,
+            "filled seats": 103,
             "priority": "unavailible"
         },
         "winter": {
             "total_seats": 80,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 80,
+            "priority": "high"
         }
     }
 }

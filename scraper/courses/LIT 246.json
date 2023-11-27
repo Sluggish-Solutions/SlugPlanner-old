@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "*********From Holocaust to SciFi: Primo Levi Between Life and Literature*********** Primo Levi is one of the most brilliant writers of the past century: a chemist, a Holocaust Survivor committed to testimony and civic activism, a poet, and SciFi author. In his work, Levi was able to explore the overlapping boundaries of science and literature, while documenting and exploring the horrific experience of the concentration camp with lucidity and intellectual freedom rarely achieved by other Holocaust writers. His peculiar interdisciplinary formation, combined with his remarkable life and creative journey, informs his genre-defying literature. Levi?s unconventional literary production well reflects the richness of his multifaceted and conflicting identity of Italian Jews who came to age under Fascism. As research scholarship has increasingly pointed out, moreover, Levi?s reflection treads a very fine line between rationalism and themes that forerun post-humanism. This course will explore some of Levi?s key works, situating them in the broader historical context that of Holocaust literature, while focusing on some of the author?s more daring literary experimentations. This course is open to anyone interested in such a remarkable and still little-studied writer and intellectual of the twentieth century. ******Main works: The Periodic Table If This is a Man A selection from his Short Stories A selection from the Drowned and the Saved********",
     "career": "Graduate",

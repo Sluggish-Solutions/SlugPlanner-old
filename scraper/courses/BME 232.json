@@ -6,16 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students. BME 105 or BIOL 105 or equivalent courses in higher-level genetic processes are highly recommended.",
-        "courses": [
-            [
-                "BME 105",
-                "BIOL 105"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Taught in conjuction with BME 132.",
     "career": "Graduate",

@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior anthropology and  Earth sciences/Anthropology combined majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ANTH 1, ANTH 2, and ANTH 3, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and  Earth sciences/Anthropology combined majors.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 16,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 12,
+            "priority": "low"
         }
     }
 }

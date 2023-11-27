@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175 is required.",
         "courses": [
             [
-                "P ECE 101 C   ECE 175"
+                "ECE 101 C   ECE 175"
             ]
         ]
     },

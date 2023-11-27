@@ -4,15 +4,15 @@
     "description": "Explores China's rising international power and the implications thereof. Special emphasis on China's interactions with the United States and related issues (Korea, Taiwan, the South China Sea). Also addresses China's dealings with South Asia, Southeast Asia, Africa, Japan, international organizations, and more. (Formerly Foreign Relations of China.)",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "politics and politics/Latin America and Latino studies combined majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to politics and politics/Latin America and Latino studies combined majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

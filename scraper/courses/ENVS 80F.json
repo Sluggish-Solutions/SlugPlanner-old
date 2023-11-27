@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "You are required to attend 1 section per week. Sections occur on campus, across the Center for Agroecology facilities, Farm, Gardens, Pop-Up Pantries, Kitchens. Students are assigned locations the week classes begin.",
     "career": "Undergraduate",

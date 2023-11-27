@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 105; and CSE 20 or ASTR 119 or PHYS 115 or prior programming experience with permission of instructor. Corequisite: PHYS 112.",
         "courses": [
             [
-                "P PHYS 105"
+                "PHYS 105"
             ],
             [
                 "CSE 20",
@@ -38,9 +40,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 24,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 20,
+            "filled seats": 12,
+            "priority": "low"
         }
     }
 }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "community studies majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, CMMU 105A, CMMU 105B, and CMMU 105C. Enrollment is restricted to community studies majors.",
         "courses": [
@@ -24,9 +26,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 50,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 30,
+            "filled seats": 19,
+            "priority": "low"
         }
     }
 }

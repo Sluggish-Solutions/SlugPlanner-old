@@ -7,7 +7,9 @@
             "restricted_to_majors": "senior cognitive science or psychology majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PSYC 1 and PSYC 100, and PSYC 20A or PSYC 20B or PSYC 105; and satisfaction of the Entry Level Writing and Composition requirements.  Enrollment is restricted to senior cognitive science or psychology majors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 0,
-            "filled seats": 0,
+            "filled seats": 17,
             "priority": "unavailible"
         }
     }

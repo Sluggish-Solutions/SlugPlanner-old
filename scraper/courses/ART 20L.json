@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Enroll in studio and associated secondary studio.",
     "career": "Undergraduate",
@@ -26,13 +26,13 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 200,
-            "filled seats": 189,
+            "filled seats": 188,
             "priority": "high"
         },
         "winter": {
             "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 150,
+            "priority": "high"
         }
     }
 }

@@ -4,15 +4,15 @@
     "description": "Introduces students to the fundamental principles of three-dimensional art and design through basic concepts, techniques, and technical practice. Focuses on three-dimensional art and the design fundamentals of sculpture, public art, architecture, and the industrial-design process and production. This course is a hybrid studio/lecture.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "art majors during first-pass enrollment; restrictions lifted after first pass.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to art majors during first-pass enrollment; restrictions lifted after first pass.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and secondary studio section. Enrollment restricted to declared and proposed Art majors during first pass; enrollment restrictions lifted for second pass.",
     "career": "Undergraduate",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 250,
-            "filled seats": 0,
+            "filled seats": 99,
             "priority": "very low"
         }
     }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 90,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 141 or ECE 241 or ECE 242; and CSE 30 or ECE 13 or CSE 13E or CSE 13S. ECE 121, ECE 167, and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.",
         "courses": [
@@ -25,7 +27,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 90,
-            "filled seats": 0,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19B or MATH 20B. Concurrent enrollment in PHYS 5N is required.",
         "courses": [
             [
-                "P PHYS 5A"
+                "PHYS 5A"
             ],
             [
                 "PHYS 5L"
@@ -39,9 +41,9 @@
             "priority": "moderate"
         },
         "winter": {
-            "total_seats": 190,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 210,
+            "filled seats": 179,
+            "priority": "high"
         }
     }
 }

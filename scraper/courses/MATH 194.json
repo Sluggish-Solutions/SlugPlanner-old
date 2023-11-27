@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements;  MATH 103A or MATH 105A or MATH 110 or MATH 111A or MATH 111T or MATH 117. Enrollment priority is given to seniors; juniors may request permission from the undergraduate vice chair.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "C"
@@ -50,9 +52,9 @@
             "priority": "low"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 20,
+            "filled seats": 17,
+            "priority": "moderate"
         }
     }
 }

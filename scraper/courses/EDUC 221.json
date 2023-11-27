@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 200,
-            "upper_credits_limit": 5
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to MA/credential students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Class meets at DeLavaga. Times may vary each week. See Instructor for class calendar and room location.",
     "career": "Graduate",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 1,
             "priority": "very low"
         }
     }

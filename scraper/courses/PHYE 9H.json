@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "First meeting held at East Field House outside the main entrance to the building. Participants must be able to swim. Please attend the first meeting even if online enrollment indicates class is full.",
     "career": "Undergraduate",
@@ -37,8 +37,8 @@
         },
         "winter": {
             "total_seats": 24,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 21,
+            "priority": "high"
         }
     }
 }

@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MUSC 55, or by permission of instructor.",
         "courses": [
             [
-                "P MUSC 55"
+                "MUSC 55"
             ]
         ]
     },
@@ -33,7 +35,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 3,
             "priority": "very low"
         }
     }

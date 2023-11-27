@@ -7,7 +7,9 @@
             "restricted_to_majors": "chemistry majors, minors and proposed majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHEM 8B. Enrollment is restricted to chemistry majors, minors and proposed majors.",
         "courses": [

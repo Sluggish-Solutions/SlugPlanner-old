@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOE 107, BIOE 108, BIOE 145, BIOE 155 or 159A; or ENVS 24 by permission of instructor.",
         "courses": [
             [
-                "P",
                 "BIOE 107 BIOE 108 BIOE 145 BIOE 155",
                 "159A",
                 "ENVS 24"

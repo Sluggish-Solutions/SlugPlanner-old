@@ -7,7 +7,9 @@
             "restricted_to_majors": "art & design: games and playable media and computer science: computer game design majors.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ARTG 80G,and ARTG 80I. Enrollment is restricted to art & design: games and playable media and computer science: computer game design majors.",
         "courses": [
@@ -30,9 +32,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 40,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 20,
+            "filled seats": 18,
+            "priority": "high"
         }
     }
 }

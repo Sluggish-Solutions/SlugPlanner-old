@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): JAPN 4 or by consent of instructor.",
         "courses": [
             [
-                "P JAPN 4"
+                "JAPN 4"
             ]
         ]
     },
@@ -27,7 +29,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 75,
-            "filled seats": 0,
+            "filled seats": 26,
             "priority": "very low"
         }
     }

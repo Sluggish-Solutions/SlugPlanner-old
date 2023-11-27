@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 121; previous or concurrent enrollment in CSE 185E.",
         "courses": [
             [
-                "P CSE 121"
+                "CSE 121"
             ],
             [
                 "CSE 185E"
@@ -30,8 +32,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 70,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 37,
+            "priority": "low"
         }
     }
 }

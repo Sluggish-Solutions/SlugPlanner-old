@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): EART 5 or EART 10 or EART 20, and MATH 11B or MATH 19B or AM 15B.",
         "courses": [
             [
-                "P EART 5",
+                "EART 5",
                 "EART 10",
                 "EART 20"
             ],

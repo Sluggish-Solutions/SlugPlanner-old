@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): ECE 101 and ECE 101L or consent of instructor.",
         "courses": [
             [
-                "P ECE 101"
+                "ECE 101"
             ],
             [
                 "ECE 101L"

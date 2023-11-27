@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): AM 10 or MATH 21; MATH 19B or MATH 20B.",
         "courses": [
             [
-                "P AM 10",
+                "AM 10",
                 "MATH 21"
             ],
             [

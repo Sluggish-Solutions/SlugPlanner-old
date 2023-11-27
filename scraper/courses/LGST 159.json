@@ -4,15 +4,15 @@
     "description": "Begins with an examination of the concept of property, then covers how different cultures characterize property and determine \"ownership\" and the laws and policies that define property in modern society. Topics include theories of property law, common property, property and natural resources, zoning, regulatory takings, and intellectual and cultural property",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "legal studies majors during first and second pass enrollment.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to legal studies majors during first and second pass enrollment.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

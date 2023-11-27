@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 107; or by consent of instructor.",
         "courses": [
             [
-                "P",
                 "CHIN 103",
                 "CHIN 104",
                 "CHIN 105",

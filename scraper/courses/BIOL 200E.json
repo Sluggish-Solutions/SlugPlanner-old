@@ -7,14 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Concurrent enrollment in BIOL 200A is required.",
-        "courses": [
-            [
-                "C   BIOL 200A"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Graduate",

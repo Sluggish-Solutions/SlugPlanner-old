@@ -6,13 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "**** Topic: The Premodern Requirement **** This course will approach the topic of the Premodern Requirement and the value found in studying premodern literature. This course will address the problem of periodization, special issues that arise when working with ancient sources, and how both those things can complicate our relationship to modern literature.",
     "career": "Graduate",
@@ -37,7 +37,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

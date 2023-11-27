@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C or ANTH 1. Concurrent enrollment in EART 101L is required.",
         "courses": [
             [
-                "P    E L W"
+                "E L W"
             ],
             [
                 "C"
@@ -37,7 +39,7 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 30,
-            "filled seats": 25,
+            "filled seats": 24,
             "priority": "moderate"
         }
     }

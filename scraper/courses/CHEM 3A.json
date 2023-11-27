@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): previous or concurrent enrollment in MATH 2 or higher, or a math placement (MP) score of 200 or higher. Students cannot enroll in CHEM 3A after receiving a 'C' or better in CHEM 1B.",
         "courses": [
             [
-                "P",
                 "MATH 2",
                 "MP   200",
                 "S    CHEM 3A    C",
@@ -32,13 +33,13 @@
     "quarterly_info": {
         "fall": {
             "total_seats": 732,
-            "filled seats": 727,
+            "filled seats": 728,
             "priority": "high"
         },
         "winter": {
             "total_seats": 600,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 450,
+            "priority": "low"
         }
     }
 }

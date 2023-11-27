@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.",
         "courses": [

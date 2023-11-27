@@ -7,7 +7,9 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 45
+            "upper_credits_limit": 45,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite: satisfaction of the Entry Level Writing requirement. Enrollment is restricted to first-year students, sophomores, and juniors.",
         "courses": [
@@ -37,8 +39,8 @@
         },
         "winter": {
             "total_seats": 88,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 72,
+            "priority": "moderate"
         }
     }
 }

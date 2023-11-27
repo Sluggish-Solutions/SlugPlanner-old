@@ -4,15 +4,15 @@
     "description": "Introduces students to the fundamental principles of four-dimensional/time-based art and design through basic concepts, techniques, and technical practices. Computers and video, photo, sound, and lighting equipment are used to create short-form, time-based work. This course is a hybrid studio/lecture.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "proposed and declared ART majors during first-pass enrollment; restrictions lifted after first pass.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to proposed and declared ART majors during first-pass enrollment; restrictions lifted after first pass.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "Enroll in lecture and secondary studio",
     "career": "Undergraduate",

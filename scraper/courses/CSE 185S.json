@@ -7,7 +7,9 @@
             "restricted_to_majors": "computer science majors, or by permission of the instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 101, one additional upper-division CSE course, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to computer science majors, or by permission of the instructor.",
         "courses": [
@@ -37,8 +39,8 @@
         },
         "winter": {
             "total_seats": 150,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 135,
+            "priority": "high"
         }
     }
 }

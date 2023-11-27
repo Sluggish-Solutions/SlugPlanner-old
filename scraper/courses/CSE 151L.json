@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 150. Concurrent enrollment in CSE 151 is required.",
         "courses": [
             [
-                "P CSE 150 C   CSE 151"
+                "CSE 150 C   CSE 151"
             ]
         ]
     },

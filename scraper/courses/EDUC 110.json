@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): Entry-Level Writing and Composition requirements. EDUC 10 and EDUC 60. Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
         "courses": [
@@ -31,8 +33,8 @@
         },
         "winter": {
             "total_seats": 44,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 40,
+            "priority": "high"
         }
     }
 }

@@ -6,15 +6,15 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
-    "class_notes": "Auteur et cultural: Proust (French)",
+    "class_notes": "Cinema of French Imperialism (French)",
     "career": "Graduate",
     "gen_ed_code": "NULL",
     "type": "Seminar",
@@ -25,7 +25,7 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 15,
-            "filled seats": 0,
+            "filled seats": 1,
             "priority": "very low"
         }
     }

@@ -7,7 +7,9 @@
             "restricted_to_majors": "Neuroscience B.S. majors; other majors may enroll with the permission of the instructor.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 105 and BIOL 125. Enrollment is restricted to Neuroscience B.S. majors; other majors may enroll with the permission of the instructor.",
         "courses": [
@@ -34,8 +36,8 @@
         },
         "winter": {
             "total_seats": 30,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 23,
+            "priority": "moderate"
         }
     }
 }

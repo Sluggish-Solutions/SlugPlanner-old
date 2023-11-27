@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): College 1 and WRIT 26;  or College 1 and AWPE score of 2-6 or AWPE for Multilingual Students (AWPE-MLS) score of 6; or College 1 and course selection via Directed Self-Placement.",
         "courses": [
             [
-                "P",
                 [
                     "C 1",
                     "WRIT 26"
@@ -51,9 +52,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 537,
+            "filled seats": 199,
+            "priority": "very low"
         }
     }
 }

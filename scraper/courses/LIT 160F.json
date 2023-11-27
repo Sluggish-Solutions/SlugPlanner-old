@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Topic: How to write like a journalist. Journalists generally talk about two kinds of stories: hard news and features. Hard news stories make you smarter. Features make you wiser. We?ll be reading and writing both sorts in this class. We?ll also be tweeting, taking photos, experimenting with opinion pieces and learning how journalistic writing differs from academic writing. We?ll be analyzing the work of today?s professional journalists (some will visit our class) and talking about where their articles succeed and fail. The class is highly interactive. You will be reading news weekly and writing news stories about campus and the community. You will work both on your own and in teams. The professor is also the Opinion Editor at Lookout Santa Cruz and she will offer tips on pitching stories to editors, getting your work published locally and landing a first job. She might even publish one of your pieces. **** Enroll in lecture and associated secondary discussion. ****",
     "career": "Undergraduate",

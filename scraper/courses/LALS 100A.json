@@ -7,9 +7,11 @@
             "restricted_to_majors": "sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors or by permission.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "Prerequisite(s): LALS 100 and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in LALS 100L required. Enrollment is restricted to sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors or by permission.",
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in LALS 100L is required. Enrollment is restricted to sophomore, junior, and senior Latin American and Latino studies majors, minors, and combined majors or by permission.",
         "courses": [
             []
         ]

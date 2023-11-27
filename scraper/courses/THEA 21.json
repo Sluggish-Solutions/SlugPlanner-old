@@ -7,12 +7,12 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
     "class_notes": "Audition Requirements: Admission by audition on the first day of class. Please prepare one 45 - 90 second monologue. Students admitted to the class after auditioning will be given an enrollment permission number by the instructor. Questions can be addressed to the instructor:nluce@ucsc.edu",
     "career": "Undergraduate",

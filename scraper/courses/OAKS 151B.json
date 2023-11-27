@@ -7,14 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
-        "text": "",
-        "courses": [
-            []
-        ]
+        "text": "NULL",
+        "courses": []
     },
-    "class_notes": "NULL",
+    "class_notes": "To participate in this course, students must be fingerprinted by District (no cost) no later than Jan. 3 for Winter Quarter. To be fingerprinted, students must have negative TB test results in hand and must already be enrolled. For information and enrollment add-codes, e-mail instructor: Leslie Lopez,lesliel@ucsc.edu",
     "career": "Undergraduate",
     "gen_ed_code": "PR-S",
     "type": "Field Studies",
@@ -31,7 +31,7 @@
         },
         "winter": {
             "total_seats": 25,
-            "filled seats": 0,
+            "filled seats": 4,
             "priority": "very low"
         }
     }

@@ -4,15 +4,15 @@
     "description": "Practical, evidence-based strategies for maximizing learning, developing a sense of belonging, and building your identity in Earth and planetary sciences studies.This course can be taken for Pass/No Pass grading only. (Formerly Academic Success Skills.)",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "first-year proposed Earth sciences majors.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to first-year proposed Earth sciences majors.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",

@@ -4,15 +4,15 @@
     "description": "Designed to introduce history majors to historical methods and provide preparation for exit seminars. Students develop critical reading, historical analysis, research, and disciplinary writing skills.",
     "pre_req_data": {
         "conditions": {
-            "restricted_to_majors": "proposed and declared history majors, or by permission of the instructor.",
+            "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to proposed and declared history majors, or by permission of the instructor.",
-        "courses": [
-            []
-        ]
+        "courses": []
     },
     "class_notes": "NULL",
     "career": "Undergraduate",
@@ -37,7 +37,7 @@
         },
         "winter": {
             "total_seats": 40,
-            "filled seats": 0,
+            "filled seats": 18,
             "priority": "very low"
         }
     }

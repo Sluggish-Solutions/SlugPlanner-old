@@ -7,12 +7,13 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 21 or AM 10; plus one of the following series: MATH 19A and MATH 19B (strongly preferred); or MATH 11A and MATH 11B; or AM 15A and AM 15B.",
         "courses": [
             [
-                "P",
                 "MATH 21",
                 "AM 10",
                 [

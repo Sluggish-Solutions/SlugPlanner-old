@@ -7,7 +7,9 @@
             "restricted_to_majors": "junior and senior majors in physics, astrophysics, applied physics, or physics education.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): PHYS 133 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors in physics, astrophysics, applied physics, or physics education.",
         "courses": [
@@ -36,8 +38,8 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 27,
-            "filled seats": 0,
+            "total_seats": 25,
+            "filled seats": 10,
             "priority": "very low"
         }
     }

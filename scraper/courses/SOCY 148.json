@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): SOCY 3A and SOCY 3B, or by instructor permission. Enrollment restricted to junior, senior majors, proposed majors, and minors in sociology, education, global information and social enterprise, and Latin American studies/sociology combined.",
         "courses": [
             [
-                "P SOCY 3A"
+                "SOCY 3A"
             ],
             [
                 "SOCY 3B",

@@ -7,7 +7,9 @@
             "restricted_to_majors": "seniors majoring in global and community health.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): GCH 1, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors majoring in global and community health.",
         "courses": [
@@ -25,8 +27,8 @@
     "quarterly_info": {
         "winter": {
             "total_seats": 70,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 57,
+            "priority": "moderate"
         }
     }
 }

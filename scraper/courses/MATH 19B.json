@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): MATH 19A or MATH 20A or AP Calculus AB exam score of 4 or 5, or BC exam score of 3 or higher, or IB Mathematics Higher Level exam score of 5 of higher.",
         "courses": [
             [
-                "P MATH 19A",
+                "MATH 19A",
                 "MATH 20A",
                 "AP C AB    4",
                 "5",
@@ -43,9 +45,9 @@
             "priority": "high"
         },
         "winter": {
-            "total_seats": 0,
-            "filled seats": 0,
-            "priority": "unavailible"
+            "total_seats": 800,
+            "filled seats": 676,
+            "priority": "moderate"
         }
     }
 }

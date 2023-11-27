@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): courses BIOE 20B, BIOL 20A, BIOL 105, and BIOL 110.",
         "courses": [
             [
-                "P  BIOE 20B BIOL 20A BIOL 105"
+                "BIOE 20B BIOL 20A BIOL 105"
             ],
             [
                 "BIOL 110"
@@ -29,9 +31,9 @@
     ],
     "quarterly_info": {
         "winter": {
-            "total_seats": 64,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 60,
+            "filled seats": 60,
+            "priority": "high"
         }
     }
 }

@@ -6,18 +6,13 @@
         "conditions": {
             "restricted_to_majors": "",
             "erlw": false,
-            "lower_credits_limit": 180,
-            "upper_credits_limit": 500
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Enrollment is restricted to graduate students. Students should have knowledge of calculus, linear algebra, and Python programming.",
-        "courses": [
-            [
-                "S"
-            ],
-            [
-                "P"
-            ]
-        ]
+        "courses": []
     },
     "class_notes": "Taught in conjunction with BME 118.",
     "career": "Graduate",

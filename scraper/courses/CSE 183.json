@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): CSE 15 and CSE 15L, or CMPM 35, or CSE 101.",
         "courses": [
             [
-                "P CSE 15"
+                "CSE 15"
             ],
             [
                 "CSE 15L",

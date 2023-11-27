@@ -7,7 +7,9 @@
             "restricted_to_majors": "biological sciences; global and community health B.S.; human biology; and affiliated majors; biology minors; other majors by permission.",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Prerequisite(s): BIOL 110; BIOL 20L or 102J; and previous or concurrent enrollment in BIOL130 is required. Satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to biological sciences; global and community health B.S.; human biology; and affiliated majors; biology minors; other majors by permission.",
         "courses": [
@@ -36,9 +38,9 @@
             "priority": "unavailible"
         },
         "winter": {
-            "total_seats": 80,
-            "filled seats": 0,
-            "priority": "very low"
+            "total_seats": 0,
+            "filled seats": 1,
+            "priority": "unavailible"
         }
     }
 }

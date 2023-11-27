@@ -7,12 +7,14 @@
             "restricted_to_majors": "",
             "erlw": false,
             "lower_credits_limit": 0,
-            "upper_credits_limit": 500
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
         },
         "text": "Antirequisite: Students cannot enroll in STAT 5 after receiving a C or better in STAT 7.",
         "courses": [
             [
-                "A S    STAT 5    C",
+                "S    STAT 5    C",
                 "STAT 7"
             ]
         ]
@@ -40,8 +42,8 @@
         },
         "winter": {
             "total_seats": 470,
-            "filled seats": 0,
-            "priority": "very low"
+            "filled seats": 294,
+            "priority": "low"
         }
     }
 }
