@@ -43,12 +43,12 @@ def get_courses(quarter, result_dict):
     sub_butt.click()
 
     shown_per_page = Select(driver.find_element(By.ID, "rec_dur"))
-    shown_per_page.select_by_visible_text("100")
+    shown_per_page.select_by_visible_text("50")
 
     class_id_links = []
 
-    while True:
-        # for i in range(1):
+    # while True:
+    for i in range(1):
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -106,10 +106,13 @@ def get_courses(quarter, result_dict):
         description = descrip_text.get_text(strip=True) if descrip_text else ""
 
         # Pre-requisites
+        
+        pre_req_text = "NULL"
         try:
             pre_req_head = soup.find("div", string="Enrollment Requirements")
             pre_req_text = pre_req_head.find_next_sibling("div")
             pre_reqs = pre_req_text.get_text(strip=True) if pre_req_text else ""
+            pre_req_text = pre_reqs
             pre_reqs = pre_reqs[pre_reqs.index(":") + 1 :].strip()
         except:
             pre_reqs = "NULL"
@@ -134,6 +137,7 @@ def get_courses(quarter, result_dict):
                 pre_reqs=pre_reqs,
                 class_notes=class_notes,
                 quarter=quarter,
+                pre_reqs_text=pre_req_text
             )
         )
 

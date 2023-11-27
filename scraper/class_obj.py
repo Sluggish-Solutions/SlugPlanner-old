@@ -4,7 +4,7 @@ import re
 class Class_holder:
     
     # Initialize the class with relevant attributes
-    def __init__(self, name:str, title:str, class_details:list, description:str, pre_reqs:str, class_notes:str, quarter):
+    def __init__(self, name:str, pre_reqs_text:str,  title:str, class_details:list, description:str, pre_reqs:str, class_notes:str, quarter):
         self.name = name  # Department number
         self.title = title  # Class name
         self.class_details = class_details  # List of class details
@@ -12,7 +12,7 @@ class Class_holder:
         self.pre_reqs = pre_reqs  # Class prerequisites
         self.class_notes = class_notes
         self.quarter = quarter
-        self.pre_reqs_text = pre_reqs
+        self.pre_reqs_text = pre_reqs_text
         # Path for the JSON output file (unused in the provided code)
         #
         # *default path 
@@ -52,6 +52,8 @@ class Class_holder:
     # Format the class prerequisites
     def format_pre_reqs(self):
         
+        temp_main = {}
+        
         temp = {}
         
         #these variables must be defined
@@ -59,6 +61,8 @@ class Class_holder:
         temp["erlw"] = False
         temp["lower_credits_limit"] = 0
         temp["upper_credits_limit"] = 500
+        temp["College 1"] = ""
+        temp["Concurrent"] = ""
                                                                         
         #TODO 
         #Prerequisite(s): two courses from ART 10D, ART 10E, ART 10F. Enrollment is restricted to proposed art and art majors. 
@@ -107,10 +111,13 @@ class Class_holder:
             temp["erlw"] = True
             self.pre_reqs = self.pre_reqs[:self.pre_reqs.index("satisfaction of the Entry Level Writing and Composition requirements.")]
             
-            
+        
+        temp_courses = []
+        
         # Initialize a temporary variable to store the formatted prerequisites
         if self.pre_reqs == "NULL":
             pass
+        
         
         # Check if prerequisites are separated by semicolon or "or"
         elif "; or" not in self.pre_reqs:
@@ -136,7 +143,7 @@ class Class_holder:
 
             for i, req in enumerate(temp_local):
                 
-                temp[i] = req   
+                temp_courses.append(req)   
                      
         elif "; or" in self.pre_reqs:
             # Split prerequisites by "or" or ":"
@@ -151,13 +158,21 @@ class Class_holder:
                     # Remove non-alphanumeric characters and leading/trailing spaces
                     split_by_or[i] = self.re_filter(split_by_or[i])
             
-            temp[0] = split_by_or
+            temp_courses.append(split_by_or)
         
         else:
             raise Exception("need to figure this one out chief")
         
         # Update the prerequisites with the formatted data
-        self.pre_reqs = temp
+        
+        temp_main["conditions"] = temp
+        temp_main["text"] = self.pre_reqs_text
+        temp_main["courses"] = temp_courses
+        
+ 
+        
+        
+        self.pre_reqs = temp_main
     
     # Convert the class information to JSON format and write it to a file
     def format_properties(self):
