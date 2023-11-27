@@ -12,7 +12,7 @@
         "text": "Prerequisite(s): score of 200 or higher on the  mathematics placement examination (MPE), or MATH 2.",
         "courses": [
             [
-                "P   200",
+                "MPE 200",
                 "MATH 2"
             ]
         ]
