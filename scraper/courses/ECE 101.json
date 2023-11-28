@@ -14,8 +14,11 @@
         "text": "Prerequisite(s): PHYS 5C and PHYS 5N; or PHYS 6C and PHYS 6N; and MATH 24 or previous or concurrent enrollment in AM 20. Concurrent enrollment in ECE 101L is required.",
         "courses": [
             [
+                ["PHYS 5C", "PHYS 5N"],
+                ["PHYS 6C", "PHYS 6N"]
                 
-            ]
+            ],
+            ["MATH 24" , "MATH 20"]
         ]
     },
     "class_notes": "Concurrent enrollment in ECE 101L is required.",
