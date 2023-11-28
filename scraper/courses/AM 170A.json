@@ -5,7 +5,7 @@
     "pre_req_data": {
         "conditions": {
             "restricted_to_majors": "",
-            "erlw": false,
+            "erlw": true,
             "lower_credits_limit": 180,
             "upper_credits_limit": 500,
             "College 1": "",
@@ -13,7 +13,9 @@
         },
         "text": "Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. AM 30, and AM 114 or AM 214, and STAT 131 or CSE 107, or by permission of the instructor. Enrollment is restricted to juniors and seniors; graduate students may apply by permission of the instructor.",
         "courses": [
-            []
+            ["AM 30"],
+            ["AM 214" , "AM 114"],
+            ["STAT 131", "CSE 107"]
         ]
     },
     "class_notes": "NULL",

@@ -14,7 +14,7 @@
         "text": "Prerequisite(s): score of 400 or higher on the  mathematics placement examination (MPE)  or MATH 3.",
         "courses": [
             [
-                "400",
+                "MPE 400",
                 "MATH 3"
             ]
         ]

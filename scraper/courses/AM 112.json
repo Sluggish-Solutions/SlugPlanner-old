@@ -13,7 +13,9 @@
         },
         "text": "Prerequisite(s): AM 100 or by permission of the instructor. Enrollment is restricted to juniors and seniors.",
         "courses": [
-            []
+            [
+                "AM 100"
+            ]
         ]
     },
     "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction with AM 212A.",

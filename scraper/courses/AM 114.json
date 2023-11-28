@@ -1,34 +1,30 @@
 {
-    "name": "AM 114",
-    "title": "Introduction to Dynamical Systems",
-    "description": "Introduces continuous and discrete dynamical systems. Topics include: fixed points; stability; limit cycles; bifurcations; transition to and characterization of chaos; fractals. Examples are drawn from sciences and engineering. Students cannot receive credit for this course and AM 214 or MATH 145. (Formerly AMS 114.)",
-    "pre_req_data": {
-        "conditions": {
-            "restricted_to_majors": "",
-            "erlw": false,
-            "lower_credits_limit": 90,
-            "upper_credits_limit": 500,
-            "College 1": "",
-            "Concurrent": ""
-        },
-        "text": "Prerequisite(s): AM 20; or MATH 21 and MATH 24; or PHYS 116A. Enrollment is restricted to sophomores, juniors and seniors.",
-        "courses": [
-            []
-        ]
+  "name": "AM 114",
+  "title": "Introduction to Dynamical Systems",
+  "description": "Introduces continuous and discrete dynamical systems. Topics include: fixed points; stability; limit cycles; bifurcations; transition to and characterization of chaos; fractals. Examples are drawn from sciences and engineering. Students cannot receive credit for this course and AM 214 or MATH 145. (Formerly AMS 114.)",
+  "pre_req_data": {
+    "conditions": {
+      "restricted_to_majors": "",
+      "erlw": false,
+      "lower_credits_limit": 45,
+      "upper_credits_limit": 500,
+      "College 1": "",
+      "Concurrent": ""
     },
-    "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction with AM 214.",
-    "career": "Undergraduate",
-    "gen_ed_code": "MF",
-    "type": "Lecture",
-    "credits": "5",
-    "quarters_offered": [
-        "fall"
-    ],
-    "quarterly_info": {
-        "fall": {
-            "total_seats": 76,
-            "filled seats": 71,
-            "priority": "high"
-        }
+    "text": "Prerequisite(s): AM 20; or MATH 21 and MATH 24; or PHYS 116A. Enrollment is restricted to sophomores, juniors and seniors.",
+    "courses": [["AM 20", ["MATH 21", "MATH 24"], "PHYS 116A"]]
+  },
+  "class_notes": "Enroll in lecture and associated discussion section. Taught in conjunction with AM 214.",
+  "career": "Undergraduate",
+  "gen_ed_code": "MF",
+  "type": "Lecture",
+  "credits": "5",
+  "quarters_offered": ["fall"],
+  "quarterly_info": {
+    "fall": {
+      "total_seats": 76,
+      "filled seats": 71,
+      "priority": "high"
     }
+  }
 }
