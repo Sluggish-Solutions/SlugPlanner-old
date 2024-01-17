@@ -7,7 +7,7 @@
     import { Button } from "$lib/components/ui/button";
   import UserAuthForm from "$lib/components/user-auth-logout-form.svelte";
 </script>
-
+<!-- text -->
 <!-- <div class="md:hidden">
 	<img
 		src="/examples/authentication-light.png"
